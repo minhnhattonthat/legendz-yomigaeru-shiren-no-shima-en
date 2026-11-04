@@ -1,7 +1,7 @@
-# <Game title> English translation
+# Legendz: Yomigaeru Shiren no Shima English translation
 
-Unofficial English fan translation of **<Game title>** (<platform>, <publisher>, <year>): the source text and tools
-that build the patch.
+Unofficial English fan translation of **Legendz: Yomigaeru Shiren no Shima** (Game Boy Advance, Bandai, 2004): the
+source text and tools that build the patch.
 
 **Just want to play?** Download the patch from [Releases](../../releases) and follow its README. This repository holds
 no game data you can play; you need your own dump of the Japanese game.

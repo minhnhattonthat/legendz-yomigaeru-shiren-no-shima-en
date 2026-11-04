@@ -1,13 +1,14 @@
-# Glossary - <Game title>
+# Glossary - Legendz: Yomigaeru Shiren no Shima
 
 Binding for every translator and reviewer. Agents propose additions in reports; only the controller edits this file.
 
 ## Rulings (asked of the user once; options and reasons in docs/decisions.md)
-- Honorifics: <kept, hyphenated (Johannes-san) | dropped>. Name order: <JP | Western>.
-- Romanisation source: <official art / anime / Hepburn>.
-- Credits: <stay kanji | English>.
-- Register / flavour: <e.g. keep light JP flavour>. Sound effects: <*Slam!*>.
-- Abbreviations: <default: full names and terms everywhere, prefer engine changes over shortening>.
+- Honorifics: kept, hyphenated (Johannes-san). Name order: Western (given name first).
+- Romanisation source: official English names where they exist, else an earlier fan patch (none found), else Hepburn without macrons.
+- Credits: English.
+- Register / flavour: <set in phase 6>. Sound effects: <*Slam!*>.
+- Abbreviations: full names and terms everywhere, prefer engine changes over shortening.
+- Series name: Legendz (レジェンズ), the spelling in the game's header and copyright line.
 
 ## Style rules
 - Punctuation map: 「」 -> "...", 『』 -> '...', ・・・ -> ..., ！？ -> !?, <more>.
