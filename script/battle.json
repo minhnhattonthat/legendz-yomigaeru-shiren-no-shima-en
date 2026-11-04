@@ -1,0 +1,2107 @@
+[
+ {
+  "id": "23C3E6",
+  "end": "23C3F6",
+  "owners": [
+   "tab:7F330C"
+  ],
+  "jp": "バトル勝利‼‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C3F6",
+  "end": "23C40E",
+  "owners": [
+   "tab:7F3310"
+  ],
+  "jp": "火のシフトエレメント‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C40E",
+  "end": "23C426",
+  "owners": [
+   "tab:7F3314"
+  ],
+  "jp": "風のシフトエレメント‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C426",
+  "end": "23C43E",
+  "owners": [
+   "tab:7F3318"
+  ],
+  "jp": "水のシフトエレメント‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C43E",
+  "end": "23C456",
+  "owners": [
+   "tab:7F331C"
+  ],
+  "jp": "土のシフトエレメント‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C456",
+  "end": "23C46E",
+  "owners": [
+   "tab:7F3320"
+  ],
+  "jp": "光のシフトエレメント‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C46E",
+  "end": "23C486",
+  "owners": [
+   "tab:7F3324"
+  ],
+  "jp": "闇のシフトエレメント‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C486",
+  "end": "23C49E",
+  "owners": [
+   "tab:7F3328"
+  ],
+  "jp": "無のシフトエレメント‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C49E",
+  "end": "23C4AE",
+  "owners": [
+   "tab:7F332C"
+  ],
+  "jp": "火の追加効果‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C4AE",
+  "end": "23C4C0",
+  "owners": [
+   "tab:7F3330"
+  ],
+  "jp": "火の追加効果‼‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C4C0",
+  "end": "23C4D0",
+  "owners": [
+   "tab:7F3334"
+  ],
+  "jp": "風の追加効果‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C4D0",
+  "end": "23C4E2",
+  "owners": [
+   "tab:7F3338"
+  ],
+  "jp": "風の追加効果‼‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C4E2",
+  "end": "23C4F2",
+  "owners": [
+   "tab:7F333C"
+  ],
+  "jp": "水の追加効果‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C4F2",
+  "end": "23C504",
+  "owners": [
+   "tab:7F3340"
+  ],
+  "jp": "水の追加効果‼‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C504",
+  "end": "23C514",
+  "owners": [
+   "tab:7F3344"
+  ],
+  "jp": "土の追加効果‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C514",
+  "end": "23C526",
+  "owners": [
+   "tab:7F3348"
+  ],
+  "jp": "土の追加効果‼‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C526",
+  "end": "23C536",
+  "owners": [
+   "tab:7F334C"
+  ],
+  "jp": "光の追加効果‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C536",
+  "end": "23C548",
+  "owners": [
+   "tab:7F3350"
+  ],
+  "jp": "光の追加効果‼‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C548",
+  "end": "23C558",
+  "owners": [
+   "tab:7F3354"
+  ],
+  "jp": "闇の追加効果‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C558",
+  "end": "23C56A",
+  "owners": [
+   "tab:7F3358"
+  ],
+  "jp": "闇の追加効果‼‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C56A",
+  "end": "23C57A",
+  "owners": [
+   "tab:7F335C"
+  ],
+  "jp": "サポート効果‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C57A",
+  "end": "23C586",
+  "owners": [
+   "tab:7F3360"
+  ],
+  "jp": "[FFEB]の攻撃‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C586",
+  "end": "23C596",
+  "owners": [
+   "tab:7F3364"
+  ],
+  "jp": "レベルアップ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C596",
+  "end": "23C5A8",
+  "owners": [
+   "op120:000FC0",
+   "op120:000FE8",
+   "tab:7F3368"
+  ],
+  "jp": "つうしんエラー‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C5A8",
+  "end": "23C5B4",
+  "owners": [
+   "tab:7F336C"
+  ],
+  "jp": "いけ‼[FFEC]‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C5B4",
+  "end": "23C5C2",
+  "owners": [
+   "tab:7F3370"
+  ],
+  "jp": "カウンター‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C5C2",
+  "end": "23C5D6",
+  "owners": [
+   "tab:7F3374"
+  ],
+  "jp": "敵の攻撃しっぱい‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C5D6",
+  "end": "23C5E6",
+  "owners": [
+   "tab:7F3378"
+  ],
+  "jp": "[FFEC]の攻撃ミス‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C5E6",
+  "end": "23C5F8",
+  "owners": [
+   "tab:7F337C"
+  ],
+  "jp": "防御技がはつ動‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C5F8",
+  "end": "23C60C",
+  "owners": [
+   "tab:7F3380"
+  ],
+  "jp": "[FFEB]は混乱している‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C60C",
+  "end": "23C61E",
+  "owners": [
+   "tab:7F3384"
+  ],
+  "jp": "敵のいれかわり‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C61E",
+  "end": "23C634",
+  "owners": [
+   "tab:7F3388"
+  ],
+  "jp": "EXP　[FFC4]かくとく‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C634",
+  "end": "23C64C",
+  "owners": [
+   "op120:000D0C",
+   "tab:7F338C"
+  ],
+  "jp": "バトルにやぶれた・・・<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C64C",
+  "end": "23C658",
+  "owners": [
+   "tab:7F3390"
+  ],
+  "jp": "しかえし‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C658",
+  "end": "23C66E",
+  "owners": [
+   "tab:7F3394"
+  ],
+  "jp": "[FFEC]は攻撃手段がない‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C66E",
+  "end": "23C684",
+  "owners": [
+   "tab:7F3398"
+  ],
+  "jp": "[FFEB]は攻撃手段がない‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C684",
+  "end": "23C698",
+  "owners": [
+   "tab:7F339C"
+  ],
+  "jp": "[FFEC]は防御のかまえ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C698",
+  "end": "23C6AC",
+  "owners": [
+   "tab:7F33A0"
+  ],
+  "jp": "[FFEB]は防御のかまえ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C6AC",
+  "end": "23C6BA",
+  "owners": [
+   "tab:7F33A4"
+  ],
+  "jp": "[FFEC]は動けない<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C6BA",
+  "end": "23C6C8",
+  "owners": [
+   "tab:7F33A8"
+  ],
+  "jp": "[FFEB]は動けない<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C6C8",
+  "end": "23C6DA",
+  "owners": [
+   "tab:7F33AC"
+  ],
+  "jp": "[FFEC]は眠っている‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C6DA",
+  "end": "23C6EC",
+  "owners": [
+   "tab:7F33B0"
+  ],
+  "jp": "[FFEB]は眠っている‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C6EC",
+  "end": "23C700",
+  "owners": [
+   "tab:7F33B4"
+  ],
+  "jp": "[FFEC]はマヒしている‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C700",
+  "end": "23C714",
+  "owners": [
+   "tab:7F33B8"
+  ],
+  "jp": "[FFEB]はマヒしている‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C714",
+  "end": "23C728",
+  "owners": [
+   "tab:7F33BC"
+  ],
+  "jp": "[FFEC]は石化している‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C728",
+  "end": "23C73C",
+  "owners": [
+   "tab:7F33C0"
+  ],
+  "jp": "[FFEB]は石化している‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C73C",
+  "end": "23C750",
+  "owners": [
+   "tab:7F33C4"
+  ],
+  "jp": "[FFEC]は混乱している‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C750",
+  "end": "23C766",
+  "owners": [
+   "tab:7F33C8"
+  ],
+  "jp": "[FFEC]はにげきれた・・・<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C766",
+  "end": "23C77A",
+  "owners": [
+   "tab:7F33CC"
+  ],
+  "jp": "[FFEC]は混乱している‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C77A",
+  "end": "23C78E",
+  "owners": [
+   "tab:7F33D0"
+  ],
+  "jp": "[FFEB]は混乱している‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C78E",
+  "end": "23C79E",
+  "owners": [
+   "tab:7F33D4"
+  ],
+  "jp": "[FFEB]の攻撃ミス‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C79E",
+  "end": "23C7B2",
+  "owners": [
+   "tab:7F33D8"
+  ],
+  "jp": "[FFED]はヨワそうだぞ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C7B2",
+  "end": "23C7D0",
+  "owners": [
+   "tab:7F33DC"
+  ],
+  "jp": "いいしょうぶになりそうだぞ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C7D0",
+  "end": "23C7E2",
+  "owners": [
+   "tab:7F33E0"
+  ],
+  "jp": "[FFED]は手ごわいぞ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C7E2",
+  "end": "23C7F0",
+  "owners": [
+   "tab:7F33E4"
+  ],
+  "jp": "キミの勝利‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C7F0",
+  "end": "23C800",
+  "owners": [
+   "op120:000CE6",
+   "tab:7F33E8"
+  ],
+  "jp": "キミのまけだ…<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C800",
+  "end": "23C818",
+  "owners": [
+   "tab:7F33EC"
+  ],
+  "jp": "[FFED]はこうさんしてきた‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C818",
+  "end": "23C82E",
+  "owners": [
+   "op120:000D30",
+   "tab:7F33F0"
+  ],
+  "jp": "キミはこうさんした…<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C82E",
+  "end": "23C830",
+  "owners": [
+   "tab:7F33F4"
+  ],
+  "jp": "<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C830",
+  "end": "23C832",
+  "owners": [
+   "tab:7F33F8"
+  ],
+  "jp": "<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C832",
+  "end": "23C834",
+  "owners": [
+   "tab:7F33FC"
+  ],
+  "jp": "<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C834",
+  "end": "23C836",
+  "owners": [
+   "tab:7F3400"
+  ],
+  "jp": "<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C872",
+  "end": "23C87C",
+  "owners": [
+   "tab:7F3404"
+  ],
+  "jp": "[FFEB]出現‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C87C",
+  "end": "23C888",
+  "owners": [
+   "tab:7F3408"
+  ],
+  "jp": "ダメージ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C888",
+  "end": "23C890",
+  "owners": [
+   "tab:7F340C"
+  ],
+  "jp": "回復‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C890",
+  "end": "23C8A0",
+  "owners": [
+   "tab:7F3410"
+  ],
+  "jp": "MP　[FFE9]回復‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C8A0",
+  "end": "23C8B4",
+  "owners": [
+   "tab:7F3414"
+  ],
+  "jp": "シフトE　[FFE9]回復‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C8B4",
+  "end": "23C8BC",
+  "owners": [
+   "tab:7F3418"
+  ],
+  "jp": "自爆‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C8BC",
+  "end": "23C8CA",
+  "owners": [
+   "tab:7F341C"
+  ],
+  "jp": "カウンター‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C8CA",
+  "end": "23C8DE",
+  "owners": [
+   "tab:7F3420"
+  ],
+  "jp": "属性効果バッチリ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C8DE",
+  "end": "23C8F2",
+  "owners": [
+   "tab:7F3424"
+  ],
+  "jp": "属性効果イマイチ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C8F2",
+  "end": "23C902",
+  "owners": [
+   "tab:7F3428"
+  ],
+  "jp": "クリティカル‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C902",
+  "end": "23C914",
+  "owners": [
+   "tab:7F342C"
+  ],
+  "jp": "[FFEC]は眠っている‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C914",
+  "end": "23C924",
+  "owners": [
+   "tab:7F3430"
+  ],
+  "jp": "[FFEC]はめざめた‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C924",
+  "end": "23C938",
+  "owners": [
+   "tab:7F3434"
+  ],
+  "jp": "[FFEC]はマヒしている‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C938",
+  "end": "23C94C",
+  "owners": [
+   "tab:7F3438"
+  ],
+  "jp": "[FFEC]のマヒが解けた‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C94C",
+  "end": "23C960",
+  "owners": [
+   "tab:7F343C"
+  ],
+  "jp": "[FFEC]は混乱している‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C960",
+  "end": "23C976",
+  "owners": [
+   "tab:7F3440"
+  ],
+  "jp": "[FFEC]の混乱が治まった‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C976",
+  "end": "23C98C",
+  "owners": [
+   "tab:7F3444"
+  ],
+  "jp": "[FFEC]は毒を受けている‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C98C",
+  "end": "23C99E",
+  "owners": [
+   "tab:7F3448"
+  ],
+  "jp": "[FFEC]の毒が抜けた‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C99E",
+  "end": "23C9B2",
+  "owners": [
+   "tab:7F344C"
+  ],
+  "jp": "[FFEC]は石化している‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C9B2",
+  "end": "23C9C6",
+  "owners": [
+   "tab:7F3450"
+  ],
+  "jp": "[FFEC]の石化が解けた‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C9C6",
+  "end": "23C9DA",
+  "owners": [
+   "tab:7F3454"
+  ],
+  "jp": "[FFEC]の封印が解けた‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C9DA",
+  "end": "23C9F4",
+  "owners": [
+   "tab:7F3458"
+  ],
+  "jp": "打撃技を封印されている‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C9F4",
+  "end": "23CA0E",
+  "owners": [
+   "tab:7F345C"
+  ],
+  "jp": "魔法技を封印されている‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CA0E",
+  "end": "23CA2E",
+  "owners": [
+   "tab:7F3460"
+  ],
+  "jp": "サポート効果を封印されている‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CA2E",
+  "end": "23CA4A",
+  "owners": [
+   "tab:7F3464"
+  ],
+  "jp": "シフトEを封印されている‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CA4A",
+  "end": "23CA5E",
+  "owners": [
+   "tab:7F3468"
+  ],
+  "jp": "[FFEC]の状態異常回復‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CA5E",
+  "end": "23CA72",
+  "owners": [
+   "tab:7F346C"
+  ],
+  "jp": "[FFEC]は瀕死から回復‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CA72",
+  "end": "23CA8A",
+  "owners": [
+   "tab:7F3470"
+  ],
+  "jp": "敵レジェンズは逃げた‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CA8A",
+  "end": "23CA98",
+  "owners": [
+   "tab:7F3474"
+  ],
+  "jp": "[FFEE]は逃げた‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CA98",
+  "end": "23CAAC",
+  "owners": [
+   "tab:7F3478"
+  ],
+  "jp": "逃げられなかった‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CAAC",
+  "end": "23CABA",
+  "owners": [
+   "tab:7F347C"
+  ],
+  "jp": "[FFEB]は倒れた‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CABA",
+  "end": "23CACC",
+  "owners": [
+   "tab:7F3480"
+  ],
+  "jp": "[FFEE]達は全減した…<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CACC",
+  "end": "23CADC",
+  "owners": [
+   "tab:7F3484"
+  ],
+  "jp": "レベルアップ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CADC",
+  "end": "23CAF4",
+  "owners": [
+   "tab:7F3488"
+  ],
+  "jp": "新しい技をひらめいた‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CAF4",
+  "end": "23CB00",
+  "owners": [
+   "tab:7F348C"
+  ],
+  "jp": "[FFEF]を入手‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CB00",
+  "end": "23CB14",
+  "owners": [
+   "tab:7F3490"
+  ],
+  "jp": "フィールドが変化‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CB14",
+  "end": "23CB32",
+  "owners": [
+   "tab:7F3494"
+  ],
+  "jp": "火のエレメントパワーMAX‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CB32",
+  "end": "23CB50",
+  "owners": [
+   "tab:7F3498"
+  ],
+  "jp": "風のエレメントパワーMAX‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CB50",
+  "end": "23CB6E",
+  "owners": [
+   "tab:7F349C"
+  ],
+  "jp": "水のエレメントパワーMAX‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CB6E",
+  "end": "23CB8C",
+  "owners": [
+   "tab:7F34A0"
+  ],
+  "jp": "土のエレメントパワーMAX‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CB8C",
+  "end": "23CBAA",
+  "owners": [
+   "tab:7F34A4"
+  ],
+  "jp": "光のエレメントパワーMAX‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CBAA",
+  "end": "23CBC8",
+  "owners": [
+   "tab:7F34A8"
+  ],
+  "jp": "闇のエレメントパワーMAX‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CBC8",
+  "end": "23CBD8",
+  "owners": [
+   "tab:7F34AC"
+  ],
+  "jp": "サポート効果‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CBD8",
+  "end": "23CBE2",
+  "owners": [
+   "tab:7F34B0"
+  ],
+  "jp": "火の力‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CBE2",
+  "end": "23CBEC",
+  "owners": [
+   "tab:7F34B4"
+  ],
+  "jp": "土の力‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CBEC",
+  "end": "23CBF6",
+  "owners": [
+   "tab:7F34B8"
+  ],
+  "jp": "風の力‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CBF6",
+  "end": "23CC00",
+  "owners": [
+   "tab:7F34BC"
+  ],
+  "jp": "水の力‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CC00",
+  "end": "23CC0A",
+  "owners": [
+   "tab:7F34C0"
+  ],
+  "jp": "光の力‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CC0A",
+  "end": "23CC14",
+  "owners": [
+   "tab:7F34C4"
+  ],
+  "jp": "闇の力‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CC14",
+  "end": "23CC1E",
+  "owners": [
+   "tab:7F34C8"
+  ],
+  "jp": "土防御‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CC1E",
+  "end": "23CC28",
+  "owners": [
+   "tab:7F34CC"
+  ],
+  "jp": "風防御‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CC28",
+  "end": "23CC32",
+  "owners": [
+   "tab:7F34D0"
+  ],
+  "jp": "水防御‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CC32",
+  "end": "23CC3C",
+  "owners": [
+   "tab:7F34D4"
+  ],
+  "jp": "火防御‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CC3C",
+  "end": "23CC46",
+  "owners": [
+   "tab:7F34D8"
+  ],
+  "jp": "闇防御‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CC46",
+  "end": "23CC54",
+  "owners": [
+   "tab:7F34DC"
+  ],
+  "jp": "至高の防御‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CC54",
+  "end": "23CC60",
+  "owners": [
+   "tab:7F34E0"
+  ],
+  "jp": "火の恵み‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CC60",
+  "end": "23CC6C",
+  "owners": [
+   "tab:7F34E4"
+  ],
+  "jp": "土の恵み‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CC6C",
+  "end": "23CC78",
+  "owners": [
+   "tab:7F34E8"
+  ],
+  "jp": "風の恵み‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CC78",
+  "end": "23CC84",
+  "owners": [
+   "tab:7F34EC"
+  ],
+  "jp": "水の恵み‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CC84",
+  "end": "23CC90",
+  "owners": [
+   "tab:7F34F0"
+  ],
+  "jp": "光の恵み‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CC90",
+  "end": "23CC9C",
+  "owners": [
+   "tab:7F34F4"
+  ],
+  "jp": "闇の恵み‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CC9C",
+  "end": "23CCA8",
+  "owners": [
+   "tab:7F34F8"
+  ],
+  "jp": "魔力UP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CCA8",
+  "end": "23CCB6",
+  "owners": [
+   "tab:7F34FC"
+  ],
+  "jp": "ちからUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CCB6",
+  "end": "23CCC4",
+  "owners": [
+   "tab:7F3500"
+  ],
+  "jp": "素早さUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CCC4",
+  "end": "23CCD2",
+  "owners": [
+   "tab:7F3504"
+  ],
+  "jp": "魔防御UP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CCD2",
+  "end": "23CCDE",
+  "owners": [
+   "tab:7F3508"
+  ],
+  "jp": "防御UP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CCDE",
+  "end": "23CCEA",
+  "owners": [
+   "tab:7F350C"
+  ],
+  "jp": "攻撃UP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CCEA",
+  "end": "23CCF6",
+  "owners": [
+   "tab:7F3510"
+  ],
+  "jp": "魔法特化‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CCF6",
+  "end": "23CD02",
+  "owners": [
+   "tab:7F3514"
+  ],
+  "jp": "打撃特化‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CD02",
+  "end": "23CD10",
+  "owners": [
+   "tab:7F3518"
+  ],
+  "jp": "素早さ特化‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CD10",
+  "end": "23CD1E",
+  "owners": [
+   "tab:7F351C"
+  ],
+  "jp": "魔防御特化‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CD1E",
+  "end": "23CD2A",
+  "owners": [
+   "tab:7F3520"
+  ],
+  "jp": "防御特化‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CD2A",
+  "end": "23CD36",
+  "owners": [
+   "tab:7F3524"
+  ],
+  "jp": "攻撃特化‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CD36",
+  "end": "23CD46",
+  "owners": [
+   "tab:7F3528"
+  ],
+  "jp": "魔法マスター‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CD46",
+  "end": "23CD58",
+  "owners": [
+   "tab:7F352C"
+  ],
+  "jp": "ちからマスター‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CD58",
+  "end": "23CD6A",
+  "owners": [
+   "tab:7F3530"
+  ],
+  "jp": "素早さマスター‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CD6A",
+  "end": "23CD7A",
+  "owners": [
+   "tab:7F3534"
+  ],
+  "jp": "回復マスター‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CD7A",
+  "end": "23CD8A",
+  "owners": [
+   "tab:7F3538"
+  ],
+  "jp": "防御マスター‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CD8A",
+  "end": "23CD9A",
+  "owners": [
+   "tab:7F353C"
+  ],
+  "jp": "攻撃マスター‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CD9A",
+  "end": "23CDA4",
+  "owners": [
+   "tab:7F3540"
+  ],
+  "jp": "毒無効‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CDA4",
+  "end": "23CDB0",
+  "owners": [
+   "tab:7F3544"
+  ],
+  "jp": "マヒ無効‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CDB0",
+  "end": "23CDBC",
+  "owners": [
+   "tab:7F3548"
+  ],
+  "jp": "混乱無効‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CDBC",
+  "end": "23CDC8",
+  "owners": [
+   "tab:7F354C"
+  ],
+  "jp": "眠り無効‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CDC8",
+  "end": "23CDD4",
+  "owners": [
+   "tab:7F3550"
+  ],
+  "jp": "封印無効‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CDD4",
+  "end": "23CDE0",
+  "owners": [
+   "tab:7F3554"
+  ],
+  "jp": "石化無効‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CDE0",
+  "end": "23CE00",
+  "owners": [
+   "op121:000FD0",
+   "op121:000FF8",
+   "tab:7F3558"
+  ],
+  "jp": "スタートボタンをおしてください<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CE00",
+  "end": "23CE0C",
+  "owners": [
+   "tab:7F355C"
+  ],
+  "jp": "MP回復‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CE0C",
+  "end": "23CE1C",
+  "owners": [
+   "tab:7F3560"
+  ],
+  "jp": "シフトE回復‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CE1C",
+  "end": "23CE1E",
+  "owners": [
+   "tab:7F3564"
+  ],
+  "jp": "<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CE1E",
+  "end": "23CE2E",
+  "owners": [
+   "tab:7F3568"
+  ],
+  "jp": "HP　[FFE9]UP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CE2E",
+  "end": "23CE42",
+  "owners": [
+   "tab:7F356C"
+  ],
+  "jp": "シフトE　[FFE9]UP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CE42",
+  "end": "23CE54",
+  "owners": [
+   "tab:7F3570"
+  ],
+  "jp": "ちから　[FFE9]UP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CE54",
+  "end": "23CE66",
+  "owners": [
+   "tab:7F3574"
+  ],
+  "jp": "防御力　[FFE9]UP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CE66",
+  "end": "23CE76",
+  "owners": [
+   "tab:7F3578"
+  ],
+  "jp": "魔力　[FFE9]UP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CE76",
+  "end": "23CE88",
+  "owners": [
+   "tab:7F357C"
+  ],
+  "jp": "魔防御　[FFE9]UP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CE88",
+  "end": "23CE9C",
+  "owners": [
+   "tab:7F3580"
+  ],
+  "jp": "すばやさ　[FFE9]UP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CE9C",
+  "end": "23CEAE",
+  "owners": [
+   "tab:7F3584"
+  ],
+  "jp": "つうしんエラー‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CEAE",
+  "end": "23CEBE",
+  "owners": [
+   "tab:7F3588"
+  ],
+  "jp": "攻撃しっぱい‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CEBE",
+  "end": "23CED2",
+  "owners": [
+   "tab:7F358C"
+  ],
+  "jp": "技をはねかえした‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CED2",
+  "end": "23CED8",
+  "owners": [
+   "tab:7F3590"
+  ],
+  "jp": "[FFEA]‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CED8",
+  "end": "23CEEA",
+  "owners": [
+   "tab:7F3594"
+  ],
+  "jp": "いりょくダウン‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CEEA",
+  "end": "23CEFC",
+  "owners": [
+   "tab:7F3598"
+  ],
+  "jp": "[FFEB]は眠っている‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CEFC",
+  "end": "23CF0C",
+  "owners": [
+   "tab:7F359C"
+  ],
+  "jp": "[FFEB]はめざめた‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CF0C",
+  "end": "23CF20",
+  "owners": [
+   "tab:7F35A0"
+  ],
+  "jp": "[FFEB]はマヒしている‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CF20",
+  "end": "23CF34",
+  "owners": [
+   "tab:7F35A4"
+  ],
+  "jp": "[FFEB]のマヒが解けた‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CF34",
+  "end": "23CF48",
+  "owners": [
+   "tab:7F35A8"
+  ],
+  "jp": "[FFEB]は混乱している‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CF48",
+  "end": "23CF5E",
+  "owners": [
+   "tab:7F35AC"
+  ],
+  "jp": "[FFEB]の混乱が治まった‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CF5E",
+  "end": "23CF74",
+  "owners": [
+   "tab:7F35B0"
+  ],
+  "jp": "[FFEB]は毒を受けている‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CF74",
+  "end": "23CF86",
+  "owners": [
+   "tab:7F35B4"
+  ],
+  "jp": "[FFEB]の毒が抜けた‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CF86",
+  "end": "23CF9A",
+  "owners": [
+   "tab:7F35B8"
+  ],
+  "jp": "[FFEB]は石化している‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CF9A",
+  "end": "23CFAE",
+  "owners": [
+   "tab:7F35BC"
+  ],
+  "jp": "[FFEB]の石化が解けた‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CFAE",
+  "end": "23CFC2",
+  "owners": [
+   "tab:7F35C0"
+  ],
+  "jp": "[FFEB]の封印が解けた‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CFC2",
+  "end": "23CFD2",
+  "owners": [
+   "tab:7F35C4"
+  ],
+  "jp": "[FFEC]は動けない‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CFD2",
+  "end": "23CFE2",
+  "owners": [
+   "tab:7F35C8"
+  ],
+  "jp": "[FFEB]は動けない‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CFE2",
+  "end": "23CFFC",
+  "owners": [
+   "tab:7F35CC"
+  ],
+  "jp": "[FFEC]は動けるようになった‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23CFFC",
+  "end": "23D016",
+  "owners": [
+   "tab:7F35D0"
+  ],
+  "jp": "[FFEB]は動けるようになった‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23D016",
+  "end": "23D02A",
+  "owners": [
+   "tab:7F35D4"
+  ],
+  "jp": "回復効果のじぞく‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23D02A",
+  "end": "23D04A",
+  "owners": [
+   "tab:7F35D8"
+  ],
+  "jp": "オールエレメントパワーMAX‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23D04A",
+  "end": "23D060",
+  "owners": [
+   "tab:7F35DC"
+  ],
+  "jp": "クリティカル率UP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23D060",
+  "end": "23D06E",
+  "owners": [
+   "tab:7F35E0"
+  ],
+  "jp": "命中率UP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23D06E",
+  "end": "23D082",
+  "owners": [
+   "tab:7F35E4"
+  ],
+  "jp": "[FFEC]たちは回復した‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23D082",
+  "end": "23D098",
+  "owners": [
+   "tab:7F35E8"
+  ],
+  "jp": "[FFEC]たちは全回復した‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23D098",
+  "end": "23D0E0",
+  "owners": [
+   "opBE:0002C4",
+   "opBE:0002D4",
+   "lit:0B36F4",
+   "tab:7F35EC"
+  ],
+  "jp": "あたらしいワザを　ひらめいたみたい<br>\nリボーンして　ワザをおぼえなきゃ！<page>\n",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "speaker": [
+   "プレイヤー"
+  ]
+ },
+ {
+  "id": "23D0E0",
+  "end": "23D0F8",
+  "owners": [
+   "tab:7F35F0"
+  ],
+  "jp": "敵はにげられなかった‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23D0F8",
+  "end": "23D10A",
+  "owners": [
+   "op121:00072A",
+   "op121:000740",
+   "tab:7F35F4"
+  ],
+  "jp": "ROUND　[FFE9]　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23D10A",
+  "end": "23D10C",
+  "owners": [
+   "tab:7F35F8"
+  ],
+  "jp": "<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23D10C",
+  "end": "23D10E",
+  "owners": [
+   "tab:7F35FC"
+  ],
+  "jp": "<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23D10E",
+  "end": "23D110",
+  "owners": [
+   "tab:7F3600"
+  ],
+  "jp": "<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ }
+]

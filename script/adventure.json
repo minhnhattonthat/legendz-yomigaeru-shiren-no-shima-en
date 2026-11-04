@@ -1,0 +1,1631 @@
+[
+ {
+  "id": "440C9C",
+  "end": "440CAC",
+  "owners": [
+   "tab:7F665C"
+  ],
+  "jp": "　　どうぐ　　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440CAC",
+  "end": "440CBC",
+  "owners": [
+   "tab:7F6660"
+  ],
+  "jp": "　おきにいり　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440CBC",
+  "end": "440CCC",
+  "owners": [
+   "tab:7F6664"
+  ],
+  "jp": "たいせつなもの<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440CCC",
+  "end": "440CD4",
+  "owners": [
+   "tab:433FFC"
+  ],
+  "jp": "つかう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440CD4",
+  "end": "440CE0",
+  "owners": [
+   "tab:434008"
+  ],
+  "jp": "ならびかえ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440CE0",
+  "end": "440CE8",
+  "owners": [
+   "tab:434014"
+  ],
+  "jp": "すてる<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440CE8",
+  "end": "440CF0",
+  "owners": [
+   "lit:0B7CB8"
+  ],
+  "jp": "か　う<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440CF0",
+  "end": "440CF8",
+  "owners": [
+   "lit:0B7C84"
+  ],
+  "jp": "う　る<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440CF8",
+  "end": "440D02",
+  "owners": [
+   "lit:0B8260"
+  ],
+  "jp": "いくつ？<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440D02",
+  "end": "440D14",
+  "owners": [
+   "lit:0B2C14"
+  ],
+  "jp": "ぼうけんスポット<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440D14",
+  "end": "440D24",
+  "owners": [
+   "lit:0B1630",
+   "tab:433FF4"
+  ],
+  "jp": "オートぼうけん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440D24",
+  "end": "440D32",
+  "owners": [
+   "lit:0B1634"
+  ],
+  "jp": "ぼうけんする<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440D32",
+  "end": "440D3A",
+  "owners": [
+   "lit:0B1638"
+  ],
+  "jp": "やめる<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440D3A",
+  "end": "440D7E",
+  "owners": [
+   "lit:0B1EF0"
+  ],
+  "jp": "ぞくせい　　レベル　　じかん　　　　H　　Mなんいど　　　　　　　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440D7E",
+  "end": "440D8A",
+  "owners": [
+   "tab:7F69E4"
+  ],
+  "jp": "らくしょう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440D8A",
+  "end": "440D92",
+  "owners": [
+   "tab:7F69E8"
+  ],
+  "jp": "よゆう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440D92",
+  "end": "440D9C",
+  "owners": [
+   "tab:7F69EC"
+  ],
+  "jp": "てきせい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440D9C",
+  "end": "440DA4",
+  "owners": [
+   "tab:7F69F0"
+  ],
+  "jp": "くせん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440DA4",
+  "end": "440DAE",
+  "owners": [
+   "tab:7F69F4"
+  ],
+  "jp": "ぜつぼう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440DAE",
+  "end": "440DDC",
+  "owners": [
+   "lit:0B1F48"
+  ],
+  "jp": "スポットレベルがたかくチャレンジできません…<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440E0A",
+  "end": "440E18",
+  "owners": [
+   "tab:433FCC"
+  ],
+  "jp": "タリスダム　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440E18",
+  "end": "440E26",
+  "owners": [
+   "tab:433FD4"
+  ],
+  "jp": "タリスポッド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440E26",
+  "end": "440E34",
+  "owners": [
+   "tab:433FDC"
+  ],
+  "jp": "もちもの　　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440E34",
+  "end": "440E42",
+  "owners": [
+   "tab:433FE4"
+  ],
+  "jp": "セーブ　　　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440E42",
+  "end": "440E50",
+  "owners": [
+   "tab:433FEC"
+  ],
+  "jp": "おていれ　　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440E50",
+  "end": "440E5C",
+  "owners": [
+   "lit:0A94FC"
+  ],
+  "jp": "やめる　　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440E5C",
+  "end": "440E68",
+  "owners": [
+   "lit:0A9500"
+  ],
+  "jp": "セーブする<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440E68",
+  "end": "440E7A",
+  "owners": [
+   "lit:0A8E10"
+  ],
+  "jp": "いくつもたせる？<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440E7A",
+  "end": "440E84",
+  "owners": [
+   "lit:0B43CC"
+  ],
+  "jp": "けいけん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440E96",
+  "end": "440EA2",
+  "owners": [
+   "lit:0B43D8"
+  ],
+  "jp": "かくとく！<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440EA2",
+  "end": "440EAE",
+  "owners": [
+   "tab:7F745C"
+  ],
+  "jp": "アイテム　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440EAE",
+  "end": "440EBA",
+  "owners": [
+   "tab:7F7460"
+  ],
+  "jp": "おきにいり<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440EBA",
+  "end": "440EC6",
+  "owners": [
+   "tab:7F7464"
+  ],
+  "jp": "わざ　　　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440EC6",
+  "end": "440ED0",
+  "owners": [
+   "lit:0B4554"
+  ],
+  "jp": "GET！<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440ED0",
+  "end": "440EDE",
+  "owners": [
+   "tab:7F746C"
+  ],
+  "jp": "こうりゃく‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440EDE",
+  "end": "440EEC",
+  "owners": [
+   "tab:7F7470"
+  ],
+  "jp": "クリア！！　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440EEC",
+  "end": "440EFA",
+  "owners": [
+   "tab:7F7474"
+  ],
+  "jp": "しっぱい・・<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440EFA",
+  "end": "440F26",
+  "owners": [
+   "tab:7F7468"
+  ],
+  "jp": "おたからは　なにもみつからなかった・・・・<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440F2A",
+  "end": "440F70",
+  "owners": [
+   "tab:4340D0"
+  ],
+  "jp": "ドールしょうさい<br>\nドールのいれかえ<br>\nドールのかくにん<br>\nわざ<br>\nリボーン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440F70",
+  "end": "440FC8",
+  "owners": [
+   "tab:4340D8"
+  ],
+  "jp": "ドールしょうさい<br>\nドールのいれかえ<br>\nドールのかくにん<br>\nわざ<br>\nリボーン<br>\nつうしんたいせん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "440FC8",
+  "end": "44101A",
+  "owners": [
+   "tab:4340F0"
+  ],
+  "jp": "・・・・・・・・<br>\n・・・・・・・・<br>\n・・・・・・・・<br>\n・・・・・・・・<br>\nリボーン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "44101A",
+  "end": "44103A",
+  "owners": [
+   "tab:4340E0"
+  ],
+  "jp": "ならびかえ<br>\nはずす<br>\nセットする<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "44103A",
+  "end": "441054",
+  "owners": [
+   "tab:4340E8"
+  ],
+  "jp": "セット<br>\nくみかえ<br>\nリスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441066",
+  "end": "4410A4",
+  "owners": [
+   "tab:7F7F48"
+  ],
+  "jp": "あいうえおはひふへほ01234アイウエオハヒフヘホABCDE<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4410A4",
+  "end": "4410E2",
+  "owners": [
+   "tab:7F7F4C"
+  ],
+  "jp": "かきくけこまみむめも56789カキクケコマミムメモFGHIJ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4410E2",
+  "end": "441120",
+  "owners": [
+   "tab:7F7F50"
+  ],
+  "jp": "さしすせそや　ゆ　よ…！‼？♪サシスセソヤ　ユ　ヨKLMNO<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441120",
+  "end": "44115E",
+  "owners": [
+   "tab:7F7F54"
+  ],
+  "jp": "たちつてとらりるれろ☺♥✓★◆タチツテトラリルレロPQRST<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "44115E",
+  "end": "44119C",
+  "owners": [
+   "tab:7F7F58"
+  ],
+  "jp": "なにぬねのわ　を　ん♨✖♫🐰🐱ナニヌネノワ　ヲ　ンUVWXY<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "44119C",
+  "end": "4411DA",
+  "owners": [
+   "tab:7F7F5C"
+  ],
+  "jp": "ぁぃぅぇぉっゃゅょー\"•－＋～ァィゥェォッャュョー\"•$％Z<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4411DA",
+  "end": "4411E4",
+  "owners": [
+   "lit:0CC7B8",
+   "tab:46B2A0"
+  ],
+  "jp": "けってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4411E4",
+  "end": "4411EC",
+  "owners": [
+   "lit:0CC7BC",
+   "tab:46B2A8"
+  ],
+  "jp": "やめる<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4411EC",
+  "end": "4411FC",
+  "owners": [
+   "tab:7F7F60"
+  ],
+  "jp": "ニックネーム…<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4411FC",
+  "end": "441208",
+  "owners": [
+   "tab:7F7F64"
+  ],
+  "jp": "でんごん…<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441208",
+  "end": "441218",
+  "owners": [
+   "tab:7F7F68"
+  ],
+  "jp": "キミのなまえ…<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441218",
+  "end": "441228",
+  "owners": [
+   "tab:46B260"
+  ],
+  "jp": "きょうのひづけ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441228",
+  "end": "441236",
+  "owners": [
+   "tab:46B268"
+  ],
+  "jp": "20　　ねん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441236",
+  "end": "441240",
+  "owners": [
+   "tab:46B270"
+  ],
+  "jp": "　　がつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441240",
+  "end": "44124A",
+  "owners": [
+   "tab:46B278"
+  ],
+  "jp": "　　にち<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "44124A",
+  "end": "441258",
+  "owners": [
+   "tab:46B280"
+  ],
+  "jp": "いまのじかん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441258",
+  "end": "441266",
+  "owners": [
+   "tab:46B288"
+  ],
+  "jp": "　　　　　じ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441266",
+  "end": "441270",
+  "owners": [
+   "tab:46B290"
+  ],
+  "jp": "　　ふん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441270",
+  "end": "44127A",
+  "owners": [
+   "tab:46B298"
+  ],
+  "jp": "…くらい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "44127A",
+  "end": "441282",
+  "owners": [
+   "lit:0CD9E0"
+  ],
+  "jp": "ごぜん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441282",
+  "end": "44128A",
+  "owners": [
+   "lit:0CDA08"
+  ],
+  "jp": "　ごご<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "44128A",
+  "end": "441298",
+  "owners": [
+   "tab:46B418"
+  ],
+  "jp": "●つづきから<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441298",
+  "end": "4412A8",
+  "owners": [
+   "tab:46B420"
+  ],
+  "jp": "●カードモード<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4412A8",
+  "end": "4412B8",
+  "owners": [
+   "tab:46B428"
+  ],
+  "jp": "●さいしょから<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4412B8",
+  "end": "4412CA",
+  "owners": [
+   "tab:46B430"
+  ],
+  "jp": "●ドールしょきか<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4412CA",
+  "end": "4412EA",
+  "owners": [
+   "tab:46B438"
+  ],
+  "jp": "ぼうけんちゅう　あと　　　ふん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4412EA",
+  "end": "4412FA",
+  "owners": [
+   "lit:0CF7B0"
+  ],
+  "jp": "しゅうりょう‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4412FA",
+  "end": "4412FE",
+  "owners": [
+   "lit:0CF720"
+  ],
+  "jp": "¦<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4412FE",
+  "end": "441302",
+  "owners": [
+   "lit:0CF69C"
+  ],
+  "jp": "　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441302",
+  "end": "441312",
+  "owners": [
+   "tab:434120",
+   "tab:7F66CC"
+  ],
+  "jp": "ほのおのほこら<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441312",
+  "end": "441320",
+  "owners": [
+   "tab:434144",
+   "tab:7F66D0"
+  ],
+  "jp": "こおにのもり<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441320",
+  "end": "441332",
+  "owners": [
+   "tab:434168",
+   "tab:7F66D4"
+  ],
+  "jp": "しずかなこうげん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441332",
+  "end": "441342",
+  "owners": [
+   "tab:43418C",
+   "tab:7F66D8"
+  ],
+  "jp": "にんぎょのたき<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441342",
+  "end": "441352",
+  "owners": [
+   "tab:4341B0",
+   "tab:7F66DC"
+  ],
+  "jp": "ふしぎないずみ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441352",
+  "end": "44135E",
+  "owners": [
+   "tab:4341D4",
+   "tab:7F66E0"
+  ],
+  "jp": "くらきぬま<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "44135E",
+  "end": "441370",
+  "owners": [
+   "tab:4341F8",
+   "tab:7F66E4"
+  ],
+  "jp": "ようがんどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441370",
+  "end": "441380",
+  "owners": [
+   "tab:43421C",
+   "tab:7F66E8"
+  ],
+  "jp": "もえさかるやま<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441380",
+  "end": "441390",
+  "owners": [
+   "tab:434240",
+   "tab:7F66EC"
+  ],
+  "jp": "かわいたこうや<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441390",
+  "end": "4413A2",
+  "owners": [
+   "tab:434264",
+   "tab:7F66F0"
+  ],
+  "jp": "ふるびたはいこう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4413A2",
+  "end": "4413B2",
+  "owners": [
+   "tab:434288",
+   "tab:7F66F4"
+  ],
+  "jp": "まどわしのもり<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4413B2",
+  "end": "4413C0",
+  "owners": [
+   "tab:4342AC",
+   "tab:7F66F8"
+  ],
+  "jp": "ここうのやま<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4413C0",
+  "end": "4413D0",
+  "owners": [
+   "tab:4342D0",
+   "tab:7F66FC"
+  ],
+  "jp": "やまのふうけつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4413D0",
+  "end": "4413E0",
+  "owners": [
+   "tab:4342F4",
+   "tab:7F6700"
+  ],
+  "jp": "てんくうのとう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4413E0",
+  "end": "4413F2",
+  "owners": [
+   "tab:434318",
+   "tab:7F6704"
+  ],
+  "jp": "せいじゃくのおか<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4413F2",
+  "end": "441404",
+  "owners": [
+   "tab:43433C",
+   "tab:7F6708"
+  ],
+  "jp": "こごえるどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441404",
+  "end": "441416",
+  "owners": [
+   "tab:434360",
+   "tab:7F670C"
+  ],
+  "jp": "うみべのみずうみ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441416",
+  "end": "441422",
+  "owners": [
+   "tab:434384",
+   "tab:7F6710"
+  ],
+  "jp": "にじのたき<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441422",
+  "end": "441434",
+  "owners": [
+   "tab:4343A8",
+   "tab:7F6714"
+  ],
+  "jp": "かがやくしんでん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441434",
+  "end": "441444",
+  "owners": [
+   "tab:4343CC",
+   "tab:7F6718"
+  ],
+  "jp": "かなでるいずみ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441444",
+  "end": "441456",
+  "owners": [
+   "tab:4343F0",
+   "tab:7F671C"
+  ],
+  "jp": "くずれたしんでん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441456",
+  "end": "441466",
+  "owners": [
+   "tab:434414",
+   "tab:7F6720"
+  ],
+  "jp": "あやしげなぬま<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441466",
+  "end": "441478",
+  "owners": [
+   "tab:434438",
+   "tab:7F6724"
+  ],
+  "jp": "さびれたどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441478",
+  "end": "44148A",
+  "owners": [
+   "tab:43445C",
+   "tab:7F6728"
+  ],
+  "jp": "ぶきみなどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "44148A",
+  "end": "44149C",
+  "owners": [
+   "tab:434480",
+   "tab:7F672C"
+  ],
+  "jp": "かざんのどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "44149C",
+  "end": "4414AC",
+  "owners": [
+   "tab:4344A4",
+   "tab:7F6730"
+  ],
+  "jp": "もえつきたやま<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4414AC",
+  "end": "4414BE",
+  "owners": [
+   "tab:4344C8",
+   "tab:7F6734"
+  ],
+  "jp": "うみべのさきゅう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4414BE",
+  "end": "4414D0",
+  "owners": [
+   "tab:4344EC",
+   "tab:7F6738"
+  ],
+  "jp": "くずれたはいこう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4414D0",
+  "end": "4414E0",
+  "owners": [
+   "tab:434510",
+   "tab:7F673C"
+  ],
+  "jp": "いしくれのもり<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4414E0",
+  "end": "4414F0",
+  "owners": [
+   "tab:434534",
+   "tab:7F6740"
+  ],
+  "jp": "おたけびのやま<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4414F0",
+  "end": "441500",
+  "owners": [
+   "tab:434558",
+   "tab:7F6744"
+  ],
+  "jp": "ゆきのどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441500",
+  "end": "44150E",
+  "owners": [
+   "tab:43457C",
+   "tab:7F6748"
+  ],
+  "jp": "くずれたとう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "44150E",
+  "end": "441520",
+  "owners": [
+   "tab:4345A0",
+   "tab:7F674C"
+  ],
+  "jp": "さついのくさむら<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441520",
+  "end": "441532",
+  "owners": [
+   "tab:4345C4",
+   "tab:7F6750"
+  ],
+  "jp": "うみべのどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441532",
+  "end": "441542",
+  "owners": [
+   "tab:4345E8",
+   "tab:7F6754"
+  ],
+  "jp": "きりのみずうみ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441542",
+  "end": "441554",
+  "owners": [
+   "tab:43460C",
+   "tab:7F6758"
+  ],
+  "jp": "せいりゅうのたき<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441554",
+  "end": "441566",
+  "owners": [
+   "tab:434630",
+   "tab:7F675C"
+  ],
+  "jp": "ようせいのいずみ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441566",
+  "end": "441576",
+  "owners": [
+   "tab:434654",
+   "tab:7F6760"
+  ],
+  "jp": "しりょうのぬま<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441576",
+  "end": "441588",
+  "owners": [
+   "tab:434678",
+   "tab:7F6764"
+  ],
+  "jp": "ちいさなしんでん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441588",
+  "end": "441598",
+  "owners": [
+   "tab:43469C",
+   "tab:7F6768"
+  ],
+  "jp": "しろのしんでん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441598",
+  "end": "4415A8",
+  "owners": [
+   "tab:4346C0",
+   "tab:7F676C"
+  ],
+  "jp": "くろのしんでん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4415A8",
+  "end": "4415B6",
+  "owners": [
+   "tab:4346E4",
+   "tab:7F6770"
+  ],
+  "jp": "あらしのおか<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4415B6",
+  "end": "4415C4",
+  "owners": [
+   "tab:434708",
+   "tab:7F6774"
+  ],
+  "jp": "しおのさばく<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4415C4",
+  "end": "4415D4",
+  "owners": [
+   "tab:43472C",
+   "tab:7F6778"
+  ],
+  "jp": "おにのすむやま<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4415D4",
+  "end": "4415E6",
+  "owners": [
+   "tab:434750",
+   "tab:7F677C"
+  ],
+  "jp": "かいていどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4415E6",
+  "end": "4415F8",
+  "owners": [
+   "tab:434774",
+   "tab:7F6780"
+  ],
+  "jp": "ひかりのしんでん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4415F8",
+  "end": "441608",
+  "owners": [
+   "tab:434798",
+   "tab:7F6784"
+  ],
+  "jp": "くすぶるかざん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441608",
+  "end": "441618",
+  "owners": [
+   "tab:4347BC",
+   "tab:7F6788"
+  ],
+  "jp": "くらいみつりん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441618",
+  "end": "44162A",
+  "owners": [
+   "tab:4347E0",
+   "tab:7F678C"
+  ],
+  "jp": "きたかぜのほこら<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "44162A",
+  "end": "441638",
+  "owners": [
+   "tab:434804",
+   "tab:7F6790"
+  ],
+  "jp": "こおりのたき<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441638",
+  "end": "44164A",
+  "owners": [
+   "tab:434828",
+   "tab:7F6794"
+  ],
+  "jp": "こがねのしんでん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "44164A",
+  "end": "44165C",
+  "owners": [
+   "tab:43484C",
+   "tab:7F6798"
+  ],
+  "jp": "あくむのしんでん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "44165C",
+  "end": "44166E",
+  "owners": [
+   "tab:434870",
+   "tab:7F679C"
+  ],
+  "jp": "ぐれんのどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "44166E",
+  "end": "441680",
+  "owners": [
+   "tab:434894",
+   "tab:7F67A0"
+  ],
+  "jp": "かせきのどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441680",
+  "end": "441690",
+  "owners": [
+   "tab:4348B8",
+   "tab:7F67A4"
+  ],
+  "jp": "いかずちのとう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441690",
+  "end": "4416A2",
+  "owners": [
+   "tab:4348DC",
+   "tab:7F67A8"
+  ],
+  "jp": "しんぴのみずうみ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4416A2",
+  "end": "4416B2",
+  "owners": [
+   "tab:434900",
+   "tab:7F67AC"
+  ],
+  "jp": "いやしのいずみ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4416B2",
+  "end": "4416C4",
+  "owners": [
+   "tab:434924",
+   "tab:7F67B0"
+  ],
+  "jp": "ふもうのどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4416C4",
+  "end": "4416D4",
+  "owners": [
+   "tab:434948",
+   "tab:7F67B4"
+  ],
+  "jp": "ぎんのへいげん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4416D4",
+  "end": "4416E4",
+  "owners": [
+   "tab:43496C",
+   "tab:7F67B8"
+  ],
+  "jp": "とどろくかざん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4416E4",
+  "end": "4416F6",
+  "owners": [
+   "tab:434990",
+   "tab:7F67BC"
+  ],
+  "jp": "きょむのしんでん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4416F6",
+  "end": "441708",
+  "owners": [
+   "tab:4349B4",
+   "tab:7F67C0"
+  ],
+  "jp": "こおりのみずうみ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441708",
+  "end": "44171A",
+  "owners": [
+   "tab:4349D8",
+   "tab:7F67C4"
+  ],
+  "jp": "こくうのれいほう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "44171A",
+  "end": "44172A",
+  "owners": [
+   "tab:4349FC",
+   "tab:7F67C8"
+  ],
+  "jp": "やみのしんでん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "44172A",
+  "end": "44174C",
+  "owners": [
+   "tab:7F69F8"
+  ],
+  "jp": "さあ<br>\nぼうけんに<br>\nしゅっぱつだ♪<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "44174C",
+  "end": "441786",
+  "owners": [
+   "tab:7F69FC"
+  ],
+  "jp": "あいしょうも<br>\nバッチリだし<br>\nレベルひくいしらくしょうだ6<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "441786",
+  "end": "4417BC",
+  "owners": [
+   "tab:7F6A00"
+  ],
+  "jp": "あいしょうが<br>\nいいトコだし<br>\nけっこう<br>\nラクちんかな4<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "4417BC",
+  "end": "44180A",
+  "owners": [
+   "tab:7F6A04"
+  ],
+  "jp": "レベルはたかいんだけど<br>\nあいしょうが<br>\nいいから<br>\nなんとかなるんじゃないかな6<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "44180A",
+  "end": "44184A",
+  "owners": [
+   "tab:7F6A08"
+  ],
+  "jp": "ここはレベルがひくいから<br>\nカンタンに<br>\nクリアできるとおもうよ6<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "44184A",
+  "end": "441882",
+  "owners": [
+   "tab:7F6A0C"
+  ],
+  "jp": "ボクにピッタリのトコだから<br>\nぼうけんの<br>\nしがいあるよ4<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ }
+]

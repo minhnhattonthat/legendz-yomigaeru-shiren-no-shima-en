@@ -21,6 +21,7 @@ Bytecode starts at **`0x1E0`**, not `0x10000`: task 0 starts there, and the titl
 | 00F2 | ptr32 | change scene: store the pointer in `[0x03005E40+0x3C]`, run the flag calls for 9 and 10 |
 | 00FE | a, b, n, then n words | variable length: 3 + n words |
 | 0108 | skill | store the skill id at `0x0201C394`, set its bit at `0x02036C95` |
+| 0116 | 4 ptr32 | line by the partner's personality, one pointer each (`tools/vmwalk.py`; `text.md`, Extract) |
 
 **Read from the handler, phase 2:** 0014 `dist, mask`: skip `dist` words unless a key in `mask` is down (top nibble of mask picks which key word; the top loop uses `1008`, Start). 00DA `dist, n, then n words`: skip unless every flag matches (low 15 bits flag number, top bit the wanted value). 009D `var` opens the shop screen, 009E `var` the rental screen: seen working.
 

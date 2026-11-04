@@ -1,0 +1,6314 @@
+[
+ {
+  "id": "441882",
+  "end": "4418C4",
+  "owners": [
+   "tab:7F6A10"
+  ],
+  "jp": "ここはレベルがたかいから<br>\nチョットだけ<br>\nピンチって<br>\nカンジかな！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4418C4",
+  "end": "441918",
+  "owners": [
+   "tab:7F6A14"
+  ],
+  "jp": "ここ…ホントはあいしょうが<br>\nわるいけど…<br>\nまぁ、いいか！レベルもわりとひくめだし！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441918",
+  "end": "441960",
+  "owners": [
+   "tab:7F6A18"
+  ],
+  "jp": "でも…<br>\nなんでボクが<br>\nこんなキケンなトコをぼうけんしなきゃなんないの～<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441960",
+  "end": "44199E",
+  "owners": [
+   "tab:7F6A1C"
+  ],
+  "jp": "…って<br>\nウキウキしてるばあいじゃないよ～さいあくのトコだよ～<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44199E",
+  "end": "4419EE",
+  "owners": [
+   "tab:7F6A20"
+  ],
+  "jp": "ここって<br>\nもうダレかが<br>\nクリアしてる<br>\nトコだから<br>\nそういったイミではあんしん♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4419EE",
+  "end": "441A2A",
+  "owners": [
+   "tab:7F6A24"
+  ],
+  "jp": "そういえば<br>\nここってまだ<br>\nダレもクリア<br>\nしてないんだよね…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441A2A",
+  "end": "441A76",
+  "owners": [
+   "tab:7F6A28"
+  ],
+  "jp": "あ～あ<br>\nなんかくらくてせまくてイヤなカンジ…<br>\nはやくおわらせちゃいたいなぁ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441A76",
+  "end": "441AC2",
+  "owners": [
+   "tab:7F6A2C"
+  ],
+  "jp": "…ん？<br>\nそろそろ<br>\nこのどうくつもおわりかな？<br>\nいきどまりが<br>\nみえてきたよ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441AC2",
+  "end": "441AF6",
+  "owners": [
+   "tab:7F6A30"
+  ],
+  "jp": "うわ～やっぱりなんかいたよ‼たたかうしかないの～？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441AF6",
+  "end": "441B34",
+  "owners": [
+   "tab:7F6A34"
+  ],
+  "jp": "ん～<br>\nもりのニオイがいいカンジ♪<br>\nなんとなく<br>\nいやされるなぁ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441B34",
+  "end": "441B56",
+  "owners": [
+   "tab:7F6A38"
+  ],
+  "jp": "あ！<br>\nむこうにナニかいるみたい！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441B56",
+  "end": "441B7E",
+  "owners": [
+   "tab:7F6A3C"
+  ],
+  "jp": "でたな～！<br>\nよ～しボクが<br>\nアイテだよ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441B7E",
+  "end": "441BD6",
+  "owners": [
+   "tab:7F6A40"
+  ],
+  "jp": "わ～い♪<br>\nやまのぼりってたのしいかも♪あ…<br>\nおべんとうを<br>\nもってくるの<br>\nわすれちゃった<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441BD6",
+  "end": "441C04",
+  "owners": [
+   "tab:7F6A44"
+  ],
+  "jp": "ふぅ～<br>\nようやく<br>\nてっぺんが<br>\nみえてきたよ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441C04",
+  "end": "441C34",
+  "owners": [
+   "tab:7F6A48"
+  ],
+  "jp": "いるとおもってたよ！<br>\nキミがココの<br>\nボスだね‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441C34",
+  "end": "441C70",
+  "owners": [
+   "tab:7F6A4C"
+  ],
+  "jp": "うわ～<br>\nここってすごくムシムシする～これがサウナってやつ？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441C70",
+  "end": "441C9C",
+  "owners": [
+   "tab:7F6A50"
+  ],
+  "jp": "なんかフンイキかわってきた<br>\nみたいだけど…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441C9C",
+  "end": "441CC2",
+  "owners": [
+   "tab:7F6A54"
+  ],
+  "jp": "でた～！<br>\nキミをたおせばクリアだね‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441CC2",
+  "end": "441D00",
+  "owners": [
+   "tab:7F6A58"
+  ],
+  "jp": "う～ん<br>\nあたりいちめんまっかっかだ！なんだか<br>\nもえてきたよ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441D00",
+  "end": "441D2A",
+  "owners": [
+   "tab:7F6A5C"
+  ],
+  "jp": "そろそろボスがでてきそうな<br>\nカンジだよ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441D2A",
+  "end": "441D52",
+  "owners": [
+   "tab:7F6A60"
+  ],
+  "jp": "…ておもったらやっぱりだよ！いくぞ～‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441D52",
+  "end": "441DA0",
+  "owners": [
+   "tab:7F6A64"
+  ],
+  "jp": "あたりいちめんすなだらけで<br>\nホコリっぽいよマスクをもってくればよかったかも…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441DA0",
+  "end": "441DD6",
+  "owners": [
+   "tab:7F6A68"
+  ],
+  "jp": "そろそろ<br>\nつかれてきた…はやくでてきてくれないかなぁ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441DD6",
+  "end": "441E10",
+  "owners": [
+   "tab:7F6A6C"
+  ],
+  "jp": "きたー！<br>\nまってました♪サクッと<br>\nおわらせちゃおうかな‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441E10",
+  "end": "441E62",
+  "owners": [
+   "tab:7F6A70"
+  ],
+  "jp": "このどうくつ<br>\nジメジメした<br>\nカンジだね…<br>\nうひゃあ！<br>\nボクのせなかにすいてきが！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441E62",
+  "end": "441E96",
+  "owners": [
+   "tab:7F6A74"
+  ],
+  "jp": "このばしょも<br>\nそろそろおわりがちかづいてきたかな？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441E96",
+  "end": "441EC6",
+  "owners": [
+   "tab:7F6A78"
+  ],
+  "jp": "うわ～<br>\nこんなのと<br>\nたたかわなきゃならないの～<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441EC6",
+  "end": "441F16",
+  "owners": [
+   "tab:7F6A7C"
+  ],
+  "jp": "う～ん…ここはすがすがしくてキレイだね♪<br>\nイヤなこととかわすれちゃいそうだよ♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441F16",
+  "end": "441F50",
+  "owners": [
+   "tab:7F6A80"
+  ],
+  "jp": "こんなにキモチいいトコなのにまたヘンなのがいるんでしょ？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441F50",
+  "end": "441F80",
+  "owners": [
+   "tab:7F6A84"
+  ],
+  "jp": "キミはここにはふさわしくないよ！<br>\nかくごして‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441F80",
+  "end": "441FD4",
+  "owners": [
+   "tab:7F6A88"
+  ],
+  "jp": "ん～<br>\nさわやかな<br>\nキブンだなぁ♪おもわず<br>\nぼうけんちゅうということを<br>\nわすれそう♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "441FD4",
+  "end": "442002",
+  "owners": [
+   "tab:7F6A8C"
+  ],
+  "jp": "…あ！<br>\nあそこにいるのここのボス？<br>\nよ～し…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442002",
+  "end": "44203E",
+  "owners": [
+   "tab:7F6A90"
+  ],
+  "jp": "キミ！<br>\nひとりじめは<br>\nダメだよ！<br>\nでていってもらうからね‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44203E",
+  "end": "4420A0",
+  "owners": [
+   "tab:7F6A94"
+  ],
+  "jp": "ここって<br>\nカゼぞくせい<br>\nだけあって<br>\nすごくカゼが<br>\nつよいよ！<br>\nとばされないようにきをつけなきゃ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4420A0",
+  "end": "4420CE",
+  "owners": [
+   "tab:7F6A98"
+  ],
+  "jp": "さっきから<br>\nあるきどうしでつかれちゃったよ～<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4420CE",
+  "end": "442106",
+  "owners": [
+   "tab:7F6A9C"
+  ],
+  "jp": "キミがさいごのボス？<br>\nよかった～<br>\nここでおしまいだね！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442106",
+  "end": "44214E",
+  "owners": [
+   "tab:7F6AA0"
+  ],
+  "jp": "う～んなんだか「とう」って<br>\nカンジしないねそとのけしきがみえないから？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44214E",
+  "end": "442190",
+  "owners": [
+   "tab:7F6AA4"
+  ],
+  "jp": "あ…<br>\nいきどまりの<br>\nトビラがある！あそこが<br>\nさいじょうかいだね！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442190",
+  "end": "4421C6",
+  "owners": [
+   "tab:7F6AA8"
+  ],
+  "jp": "キミをたおせばぼうけんは<br>\nクリアだよ！<br>\nがんばるぞ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4421C6",
+  "end": "442210",
+  "owners": [
+   "tab:7F6AAC"
+  ],
+  "jp": "ん～～～<br>\nみどりの<br>\nやさしいニオイがするね♪<br>\nおひるねしたいキブンだよ♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442210",
+  "end": "44224A",
+  "owners": [
+   "tab:7F6AB0"
+  ],
+  "jp": "こういうトコはボスのいるへやとかがないからとまどうよね…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44224A",
+  "end": "44227E",
+  "owners": [
+   "tab:7F6AB4"
+  ],
+  "jp": "…っていってるそばから<br>\nいきなりボスのとうじょう⁉<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44227E",
+  "end": "4422CC",
+  "owners": [
+   "tab:7F6AB8"
+  ],
+  "jp": "ここは<br>\nヒカリぞくせいのばしょだね…ふ～<br>\nなんだか<br>\nきんちょう<br>\nしちゃうよ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4422CC",
+  "end": "442318",
+  "owners": [
+   "tab:7F6ABC"
+  ],
+  "jp": "ヒカリぞくせいのボスって<br>\nどんなヒトなのかなぁ…<br>\nいいヒトだと<br>\nいいなぁ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442318",
+  "end": "442346",
+  "owners": [
+   "tab:7F6AC0"
+  ],
+  "jp": "え～⁉<br>\nやっぱり<br>\nたたかうの⁉<br>\nしれんなの⁉<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442346",
+  "end": "4423A2",
+  "owners": [
+   "tab:7F6AC4"
+  ],
+  "jp": "う～ん<br>\nふつうっぽい<br>\nトコだけど…<br>\nヒカリぞくせいだけあって<br>\nフシギなフンイキがするよね…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4423A2",
+  "end": "4423E4",
+  "owners": [
+   "tab:7F6AC8"
+  ],
+  "jp": "かならずさいごボスがいるけどあれって<br>\nあそこでずっとまってるの⁉<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4423E4",
+  "end": "442414",
+  "owners": [
+   "tab:7F6ACC"
+  ],
+  "jp": "おまたせ！<br>\nさあ<br>\nちょうせんしゃとうじょうだよ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442414",
+  "end": "44244E",
+  "owners": [
+   "tab:7F6AD0"
+  ],
+  "jp": "う～んいかにもヤミってニオイプンプンだね～ビビッちゃう…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44244E",
+  "end": "442488",
+  "owners": [
+   "tab:7F6AD4"
+  ],
+  "jp": "ヤミのボス…<br>\nきっとすごく<br>\nおそろしいヤツなんだろうな…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442488",
+  "end": "4424B8",
+  "owners": [
+   "tab:7F6AD8"
+  ],
+  "jp": "あれ？<br>\nそうぞうよりはマシかも！<br>\nよかった～♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4424B8",
+  "end": "442502",
+  "owners": [
+   "tab:7F6ADC"
+  ],
+  "jp": "う…<br>\nここってなんかイヤなカンジ…ヘンなニオイもするし…<br>\nかえりたいよ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442502",
+  "end": "44253C",
+  "owners": [
+   "tab:7F6AE0"
+  ],
+  "jp": "ボスにあうの<br>\nイヤだなぁ～<br>\nバトルじゃなくちがうイミで…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44253C",
+  "end": "442562",
+  "owners": [
+   "tab:7F6AE4"
+  ],
+  "jp": "うわ～<br>\nとうとうでた‼かえっていい⁉<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442562",
+  "end": "4425BC",
+  "owners": [
+   "tab:7F6AE8"
+  ],
+  "jp": "へぇ…<br>\nこんなトコが<br>\nあるんだね～<br>\nここからは<br>\nぞくせいの<br>\nチカラをなにもかんじないよ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4425BC",
+  "end": "442600",
+  "owners": [
+   "tab:7F6AEC"
+  ],
+  "jp": "こんなトコにいるボスだから<br>\nコセイのない<br>\nヤツなんじゃ<br>\nないかな？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442600",
+  "end": "44263C",
+  "owners": [
+   "tab:7F6AF0"
+  ],
+  "jp": "うわっ<br>\nそんなこと<br>\nなかったよ！<br>\nじゅうぶん<br>\nコセイてき‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44263C",
+  "end": "44268C",
+  "owners": [
+   "tab:7F6AF4"
+  ],
+  "jp": "う～んいかにもどうくつって<br>\nカンジだね！<br>\nどうくついがいのなにものでもないね！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44268C",
+  "end": "4426B6",
+  "owners": [
+   "tab:7F6AF8"
+  ],
+  "jp": "いつまでも<br>\nかわりばえしないふうけいだね<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4426B6",
+  "end": "4426E4",
+  "owners": [
+   "tab:7F6AFC"
+  ],
+  "jp": "あ～あ<br>\nさいごまで<br>\nおなじふうけいだったよ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4426E4",
+  "end": "442750",
+  "owners": [
+   "tab:7F6B00"
+  ],
+  "jp": "いいカンジでぼうけんしてたらいきなりテキがおそってきたよそういう<br>\nヒドイやつは<br>\nかえりうちに<br>\nしたけどね‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442750",
+  "end": "4427AA",
+  "owners": [
+   "tab:7F6B04"
+  ],
+  "jp": "いいカンジでぼうけんしてたらテキがあらわれたよ！<br>\nバトルけっかはもちろんボクのかちだよ♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4427AA",
+  "end": "442814",
+  "owners": [
+   "tab:7F6B08"
+  ],
+  "jp": "いいカンジでぼうけんしてたらテキはっけん‼うぷぷ♪<br>\nうしろから<br>\nキツ～イいちげきをおみまいしてやったよ♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442814",
+  "end": "44287E",
+  "owners": [
+   "tab:7F6B0C"
+  ],
+  "jp": "いいカンジでぼうけんしてたらテキとであったよ！<br>\nアイサツして<br>\nわかれたけど<br>\nなかなかいい<br>\nヤツだったな♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44287E",
+  "end": "4428E2",
+  "owners": [
+   "tab:7F6B10"
+  ],
+  "jp": "いいカンジでぼうけんしてたらテキがあらわれたんだ！<br>\nヤバかったね！もんどうむようてカンジだったよ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4428E2",
+  "end": "44293C",
+  "owners": [
+   "tab:7F6B14"
+  ],
+  "jp": "いいカンジでぼうけんしてたらテキとであったよ！<br>\nジッとみてたらにげちゃったよヘンなやつ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44293C",
+  "end": "4429B0",
+  "owners": [
+   "tab:7F6B18"
+  ],
+  "jp": "いいカンジでぼうけんしてたらテキがあらわれたよ！<br>\n…とおもったらにげちゃった！それなら<br>\nでてこないで<br>\nほしいよね！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4429B0",
+  "end": "4429D8",
+  "owners": [
+   "tab:7F6B1C"
+  ],
+  "jp": "すすんでたら<br>\nイズミをはっけんしたよ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4429D8",
+  "end": "442A18",
+  "owners": [
+   "tab:7F6B20"
+  ],
+  "jp": "ボク、おミズがダイスキなんだよね～♪<br>\nゴクゴク<br>\nのんじゃった♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442A18",
+  "end": "442A60",
+  "owners": [
+   "tab:7F6B24"
+  ],
+  "jp": "ボク、おミズはちょっとニガテなんだよね～<br>\nそのままとおりすぎちゃった★<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442A60",
+  "end": "442A98",
+  "owners": [
+   "tab:7F6B28"
+  ],
+  "jp": "ちょっとノドがかわいてたからヒトクチのんでひとやすみ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442A98",
+  "end": "442AC0",
+  "owners": [
+   "tab:7F6B2C"
+  ],
+  "jp": "すすんでたら<br>\nおおきなきを<br>\nはっけん！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442AC0",
+  "end": "442B00",
+  "owners": [
+   "tab:7F6B30"
+  ],
+  "jp": "ボク、きのカゲダイスキなんだよね～♪<br>\nモチロン<br>\nひとやすみさ♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442B00",
+  "end": "442B48",
+  "owners": [
+   "tab:7F6B34"
+  ],
+  "jp": "ボク、ハッパのニオイはニガテなんだよね～<br>\nそのままとおりすぎちゃった★<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442B48",
+  "end": "442B7C",
+  "owners": [
+   "tab:7F6B38"
+  ],
+  "jp": "つかれてたからきのカゲで<br>\nきゅうけい<br>\nしちゃった★<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442B7C",
+  "end": "442BB2",
+  "owners": [
+   "tab:7F6B3C"
+  ],
+  "jp": "すすんでたら<br>\nパチパチとヒがもえてるトコをはっけん！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442BB2",
+  "end": "442BF6",
+  "owners": [
+   "tab:7F6B40"
+  ],
+  "jp": "ボク、あついのダイスキなんだよね～♪<br>\nなんかゲンキがわいてきたよ♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442BF6",
+  "end": "442C36",
+  "owners": [
+   "tab:7F6B44"
+  ],
+  "jp": "ボク、あついのニガテなんだよね～<br>\nそのままとおりすぎちゃった★<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442C36",
+  "end": "442C62",
+  "owners": [
+   "tab:7F6B48"
+  ],
+  "jp": "みてたらなんかもえてきたぞ！なんちゃって★<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442C62",
+  "end": "442C8C",
+  "owners": [
+   "tab:7F6B4C"
+  ],
+  "jp": "すすんでたら<br>\nカゼのふくトコをはっけん！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442C8C",
+  "end": "442CD0",
+  "owners": [
+   "tab:7F6B50"
+  ],
+  "jp": "ボク、カゼってダイスキなんだよね～♪<br>\nなんかゲンキがわいてきたよ♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442CD0",
+  "end": "442D10",
+  "owners": [
+   "tab:7F6B54"
+  ],
+  "jp": "ボク、カゼってニガテなんだよね～<br>\nそのままとおりすぎちゃった★<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442D10",
+  "end": "442D38",
+  "owners": [
+   "tab:7F6B58"
+  ],
+  "jp": "ちょっとだけ<br>\nサワヤカな<br>\nキブンかな★<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442D38",
+  "end": "442D60",
+  "owners": [
+   "tab:7F6B5C"
+  ],
+  "jp": "すすんでたら<br>\nチョウコクを<br>\nはっけん！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442D60",
+  "end": "442DA4",
+  "owners": [
+   "tab:7F6B60"
+  ],
+  "jp": "ボクこういうのダイスキなんだよね～♪<br>\nなんかユウキがわいてきたよ♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442DA4",
+  "end": "442DE4",
+  "owners": [
+   "tab:7F6B64"
+  ],
+  "jp": "ボクまぶしいのニガテなんだよね～<br>\nそのままとおりすぎちゃった★<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442DE4",
+  "end": "442E1A",
+  "owners": [
+   "tab:7F6B68"
+  ],
+  "jp": "そのチョウコクみてたら<br>\nすこしキブンがやすらいだよ★<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442E1A",
+  "end": "442E42",
+  "owners": [
+   "tab:7F6B6C"
+  ],
+  "jp": "すすんでたら<br>\nブキミなモノをはっけん！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442E42",
+  "end": "442E84",
+  "owners": [
+   "tab:7F6B70"
+  ],
+  "jp": "ボク、こわいのダイスキなんだよね～♪<br>\nなんかこうふんしてきたよ♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442E84",
+  "end": "442EC4",
+  "owners": [
+   "tab:7F6B74"
+  ],
+  "jp": "ボクこういうのニガテなんだよね～<br>\nそのままとおりすぎちゃった…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442EC4",
+  "end": "442EF6",
+  "owners": [
+   "tab:7F6B78"
+  ],
+  "jp": "なんでこんなのかざってあるのかな～<br>\nま、いっか★<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442EF6",
+  "end": "442F1E",
+  "owners": [
+   "tab:7F6B7C"
+  ],
+  "jp": "すすんでたら<br>\n6つのタマを<br>\nはっけん！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442F1E",
+  "end": "442F50",
+  "owners": [
+   "tab:7F6B80"
+  ],
+  "jp": "フシギなキブンがしてきて<br>\nチカラがわいてきたよ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442F50",
+  "end": "442F56",
+  "owners": [
+   "tab:7F6B84"
+  ],
+  "jp": "なし<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442F56",
+  "end": "442F5C",
+  "owners": [
+   "tab:7F6B88"
+  ],
+  "jp": "なし<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442F5C",
+  "end": "442F84",
+  "owners": [
+   "tab:7F6B8C"
+  ],
+  "jp": "すすんでたら<br>\nこわれたハシラはっけん！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442F84",
+  "end": "442F8A",
+  "owners": [
+   "tab:7F6B90"
+  ],
+  "jp": "なし<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442F8A",
+  "end": "442FC4",
+  "owners": [
+   "tab:7F6B94"
+  ],
+  "jp": "きっとボクにはかんけいないねそのままとおりすぎちゃったよ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442FC4",
+  "end": "442FCA",
+  "owners": [
+   "tab:7F6B98"
+  ],
+  "jp": "なし<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "442FD2",
+  "end": "443002",
+  "owners": [
+   "tab:7F6BBC"
+  ],
+  "jp": "やった！<br>\nやっつけたよ‼ボクなら<br>\nらくしょう‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443002",
+  "end": "443038",
+  "owners": [
+   "tab:7F6BC0"
+  ],
+  "jp": "やった！<br>\nやっつけたよ‼なかなかてごわかったけどね★<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443038",
+  "end": "443088",
+  "owners": [
+   "tab:7F6BC4"
+  ],
+  "jp": "やった！<br>\nやっつけたよ‼あいしょうが<br>\nよかったから<br>\nたすかったかもしれないね★<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443088",
+  "end": "4430C6",
+  "owners": [
+   "tab:7F6BC8"
+  ],
+  "jp": "ふぅ～<br>\nなんとか<br>\nやっつけたよ！けいけんのさ…てカンジかな♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4430C6",
+  "end": "44310E",
+  "owners": [
+   "tab:7F6BCC"
+  ],
+  "jp": "ふぅ～<br>\nなんとか<br>\nやっつけたよ！いいライバルになれそうなヤツだったな★<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44310E",
+  "end": "443162",
+  "owners": [
+   "tab:7F6BD0"
+  ],
+  "jp": "ふぅ～<br>\nなんとか<br>\nやっつけたよ！でも…つぎは<br>\nどうなるか<br>\nわかんない<br>\nカンジだよ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443162",
+  "end": "4431A6",
+  "owners": [
+   "tab:7F6BD4"
+  ],
+  "jp": "はぁはぁ…<br>\nなんとかやっつけたみたい…<br>\nレベルさの<br>\nしょうりだね…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4431A6",
+  "end": "4431E4",
+  "owners": [
+   "tab:7F6BD8"
+  ],
+  "jp": "はぁはぁ…<br>\nなんとかやっつけたみたい…<br>\nこわかったな～もう…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4431E4",
+  "end": "44322E",
+  "owners": [
+   "tab:7F6BDC"
+  ],
+  "jp": "はぁはぁ…<br>\nなんとかやっつけたみたい…<br>\nかてたのが<br>\nしんじられないかも…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44322E",
+  "end": "443276",
+  "owners": [
+   "tab:7F6BE0"
+  ],
+  "jp": "うそー‼<br>\nボクまけたの⁉まけるハズは<br>\nなかったんだけどなぁ…<br>\nゴメン！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443276",
+  "end": "4432BA",
+  "owners": [
+   "tab:7F6BE4"
+  ],
+  "jp": "うそー‼<br>\nボクまけたの⁉ゆだんしてたのかもしれない～ゴメンなさ～い<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4432BA",
+  "end": "4432F0",
+  "owners": [
+   "tab:7F6BE8"
+  ],
+  "jp": "うそー‼<br>\nボクまけたの⁉けいけんぶそくだったのかも…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4432F0",
+  "end": "44332C",
+  "owners": [
+   "tab:7F6BEC"
+  ],
+  "jp": "うう…<br>\nまけちゃった…でもでも<br>\nつぎはぜったいまけないよ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44332C",
+  "end": "443384",
+  "owners": [
+   "tab:7F6BF0"
+  ],
+  "jp": "うう…<br>\nまけちゃった…でもでも<br>\nいいしょうぶ<br>\nだったよ！<br>\nいいライバルになれそうかも！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443384",
+  "end": "4433B8",
+  "owners": [
+   "tab:7F6BF4"
+  ],
+  "jp": "うう…<br>\nまけちゃった…けいけんのさがでちゃったな…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4433B8",
+  "end": "443406",
+  "owners": [
+   "tab:7F6BF8"
+  ],
+  "jp": "ゴメン…<br>\nやっぱり<br>\nかてなかった…けいけんのさでなんとかなるとおもったけど…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443406",
+  "end": "443452",
+  "owners": [
+   "tab:7F6BFC"
+  ],
+  "jp": "ゴメン…<br>\nやっぱり<br>\nかてなかった…あいしょうがわるかったからしかたないよね<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443452",
+  "end": "44349A",
+  "owners": [
+   "tab:7F6C00"
+  ],
+  "jp": "ゴメン…<br>\nやっぱり<br>\nかてなかった…そもそもムリなたたかいだったんだよ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44349A",
+  "end": "4434F0",
+  "owners": [
+   "tab:7F6C04"
+  ],
+  "jp": "ふぅ～<br>\nこんかいの<br>\nぼうけんは<br>\nせいこうだね！へへへ‼<br>\nはやくかえってあそびたいな♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4434F0",
+  "end": "443560",
+  "owners": [
+   "tab:7F6C08"
+  ],
+  "jp": "あ～ぁ…<br>\nこんかいの<br>\nぼうけんは<br>\nしっぱいだよ…このつぎは<br>\nガンバルから<br>\nまたボクを<br>\nぼうけんさせてほしいな！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443560",
+  "end": "44356E",
+  "owners": [
+   "tab:7F6B9C"
+  ],
+  "jp": "ちからUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44356E",
+  "end": "44357E",
+  "owners": [
+   "tab:7F6BA0"
+  ],
+  "jp": "ぼうぎょUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44357E",
+  "end": "44358E",
+  "owners": [
+   "tab:7F6BA4"
+  ],
+  "jp": "まりょくUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44358E",
+  "end": "44359E",
+  "owners": [
+   "tab:7F6BA8"
+  ],
+  "jp": "まぼうぎょUP<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44359E",
+  "end": "4435AE",
+  "owners": [
+   "tab:7F6BAC"
+  ],
+  "jp": "すばやさUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4435AE",
+  "end": "4435BE",
+  "owners": [
+   "tab:7F6BB0"
+  ],
+  "jp": "シフトEUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4435BE",
+  "end": "4435CC",
+  "owners": [
+   "tab:7F6BB4"
+  ],
+  "jp": "HPがUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4435CC",
+  "end": "4435EE",
+  "owners": [
+   "tab:7F6BB8"
+  ],
+  "jp": "すべての<br>\nのうりょくが<br>\nUP‼‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4435EE",
+  "end": "44360E",
+  "owners": [
+   "tab:7F6C0C"
+  ],
+  "jp": "よし<br>\nぼうけんに<br>\nでかけるか…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44360E",
+  "end": "443644",
+  "owners": [
+   "tab:7F6C10"
+  ],
+  "jp": "あいしょうも<br>\nレベルも<br>\nもんだいなしだらくしょうだぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443644",
+  "end": "443676",
+  "owners": [
+   "tab:7F6C14"
+  ],
+  "jp": "フン…レベルはともかく<br>\nあいしょうは<br>\nゆうりだな<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443676",
+  "end": "4436AE",
+  "owners": [
+   "tab:7F6C18"
+  ],
+  "jp": "レベルさは<br>\nあいしょうで<br>\nカバーすれば<br>\nなんとかなるぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4436AE",
+  "end": "4436DA",
+  "owners": [
+   "tab:7F6C1C"
+  ],
+  "jp": "レベルはすこしゆうりだな…<br>\nもんだいなしだ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4436DA",
+  "end": "44371C",
+  "owners": [
+   "tab:7F6C20"
+  ],
+  "jp": "じょうけんは<br>\nイーブンか…<br>\nということは<br>\nうんしだいってトコだな<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44371C",
+  "end": "443752",
+  "owners": [
+   "tab:7F6C24"
+  ],
+  "jp": "ま、たしょうのふりはハンデとおもえば<br>\nきにならないぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443752",
+  "end": "443794",
+  "owners": [
+   "tab:7F6C28"
+  ],
+  "jp": "あいしょうが<br>\nわるいぶん<br>\nレベルがひくいというわけか…チャラだな<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443794",
+  "end": "4437E0",
+  "owners": [
+   "tab:7F6C2C"
+  ],
+  "jp": "あいしょうを<br>\nムシして<br>\nぼうけんに<br>\nだされちゃあ<br>\nこっちは<br>\nたまらねぇぜ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4437E0",
+  "end": "443824",
+  "owners": [
+   "tab:7F6C30"
+  ],
+  "jp": "さいあくの<br>\nじょうけんだぜどうやらオレのことはどうでもいいらしいな<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443824",
+  "end": "443880",
+  "owners": [
+   "tab:7F6C34"
+  ],
+  "jp": "ここはすでに<br>\nダレかがクリアしてるのか…<br>\nぼうけんする<br>\nひつようなんてないんじゃねえのか？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443880",
+  "end": "4438C0",
+  "owners": [
+   "tab:7F6C38"
+  ],
+  "jp": "まだダレも<br>\nクリアしてないばしょか…<br>\nきたいされちゃこまるぜ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4438C0",
+  "end": "44391A",
+  "owners": [
+   "tab:7F6C3C"
+  ],
+  "jp": "どうくつって<br>\nヤツは<br>\nどうもスキに<br>\nなれないぜ…<br>\nもっとも<br>\nスキなばしょ<br>\nなんてないがな<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44391A",
+  "end": "443952",
+  "owners": [
+   "tab:7F6C40"
+  ],
+  "jp": "フン<br>\nいきどまりってことは<br>\nそろそろボスのおでましか？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443952",
+  "end": "44398E",
+  "owners": [
+   "tab:7F6C44"
+  ],
+  "jp": "やっと<br>\nたいしょうの<br>\nおでましか…<br>\nとっとと<br>\nすまそうぜ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44398E",
+  "end": "4439C8",
+  "owners": [
+   "tab:7F6C48"
+  ],
+  "jp": "もりってのは<br>\nテキのばしょがわからないからゆだんできんな<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4439C8",
+  "end": "443A06",
+  "owners": [
+   "tab:7F6C4C"
+  ],
+  "jp": "ん？<br>\nおいおいアイツまるみえだぜ…かくれるつもりないのかよ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443A06",
+  "end": "443A44",
+  "owners": [
+   "tab:7F6C50"
+  ],
+  "jp": "よう！<br>\nどうどうとしてごリッパだね！おてあわせ<br>\nねがおうか！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443A44",
+  "end": "443A8C",
+  "owners": [
+   "tab:7F6C54"
+  ],
+  "jp": "やまみちか…<br>\nあしばがわるくにげばもない<br>\nさけたいばしょのひとつだな…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443A8C",
+  "end": "443ACE",
+  "owners": [
+   "tab:7F6C58"
+  ],
+  "jp": "ちょうじょうがみえてきたぜ<br>\nこんかいは<br>\nどんなヤツが<br>\nいるんだ？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443ACE",
+  "end": "443AF6",
+  "owners": [
+   "tab:7F6C5C"
+  ],
+  "jp": "おまえがボスかわるいが<br>\nきえてもらうぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443AF6",
+  "end": "443B42",
+  "owners": [
+   "tab:7F6C60"
+  ],
+  "jp": "ここはやけに<br>\nムスぜ…<br>\nアセでブキを<br>\nとりおとすこともある…<br>\nきをつけよう<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443B42",
+  "end": "443B74",
+  "owners": [
+   "tab:7F6C64"
+  ],
+  "jp": "なんとなく<br>\nフンイキが<br>\nかわって<br>\nきやがったぜ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443B74",
+  "end": "443B9A",
+  "owners": [
+   "tab:7F6C68"
+  ],
+  "jp": "おでましか！<br>\nもんどうむよういくぜ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443B9A",
+  "end": "443BE4",
+  "owners": [
+   "tab:7F6C6C"
+  ],
+  "jp": "ひゅ～♪<br>\nなかなかステキなばしょだな！あしを<br>\nふみはずしたらアウトだな♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443BE4",
+  "end": "443C16",
+  "owners": [
+   "tab:7F6C70"
+  ],
+  "jp": "フン…<br>\nなんとなく<br>\nもりあがって<br>\nきたカンジだぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443C16",
+  "end": "443C50",
+  "owners": [
+   "tab:7F6C74"
+  ],
+  "jp": "よう！<br>\nベストな<br>\nタイミングで<br>\nとうじょうか？ニクイね♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443C50",
+  "end": "443C92",
+  "owners": [
+   "tab:7F6C78"
+  ],
+  "jp": "チッ…<br>\nなんてトコだ…すなだらけだわホコリがまうわさいあくだぜ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443C92",
+  "end": "443CC6",
+  "owners": [
+   "tab:7F6C7C"
+  ],
+  "jp": "さすがに<br>\nつかれてきたぜはやいとこ<br>\nでてきやがれ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443CC6",
+  "end": "443CF8",
+  "owners": [
+   "tab:7F6C80"
+  ],
+  "jp": "ふぅ…まちくたびれたぜ！<br>\nさあて<br>\nおっぱじめるか<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443CF8",
+  "end": "443D40",
+  "owners": [
+   "tab:7F6C84"
+  ],
+  "jp": "フン<br>\nしめっぽくて<br>\nきにいらねえなようきなボスはきたいできそうにないぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443D40",
+  "end": "443D88",
+  "owners": [
+   "tab:7F6C88"
+  ],
+  "jp": "そろそろ<br>\nおわりにしたいもんだぜ…<br>\nどうせたいしたボスじゃねえんだろ？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443D88",
+  "end": "443DC2",
+  "owners": [
+   "tab:7F6C8C"
+  ],
+  "jp": "…‼…ぜんげんてっかいだ！<br>\nよそうしたよりやりそうだぜ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443DC2",
+  "end": "443E0E",
+  "owners": [
+   "tab:7F6C90"
+  ],
+  "jp": "なかなか<br>\nフンイキのいいばしょだな…<br>\nたまには<br>\nこんなキブンもわるくないぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443E0E",
+  "end": "443E3A",
+  "owners": [
+   "tab:7F6C94"
+  ],
+  "jp": "ま、どこにでもイヤなヤツってのはいるもんだ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443E3A",
+  "end": "443E5E",
+  "owners": [
+   "tab:7F6C98"
+  ],
+  "jp": "フン…おまえのことだよ！<br>\nいくぜ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443E5E",
+  "end": "443EAA",
+  "owners": [
+   "tab:7F6C9C"
+  ],
+  "jp": "オレはいま<br>\nぼうけんちゅうだったよな…<br>\nいっしゅん<br>\nわすれそうに<br>\nなったぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443EAA",
+  "end": "443EE4",
+  "owners": [
+   "tab:7F6CA0"
+  ],
+  "jp": "お…<br>\nあそこで<br>\nエラそうに<br>\nしてるヤツが<br>\nボスってわけか<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443EE4",
+  "end": "443F1A",
+  "owners": [
+   "tab:7F6CA4"
+  ],
+  "jp": "わるいが<br>\nここはおまえのものじゃないんでな…きえな‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443F1A",
+  "end": "443F5E",
+  "owners": [
+   "tab:7F6CA8"
+  ],
+  "jp": "ここはカゼが<br>\nつよいな…<br>\nむかいカゼは<br>\nあるきにくくてイヤになるぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443F5E",
+  "end": "443F88",
+  "owners": [
+   "tab:7F6CAC"
+  ],
+  "jp": "ん？<br>\nようやく<br>\nかざむきが<br>\nかわったぜ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443F88",
+  "end": "443FB4",
+  "owners": [
+   "tab:7F6CB0"
+  ],
+  "jp": "おまえがボスかようやくおわりにできそうだぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443FB4",
+  "end": "443FFA",
+  "owners": [
+   "tab:7F6CB4"
+  ],
+  "jp": "おいおい…<br>\n「とう」って<br>\nいわれてもマドひとつなくちゃじっかんないぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "443FFA",
+  "end": "444036",
+  "owners": [
+   "tab:7F6CB8"
+  ],
+  "jp": "ん？<br>\nトビラがあるってことは<br>\nさいじょうかいというわけか？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444036",
+  "end": "44406E",
+  "owners": [
+   "tab:7F6CBC"
+  ],
+  "jp": "おまえには<br>\nウラミはないがクリアしなきゃならないんでな<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44406E",
+  "end": "4440A8",
+  "owners": [
+   "tab:7F6CC0"
+  ],
+  "jp": "こうものどかなフンイキじゃ<br>\nオレもさすがにねたくなるぜ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4440A8",
+  "end": "4440D6",
+  "owners": [
+   "tab:7F6CC4"
+  ],
+  "jp": "さ～て<br>\nどこからオレをねらってやがるのかな？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4440D6",
+  "end": "444108",
+  "owners": [
+   "tab:7F6CC8"
+  ],
+  "jp": "さっさと<br>\nおわらせて<br>\nひとねむり<br>\nさせてもらうぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444108",
+  "end": "44414C",
+  "owners": [
+   "tab:7F6CCC"
+  ],
+  "jp": "ヒカリぞくせいのばしょか…<br>\nガラにもなく<br>\nきんちょう<br>\nしちまったぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44414C",
+  "end": "44417C",
+  "owners": [
+   "tab:7F6CD0"
+  ],
+  "jp": "さ～て<br>\nボスのカオを<br>\nおがませて<br>\nいただくか！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44417C",
+  "end": "4441BA",
+  "owners": [
+   "tab:7F6CD4"
+  ],
+  "jp": "おいおい<br>\nガッカリさせるなって！<br>\nぜんぜんふつうじゃねえか！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4441BA",
+  "end": "4441FC",
+  "owners": [
+   "tab:7F6CD8"
+  ],
+  "jp": "さすがにヒカリぞくせいだな…ハダにかんじるフンイキが<br>\nちがうぜ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4441FC",
+  "end": "444228",
+  "owners": [
+   "tab:7F6CDC"
+  ],
+  "jp": "あまりまたせるのもわるいからいそぐとするか<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444228",
+  "end": "444256",
+  "owners": [
+   "tab:7F6CE0"
+  ],
+  "jp": "よう！<br>\nまったかい？<br>\nとっとと<br>\nはじめるか！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444256",
+  "end": "444290",
+  "owners": [
+   "tab:7F6CE4"
+  ],
+  "jp": "わりとあやしいフンイキだな…さすがのオレもビビりそうだぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444290",
+  "end": "4442C8",
+  "owners": [
+   "tab:7F6CE8"
+  ],
+  "jp": "こんどのボスはけっこうホネがありそうな<br>\nよかんがするぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4442C8",
+  "end": "4442FE",
+  "owners": [
+   "tab:7F6CEC"
+  ],
+  "jp": "おいおい…<br>\nあんなにキタイさせといて<br>\nおまえがボスか<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4442FE",
+  "end": "444356",
+  "owners": [
+   "tab:7F6CF0"
+  ],
+  "jp": "いちいち<br>\nスキキライを<br>\nいうきはないがさすがに<br>\nこのニオイは<br>\nカンベンして<br>\nほしいぜ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444356",
+  "end": "444382",
+  "owners": [
+   "tab:7F6CF4"
+  ],
+  "jp": "そろそろボスとごたいめんか…きがすすまんな<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444382",
+  "end": "4443BA",
+  "owners": [
+   "tab:7F6CF8"
+  ],
+  "jp": "ながいするきはないんでな！<br>\nそっこうで<br>\nおわらせるぜ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4443BA",
+  "end": "444414",
+  "owners": [
+   "tab:7F6CFC"
+  ],
+  "jp": "ぞくせいの<br>\nないばしょか…ゆうりも<br>\nふりもない<br>\nチカラだけが<br>\nしょうぶを<br>\nきめるばしょだ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444414",
+  "end": "44443E",
+  "owners": [
+   "tab:7F6D00"
+  ],
+  "jp": "いよいよだな…しょうぶは<br>\nいっしゅんだ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44443E",
+  "end": "444462",
+  "owners": [
+   "tab:7F6D04"
+  ],
+  "jp": "わるいが<br>\nさいしょから<br>\nとばすぜ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444462",
+  "end": "444494",
+  "owners": [
+   "tab:7F6D08"
+  ],
+  "jp": "ちっ…<br>\nかわりばえの<br>\nしないインキなばしょだぜ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444494",
+  "end": "4444C0",
+  "owners": [
+   "tab:7F6D0C"
+  ],
+  "jp": "しかし…こんなトコにすんでてたのしいのかね<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4444C0",
+  "end": "4444F8",
+  "owners": [
+   "tab:7F6D10"
+  ],
+  "jp": "そこんとこ<br>\nどうなんだ？<br>\nたおすまえに<br>\nきいといてやる<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4444F8",
+  "end": "444550",
+  "owners": [
+   "tab:7F6D14"
+  ],
+  "jp": "チィ…<br>\nふいうちとは<br>\nユダンしたぜ…ガラにもなく<br>\nムキになって<br>\nはんげき<br>\nしちまった…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444550",
+  "end": "444594",
+  "owners": [
+   "tab:7F6D18"
+  ],
+  "jp": "しょうめんからくるとは<br>\nげいがないな…オレにかてるとおもったのか？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444594",
+  "end": "4445D6",
+  "owners": [
+   "tab:7F6D1C"
+  ],
+  "jp": "オレにせなかをむけるとは<br>\nバカなヤツだ…いちげきで<br>\nしとめたぜ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4445D6",
+  "end": "444624",
+  "owners": [
+   "tab:7F6D20"
+  ],
+  "jp": "ホゥ…<br>\nかわったヤツもいるもんだな<br>\nあいつからは<br>\nサッキをかんじなかったぜ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444624",
+  "end": "44467E",
+  "owners": [
+   "tab:7F6D24"
+  ],
+  "jp": "できれば<br>\nムダなバトルはしたくないが…はなしの<br>\nつうじるヤツがすくなくて<br>\nまいっちまうぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44467E",
+  "end": "4446CC",
+  "owners": [
+   "tab:7F6D28"
+  ],
+  "jp": "フン…<br>\nせいいっぱい<br>\nつよがってた<br>\nみたいだが<br>\nオレをみるなりにげやがったぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4446CC",
+  "end": "444712",
+  "owners": [
+   "tab:7F6D2C"
+  ],
+  "jp": "ん？<br>\nなにかいたか？いっしゅんで<br>\nにげてったんでよくみえなかったぜ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444712",
+  "end": "444722",
+  "owners": [
+   "tab:7F6D30"
+  ],
+  "jp": "ん？イズミか…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444722",
+  "end": "444760",
+  "owners": [
+   "tab:7F6D34"
+  ],
+  "jp": "こんなところにイズミとはな…ありがたく<br>\nノドを<br>\nうるおしたぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444760",
+  "end": "444786",
+  "owners": [
+   "tab:7F6D38"
+  ],
+  "jp": "チッ…<br>\nイズミなんかにきょうみないぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444786",
+  "end": "4447AC",
+  "owners": [
+   "tab:7F6D3C"
+  ],
+  "jp": "まあ、ついでだヒトクチのんでいくか…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4447AC",
+  "end": "4447D6",
+  "owners": [
+   "tab:7F6D40"
+  ],
+  "jp": "ん？どうして<br>\nこんなところにたいぼくが…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4447D6",
+  "end": "44480E",
+  "owners": [
+   "tab:7F6D44"
+  ],
+  "jp": "ちょうどいい<br>\nやすんでいくかふぅ…キモチがやすらぐぜ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44480E",
+  "end": "444832",
+  "owners": [
+   "tab:7F6D48"
+  ],
+  "jp": "チッ…<br>\nこんなきに<br>\nきょうみないぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444832",
+  "end": "44485A",
+  "owners": [
+   "tab:7F6D4C"
+  ],
+  "jp": "ま、たしょうはキブンも<br>\nやわらいだかな<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44485A",
+  "end": "44486E",
+  "owners": [
+   "tab:7F6D50"
+  ],
+  "jp": "ん？<br>\nかがりびか…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44486E",
+  "end": "4448AE",
+  "owners": [
+   "tab:7F6D54"
+  ],
+  "jp": "ダレがたいたかしらないが<br>\nからだじゅうのチがたぎって<br>\nくるぜ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4448AE",
+  "end": "4448D4",
+  "owners": [
+   "tab:7F6D58"
+  ],
+  "jp": "チッ…<br>\nこんなものに<br>\nきょうみないぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4448D4",
+  "end": "4448FC",
+  "owners": [
+   "tab:7F6D5C"
+  ],
+  "jp": "ま、たしょうはからだが<br>\nあったまったぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4448FC",
+  "end": "44490C",
+  "owners": [
+   "tab:7F6D60"
+  ],
+  "jp": "ん？カゼか…？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44490C",
+  "end": "444940",
+  "owners": [
+   "tab:7F6D64"
+  ],
+  "jp": "ふぅ…<br>\nイヤなくうきがながれていく<br>\nカンジがするぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444940",
+  "end": "44496A",
+  "owners": [
+   "tab:7F6D68"
+  ],
+  "jp": "チッ…<br>\nさっさと<br>\nとおりすぎるにかぎるぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44496A",
+  "end": "444992",
+  "owners": [
+   "tab:7F6D6C"
+  ],
+  "jp": "ま、すこしは<br>\nキブンが<br>\nスッキリしたか<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444992",
+  "end": "4449B4",
+  "owners": [
+   "tab:7F6D70"
+  ],
+  "jp": "ん？<br>\nなんだこの<br>\nチョウゾウは…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4449B4",
+  "end": "4449E0",
+  "owners": [
+   "tab:7F6D74"
+  ],
+  "jp": "フシギとオレとおなじはちょうをかんじるぜ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4449E0",
+  "end": "444A06",
+  "owners": [
+   "tab:7F6D78"
+  ],
+  "jp": "チッ…<br>\nこんなものに<br>\nきょうみないぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444A06",
+  "end": "444A2E",
+  "owners": [
+   "tab:7F6D7C"
+  ],
+  "jp": "フシギなキブンがする…<br>\nわるくないぜ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444A2E",
+  "end": "444A3E",
+  "owners": [
+   "tab:7F6D80"
+  ],
+  "jp": "ん？ドクロか…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444A3E",
+  "end": "444A6A",
+  "owners": [
+   "tab:7F6D84"
+  ],
+  "jp": "フシギとオレとおなじはちょうをかんじるぜ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444A6A",
+  "end": "444A90",
+  "owners": [
+   "tab:7F6D88"
+  ],
+  "jp": "チッ…<br>\nこんなものに<br>\nきょうみないぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444A90",
+  "end": "444AB8",
+  "owners": [
+   "tab:7F6D8C"
+  ],
+  "jp": "フシギなキブンがする…<br>\nわるくないぜ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444AB8",
+  "end": "444ACE",
+  "owners": [
+   "tab:7F6D90"
+  ],
+  "jp": "ん？<br>\nなんだコレは…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444ACE",
+  "end": "444B02",
+  "owners": [
+   "tab:7F6D94"
+  ],
+  "jp": "<br>\n……‼‼<br>\nフシギだ…<br>\nチカラが…<br>\nわいてきたぜ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444B02",
+  "end": "444B08",
+  "owners": [
+   "tab:7F6D98"
+  ],
+  "jp": "なし<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444B08",
+  "end": "444B0E",
+  "owners": [
+   "tab:7F6D9C"
+  ],
+  "jp": "なし<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444B0E",
+  "end": "444B24",
+  "owners": [
+   "tab:7F6DA0"
+  ],
+  "jp": "ん？<br>\nなんだコレは…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444B24",
+  "end": "444B2A",
+  "owners": [
+   "tab:7F6DA4"
+  ],
+  "jp": "なし<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444B2A",
+  "end": "444B50",
+  "owners": [
+   "tab:7F6DA8"
+  ],
+  "jp": "チッ…<br>\nこんなものに<br>\nきょうみないぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444B50",
+  "end": "444B56",
+  "owners": [
+   "tab:7F6DAC"
+  ],
+  "jp": "なし<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444B5E",
+  "end": "444B98",
+  "owners": [
+   "tab:7F6DD0"
+  ],
+  "jp": "フン…<br>\nかってとうぜんだからな…<br>\nとくにうれしくもないぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444B98",
+  "end": "444BCE",
+  "owners": [
+   "tab:7F6DD4"
+  ],
+  "jp": "フン…<br>\nかってとうぜんだからな…<br>\nどうってことないぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444BCE",
+  "end": "444C00",
+  "owners": [
+   "tab:7F6DD8"
+  ],
+  "jp": "フン…<br>\nかってとうぜんだからな…<br>\nあまくみるなよ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444C00",
+  "end": "444C4A",
+  "owners": [
+   "tab:7F6DDC"
+  ],
+  "jp": "いいしょうぶ<br>\nだったぜ…<br>\nオレがあいて<br>\nだったのが<br>\nおまえの<br>\nはいいんだ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444C4A",
+  "end": "444C86",
+  "owners": [
+   "tab:7F6DE0"
+  ],
+  "jp": "かみひとえ<br>\nだったな…<br>\nつぎがあったらはたしてどうなるか…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444C86",
+  "end": "444CC0",
+  "owners": [
+   "tab:7F6DE4"
+  ],
+  "jp": "おしかったな…キリフダは<br>\nさいごまで<br>\nとっておくもんだぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444CC0",
+  "end": "444D02",
+  "owners": [
+   "tab:7F6DE8"
+  ],
+  "jp": "ふぅ…なんとかたおせたな…<br>\nけいけんのさがしょうはいを<br>\nわけたな<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444D02",
+  "end": "444D3A",
+  "owners": [
+   "tab:7F6DEC"
+  ],
+  "jp": "ふぅ…なんとかたおせたな…<br>\nひさびさに<br>\nヒヤリとしたぜ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444D3A",
+  "end": "444D72",
+  "owners": [
+   "tab:7F6DF0"
+  ],
+  "jp": "ふぅ…なんとかたおせたな…<br>\nじゅみょうが<br>\nちぢんだぜ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444D72",
+  "end": "444DA8",
+  "owners": [
+   "tab:7F6DF4"
+  ],
+  "jp": "な…なんだと⁉オレが…<br>\nまけたのか…⁉な、なぜ…だ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444DA8",
+  "end": "444DDE",
+  "owners": [
+   "tab:7F6DF8"
+  ],
+  "jp": "な…なんだと⁉オレが…<br>\nまけたのか…⁉わらえないぜ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444DDE",
+  "end": "444E14",
+  "owners": [
+   "tab:7F6DFC"
+  ],
+  "jp": "な…なんだと⁉オレが…<br>\nまけたのか…⁉ゆだんしたか…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444E14",
+  "end": "444E48",
+  "owners": [
+   "tab:7F6E00"
+  ],
+  "jp": "オレのまけだ…さいごに…<br>\nゆだんが…<br>\nでたようだ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444E48",
+  "end": "444E78",
+  "owners": [
+   "tab:7F6E04"
+  ],
+  "jp": "オレのまけだ…だが…<br>\nいいしょうぶ…だったぜ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444E78",
+  "end": "444EA4",
+  "owners": [
+   "tab:7F6E08"
+  ],
+  "jp": "オレのまけだ…ヤツのなまえはわすれないぜ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444EA4",
+  "end": "444EDE",
+  "owners": [
+   "tab:7F6E0C"
+  ],
+  "jp": "グッ…<br>\nやはりダメか…だが…<br>\nつぎは…こうはいかないぜ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444EDE",
+  "end": "444F18",
+  "owners": [
+   "tab:7F6E10"
+  ],
+  "jp": "グッ…<br>\nやはりダメか…だが…<br>\nこうかいは…<br>\nしてないぜ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444F18",
+  "end": "444F4C",
+  "owners": [
+   "tab:7F6E14"
+  ],
+  "jp": "グッ…<br>\nやはりダメか…だが…<br>\nいつか…<br>\nかならず…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444F4C",
+  "end": "444FAC",
+  "owners": [
+   "tab:7F6E18"
+  ],
+  "jp": "こんかいも<br>\nなんとか<br>\nいきのびられたようだ…<br>\nかえったら<br>\nあついコーヒーでもいれると<br>\nするか…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444FAC",
+  "end": "444FE6",
+  "owners": [
+   "tab:7F6E1C"
+  ],
+  "jp": "オレはまだまだちからぶそく…もっともっと…つよくなるぜ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444FE6",
+  "end": "444FF4",
+  "owners": [
+   "tab:7F6DB0"
+  ],
+  "jp": "ちからUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "444FF4",
+  "end": "445004",
+  "owners": [
+   "tab:7F6DB4"
+  ],
+  "jp": "ぼうぎょUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445004",
+  "end": "445014",
+  "owners": [
+   "tab:7F6DB8"
+  ],
+  "jp": "まりょくUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445014",
+  "end": "445024",
+  "owners": [
+   "tab:7F6DBC"
+  ],
+  "jp": "まぼうぎょUP<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445024",
+  "end": "445034",
+  "owners": [
+   "tab:7F6DC0"
+  ],
+  "jp": "すばやさUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445034",
+  "end": "445044",
+  "owners": [
+   "tab:7F6DC4"
+  ],
+  "jp": "シフトEUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445044",
+  "end": "445052",
+  "owners": [
+   "tab:7F6DC8"
+  ],
+  "jp": "HPがUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445052",
+  "end": "445074",
+  "owners": [
+   "tab:7F6DCC"
+  ],
+  "jp": "すべての<br>\nのうりょくが<br>\nUP‼‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445074",
+  "end": "445098",
+  "owners": [
+   "tab:7F6E20"
+  ],
+  "jp": "さ～て<br>\nぼうけんに<br>\nしゅっぱつね♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445098",
+  "end": "4450D4",
+  "owners": [
+   "tab:7F6E24"
+  ],
+  "jp": "うふっ★<br>\nこれいじょう<br>\nないくらい<br>\nらくしょうな<br>\nトコね！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4450D4",
+  "end": "44510C",
+  "owners": [
+   "tab:7F6E28"
+  ],
+  "jp": "うふっ★<br>\nこんかいは<br>\nきらくに<br>\nぼうけんできそうだわ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44510C",
+  "end": "445142",
+  "owners": [
+   "tab:7F6E2C"
+  ],
+  "jp": "うふっ★<br>\nあたしのとくいなトコだから<br>\nきがラクだわぁ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445142",
+  "end": "445172",
+  "owners": [
+   "tab:7F6E30"
+  ],
+  "jp": "ここって<br>\nレベルひくいしなんとかなりそうだわ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445172",
+  "end": "4451BE",
+  "owners": [
+   "tab:7F6E34"
+  ],
+  "jp": "な～んか<br>\nあいしょうも<br>\nレベルも<br>\nふつうっぽくてあたしには<br>\nにあわないわ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4451BE",
+  "end": "4451FE",
+  "owners": [
+   "tab:7F6E38"
+  ],
+  "jp": "ちょっとぉ…<br>\nもうすこし<br>\nラクなトコに<br>\nしてほしかったわねえ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4451FE",
+  "end": "445236",
+  "owners": [
+   "tab:7F6E3C"
+  ],
+  "jp": "ちょっとぉ！<br>\nなんでここ⁉<br>\nかえったら<br>\nおしおきだわ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445236",
+  "end": "445270",
+  "owners": [
+   "tab:7F6E40"
+  ],
+  "jp": "ちょっとぉ！<br>\nなんでここ⁉<br>\nキャンセルできないのかしら！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445270",
+  "end": "4452AA",
+  "owners": [
+   "tab:7F6E44"
+  ],
+  "jp": "ちょっとぉ！<br>\nなんでここ⁉<br>\nも～サイアクなトコじゃない！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4452AA",
+  "end": "4452EC",
+  "owners": [
+   "tab:7F6E48"
+  ],
+  "jp": "そういえばここまえにダレか<br>\nクリアしてるのよねえ…<br>\nふまんだわ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4452EC",
+  "end": "445330",
+  "owners": [
+   "tab:7F6E4C"
+  ],
+  "jp": "そういえばここあたしが<br>\nはじめてクリアすることになるのね～きっと★<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445330",
+  "end": "445370",
+  "owners": [
+   "tab:7F6E50"
+  ],
+  "jp": "いや～ん<br>\nツチのニオイ<br>\nキラ～イ<br>\nイキをとめて<br>\nすすもうかしら<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445370",
+  "end": "4453A0",
+  "owners": [
+   "tab:7F6E54"
+  ],
+  "jp": "あら？<br>\nもうおくまで<br>\nたどりついた<br>\nみたいね…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4453A0",
+  "end": "4453CA",
+  "owners": [
+   "tab:7F6E58"
+  ],
+  "jp": "やっぱり…<br>\n<br>\nみのがしてくれないかしら♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4453CA",
+  "end": "445420",
+  "owners": [
+   "tab:7F6E5C"
+  ],
+  "jp": "ん～★<br>\nもりのニオイはいいわぁ♪<br>\nいやしけいの<br>\nあたしが<br>\nぎゃくにいやされちゃうわ♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445420",
+  "end": "445446",
+  "owners": [
+   "tab:7F6E60"
+  ],
+  "jp": "あら？<br>\nむこうになにかいるみたいね？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445446",
+  "end": "44547A",
+  "owners": [
+   "tab:7F6E64"
+  ],
+  "jp": "み～つけた♪<br>\nさっそく<br>\nおあいてして<br>\nちょうだい♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44547A",
+  "end": "4454D6",
+  "owners": [
+   "tab:7F6E68"
+  ],
+  "jp": "ちょっとぉ…<br>\nどうして<br>\nあたしがやまをのぼらなきゃ<br>\nならないの？<br>\nなっとく<br>\nいかないわね！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4454D6",
+  "end": "445506",
+  "owners": [
+   "tab:7F6E6C"
+  ],
+  "jp": "いや～ん<br>\nあしがむくんできちゃったじゃないの～<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445506",
+  "end": "445532",
+  "owners": [
+   "tab:7F6E70"
+  ],
+  "jp": "アナタのせいよわかってるの！かくごなさい‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445532",
+  "end": "445588",
+  "owners": [
+   "tab:7F6E74"
+  ],
+  "jp": "なによ～ここ！あついわね！<br>\nまさかあたしをうすぎにするのがねらいじゃないでしょうね？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445588",
+  "end": "4455AE",
+  "owners": [
+   "tab:7F6E78"
+  ],
+  "jp": "あら？<br>\nなんかフンイキかわったかしら<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4455AE",
+  "end": "4455DA",
+  "owners": [
+   "tab:7F6E7C"
+  ],
+  "jp": "え～<br>\nアナタがボス？らくしょうってカンジ♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4455DA",
+  "end": "44561C",
+  "owners": [
+   "tab:7F6E80"
+  ],
+  "jp": "サイアクな<br>\nばしょだわ…<br>\nもはや、ヒトのすむトコじゃ<br>\nないわね…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44561C",
+  "end": "445654",
+  "owners": [
+   "tab:7F6E84"
+  ],
+  "jp": "もう、ボスでもなんでもいいからさっさとでてらっしゃい！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445654",
+  "end": "44568A",
+  "owners": [
+   "tab:7F6E88"
+  ],
+  "jp": "でたわね！<br>\nアナタよく<br>\nこんなトコに<br>\nすんでるわね！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44568A",
+  "end": "4456CA",
+  "owners": [
+   "tab:7F6E8C"
+  ],
+  "jp": "あ～あ<br>\nすなだらけ…<br>\nもっとステキなスポットは<br>\nないのかしらね<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4456CA",
+  "end": "4456F4",
+  "owners": [
+   "tab:7F6E90"
+  ],
+  "jp": "あ～んおハダがかわいてきた<br>\nみたいだわ～<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4456F4",
+  "end": "445740",
+  "owners": [
+   "tab:7F6E94"
+  ],
+  "jp": "これまた<br>\nうるおいの<br>\nなさそうなヒトだわね…<br>\nそのままラクにしてあげるわ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445740",
+  "end": "44578E",
+  "owners": [
+   "tab:7F6E98"
+  ],
+  "jp": "あ～ん★<br>\nヒンヤリして<br>\nいいキモチ～♪でもあしもとがちょっと<br>\nひえすぎかしら<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44578E",
+  "end": "4457B6",
+  "owners": [
+   "tab:7F6E9C"
+  ],
+  "jp": "…そろそろ<br>\nおわりっぽい<br>\nフンイキね！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4457B6",
+  "end": "4457DC",
+  "owners": [
+   "tab:7F6EA0"
+  ],
+  "jp": "いや～ん！<br>\nこのヒトのカオコワ～イ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4457DC",
+  "end": "445830",
+  "owners": [
+   "tab:7F6EA4"
+  ],
+  "jp": "ココよココ！<br>\nあたしがまってたスポットは<br>\nココなのよ♪<br>\nステキなばしょじゃないの♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445830",
+  "end": "445864",
+  "owners": [
+   "tab:7F6EA8"
+  ],
+  "jp": "あたしの<br>\nおきにいりの<br>\nばしょをあらすのはダレ…⁉<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445864",
+  "end": "445896",
+  "owners": [
+   "tab:7F6EAC"
+  ],
+  "jp": "ちょっと！<br>\nアナタここからすぐにでていきなさい‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445896",
+  "end": "4458DE",
+  "owners": [
+   "tab:7F6EB0"
+  ],
+  "jp": "さわやかだわ…ぼうけんなんてヤメちゃおっかな～んてね！<br>\nやっぱダメよね<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4458DE",
+  "end": "445918",
+  "owners": [
+   "tab:7F6EB4"
+  ],
+  "jp": "なんかむこうにこのばしょに<br>\nにあわないヒトいるじゃない…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445918",
+  "end": "445958",
+  "owners": [
+   "tab:7F6EB8"
+  ],
+  "jp": "ちょっと！<br>\nアナタのせいでフンイキ<br>\nぶちこわしよ！きえなさい‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445958",
+  "end": "445994",
+  "owners": [
+   "tab:7F6EBC"
+  ],
+  "jp": "いや～ん<br>\nカゼがつよくてすすめないわ～あん…<br>\nメにゴミが…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445994",
+  "end": "4459CC",
+  "owners": [
+   "tab:7F6EC0"
+  ],
+  "jp": "げんかいだわ！さっきから<br>\nあるきっぱなしじゃないのよ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4459CC",
+  "end": "445A12",
+  "owners": [
+   "tab:7F6EC4"
+  ],
+  "jp": "ねえ…アナタがボスなの？<br>\nきゃ～うれし～いよいよここでおわりなのね♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445A12",
+  "end": "445A64",
+  "owners": [
+   "tab:7F6EC8"
+  ],
+  "jp": "あたしはべつにたかいトコが<br>\nスキなわけじゃないのよ？<br>\nごかいしないでほしいわね！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445A64",
+  "end": "445A8A",
+  "owners": [
+   "tab:7F6ECC"
+  ],
+  "jp": "あら？<br>\nげひんなトビラがみえてきたわ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445A8A",
+  "end": "445AD0",
+  "owners": [
+   "tab:7F6ED0"
+  ],
+  "jp": "やっぱアナタもげひんなカンジだわね…<br>\nべつにキタイはしてなかったけど<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445AD0",
+  "end": "445B18",
+  "owners": [
+   "tab:7F6ED4"
+  ],
+  "jp": "とてもやさしいフンイキがするわぁ♪いやしパワーがじゅうでんできそうね♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445B18",
+  "end": "445B5A",
+  "owners": [
+   "tab:7F6ED8"
+  ],
+  "jp": "さて…<br>\nそろそろみたいなカンジね？<br>\nどこからでも<br>\nいらっしゃい♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445B5A",
+  "end": "445B8C",
+  "owners": [
+   "tab:7F6EDC"
+  ],
+  "jp": "アナタも<br>\nいやしパワーをひつようとしてるようね！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445B8C",
+  "end": "445BE8",
+  "owners": [
+   "tab:7F6EE0"
+  ],
+  "jp": "なんかくうきがピリピリしてるわね…<br>\nこのあたしを<br>\nきんちょう<br>\nさせるなんて<br>\nやるじゃない！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445BE8",
+  "end": "445C20",
+  "owners": [
+   "tab:7F6EE4"
+  ],
+  "jp": "ヒカリぞくせいがなによ！<br>\nボスもどうせ<br>\nたいしたこと…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445C20",
+  "end": "445C4C",
+  "owners": [
+   "tab:7F6EE8"
+  ],
+  "jp": "きゃ～！いまのウソで～す！<br>\nごめんなさい！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445C4C",
+  "end": "445C92",
+  "owners": [
+   "tab:7F6EEC"
+  ],
+  "jp": "ここもたしか<br>\nヒカリぞくせいだったわよね…なんかふつうっぽいトコね…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445C92",
+  "end": "445CC8",
+  "owners": [
+   "tab:7F6EF0"
+  ],
+  "jp": "さ～てそろそろおやくそくの<br>\nパターンの<br>\nじかんだわ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445CC8",
+  "end": "445D02",
+  "owners": [
+   "tab:7F6EF4"
+  ],
+  "jp": "はぁ…<br>\nたまには<br>\nたたかわずに<br>\nクリアできないかしらね…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445D02",
+  "end": "445D42",
+  "owners": [
+   "tab:7F6EF8"
+  ],
+  "jp": "ヤミぞくせいがなんだっての！ぎゃくにひらきなおっちゃう<br>\nわね！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445D42",
+  "end": "445D78",
+  "owners": [
+   "tab:7F6EFC"
+  ],
+  "jp": "ボスでもなんでもいいから<br>\nさっさとでて<br>\nらっしゃい！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445D78",
+  "end": "445DBA",
+  "owners": [
+   "tab:7F6F00"
+  ],
+  "jp": "あ～ら★<br>\nわりとカワイイボウヤだこと★かわいがって<br>\nあげるわん♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445DBA",
+  "end": "445E04",
+  "owners": [
+   "tab:7F6F04"
+  ],
+  "jp": "ちょっと<br>\nちょっと<br>\nちょっとぉ～！なんなのこの<br>\nニオイ！<br>\nきいてないわ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445E04",
+  "end": "445E2E",
+  "owners": [
+   "tab:7F6F08"
+  ],
+  "jp": "ボスちゃ～ん<br>\nはやくきて～<br>\nおねが～い★<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445E2E",
+  "end": "445E66",
+  "owners": [
+   "tab:7F6F0C"
+  ],
+  "jp": "アナタよりも<br>\nまわりのほうがきょうてきってカンジだわ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445E66",
+  "end": "445EB4",
+  "owners": [
+   "tab:7F6F10"
+  ],
+  "jp": "なんだか<br>\nさっぷうけいなトコね～<br>\nまあ、そのぶんあたしがひきたつからいっか♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445EB4",
+  "end": "445EE0",
+  "owners": [
+   "tab:7F6F14"
+  ],
+  "jp": "さあじかんよ！かくれてないででてきなさい‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445EE0",
+  "end": "445F24",
+  "owners": [
+   "tab:7F6F18"
+  ],
+  "jp": "うふふ★<br>\nあたしのうつくしさにひかれてノコノコとでてきちゃったわね<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445F24",
+  "end": "445F64",
+  "owners": [
+   "tab:7F6F1C"
+  ],
+  "jp": "やっぱり<br>\nキホンといえばどうくつね！<br>\nキホンって<br>\nだいじよね！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445F64",
+  "end": "445F8E",
+  "owners": [
+   "tab:7F6F20"
+  ],
+  "jp": "キホンのとおりならそろそろ<br>\nこのへんで…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445F8E",
+  "end": "445FD4",
+  "owners": [
+   "tab:7F6F24"
+  ],
+  "jp": "でたわね！<br>\nキホンどおり！アナタもわりとキホンをだいじにしてるのね！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "445FD4",
+  "end": "446022",
+  "owners": [
+   "tab:7F6F28"
+  ],
+  "jp": "きゃ～～～！<br>\nきゅうにおそってくるなんて<br>\nサイテーだわ！うったえてやるわよ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446022",
+  "end": "446070",
+  "owners": [
+   "tab:7F6F2C"
+  ],
+  "jp": "あら…<br>\nしょうめんからいどんでくる<br>\nしんしなザコもいるのね…<br>\nたおしたケド★<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446070",
+  "end": "4460BE",
+  "owners": [
+   "tab:7F6F30"
+  ],
+  "jp": "あ～ら<br>\nおバカさんね～あたしにうしろみせるなんて♪イッパツで<br>\nのびちゃったわ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4460BE",
+  "end": "446104",
+  "owners": [
+   "tab:7F6F34"
+  ],
+  "jp": "なんかブキミにわらってたわ…<br>\nおもわず<br>\nこうげきするのためらったわ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446104",
+  "end": "446154",
+  "owners": [
+   "tab:7F6F38"
+  ],
+  "jp": "あぶなかった…このあたしの<br>\nおイロケが<br>\nきかないなんてきょうてき<br>\nだったわね…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446154",
+  "end": "4461AC",
+  "owners": [
+   "tab:7F6F3C"
+  ],
+  "jp": "ふふん★<br>\nあたしをビビらせようなんて<br>\nそうはいかないわよ！<br>\nニラんだら<br>\nにげだしたわ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4461AC",
+  "end": "446202",
+  "owners": [
+   "tab:7F6F40"
+  ],
+  "jp": "ちょっとぉ～<br>\nあたしのカオをみたとたんに<br>\nにげだすなんてどういうこと⁉しつれいだわ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446202",
+  "end": "446224",
+  "owners": [
+   "tab:7F6F44"
+  ],
+  "jp": "あら…<br>\nイズミが<br>\nわいてるわね…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446224",
+  "end": "44626C",
+  "owners": [
+   "tab:7F6F48"
+  ],
+  "jp": "なかなか<br>\nきがきいてる<br>\nじゃない♪<br>\nおかげで<br>\nリフレッシュ<br>\nできたわ♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44626C",
+  "end": "446292",
+  "owners": [
+   "tab:7F6F4C"
+  ],
+  "jp": "イヤなカンジ…さきにすすみましょう！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446292",
+  "end": "4462BE",
+  "owners": [
+   "tab:7F6F50"
+  ],
+  "jp": "ちょうどいいわひといきいれ<br>\nちゃいましょ♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4462BE",
+  "end": "4462E0",
+  "owners": [
+   "tab:7F6F54"
+  ],
+  "jp": "あら…<br>\nどうしてこんなところに…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4462E0",
+  "end": "446328",
+  "owners": [
+   "tab:7F6F58"
+  ],
+  "jp": "なかなか<br>\nきがきいてる<br>\nじゃない♪<br>\nおかげで<br>\nリフレッシュ<br>\nできたわ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446328",
+  "end": "44634E",
+  "owners": [
+   "tab:7F6F5C"
+  ],
+  "jp": "イヤなカンジ…さきにすすみましょう！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44634E",
+  "end": "446378",
+  "owners": [
+   "tab:7F6F60"
+  ],
+  "jp": "つかれてたからきゅうけい<br>\nしとこうかな…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446378",
+  "end": "446398",
+  "owners": [
+   "tab:7F6F64"
+  ],
+  "jp": "あら…<br>\nヒがたいてあるわねえ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446398",
+  "end": "4463E0",
+  "owners": [
+   "tab:7F6F68"
+  ],
+  "jp": "なかなか<br>\nきがきいてる<br>\nじゃない♪<br>\nおかげで<br>\nリフレッシュ<br>\nできたわ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4463E0",
+  "end": "446406",
+  "owners": [
+   "tab:7F6F6C"
+  ],
+  "jp": "イヤなカンジ…さきにすすみましょう！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446406",
+  "end": "446430",
+  "owners": [
+   "tab:7F6F70"
+  ],
+  "jp": "なんかキブンがたかまってきたみたいだわ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446430",
+  "end": "446456",
+  "owners": [
+   "tab:7F6F74"
+  ],
+  "jp": "あら…<br>\nここはカゼが<br>\nふいてるのね…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446456",
+  "end": "446496",
+  "owners": [
+   "tab:7F6F78"
+  ],
+  "jp": "とってもいい<br>\nキモチだわ♪<br>\nおかげで<br>\nリフレッシュ<br>\nできたわ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446496",
+  "end": "4464BC",
+  "owners": [
+   "tab:7F6F7C"
+  ],
+  "jp": "イヤなカンジ…さきにすすみましょう！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4464BC",
+  "end": "4464F4",
+  "owners": [
+   "tab:7F6F80"
+  ],
+  "jp": "しんこきゅうですこしキブンがスッキリした<br>\nみたいだわ♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4464F4",
+  "end": "44650A",
+  "owners": [
+   "tab:7F6F84"
+  ],
+  "jp": "あら…<br>\nなにかしら…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44650A",
+  "end": "446544",
+  "owners": [
+   "tab:7F6F88"
+  ],
+  "jp": "フシギなキモチがするわね…<br>\nリフレッシュ<br>\nできたみたい！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446544",
+  "end": "44656A",
+  "owners": [
+   "tab:7F6F8C"
+  ],
+  "jp": "イヤなカンジ…さきにすすみましょう！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44656A",
+  "end": "4465A2",
+  "owners": [
+   "tab:7F6F90"
+  ],
+  "jp": "あまりきょうみなかったけど<br>\nキブンてんかんできたかも♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4465A2",
+  "end": "4465B8",
+  "owners": [
+   "tab:7F6F94"
+  ],
+  "jp": "あら…<br>\nなにかしら…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4465B8",
+  "end": "4465F0",
+  "owners": [
+   "tab:7F6F98"
+  ],
+  "jp": "フシギなキモチがするわね…<br>\nチカラがわいてきたみたい！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4465F0",
+  "end": "446616",
+  "owners": [
+   "tab:7F6F9C"
+  ],
+  "jp": "イヤなカンジ…さきにすすみましょう！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446616",
+  "end": "44664E",
+  "owners": [
+   "tab:7F6FA0"
+  ],
+  "jp": "あまりきょうみなかったけど<br>\nキブンてんかんできたかも♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44664E",
+  "end": "446664",
+  "owners": [
+   "tab:7F6FA4"
+  ],
+  "jp": "あら…<br>\nなにかしら…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446664",
+  "end": "446698",
+  "owners": [
+   "tab:7F6FA8"
+  ],
+  "jp": "フシギなキモチだわぁ…<br>\nチカラがわいてきたみたい！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446698",
+  "end": "44669E",
+  "owners": [
+   "tab:7F6FAC"
+  ],
+  "jp": "なし<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44669E",
+  "end": "4466A4",
+  "owners": [
+   "tab:7F6FB0"
+  ],
+  "jp": "なし<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4466A4",
+  "end": "4466C8",
+  "owners": [
+   "tab:7F6FB4"
+  ],
+  "jp": "あら…<br>\nなにコレ？<br>\nこわれてるわ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4466C8",
+  "end": "4466CE",
+  "owners": [
+   "tab:7F6FB8"
+  ],
+  "jp": "なし<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4466CE",
+  "end": "4466F4",
+  "owners": [
+   "tab:7F6FBC"
+  ],
+  "jp": "イヤなカンジ…さきにすすみましょう！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4466F4",
+  "end": "4466FA",
+  "owners": [
+   "tab:7F6FC0"
+  ],
+  "jp": "なし<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446702",
+  "end": "446736",
+  "owners": [
+   "tab:7F6FE4"
+  ],
+  "jp": "おほほほほほ！らくしょうで<br>\nものたりなかったわね♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446736",
+  "end": "44677C",
+  "owners": [
+   "tab:7F6FE8"
+  ],
+  "jp": "おほほほほほ！あたしをただのカワイイこだとおもわれちゃ<br>\nこまるわね！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44677C",
+  "end": "4467B2",
+  "owners": [
+   "tab:7F6FEC"
+  ],
+  "jp": "おほほほほほ！あたしをなめてもらっちゃ<br>\nこまるわね！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4467B2",
+  "end": "4467F0",
+  "owners": [
+   "tab:7F6FF0"
+  ],
+  "jp": "うふふ★<br>\nどうかしら？<br>\nなんなら<br>\nもういっかい<br>\nしてみるぅ？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4467F0",
+  "end": "44683A",
+  "owners": [
+   "tab:7F6FF4"
+  ],
+  "jp": "うふふ★<br>\nどうかしら？<br>\nあたしにみとれちゃったなんていいわけは<br>\nダメよ♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44683A",
+  "end": "44687E",
+  "owners": [
+   "tab:7F6FF8"
+  ],
+  "jp": "うふふ★<br>\nどうかしら？<br>\nひょっとして<br>\nてかげんしてくれたのかしら？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44687E",
+  "end": "4468C4",
+  "owners": [
+   "tab:7F6FFC"
+  ],
+  "jp": "ふぅ～<br>\nいまのちょっとヤバかったわ…ぞくせいって<br>\nあなどれないわね…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4468C4",
+  "end": "446910",
+  "owners": [
+   "tab:7F7000"
+  ],
+  "jp": "ふぅ～<br>\nいまのマジで<br>\nヤバかったわ…こんなんじゃ<br>\nクリアしたきがしないわ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446910",
+  "end": "446952",
+  "owners": [
+   "tab:7F7004"
+  ],
+  "jp": "ふぅ～<br>\nいまのしぬほどヤバかったわ…さすがにもう<br>\nげんかいかも…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446952",
+  "end": "446988",
+  "owners": [
+   "tab:7F7008"
+  ],
+  "jp": "うっそ～‼<br>\nしんじらんないまけるハズ<br>\nなかったのに‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446988",
+  "end": "4469C0",
+  "owners": [
+   "tab:7F700C"
+  ],
+  "jp": "うっそ～‼<br>\nしんじらんないインチキよ！<br>\nぜったいそう‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4469C0",
+  "end": "4469F4",
+  "owners": [
+   "tab:7F7010"
+  ],
+  "jp": "うっそ～‼<br>\nしんじらんないあたしユメでもみてるの⁉<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4469F4",
+  "end": "446A32",
+  "owners": [
+   "tab:7F7014"
+  ],
+  "jp": "あ～ん<br>\nまけちゃった～おんなのこ<br>\nなかすなんて<br>\nサイテーよ～<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446A32",
+  "end": "446A72",
+  "owners": [
+   "tab:7F7018"
+  ],
+  "jp": "あ～ん<br>\nまけちゃった～このかりは<br>\n10バイにしてかえすからね‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446A72",
+  "end": "446AA6",
+  "owners": [
+   "tab:7F701C"
+  ],
+  "jp": "あ～ん<br>\nまけちゃった～コイツぜったいゆるせな～い‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446AA6",
+  "end": "446ADC",
+  "owners": [
+   "tab:7F7020"
+  ],
+  "jp": "サイアクだわ…たちなおるのにじかんがかかりそうだわ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446ADC",
+  "end": "446B14",
+  "owners": [
+   "tab:7F7024"
+  ],
+  "jp": "サイアクだわ…もうにどと<br>\nぼうけんなんてするもんですか<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446B14",
+  "end": "446B4C",
+  "owners": [
+   "tab:7F7028"
+  ],
+  "jp": "サイアクだわ…これはもう<br>\nイジメとしか<br>\nおもえないわ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446B4C",
+  "end": "446B98",
+  "owners": [
+   "tab:7F702C"
+  ],
+  "jp": "あ～あ<br>\nアセかいちゃったじゃない…<br>\nはやくかえってシャワーをあびたいわ～♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446B98",
+  "end": "446BF8",
+  "owners": [
+   "tab:7F7030"
+  ],
+  "jp": "そ、そうだわ！にっきには<br>\nクリアしたってかいちゃえば<br>\nいいんだわ！<br>\nバレっこないわおほほほほ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446BF8",
+  "end": "446C06",
+  "owners": [
+   "tab:7F6FC4"
+  ],
+  "jp": "ちからUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446C06",
+  "end": "446C16",
+  "owners": [
+   "tab:7F6FC8"
+  ],
+  "jp": "ぼうぎょUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446C16",
+  "end": "446C26",
+  "owners": [
+   "tab:7F6FCC"
+  ],
+  "jp": "まりょくUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446C26",
+  "end": "446C36",
+  "owners": [
+   "tab:7F6FD0"
+  ],
+  "jp": "まぼうぎょUP<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446C36",
+  "end": "446C46",
+  "owners": [
+   "tab:7F6FD4"
+  ],
+  "jp": "すばやさUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446C46",
+  "end": "446C56",
+  "owners": [
+   "tab:7F6FD8"
+  ],
+  "jp": "シフトEUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446C56",
+  "end": "446C64",
+  "owners": [
+   "tab:7F6FDC"
+  ],
+  "jp": "HPがUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446C64",
+  "end": "446C84",
+  "owners": [
+   "tab:7F6FE0"
+  ],
+  "jp": "すべての<br>\nのうりょくが<br>\nUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446C84",
+  "end": "446CB8",
+  "owners": [
+   "tab:7F7248"
+  ],
+  "jp": "うおおおーー‼ぼうけんに<br>\nしゅっぱつ<br>\nだぞーーー‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446CB8",
+  "end": "446D04",
+  "owners": [
+   "tab:7F724C"
+  ],
+  "jp": "ぞくせい？<br>\nレベル？<br>\nなんだそれ？<br>\nトクなのか？<br>\nそうかよかったぞーーー‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446D04",
+  "end": "446D46",
+  "owners": [
+   "tab:7F7250"
+  ],
+  "jp": "ぞくせい？<br>\nレベル？<br>\nなんだそれ？<br>\nオレがトクなのか？ホントか？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446D46",
+  "end": "446D86",
+  "owners": [
+   "tab:7F7254"
+  ],
+  "jp": "ぞくせい？<br>\nレベル？<br>\nなんだそれ？<br>\nそんなのかんけいないぞー‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446D86",
+  "end": "446DBA",
+  "owners": [
+   "tab:7F7258"
+  ],
+  "jp": "がんばるぞー‼クリアしてくるぞーーー‼<br>\nたぶんな‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446DBA",
+  "end": "446DEA",
+  "owners": [
+   "tab:7F725C"
+  ],
+  "jp": "がんばるぞー‼でもクリアできるかわかんないぞ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446DEA",
+  "end": "446E1E",
+  "owners": [
+   "tab:7F7260"
+  ],
+  "jp": "がんばるぞー‼でもクリアできなくてもおこるなよー‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446E1E",
+  "end": "446E48",
+  "owners": [
+   "tab:7F7264"
+  ],
+  "jp": "ココ、オレのキライなトコか？きのせいか？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446E48",
+  "end": "446E8C",
+  "owners": [
+   "tab:7F7268"
+  ],
+  "jp": "ココ、オレのキライなトコか？オレだって<br>\nそのくらい<br>\nわかるんだぞー<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446E8C",
+  "end": "446EC0",
+  "owners": [
+   "tab:7F726C"
+  ],
+  "jp": "ココ、オレのキライなトコか？オレいじめられてるか？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446EC0",
+  "end": "446F06",
+  "owners": [
+   "tab:7F7270"
+  ],
+  "jp": "ココ、<br>\nもうダレかが<br>\nクリアしてるのか？<br>\nダレだそいつ！でてこーい‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446F06",
+  "end": "446F4C",
+  "owners": [
+   "tab:7F7274"
+  ],
+  "jp": "ココ、<br>\nまだダレも<br>\nクリアしてないのか？<br>\nじゃあオレが<br>\nいちばんだ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446F4C",
+  "end": "446F8A",
+  "owners": [
+   "tab:7F7278"
+  ],
+  "jp": "ココ、くらくてせまい…<br>\nオレはやく<br>\nひろいトコに<br>\nいきたい…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446F8A",
+  "end": "446FA8",
+  "owners": [
+   "tab:7F727C"
+  ],
+  "jp": "いきどまりか？でぐちどこだ？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446FA8",
+  "end": "446FDE",
+  "owners": [
+   "tab:7F7280"
+  ],
+  "jp": "おいおまえ！<br>\nでぐちどこだ？おしえないならこうだぞ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "446FDE",
+  "end": "447038",
+  "owners": [
+   "tab:7F7284"
+  ],
+  "jp": "ココ、たぶん<br>\nもりだろう！<br>\nもしかしたら<br>\nはやしかもしれないな…<br>\nどっちでも<br>\nいいけど！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447038",
+  "end": "447056",
+  "owners": [
+   "tab:7F7288"
+  ],
+  "jp": "お！　あそこにダレかいるな！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447056",
+  "end": "44708C",
+  "owners": [
+   "tab:7F728C"
+  ],
+  "jp": "おいおまえ！<br>\nココはもりか？おしえないならこうだぞ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44708C",
+  "end": "4470D0",
+  "owners": [
+   "tab:7F7290"
+  ],
+  "jp": "ココ、たぶん<br>\nやまだろう！<br>\nじしんあるぞ！でもちがうかもしれない…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4470D0",
+  "end": "4470F8",
+  "owners": [
+   "tab:7F7294"
+  ],
+  "jp": "ずいぶん<br>\nあるいたぞ～<br>\nハラへったぞ～<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4470F8",
+  "end": "447138",
+  "owners": [
+   "tab:7F7298"
+  ],
+  "jp": "おいおまえ！<br>\nなにかくいもんないか？<br>\nおしえないならこうだぞ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447138",
+  "end": "447176",
+  "owners": [
+   "tab:7F729C"
+  ],
+  "jp": "ココ、くらくてせまい…<br>\nオレはやく<br>\nひろいトコに<br>\nいきたい…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447176",
+  "end": "44719E",
+  "owners": [
+   "tab:7F72A0"
+  ],
+  "jp": "ココのボス<br>\nどんなヤツだ？たのしみだ♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44719E",
+  "end": "4471C8",
+  "owners": [
+   "tab:7F72A4"
+  ],
+  "jp": "おまえボスか？よわそうなヤツガッカリだ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4471C8",
+  "end": "447210",
+  "owners": [
+   "tab:7F72A8"
+  ],
+  "jp": "おおー！<br>\nなんかココ<br>\nあかいぞ！<br>\nなんかオレ<br>\nこうふんする！ふんふん‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447210",
+  "end": "447238",
+  "owners": [
+   "tab:7F72AC"
+  ],
+  "jp": "そろそろボスがでてくるころ！………か？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447238",
+  "end": "447266",
+  "owners": [
+   "tab:7F72B0"
+  ],
+  "jp": "おおー！<br>\nオレの<br>\nいったとおり！いいキブン♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447266",
+  "end": "4472AE",
+  "owners": [
+   "tab:7F72B4"
+  ],
+  "jp": "ココ、なんか<br>\nすなだらけ！<br>\nすこしあそんでいっていいか？そうかダメか…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4472AE",
+  "end": "4472D2",
+  "owners": [
+   "tab:7F72B8"
+  ],
+  "jp": "オレつかれた…はやく<br>\nかえりたい…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4472D2",
+  "end": "44730A",
+  "owners": [
+   "tab:7F72BC"
+  ],
+  "jp": "おまえボスか？オレはやく<br>\nかえりたいからおまえたおす‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44730A",
+  "end": "447348",
+  "owners": [
+   "tab:7F72C0"
+  ],
+  "jp": "ココ、くらくてせまい…<br>\nオレはやく<br>\nひろいトコに<br>\nいきたい…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447348",
+  "end": "44737C",
+  "owners": [
+   "tab:7F72C4"
+  ],
+  "jp": "うおおおーー‼ココ、こえが<br>\nひびいて<br>\nたのしいぞ♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44737C",
+  "end": "4473B6",
+  "owners": [
+   "tab:7F72C8"
+  ],
+  "jp": "なんだおまえ！あそんでるのにジャマするな！こうしてやる‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4473B6",
+  "end": "4473F4",
+  "owners": [
+   "tab:7F72CC"
+  ],
+  "jp": "ココ、<br>\nすがすがしくていいキブン♪<br>\nオレにピッタリのばしょ♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4473F4",
+  "end": "44741A",
+  "owners": [
+   "tab:7F72D0"
+  ],
+  "jp": "…ん？<br>\nいまダレかの<br>\nこえがしたか？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44741A",
+  "end": "447454",
+  "owners": [
+   "tab:7F72D4"
+  ],
+  "jp": "おいおまえ！<br>\nいまオレのことわらったろ！<br>\nゆるさないぞ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447454",
+  "end": "44749C",
+  "owners": [
+   "tab:7F72D8"
+  ],
+  "jp": "ココ、なんか<br>\nいいキブン♪<br>\nオレけっこう<br>\nなやみあるけどわすれそうだぞ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44749C",
+  "end": "4474DC",
+  "owners": [
+   "tab:7F72DC"
+  ],
+  "jp": "ココ、<br>\nきにいった！<br>\nきょうから<br>\nオレのものに<br>\nするぞーーー‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4474DC",
+  "end": "447510",
+  "owners": [
+   "tab:7F72E0"
+  ],
+  "jp": "おいおまえ！<br>\nココ、<br>\nオレのばしょ！すぐにでてけ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447510",
+  "end": "44754E",
+  "owners": [
+   "tab:7F72E4"
+  ],
+  "jp": "ココ、くらくてせまい…<br>\nオレはやく<br>\nひろいトコに<br>\nいきたい…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44754E",
+  "end": "44756C",
+  "owners": [
+   "tab:7F72E8"
+  ],
+  "jp": "なかなかボスがでてこないぞ～<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44756C",
+  "end": "4475A6",
+  "owners": [
+   "tab:7F72EC"
+  ],
+  "jp": "やっとでたな！オレまちくたびれた！チコクはゆるさないぞ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4475A6",
+  "end": "4475EA",
+  "owners": [
+   "tab:7F72F0"
+  ],
+  "jp": "うおおおーー‼オレたかいトコだいスキ♪<br>\nはやくてっぺんいきたいぞ♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4475EA",
+  "end": "44760E",
+  "owners": [
+   "tab:7F72F4"
+  ],
+  "jp": "…ん？<br>\nトビラがあるぞてっぺんか？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44760E",
+  "end": "447646",
+  "owners": [
+   "tab:7F72F8"
+  ],
+  "jp": "おまえもたかいトコがスキか？おまえいいヤツでもたおす‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447646",
+  "end": "447696",
+  "owners": [
+   "tab:7F72FC"
+  ],
+  "jp": "ココ、ひろくてキモチいいぞ♪ひるねしたい<br>\nキブン！<br>\nダレもみてないからねるか♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447696",
+  "end": "4476C4",
+  "owners": [
+   "tab:7F7300"
+  ],
+  "jp": "ずいぶん<br>\nおそくなった～ひるねしすぎたかも～<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4476C4",
+  "end": "4476F8",
+  "owners": [
+   "tab:7F7304"
+  ],
+  "jp": "おまえボスか？またせて<br>\nわるかった！<br>\nさあいくぞ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4476F8",
+  "end": "447750",
+  "owners": [
+   "tab:7F7308"
+  ],
+  "jp": "ココ、ヒカリのぞくせい…<br>\nソレって<br>\nすごいのか？<br>\nオレそういうのぜんぜん<br>\nわかんない…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447750",
+  "end": "447790",
+  "owners": [
+   "tab:7F730C"
+  ],
+  "jp": "やっぱりココもボスいるのか？ほかとあんまりかわんないんだなあ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447790",
+  "end": "4477D2",
+  "owners": [
+   "tab:7F7310"
+  ],
+  "jp": "おまえけっこうすごいのか？<br>\nおまえたおせばオレもっと<br>\nすごいな‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4477D2",
+  "end": "447812",
+  "owners": [
+   "tab:7F7314"
+  ],
+  "jp": "オレ、ホントはぼうけんキライドールのなかでねてるほうが<br>\nいい…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447812",
+  "end": "44783C",
+  "owners": [
+   "tab:7F7318"
+  ],
+  "jp": "ふわぁ～…<br>\nはやくすませてはやくねたいぞ<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44783C",
+  "end": "44786A",
+  "owners": [
+   "tab:7F731C"
+  ],
+  "jp": "おまえ<br>\nつよそうだな！すこし<br>\nたのしめそう♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44786A",
+  "end": "4478BE",
+  "owners": [
+   "tab:7F7320"
+  ],
+  "jp": "ココ、<br>\nヤミぞくせい…ソレって<br>\nすごいのか？<br>\nオレそういうのぜんぜん<br>\nわかんない…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4478BE",
+  "end": "4478F4",
+  "owners": [
+   "tab:7F7324"
+  ],
+  "jp": "やっぱりココもボスいるのか？ほかとかわんないんだな…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4478F4",
+  "end": "447930",
+  "owners": [
+   "tab:7F7328"
+  ],
+  "jp": "おまえ<br>\nすごいのか？<br>\nおまえたおせばオレもっと<br>\nすごいな‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447930",
+  "end": "447968",
+  "owners": [
+   "tab:7F732C"
+  ],
+  "jp": "ココきたない…キレイズキの<br>\nオレにはにあわないんだな…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447968",
+  "end": "447986",
+  "owners": [
+   "tab:7F7330"
+  ],
+  "jp": "ボスはまだか？はやくこーい‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447986",
+  "end": "4479B0",
+  "owners": [
+   "tab:7F7334"
+  ],
+  "jp": "おまえボスか？ホントか？<br>\nウソくさいな…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4479B0",
+  "end": "447A0A",
+  "owners": [
+   "tab:7F7338"
+  ],
+  "jp": "ココ、ぞくせいないばしょ！<br>\nだからあんしんだぞ♪<br>\nなんであんしんなんだ？<br>\nオレわからん…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447A0A",
+  "end": "447A32",
+  "owners": [
+   "tab:7F733C"
+  ],
+  "jp": "ボスって<br>\nえらそうだからオレ、キライ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447A32",
+  "end": "447A72",
+  "owners": [
+   "tab:7F7340"
+  ],
+  "jp": "やっぱりおまええらそうに<br>\nしてるな！<br>\nオレのキライなタイプだ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447A72",
+  "end": "447AB0",
+  "owners": [
+   "tab:7F7344"
+  ],
+  "jp": "ココ、くらくてせまい…<br>\nオレはやく<br>\nひろいトコに<br>\nいきたい…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447AB0",
+  "end": "447B12",
+  "owners": [
+   "tab:7F7348"
+  ],
+  "jp": "もうずいぶん<br>\nあるいたぞ…<br>\nあと3ぽでボスでなかったら<br>\nかえるぞーー！いっぽ…<br>\nにほ…<br>\nさんぽ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447B12",
+  "end": "447B40",
+  "owners": [
+   "tab:7F734C"
+  ],
+  "jp": "おう！<br>\nピッタシだ‼<br>\nおまえ<br>\nピタリしょう‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447B40",
+  "end": "447B9A",
+  "owners": [
+   "tab:7F7350"
+  ],
+  "jp": "キモチよく<br>\nあるいてたのにテキがおそってきたぞ！<br>\nムカついたからボコボコにしたぞーーー‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447B9A",
+  "end": "447BEA",
+  "owners": [
+   "tab:7F7354"
+  ],
+  "jp": "キモチよく<br>\nあるいてたのにテキがでたぞ！ヒマつぶしに<br>\nボコボコにしてやったぞ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447BEA",
+  "end": "447C50",
+  "owners": [
+   "tab:7F7358"
+  ],
+  "jp": "キモチよく<br>\nあるいてたら<br>\nテキがいたぞ！オレに<br>\nきづいてない<br>\nみたいだから<br>\nボコボコにしてやったぞ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447C50",
+  "end": "447CA4",
+  "owners": [
+   "tab:7F735C"
+  ],
+  "jp": "キモチよく<br>\nあるいてたら<br>\nテキがでたぞ！でもそのまま<br>\nかえったから<br>\nいいヤツかも！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447CA4",
+  "end": "447CFE",
+  "owners": [
+   "tab:7F7360"
+  ],
+  "jp": "キモチよく<br>\nあるいてたのにテキがおそってきたぞ！<br>\nムカついたからボコボコにしたぞーーー‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447CFE",
+  "end": "447D5C",
+  "owners": [
+   "tab:7F7364"
+  ],
+  "jp": "キモチよく<br>\nあるいてたら<br>\nテキがでたぞ！こわかったけどむこうが<br>\nにげてくれて<br>\nたすかったぞ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447D5C",
+  "end": "447DBA",
+  "owners": [
+   "tab:7F7368"
+  ],
+  "jp": "キモチよく<br>\nあるいてたら<br>\nテキがでたぞ！こわかったけどむこうが<br>\nにげてくれて<br>\nたすかったぞ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447DBA",
+  "end": "447DD6",
+  "owners": [
+   "tab:7F736C"
+  ],
+  "jp": "うおおおーー‼なんだコレ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447DD6",
+  "end": "447E14",
+  "owners": [
+   "tab:7F7370"
+  ],
+  "jp": "なんだか<br>\nわかんないけどいいキブン♪<br>\nチカラが<br>\nでてきたぞ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447E14",
+  "end": "447E4A",
+  "owners": [
+   "tab:7F7374"
+  ],
+  "jp": "なんだか<br>\nわかんないけどやなキブン！<br>\nさっさといく！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447E4A",
+  "end": "447E70",
+  "owners": [
+   "tab:7F7378"
+  ],
+  "jp": "なんだか<br>\nわかんないけどひとやすみ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447E70",
+  "end": "447E8C",
+  "owners": [
+   "tab:7F737C"
+  ],
+  "jp": "うおおおーー‼なんだコレ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447E8C",
+  "end": "447ECA",
+  "owners": [
+   "tab:7F7380"
+  ],
+  "jp": "なんだか<br>\nわかんないけどいいキブン♪<br>\nチカラが<br>\nでてきたぞ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447ECA",
+  "end": "447F00",
+  "owners": [
+   "tab:7F7384"
+  ],
+  "jp": "なんだか<br>\nわかんないけどやなキブン！<br>\nさっさといく！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447F00",
+  "end": "447F26",
+  "owners": [
+   "tab:7F7388"
+  ],
+  "jp": "なんだか<br>\nわかんないけどひとやすみ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447F26",
+  "end": "447F42",
+  "owners": [
+   "tab:7F738C"
+  ],
+  "jp": "うおおおーー‼なんだコレ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447F42",
+  "end": "447F80",
+  "owners": [
+   "tab:7F7390"
+  ],
+  "jp": "なんだか<br>\nわかんないけどいいキブン♪<br>\nチカラが<br>\nでてきたぞ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447F80",
+  "end": "447FB6",
+  "owners": [
+   "tab:7F7394"
+  ],
+  "jp": "なんだか<br>\nわかんないけどやなキブン！<br>\nさっさといく！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447FB6",
+  "end": "447FDC",
+  "owners": [
+   "tab:7F7398"
+  ],
+  "jp": "なんだか<br>\nわかんないけどひとやすみ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447FDC",
+  "end": "447FF8",
+  "owners": [
+   "tab:7F739C"
+  ],
+  "jp": "うおおおーー‼なんだコレ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "447FF8",
+  "end": "448036",
+  "owners": [
+   "tab:7F73A0"
+  ],
+  "jp": "なんだか<br>\nわかんないけどいいキブン♪<br>\nチカラが<br>\nでてきたぞ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "448036",
+  "end": "44806C",
+  "owners": [
+   "tab:7F73A4"
+  ],
+  "jp": "なんだか<br>\nわかんないけどやなキブン！<br>\nさっさといく！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44806C",
+  "end": "448092",
+  "owners": [
+   "tab:7F73A8"
+  ],
+  "jp": "なんだか<br>\nわかんないけどひとやすみ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "448092",
+  "end": "4480AE",
+  "owners": [
+   "tab:7F73AC"
+  ],
+  "jp": "うおおおーー‼なんだコレ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4480AE",
+  "end": "4480EC",
+  "owners": [
+   "tab:7F73B0"
+  ],
+  "jp": "なんだか<br>\nわかんないけどいいキブン♪<br>\nチカラが<br>\nでてきたぞ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4480EC",
+  "end": "448122",
+  "owners": [
+   "tab:7F73B4"
+  ],
+  "jp": "なんだか<br>\nわかんないけどやなキブン！<br>\nさっさといく！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "448122",
+  "end": "448148",
+  "owners": [
+   "tab:7F73B8"
+  ],
+  "jp": "なんだか<br>\nわかんないけどひとやすみ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "448148",
+  "end": "448164",
+  "owners": [
+   "tab:7F73BC"
+  ],
+  "jp": "うおおおーー‼なんだコレ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "448164",
+  "end": "4481A2",
+  "owners": [
+   "tab:7F73C0"
+  ],
+  "jp": "なんだか<br>\nわかんないけどいいキブン♪<br>\nチカラが<br>\nでてきたぞ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4481A2",
+  "end": "4481D8",
+  "owners": [
+   "tab:7F73C4"
+  ],
+  "jp": "なんだか<br>\nわかんないけどやなキブン！<br>\nさっさといく！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4481D8",
+  "end": "4481FE",
+  "owners": [
+   "tab:7F73C8"
+  ],
+  "jp": "なんだか<br>\nわかんないけどひとやすみ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4481FE",
+  "end": "44821A",
+  "owners": [
+   "tab:7F73CC"
+  ],
+  "jp": "うおおおーー‼なんだコレ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44821A",
+  "end": "448258",
+  "owners": [
+   "tab:7F73D0"
+  ],
+  "jp": "なんだか<br>\nわかんないけどいいキブン♪<br>\nチカラが<br>\nでてきたぞ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "448258",
+  "end": "44825E",
+  "owners": [
+   "tab:7F73D4"
+  ],
+  "jp": "なし<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44825E",
+  "end": "448264",
+  "owners": [
+   "tab:7F73D8"
+  ],
+  "jp": "なし<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "448264",
+  "end": "448280",
+  "owners": [
+   "tab:7F73DC"
+  ],
+  "jp": "うおおおーー‼なんだコレ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "448280",
+  "end": "448286",
+  "owners": [
+   "tab:7F73E0"
+  ],
+  "jp": "なし<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "448286",
+  "end": "4482BC",
+  "owners": [
+   "tab:7F73E4"
+  ],
+  "jp": "なんだか<br>\nわかんないけどやなキブン！<br>\nさっさといく！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4482BC",
+  "end": "4482C2",
+  "owners": [
+   "tab:7F73E8"
+  ],
+  "jp": "なし<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4482CA",
+  "end": "44830C",
+  "owners": [
+   "tab:7F740C"
+  ],
+  "jp": "うおおおーー‼やっつけたぞ‼オレ、せかいでいちばん<br>\nつよいぞー‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44830C",
+  "end": "448344",
+  "owners": [
+   "tab:7F7410"
+  ],
+  "jp": "うおおおーー‼やっつけたぞ‼オレ、ダレよりつよいぞー‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "448344",
+  "end": "44837C",
+  "owners": [
+   "tab:7F7414"
+  ],
+  "jp": "うおおおーー‼やっつけたぞ‼オレおまえよりつよいぞー‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44837C",
+  "end": "4483BE",
+  "owners": [
+   "tab:7F7418"
+  ],
+  "jp": "やっつけたぞ‼こんなの<br>\nあさメシまえ‼そういえば<br>\nあさメシまだ？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4483BE",
+  "end": "44840C",
+  "owners": [
+   "tab:7F741C"
+  ],
+  "jp": "やっつけたぞ‼コイツよわくてものたりない！あさメシも<br>\nものたりなかったぞー‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44840C",
+  "end": "448444",
+  "owners": [
+   "tab:7F7420"
+  ],
+  "jp": "やっつけたぞ‼でもちょっと<br>\nなぐられて<br>\nいたかったぞ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "448444",
+  "end": "448480",
+  "owners": [
+   "tab:7F7424"
+  ],
+  "jp": "なんとかオレのかち！<br>\nまけたほうが<br>\nよかったか？<br>\nすまん…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "448480",
+  "end": "4484BA",
+  "owners": [
+   "tab:7F7428"
+  ],
+  "jp": "なんとかオレのかち！<br>\nどうしてか<br>\nオレにも<br>\nわからない…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4484BA",
+  "end": "4484F8",
+  "owners": [
+   "tab:7F742C"
+  ],
+  "jp": "なんとかオレのかち！<br>\nでもオレも<br>\nボロボロ…<br>\nきがすんだか？<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4484F8",
+  "end": "44852C",
+  "owners": [
+   "tab:7F7430"
+  ],
+  "jp": "うおおおーー‼まけたのかー⁉ハラペコだったからか⁉<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44852C",
+  "end": "448560",
+  "owners": [
+   "tab:7F7434"
+  ],
+  "jp": "うおおおーー‼まけたのかー⁉いねむりしてたからか⁉<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "448560",
+  "end": "448594",
+  "owners": [
+   "tab:7F7438"
+  ],
+  "jp": "うおおおーー‼まけたのかー⁉よそみをしてたからか⁉<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "448594",
+  "end": "4485D2",
+  "owners": [
+   "tab:7F743C"
+  ],
+  "jp": "…すまん、オレまけたみたい…がんばったからまあいいか！<br>\nな！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4485D2",
+  "end": "448612",
+  "owners": [
+   "tab:7F7440"
+  ],
+  "jp": "…すまん、オレまけたみたい…こんどは<br>\nまけないぞ！<br>\nたぶんな！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "448612",
+  "end": "448654",
+  "owners": [
+   "tab:7F7444"
+  ],
+  "jp": "…すまん、オレまけたみたい…おわったことはクヨクヨしないんだぞ！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "448654",
+  "end": "44868A",
+  "owners": [
+   "tab:7F7448"
+  ],
+  "jp": "……………はっまけたのか⁉<br>\nま、いいか<br>\nそんなこと！<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "44868A",
+  "end": "4486CC",
+  "owners": [
+   "tab:7F744C"
+  ],
+  "jp": "……………はっまけたのか⁉<br>\nう～んフシギ…かったきが<br>\nしないぞ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4486CC",
+  "end": "448714",
+  "owners": [
+   "tab:7F7450"
+  ],
+  "jp": "……………はっまけたのか⁉<br>\nきもちのいい<br>\nまけっぷり！<br>\nオレまんぞく♪<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "448714",
+  "end": "448758",
+  "owners": [
+   "tab:7F7454"
+  ],
+  "jp": "うおおおーー‼クリアしたからばんメシは<br>\nたべほうだい<br>\nだぞーーー‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "448758",
+  "end": "4487A8",
+  "owners": [
+   "tab:7F7458"
+  ],
+  "jp": "う～～～<br>\nクリアできな<br>\nかったけど<br>\nばんメシくれるかな…<br>\nそれがしんぱいだぞ…<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4487A8",
+  "end": "4487B6",
+  "owners": [
+   "tab:7F73EC"
+  ],
+  "jp": "ちからUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4487B6",
+  "end": "4487C6",
+  "owners": [
+   "tab:7F73F0"
+  ],
+  "jp": "ぼうぎょUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4487C6",
+  "end": "4487D6",
+  "owners": [
+   "tab:7F73F4"
+  ],
+  "jp": "まりょくUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4487D6",
+  "end": "4487E6",
+  "owners": [
+   "tab:7F73F8"
+  ],
+  "jp": "まぼうぎょUP<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4487E6",
+  "end": "4487F6",
+  "owners": [
+   "tab:7F73FC"
+  ],
+  "jp": "すばやさUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "4487F6",
+  "end": "448806",
+  "owners": [
+   "tab:7F7400"
+  ],
+  "jp": "シフトEUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "448806",
+  "end": "448814",
+  "owners": [
+   "tab:7F7404"
+  ],
+  "jp": "HPがUP‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ },
+ {
+  "id": "448814",
+  "end": "448836",
+  "owners": [
+   "tab:7F7408"
+  ],
+  "jp": "すべての<br>\nのうりょくが<br>\nUP‼‼<end>",
+  "en": "",
+  "status": "",
+  "notes": "",
+  "font": "sprite1"
+ }
+]

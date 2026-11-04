@@ -1,0 +1,2785 @@
+[
+ {
+  "at": "1619D8",
+  "end": "1619DC",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "　　"
+ },
+ {
+  "at": "161A1A",
+  "end": "161A4A",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "…どうしたら　したのつうろに<br>\nおりれるのかな？<page>\n"
+ },
+ {
+  "at": "161BA8",
+  "end": "161BE2",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ふ～ん…よくわかんないけど<br>\nかんたんな　いらいだったね！<page>\n"
+ },
+ {
+  "at": "161BE2",
+  "end": "161BF2",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "きをつけて！！<page>\n"
+ },
+ {
+  "at": "161DCE",
+  "end": "161E06",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "またスイッチ　おしてもいい？<br>\n　　　　　はい　　いいえ<end>"
+ },
+ {
+  "at": "161E06",
+  "end": "161E3A",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "スイッチ　もどしてみる？<br>\n　　　　　はい　　いいえ<end>"
+ },
+ {
+  "at": "161E78",
+  "end": "161E9A",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "また　みずがいっぱいになっちゃた<page>\n"
+ },
+ {
+  "at": "161ED0",
+  "end": "161EF2",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ほら　かってにさきいくなっての！<page>\n"
+ },
+ {
+  "at": "161EF2",
+  "end": "161F0A",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "てへへ…ゴメンゴメン！<page>\n"
+ },
+ {
+  "at": "162202",
+  "end": "162222",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "カゼのすいしょうをみつけたよ！<page>\n"
+ },
+ {
+  "at": "162222",
+  "end": "16223C",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "キズぐすりをみつけたよ！<page>\n"
+ },
+ {
+  "at": "16223C",
+  "end": "162254",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "どくけしをみつけたよ！<page>\n"
+ },
+ {
+  "at": "162254",
+  "end": "162272",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ちからのかけらをみつけたよ！<page>\n"
+ },
+ {
+  "at": "162272",
+  "end": "16228E",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ねむけさましをみつけたよ！<page>\n"
+ },
+ {
+  "at": "16228E",
+  "end": "1622AC",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "まもりのかけらをみつけたよ！<page>\n"
+ },
+ {
+  "at": "1622AC",
+  "end": "1622CA",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "いのちのしずくをみつけたよ！<page>\n"
+ },
+ {
+  "at": "1622CA",
+  "end": "1622E8",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "こころのしずくをみつけたよ！<page>\n"
+ },
+ {
+  "at": "1622E8",
+  "end": "162308",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ゴールドストーンをみつけたよ！<page>\n"
+ },
+ {
+  "at": "162308",
+  "end": "162328",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "シルバーストーンをみつけたよ！<page>\n"
+ },
+ {
+  "at": "162328",
+  "end": "162348",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ショップのにもつをみつけたよ！<page>\n"
+ },
+ {
+  "at": "1623EE",
+  "end": "1623F2",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "　<page>\n"
+ },
+ {
+  "at": "162602",
+  "end": "162632",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "そうなんだゴブ…<br>\nボクは　こわくないんだゴブー<page>\n"
+ },
+ {
+  "at": "162B28",
+  "end": "162B6C",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "そこ！　ホテルなんか　いってないで<br>\nサクサク　ゴブリンやっつける！<page>\n"
+ },
+ {
+  "at": "162B6C",
+  "end": "162BB0",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "おいおい！　よけいなことしてねーで<br>\nちゃんと　たたかえっつーの！！<page>\n"
+ },
+ {
+  "at": "162BB0",
+  "end": "162BD2",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "セーブするのを　わすれないでね！<page>\n"
+ },
+ {
+  "at": "163390",
+  "end": "1633B2",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "どうだい？　たのしんでいるかい？<page>\n"
+ },
+ {
+  "at": "163782",
+  "end": "16379A",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "おしごとなんだ　ピコ！<page>\n"
+ },
+ {
+  "at": "163D84",
+  "end": "163DC0",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ここから　ずっとひがしにある<br>\nだい4ゲートって　しってる？<page>\n"
+ },
+ {
+  "at": "163DC0",
+  "end": "163DFA",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "あそこは　まだまだとうぶん<br>\nひらきそうに　ないんだよなぁ<page>\n"
+ },
+ {
+  "at": "163DFA",
+  "end": "163E34",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "B－1エリアの　ゲート10って<br>\nさっき　みてきたんだよ！<page>\n"
+ },
+ {
+  "at": "163E34",
+  "end": "163E64",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "いったい　ゲートはいくつまで<br>\nあるんだろうな？<page>\n"
+ },
+ {
+  "at": "163E64",
+  "end": "163E9E",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "あの　ちいさなほこらに<br>\nゴブリンが　すんでるらしいんだ！<page>\n"
+ },
+ {
+  "at": "163E9E",
+  "end": "163EE0",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "きっと　ちょうレアなイベントが<br>\nそのうち　はっせいするんだぜっ！<page>\n"
+ },
+ {
+  "at": "163EE0",
+  "end": "163F14",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "そのときは　ぜったいに1ばんのり<br>\nしてやるぜっ！！<page>\n"
+ },
+ {
+  "at": "163F84",
+  "end": "163FC6",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ねえねえ！　ここでわたされた<br>\nソウルドールって　おみせでうってる<page>\n"
+ },
+ {
+  "at": "163FC6",
+  "end": "164008",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ものと　おんなじなんですって！<br>\n…ってことは　ウインドラゴンとか<page>\n"
+ },
+ {
+  "at": "164008",
+  "end": "16404A",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "つかうことが　できるってこと…？<br>\nもってたら　ためしてみるのに～<page>\n"
+ },
+ {
+  "at": "16410A",
+  "end": "16414E",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "アーン　ディーノくんもきてるって<br>\nはなしなのに　まだみてないのよ～<page>\n"
+ },
+ {
+  "at": "1644DC",
+  "end": "164500",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "はやくホテルに　はいれないかなー！<page>\n"
+ },
+ {
+  "at": "164500",
+  "end": "164530",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "このばしょって　なんとなく<br>\nおちつくのよねー♪<page>\n"
+ },
+ {
+  "at": "164ACC",
+  "end": "164AF2",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "よし！<br>\nこれで　さくせん　きまったわ<page>\n"
+ },
+ {
+  "at": "164AF2",
+  "end": "164B1E",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "このばしょ…<br>\nちょっと　おきにいりなのよね<page>\n"
+ },
+ {
+  "at": "164D98",
+  "end": "164DCA",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "これは　たしか…<br>\nカゼのもんしょう　だったよね？<page>\n"
+ },
+ {
+  "at": "164DCA",
+  "end": "164E06",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "これでボクも　シフトエレメントが<br>\nできるように　なったよ♪<page>\n"
+ },
+ {
+  "at": "165B3C",
+  "end": "165B70",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "やったぁ！　これで　むこうの<br>\nつうろに　いけるね♪<page>\n"
+ },
+ {
+  "at": "16709E",
+  "end": "1670A8",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "16722E",
+  "end": "167268",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "これも　さがしてくれって<br>\nたのまれてた　せきばんだよね！<page>\n"
+ },
+ {
+  "at": "167684",
+  "end": "1676AC",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "えっ！？　どこどこ…　って<br>\nわあっ！？<page>\n"
+ },
+ {
+  "at": "167D36",
+  "end": "167D40",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "1681E4",
+  "end": "168222",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ここにも　はしがかかりそう…<br>\nスイッチがどこかに　ないかな？<page>\n"
+ },
+ {
+  "at": "168286",
+  "end": "168290",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "168290",
+  "end": "16829A",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "1688D0",
+  "end": "168910",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "…ウチのりょうしんも　たま～に<br>\nおなじよ～なこと　やってるなぁ<page>\n"
+ },
+ {
+  "at": "168964",
+  "end": "16897E",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ど…　どういたしまして…<page>\n"
+ },
+ {
+  "at": "168DC0",
+  "end": "168DCA",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "1690E8",
+  "end": "1690F2",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "169210",
+  "end": "16922E",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "まだなんです<br>\nごめんなさーい<page>\n"
+ },
+ {
+  "at": "16926E",
+  "end": "1692AA",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "えーっ！　こまりますー<br>\nおみせの　ジャマしないでくださいー<page>\n"
+ },
+ {
+  "at": "1692AA",
+  "end": "1692CC",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ヤダッ！　ゼッタイここにいる！！<page>\n"
+ },
+ {
+  "at": "1692CC",
+  "end": "1692E6",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "スゴイ　だだっこぶりだ…<page>\n"
+ },
+ {
+  "at": "1692E6",
+  "end": "169320",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "うるせー！　かんけーないヤツは<br>\nくちだし　すんなよなっ！<page>\n"
+ },
+ {
+  "at": "169A74",
+  "end": "169AB8",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "うわ…　ウチのりょうしんもまえに<br>\nこんな　ケンカしたことあったなぁ<page>\n"
+ },
+ {
+  "at": "169C58",
+  "end": "169C84",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "はぁ～　これでやっとタウンに<br>\nもどれるよ…<page>\n"
+ },
+ {
+  "at": "169E1A",
+  "end": "169E24",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "169E24",
+  "end": "169E2E",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "16A762",
+  "end": "16A794",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "チビちゃんっていうな！<br>\nもう　おこったもんね！！<page>\n"
+ },
+ {
+  "at": "16A882",
+  "end": "16A8B0",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "あ　あれ？　そんなハナシ…<br>\nきいてないよ！？<page>\n"
+ },
+ {
+  "at": "16A8B0",
+  "end": "16A8CC",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "いいから！　たのんだぜ！！<page>\n"
+ },
+ {
+  "at": "16AB18",
+  "end": "16AB58",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "よーう　げんきにやってるかぁ？<br>\nおれっちは　ひまでしかたねーよ<page>\n"
+ },
+ {
+  "at": "16ACAA",
+  "end": "16ACC4",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ここが　まつびメッセージ<page>\n"
+ },
+ {
+  "at": "16B7A6",
+  "end": "16B7E2",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "あのでみせの　てんいん<br>\nせっきゃくたいど　わるいのよね～！<page>\n"
+ },
+ {
+  "at": "16B7E2",
+  "end": "16B826",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "マジ…？　しょうひんほじゅうもせず<br>\nこんなじかんに　みせじまい！？<page>\n"
+ },
+ {
+  "at": "16CF36",
+  "end": "16CF76",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ボクのゾクセイを　かえるには<br>\nエレメントパワーが　ひつようだよ<page>\n"
+ },
+ {
+  "at": "16D332",
+  "end": "16D368",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "じゃあ　さっそくエレメントリングに<br>\nいってみようか！<page>\n"
+ },
+ {
+  "at": "16FAFA",
+  "end": "16FB2A",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ここから　あおいほこらに<br>\nもどれる　みたいだ…<page>\n"
+ },
+ {
+  "at": "16FB2A",
+  "end": "16FB34",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "16FB34",
+  "end": "16FB3E",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "16FB3E",
+  "end": "16FB48",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "16FD24",
+  "end": "16FD3E",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ここが　まつびメッセージ<page>\n"
+ },
+ {
+  "at": "16FD3E",
+  "end": "16FD7A",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "やあ　ちょうしはどう？<br>\nさばくのレジェンズは　てごわいよね<page>\n"
+ },
+ {
+  "at": "16FD7A",
+  "end": "16FDB6",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "まぁ　ボクのレジェンズかかれば<br>\nたいしたことは　ないけどね<page>\n"
+ },
+ {
+  "at": "16FDB6",
+  "end": "16FDD6",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ワタシだって　まけてないわよ♪<page>\n"
+ },
+ {
+  "at": "16FDD6",
+  "end": "16FDFC",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "そうだ！　3にんで　しょうぶしない？<page>\n"
+ },
+ {
+  "at": "16FDFC",
+  "end": "16FE3E",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "だれが　このさばくでいちばん<br>\nさいごまで　たたかっていられるか！<page>\n"
+ },
+ {
+  "at": "16FE3E",
+  "end": "16FE72",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "いっとくけど　アタシ5ふんは<br>\nよゆうで　もつわよ♪<page>\n"
+ },
+ {
+  "at": "16FE72",
+  "end": "16FEB6",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "いいよ！　もちろんキミもやるよね？<br>\nそれじゃ　このさばくのなかだけ<page>\n"
+ },
+ {
+  "at": "16FEB6",
+  "end": "16FEF8",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ほかエリアへの　いどうはきんし！<br>\nとちゅうセーブも　なしだからね<page>\n"
+ },
+ {
+  "at": "16FEF8",
+  "end": "16FF32",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "それじゃ　じゅんびはイイかい？<br>\n　　　　　はい　　いいえ<end>"
+ },
+ {
+  "at": "16FF32",
+  "end": "16FF5A",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "レジェンズ　サバイバル！<br>\nスタート！！<page>\n"
+ },
+ {
+  "at": "16FF5A",
+  "end": "16FF74",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "なーんだ　つまんないの…<page>\n"
+ },
+ {
+  "at": "16FF74",
+  "end": "16FFA4",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "…ボクが　まけるなんて<br>\nキミって　つよいんだね<page>\n"
+ },
+ {
+  "at": "16FFA4",
+  "end": "16FFD2",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "あ～　くやしい！<br>\nワタシが　まけるなんて～！<page>\n"
+ },
+ {
+  "at": "16FFD2",
+  "end": "16FFFA",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "だけど　なかなか<br>\nいいショウブだったよ<page>\n"
+ },
+ {
+  "at": "16FFFA",
+  "end": "170020",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "キミとは　いいライバルに<br>\nなれそうだ<page>\n"
+ },
+ {
+  "at": "170020",
+  "end": "17004E",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "そうだ　ライバルのあかしに<br>\nこれを　あげるよ<page>\n"
+ },
+ {
+  "at": "17004E",
+  "end": "170062",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "それじゃあ　また！<page>\n"
+ },
+ {
+  "at": "170062",
+  "end": "17007C",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "また　しょうぶしようね～<page>\n"
+ },
+ {
+  "at": "17007C",
+  "end": "170098",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "やっぱり　ボクの　かちだ！<page>\n"
+ },
+ {
+  "at": "170098",
+  "end": "1700DA",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "まあ　はじめから　ボクのかちは<br>\nきまっていた　ようなものだけどね<page>\n"
+ },
+ {
+  "at": "1700DA",
+  "end": "17010C",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "そんなの　イヤよ～！<br>\nもういちど　しょうぶして！<page>\n"
+ },
+ {
+  "at": "17010C",
+  "end": "17013C",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "こんどこそ　ぜったいアタシが<br>\nかつんだから～！<page>\n"
+ },
+ {
+  "at": "17013C",
+  "end": "17016E",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "キミも　もういちど<br>\nボクにちょうせん　するよね？<page>\n"
+ },
+ {
+  "at": "17016E",
+  "end": "17018C",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "こっちは　もう10ひきよ～！<page>\n"
+ },
+ {
+  "at": "17018C",
+  "end": "1701A8",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ボクはもう　11ひきだ！！<page>\n"
+ },
+ {
+  "at": "1701A8",
+  "end": "1701D2",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "まだまだっ！<br>\nこんどこそ　かつんだから～<page>\n"
+ },
+ {
+  "at": "170DB8",
+  "end": "170DE4",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "あれ？　ここのかべから<br>\nカゼがふいてる…？<page>\n"
+ },
+ {
+  "at": "170DE4",
+  "end": "170E1C",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "かくしつうろが　あるみたい<br>\nどうすれば　ひらくのかな？<page>\n"
+ },
+ {
+  "at": "17213E",
+  "end": "172182",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "おつかれさまー　こちらのオアシスで<br>\nきゅうけい　していきませんかー<page>\n"
+ },
+ {
+  "at": "1729EC",
+  "end": "1729FC",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ZZZZZZ…<page>\n"
+ },
+ {
+  "at": "172C28",
+  "end": "172C32",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "172C32",
+  "end": "172C3C",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "172C3C",
+  "end": "172C46",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "172D30",
+  "end": "172D48",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ここがまつびめっせーじ<page>\n"
+ },
+ {
+  "at": "173074",
+  "end": "1730B4",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "こんどこそ　ジョニーさまの　ホンキ<br>\nとことん　みせてやるぜぇ！<page>\n"
+ },
+ {
+  "at": "173126",
+  "end": "17313A",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "…またな　アバヨ！<page>\n"
+ },
+ {
+  "at": "1737A4",
+  "end": "1737D6",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "リュウイチロウさんから<br>\n[FFEE]さんに　でんごんでーす<page>\n"
+ },
+ {
+  "at": "1737D6",
+  "end": "17380E",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ライブRPGクリアの<br>\nひょうしょうしきを　おこなうので<page>\n"
+ },
+ {
+  "at": "17380E",
+  "end": "173844",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "レジェンズタウンの　ステージに<br>\nきてほしいそうでーす<page>\n"
+ },
+ {
+  "at": "174126",
+  "end": "17415A",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "カクゴするがいい！<br>\n…いでよ　クールドーーール！！<page>\n"
+ },
+ {
+  "at": "17420E",
+  "end": "174252",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "つぎのイベントへの　さんかしかく<br>\nでもあるから　なくさないようにね<page>\n"
+ },
+ {
+  "at": "17462E",
+  "end": "174638",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "175140",
+  "end": "17514A",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "17514A",
+  "end": "175154",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "175154",
+  "end": "17515E",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "17515E",
+  "end": "175168",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "175168",
+  "end": "175172",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "175172",
+  "end": "17517C",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "17517C",
+  "end": "175186",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "175186",
+  "end": "175190",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "175190",
+  "end": "1751C8",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ここから　しゃくねつのどうくつに<br>\nもどれる　みたいだ…<page>\n"
+ },
+ {
+  "at": "17527E",
+  "end": "175298",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ここがまつびのめっせーじ<page>\n"
+ },
+ {
+  "at": "175FF6",
+  "end": "17603E",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "それと　ライブRPGを　クリアした<br>\nみんなは　だい9　だい10ゲートも<page>\n"
+ },
+ {
+  "at": "17603E",
+  "end": "176080",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "じゆうに　つうこう　かのうに<br>\nなるから　ちゃんとおぼえておいてね<page>\n"
+ },
+ {
+  "at": "1772A2",
+  "end": "1772DE",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "まあ…　べつにトーナメントに<br>\nでたいわけじゃ　ないんだけど<page>\n"
+ },
+ {
+  "at": "17743A",
+  "end": "177444",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "17A600",
+  "end": "17A60A",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "17A60A",
+  "end": "17A614",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "17A614",
+  "end": "17A61E",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "17A61E",
+  "end": "17A628",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "17A628",
+  "end": "17A632",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "17A632",
+  "end": "17A668",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "…ウチのコマンドは　どうもシツが<br>\nワルイようですね…<page>\n"
+ },
+ {
+  "at": "17A668",
+  "end": "17A6A4",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "く　くんれんでは　なかなかイイ<br>\nせいせき　だったんですがね<page>\n"
+ },
+ {
+  "at": "17A6A4",
+  "end": "17A6E8",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ま…　しょせんホンモノのサーガには<br>\nかなわないと　いうところですか<page>\n"
+ },
+ {
+  "at": "17A6E8",
+  "end": "17A72A",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ウ　ウチにもあのムスメがいます！<br>\nけっしょうせんでは　きっと…！<page>\n"
+ },
+ {
+  "at": "17A72A",
+  "end": "17A756",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ま…　そうなってくれると<br>\nいいんですがね…<page>\n"
+ },
+ {
+  "at": "17ABC6",
+  "end": "17AC04",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "シュウっ！　アンタも　ウジウジ<br>\nしないで　しっかりしなさい！<page>\n"
+ },
+ {
+  "at": "17AFDE",
+  "end": "17AFF0",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "まつびメッセージ<page>\n"
+ },
+ {
+  "at": "17B8AE",
+  "end": "17B8CE",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "<br>\nぜつめつ　してしまうだろう…<page>\n"
+ },
+ {
+  "at": "17BA2E",
+  "end": "17BA42",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "まつびのメッセージ<page>\n"
+ },
+ {
+  "at": "17D816",
+  "end": "17D820",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "…どうも<page>\n"
+ },
+ {
+  "at": "17D84C",
+  "end": "17D882",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ボクの　ソウルドールを　ここで<br>\nリボーンしてみてよ！<page>\n"
+ },
+ {
+  "at": "17D882",
+  "end": "17D8BC",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "リボーンの　じゅんびはできた？<br>\n　　　　　はい　　いいえ<end>"
+ },
+ {
+  "at": "17D8BC",
+  "end": "17D8CA",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ありがとう！<page>\n"
+ },
+ {
+  "at": "17D90C",
+  "end": "17D92C",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "キミのおかげで　たすかったよ！<page>\n"
+ },
+ {
+  "at": "17DB36",
+  "end": "17DB40",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "17DC36",
+  "end": "17DC76",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "このとびらの　くぼみには…<br>\nヒカリのもんしょうが　かかれてるね<page>\n"
+ },
+ {
+  "at": "17DCC4",
+  "end": "17DCDE",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "そんじゃ　そーゆーことで<page>\n"
+ },
+ {
+  "at": "17DD32",
+  "end": "17DD4A",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "なんか…　にぎやかだね<page>\n"
+ },
+ {
+  "at": "17DDC4",
+  "end": "17DDDC",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "それじゃ　いくわよー！<page>\n"
+ },
+ {
+  "at": "17DF0C",
+  "end": "17DF48",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "どうも　おつかれさまでーす<br>\nレジェンズホテルに　ようこそ！<page>\n"
+ },
+ {
+  "at": "17E4CE",
+  "end": "17E50A",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "そうだよ！　ここのカゼが　キミと<br>\nボクを　よんでるんだ…！<page>\n"
+ },
+ {
+  "at": "17E86C",
+  "end": "17E8AC",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "だい2ステージに　すすむにも<br>\nじょうほうとか　あつめないとね♪<page>\n"
+ },
+ {
+  "at": "17E8F8",
+  "end": "17E912",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ここが　まつびメッセージ<page>\n"
+ },
+ {
+  "at": "180D96",
+  "end": "180DE0",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "とうホテルでは　かいふくいがいにも<br>\nでんごんサービスが　あるんですよー！<page>\n"
+ },
+ {
+  "at": "180DE0",
+  "end": "180E28",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "まちあわせなどに　べんりですので<br>\nおきがるにごりよう　くださいませー！<page>\n"
+ },
+ {
+  "at": "182316",
+  "end": "18235C",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "この　ふんすいって　ステキよね～<br>\nじもとのこうえんにも　あったらなぁ<page>\n"
+ },
+ {
+  "at": "182420",
+  "end": "18245E",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "しかたないから　またレジェンズの<br>\nゲームで　あそんでよっと！<page>\n"
+ },
+ {
+  "at": "182498",
+  "end": "1824D2",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "それじゃ　ワタシもいくわね<br>\nアナタも　おくれないように！<page>\n"
+ },
+ {
+  "at": "18260E",
+  "end": "18262A",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ファイルのまつびめっせーじ<page>\n"
+ },
+ {
+  "at": "1826B2",
+  "end": "1826D2",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "よしっ！<br>\n[FFEF]を　てにいれたぞ！<page>\n"
+ },
+ {
+  "at": "1826F2",
+  "end": "182726",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "さーて　おたのしみの　おたからだ♪<br>\n[FFEF]　だったぞ！<page>\n"
+ },
+ {
+  "at": "182726",
+  "end": "182738",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "[FFEF]だ　…うけとれ<page>\n"
+ },
+ {
+  "at": "182738",
+  "end": "182774",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ぐわははは！　どーれ　おたからは…<br>\n[FFEF]？　しけてやがるぜ！<page>\n"
+ },
+ {
+  "at": "18280C",
+  "end": "18283E",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "なんと！　これはウワサにきく<br>\n[FFEF]　であったか…！<page>\n"
+ },
+ {
+  "at": "182870",
+  "end": "1828A2",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "フッフッフッ…　みるがいい！<br>\nこんかいは　[FFEF]だ！<page>\n"
+ },
+ {
+  "at": "1828A2",
+  "end": "1828B8",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "[FFEF]　…だいじなものだ<page>\n"
+ },
+ {
+  "at": "1828B8",
+  "end": "1828EE",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "んんー？　[FFEF]だと？<br>\nまぁ　これで　よしとしてやるか！<page>\n"
+ },
+ {
+  "at": "18297A",
+  "end": "1829A2",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "おぉ！　これはハドウは…<br>\nやはり　[FFEF]！<page>\n"
+ },
+ {
+  "at": "1829D2",
+  "end": "182A06",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ククク…　こんかいはツイテルぜ！<br>\nそらっ　[FFEF]だぜ！<page>\n"
+ },
+ {
+  "at": "182A06",
+  "end": "182A18",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "[FFEF]　…イイものだ<page>\n"
+ },
+ {
+  "at": "182A18",
+  "end": "182A4A",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ケーッ！　[FFEF]だと？<br>\nまったく　シケテいやがるなぁ<page>\n"
+ },
+ {
+  "at": "182AC0",
+  "end": "182AE6",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "[FFEF]ですな？<br>\nこれは　かたじけない…！<page>\n"
+ },
+ {
+  "at": "182B02",
+  "end": "182B2C",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "[FFEF]だと？<br>\nくれるんなら　もらっておくぜ！<page>\n"
+ },
+ {
+  "at": "182B2C",
+  "end": "182B44",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "[FFEF]？　かんしゃする…<br>\n<page>\n"
+ },
+ {
+  "at": "182B44",
+  "end": "182B76",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "[FFEF]だと？　よしよし<br>\nもらって　やろうではないか！<page>\n"
+ },
+ {
+  "at": "182C04",
+  "end": "182C3C",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "[FFC5]をおぼえました！<br>\nさっそく　ワザリストについかですな<page>\n"
+ },
+ {
+  "at": "182C70",
+  "end": "182CA0",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "[FFC5]をおぼえた！<br>\nワザリストに　いれといてやるか<page>\n"
+ },
+ {
+  "at": "182CA0",
+  "end": "182CCC",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "[FFC5]をおぼえた…<br>\nワザリストに　ついかした…<page>\n"
+ },
+ {
+  "at": "182CCC",
+  "end": "182D02",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "[FFC5]をおぼえたぜ！<br>\nワザリストに　いれときゃいいんだろ<page>\n"
+ },
+ {
+  "at": "182D80",
+  "end": "182D98",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "$[FFC4]　いただいておく…<page>\n"
+ },
+ {
+  "at": "182DC2",
+  "end": "182DEE",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "$[FFC4]　やったぜ！<br>\nまっ　とうぜんだけどな！<page>\n"
+ },
+ {
+  "at": "182DEE",
+  "end": "182E02",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "$[FFC4]　うけとった…<page>\n"
+ },
+ {
+  "at": "182E02",
+  "end": "182E3C",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ガハハハッ　やはりこうでなくては♪<br>\n$[FFC4]　いただくぞ！！<page>\n"
+ },
+ {
+  "at": "182F42",
+  "end": "182F5E",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ファイルのまつびめっせーじ<page>\n"
+ },
+ {
+  "at": "184B34",
+  "end": "184B4E",
+  "kind": "dead",
+  "block": "dialogue",
+  "jp": "ここが　まつびメッセージ<page>\n"
+ },
+ {
+  "at": "186E22",
+  "end": "186EC6",
+  "kind": "pad",
+  "block": "items",
+  "jp": "<end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end>"
+ },
+ {
+  "at": "188070",
+  "end": "188074",
+  "kind": "dead",
+  "block": "places",
+  "jp": "る　"
+ },
+ {
+  "at": "188E70",
+  "end": "188E7C",
+  "kind": "dead",
+  "block": "places",
+  "jp": "ここはどこ<end>"
+ },
+ {
+  "at": "188E7C",
+  "end": "188E94",
+  "kind": "dead",
+  "block": "places",
+  "jp": "どうしちゃったんだろう<end>"
+ },
+ {
+  "at": "188E94",
+  "end": "188EA0",
+  "kind": "dead",
+  "block": "places",
+  "jp": "タリスダム<end>"
+ },
+ {
+  "at": "188EA0",
+  "end": "188EA4",
+  "kind": "dead",
+  "block": "places",
+  "jp": "　<end>"
+ },
+ {
+  "at": "188F00",
+  "end": "188F10",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "レイズドラゴン<end>"
+ },
+ {
+  "at": "188F10",
+  "end": "188F22",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ブレイズドラゴン<end>"
+ },
+ {
+  "at": "188F22",
+  "end": "188F34",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ブレイズドラゴン<end>"
+ },
+ {
+  "at": "188F34",
+  "end": "188F4E",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "コマンドブレイズドラゴン<end>"
+ },
+ {
+  "at": "188F4E",
+  "end": "188F5C",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "CBドラゴン<end>"
+ },
+ {
+  "at": "188F5C",
+  "end": "188F76",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "コマンドブレイズドラゴン<end>"
+ },
+ {
+  "at": "188F76",
+  "end": "188F84",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "CBドラゴン<end>"
+ },
+ {
+  "at": "188F84",
+  "end": "188F98",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ウィルオーウィスプ<end>"
+ },
+ {
+  "at": "188F98",
+  "end": "188FA4",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "Wウィスプ<end>"
+ },
+ {
+  "at": "188FA4",
+  "end": "188FB2",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ヘルハウンド<end>"
+ },
+ {
+  "at": "188FB2",
+  "end": "188FC0",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ヘルハウンド<end>"
+ },
+ {
+  "at": "188FC0",
+  "end": "188FCC",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ワイバーン<end>"
+ },
+ {
+  "at": "188FCC",
+  "end": "188FD8",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ワイバーン<end>"
+ },
+ {
+  "at": "188FD8",
+  "end": "188FE2",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "キマイラ<end>"
+ },
+ {
+  "at": "188FE2",
+  "end": "188FEC",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "キマイラ<end>"
+ },
+ {
+  "at": "188FEC",
+  "end": "188FFA",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ウェアウルフ<end>"
+ },
+ {
+  "at": "188FFA",
+  "end": "189008",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ウェアウルフ<end>"
+ },
+ {
+  "at": "189008",
+  "end": "189012",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ゴブリン<end>"
+ },
+ {
+  "at": "189012",
+  "end": "18901C",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ゴブリン<end>"
+ },
+ {
+  "at": "18901C",
+  "end": "189024",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "トロル<end>"
+ },
+ {
+  "at": "189024",
+  "end": "18902C",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "トロル<end>"
+ },
+ {
+  "at": "18902C",
+  "end": "189036",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ドワーフ<end>"
+ },
+ {
+  "at": "189036",
+  "end": "189040",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ドワーフ<end>"
+ },
+ {
+  "at": "189040",
+  "end": "18904C",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "グリフィン<end>"
+ },
+ {
+  "at": "18904C",
+  "end": "189058",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "グリフィン<end>"
+ },
+ {
+  "at": "189058",
+  "end": "189068",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ウインドラゴン<end>"
+ },
+ {
+  "at": "189068",
+  "end": "189078",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ウインドラゴン<end>"
+ },
+ {
+  "at": "189078",
+  "end": "189088",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ウインドラゴン<end>"
+ },
+ {
+  "at": "189088",
+  "end": "189098",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ウインドラゴン<end>"
+ },
+ {
+  "at": "189098",
+  "end": "1890A8",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ウインドラゴン<end>"
+ },
+ {
+  "at": "1890A8",
+  "end": "1890B8",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ウインドラゴン<end>"
+ },
+ {
+  "at": "1890B8",
+  "end": "1890D0",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "コマンドウインドラゴン<end>"
+ },
+ {
+  "at": "1890D0",
+  "end": "1890E2",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "Cウインドラゴン<end>"
+ },
+ {
+  "at": "1890E2",
+  "end": "1890FA",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "コマンドウインドラゴン<end>"
+ },
+ {
+  "at": "1890FA",
+  "end": "18910C",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "Cウインドラゴン<end>"
+ },
+ {
+  "at": "18910C",
+  "end": "189118",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ペリュトン<end>"
+ },
+ {
+  "at": "189118",
+  "end": "189124",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ペリュトン<end>"
+ },
+ {
+  "at": "189124",
+  "end": "18913A",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "クラウドジャイアント<end>"
+ },
+ {
+  "at": "18913A",
+  "end": "189146",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "クラウドG<end>"
+ },
+ {
+  "at": "189146",
+  "end": "189154",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "マンティコア<end>"
+ },
+ {
+  "at": "189154",
+  "end": "189162",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "マンティコア<end>"
+ },
+ {
+  "at": "189162",
+  "end": "189170",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ビッグフット<end>"
+ },
+ {
+  "at": "189170",
+  "end": "18917E",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ビッグフット<end>"
+ },
+ {
+  "at": "18917E",
+  "end": "18918A",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "マーメイド<end>"
+ },
+ {
+  "at": "18918A",
+  "end": "189196",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "マーメイド<end>"
+ },
+ {
+  "at": "189196",
+  "end": "1891A0",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "イエティ<end>"
+ },
+ {
+  "at": "1891A0",
+  "end": "1891AA",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "イエティ<end>"
+ },
+ {
+  "at": "1891AA",
+  "end": "1891C0",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "デヴォアクロコダイル<end>"
+ },
+ {
+  "at": "1891C0",
+  "end": "1891D0",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "Dクロコダイル<end>"
+ },
+ {
+  "at": "1891D0",
+  "end": "1891DA",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "トリトン<end>"
+ },
+ {
+  "at": "1891DA",
+  "end": "1891E4",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "トリトン<end>"
+ },
+ {
+  "at": "1891E4",
+  "end": "1891F2",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ウンディーネ<end>"
+ },
+ {
+  "at": "1891F2",
+  "end": "189200",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ウンディーネ<end>"
+ },
+ {
+  "at": "189200",
+  "end": "18920E",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "カーバンクル<end>"
+ },
+ {
+  "at": "18920E",
+  "end": "18921C",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "カーバンクル<end>"
+ },
+ {
+  "at": "18921C",
+  "end": "189228",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "スケルトン<end>"
+ },
+ {
+  "at": "189228",
+  "end": "189234",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "スケルトン<end>"
+ },
+ {
+  "at": "189234",
+  "end": "189240",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ガーゴイル<end>"
+ },
+ {
+  "at": "189240",
+  "end": "18924C",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ガーゴイル<end>"
+ },
+ {
+  "at": "18924C",
+  "end": "189262",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ファイアジャイアント<end>"
+ },
+ {
+  "at": "189262",
+  "end": "18926E",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ファイアG<end>"
+ },
+ {
+  "at": "18926E",
+  "end": "18927C",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ティアマット<end>"
+ },
+ {
+  "at": "18927C",
+  "end": "18928A",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ティアマット<end>"
+ },
+ {
+  "at": "18928A",
+  "end": "189296",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "スパルトイ<end>"
+ },
+ {
+  "at": "189296",
+  "end": "1892A2",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "スパルトイ<end>"
+ },
+ {
+  "at": "1892A2",
+  "end": "1892AE",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "コカトリス<end>"
+ },
+ {
+  "at": "1892AE",
+  "end": "1892BA",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "コカトリス<end>"
+ },
+ {
+  "at": "1892BA",
+  "end": "1892CA",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "サンダーバード<end>"
+ },
+ {
+  "at": "1892CA",
+  "end": "1892DA",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "サンダーバード<end>"
+ },
+ {
+  "at": "1892DA",
+  "end": "1892EA",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "グラシュティグ<end>"
+ },
+ {
+  "at": "1892EA",
+  "end": "1892FA",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "グラシュティグ<end>"
+ },
+ {
+  "at": "1892FA",
+  "end": "189306",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ハイエルフ<end>"
+ },
+ {
+  "at": "189306",
+  "end": "189312",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ハイエルフ<end>"
+ },
+ {
+  "at": "189312",
+  "end": "18931E",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "デュラハン<end>"
+ },
+ {
+  "at": "18931E",
+  "end": "18932A",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "デュラハン<end>"
+ },
+ {
+  "at": "18932A",
+  "end": "189336",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ワイアーム<end>"
+ },
+ {
+  "at": "189336",
+  "end": "189342",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ワイアーム<end>"
+ },
+ {
+  "at": "189342",
+  "end": "18934E",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "サーペント<end>"
+ },
+ {
+  "at": "18934E",
+  "end": "18935A",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "サーペント<end>"
+ },
+ {
+  "at": "18935A",
+  "end": "189374",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ジャイアントスコーピオン<end>"
+ },
+ {
+  "at": "189374",
+  "end": "189384",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "Gスコーピオン<end>"
+ },
+ {
+  "at": "189384",
+  "end": "18939A",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ジャイアントビートル<end>"
+ },
+ {
+  "at": "18939A",
+  "end": "1893A6",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "Gビートル<end>"
+ },
+ {
+  "at": "1893A6",
+  "end": "1893BE",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ジャイアントマンティス<end>"
+ },
+ {
+  "at": "1893BE",
+  "end": "1893CC",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "Gマンティス<end>"
+ },
+ {
+  "at": "1893CC",
+  "end": "1893E4",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ジャイアントスパイダー<end>"
+ },
+ {
+  "at": "1893E4",
+  "end": "1893F2",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "Gスパイダー<end>"
+ },
+ {
+  "at": "1893F2",
+  "end": "189404",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "キラーラフレシア<end>"
+ },
+ {
+  "at": "189404",
+  "end": "189416",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "キラーラフレシア<end>"
+ },
+ {
+  "at": "189416",
+  "end": "189426",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "バインドケルプ<end>"
+ },
+ {
+  "at": "189426",
+  "end": "189436",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "バインドケルプ<end>"
+ },
+ {
+  "at": "189436",
+  "end": "189444",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "サラマンダー<end>"
+ },
+ {
+  "at": "189444",
+  "end": "189452",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "サラマンダー<end>"
+ },
+ {
+  "at": "189452",
+  "end": "18945C",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "フンババ<end>"
+ },
+ {
+  "at": "18945C",
+  "end": "189466",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "フンババ<end>"
+ },
+ {
+  "at": "189466",
+  "end": "189472",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ケットシー<end>"
+ },
+ {
+  "at": "189472",
+  "end": "18947E",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ケットシー<end>"
+ },
+ {
+  "at": "18947E",
+  "end": "18948C",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "リザードマン<end>"
+ },
+ {
+  "at": "18948C",
+  "end": "18949A",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "リザードマン<end>"
+ },
+ {
+  "at": "18949A",
+  "end": "1894A2",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "オーガ<end>"
+ },
+ {
+  "at": "1894A2",
+  "end": "1894AA",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "オーガ<end>"
+ },
+ {
+  "at": "1894AA",
+  "end": "1894B6",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ヒポグリフ<end>"
+ },
+ {
+  "at": "1894B6",
+  "end": "1894C2",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ヒポグリフ<end>"
+ },
+ {
+  "at": "1894C2",
+  "end": "1894CC",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ハーピー<end>"
+ },
+ {
+  "at": "1894CC",
+  "end": "1894D6",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ハーピー<end>"
+ },
+ {
+  "at": "1894D6",
+  "end": "1894E4",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "アサシンバグ<end>"
+ },
+ {
+  "at": "1894E4",
+  "end": "1894F2",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "アサシンバグ<end>"
+ },
+ {
+  "at": "1894F2",
+  "end": "189502",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ストームワーム<end>"
+ },
+ {
+  "at": "189502",
+  "end": "189512",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ストームワーム<end>"
+ },
+ {
+  "at": "189512",
+  "end": "189526",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ジャイアントクラブ<end>"
+ },
+ {
+  "at": "189526",
+  "end": "189530",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "Gクラブ<end>"
+ },
+ {
+  "at": "189530",
+  "end": "189542",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "メイズオクトパス<end>"
+ },
+ {
+  "at": "189542",
+  "end": "189554",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "メイズオクトパス<end>"
+ },
+ {
+  "at": "189554",
+  "end": "189560",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "シーホース<end>"
+ },
+ {
+  "at": "189560",
+  "end": "18956C",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "シーホース<end>"
+ },
+ {
+  "at": "18956C",
+  "end": "189572",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "パン<end>"
+ },
+ {
+  "at": "189572",
+  "end": "189578",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "パン<end>"
+ },
+ {
+  "at": "189578",
+  "end": "189580",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "エルフ<end>"
+ },
+ {
+  "at": "189580",
+  "end": "189588",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "エルフ<end>"
+ },
+ {
+  "at": "189588",
+  "end": "189598",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ウェアタイガー<end>"
+ },
+ {
+  "at": "189598",
+  "end": "1895A8",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ウェアタイガー<end>"
+ },
+ {
+  "at": "1895A8",
+  "end": "1895B0",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ゾンビ<end>"
+ },
+ {
+  "at": "1895B0",
+  "end": "1895B8",
+  "kind": "dead",
+  "block": "names_old",
+  "jp": "ゾンビ<end>"
+ },
+ {
+  "at": "23C3D4",
+  "end": "23C3E6",
+  "kind": "dead",
+  "block": "battle",
+  "jp": "は石化している‼<end>"
+ },
+ {
+  "at": "23C836",
+  "end": "23C872",
+  "kind": "pad",
+  "block": "battle",
+  "jp": "<end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end><end>"
+ },
+ {
+  "at": "2AB4E0",
+  "end": "2AB4E4",
+  "kind": "dead",
+  "block": "skills2",
+  "jp": "　　"
+ },
+ {
+  "at": "2ABE2C",
+  "end": "2ABE30",
+  "kind": "dead",
+  "block": "skills3",
+  "jp": "　　"
+ },
+ {
+  "at": "434BF8",
+  "end": "434BFC",
+  "kind": "dead",
+  "block": "rental",
+  "jp": "ヅャ"
+ },
+ {
+  "at": "440DDC",
+  "end": "440E0A",
+  "kind": "dead",
+  "block": "adventure",
+  "jp": "スポットレベルがひくくチャレンジできません…<end>"
+ },
+ {
+  "at": "440E84",
+  "end": "440E96",
+  "kind": "dead",
+  "block": "adventure",
+  "jp": "クリスタル　1こ<end>"
+ },
+ {
+  "at": "440F26",
+  "end": "440F2A",
+  "kind": "dead",
+  "block": "adventure",
+  "jp": "$<end>"
+ },
+ {
+  "at": "441054",
+  "end": "441066",
+  "kind": "dead",
+  "block": "adventure",
+  "jp": "ニックネーム　　<end>"
+ },
+ {
+  "at": "442FCA",
+  "end": "442FD2",
+  "kind": "dead",
+  "block": "quips",
+  "jp": "UP6<end>"
+ },
+ {
+  "at": "444B56",
+  "end": "444B5E",
+  "kind": "dead",
+  "block": "quips",
+  "jp": "UP6<end>"
+ },
+ {
+  "at": "4466FA",
+  "end": "446702",
+  "kind": "dead",
+  "block": "quips",
+  "jp": "UP6<end>"
+ },
+ {
+  "at": "4482C2",
+  "end": "4482CA",
+  "kind": "dead",
+  "block": "quips",
+  "jp": "UP6<end>"
+ },
+ {
+  "at": "45A606",
+  "end": "45A696",
+  "kind": "data",
+  "block": "menus"
+ },
+ {
+  "at": "45A696",
+  "end": "45A6A4",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "ニックネーム<end>"
+ },
+ {
+  "at": "45A6A4",
+  "end": "45A6AE",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "スポット<end>"
+ },
+ {
+  "at": "45A6AE",
+  "end": "45A6BA",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "サーガめい<end>"
+ },
+ {
+  "at": "45A6BA",
+  "end": "45A6C8",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "カゼのちから<end>"
+ },
+ {
+  "at": "45A6C8",
+  "end": "45A6D6",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "わざダミー0<end>"
+ },
+ {
+  "at": "45A6D6",
+  "end": "45A6E4",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "わざダミー1<end>"
+ },
+ {
+  "at": "45A6E4",
+  "end": "45A6F2",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "わざダミー2<end>"
+ },
+ {
+  "at": "45A6F2",
+  "end": "45A700",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "わざダミー3<end>"
+ },
+ {
+  "at": "45A700",
+  "end": "45A70E",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "わざダミー4<end>"
+ },
+ {
+  "at": "45A70E",
+  "end": "45A71C",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "わざダミー5<end>"
+ },
+ {
+  "at": "45A71C",
+  "end": "45A72A",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "わざダミー6<end>"
+ },
+ {
+  "at": "45A72A",
+  "end": "45A738",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "わざダミー7<end>"
+ },
+ {
+  "at": "45A738",
+  "end": "45A746",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "わざダミー8<end>"
+ },
+ {
+  "at": "45A746",
+  "end": "45A754",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "わざダミー9<end>"
+ },
+ {
+  "at": "45A754",
+  "end": "45A764",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "わざダミー10<end>"
+ },
+ {
+  "at": "45A764",
+  "end": "45A774",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "わざダミー11<end>"
+ },
+ {
+  "at": "45A774",
+  "end": "45A784",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "わざダミー12<end>"
+ },
+ {
+  "at": "45A784",
+  "end": "45A794",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "わざダミー13<end>"
+ },
+ {
+  "at": "45A794",
+  "end": "45A7A4",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "わざダミー14<end>"
+ },
+ {
+  "at": "45A844",
+  "end": "45A85E",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "じゅうじつしたいちにち！<end>"
+ },
+ {
+  "at": "45A85E",
+  "end": "45A874",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "とってもたのしかった<end>"
+ },
+ {
+  "at": "45A874",
+  "end": "45A888",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "おもてなしをうけた<end>"
+ },
+ {
+  "at": "45A888",
+  "end": "45A8A2",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "ただばたらきさせられた！<end>"
+ },
+ {
+  "at": "45AA6C",
+  "end": "45AA78",
+  "kind": "dead",
+  "block": "menus",
+  "jp": "みせってい<end>"
+ },
+ {
+  "at": "45AABC",
+  "end": "45AE30",
+  "kind": "data",
+  "block": "menus"
+ },
+ {
+  "at": "45BBCE",
+  "end": "45BBD0",
+  "kind": "dead",
+  "block": "system",
+  "jp": "　"
+ },
+ {
+  "at": "45BC18",
+  "end": "45BC2C",
+  "kind": "dead",
+  "block": "system",
+  "jp": "あいさつメッセージ<end>"
+ },
+ {
+  "at": "45BC2C",
+  "end": "45BC40",
+  "kind": "dead",
+  "block": "system",
+  "jp": "ランダムメッセージ<end>"
+ },
+ {
+  "at": "45BC40",
+  "end": "45BC52",
+  "kind": "dead",
+  "block": "system",
+  "jp": "ヒントメッセージ<end>"
+ },
+ {
+  "at": "45BC52",
+  "end": "45BC70",
+  "kind": "dead",
+  "block": "system",
+  "jp": "もちぬしにかんするメッセージ<end>"
+ },
+ {
+  "at": "45BC70",
+  "end": "45BC92",
+  "kind": "dead",
+  "block": "system",
+  "jp": "ほうもんさきにかんするメッセージ<end>"
+ },
+ {
+  "at": "45BC92",
+  "end": "45BCA2",
+  "kind": "dead",
+  "block": "system",
+  "jp": "ここはどこだ？<end>"
+ },
+ {
+  "at": "45BCA2",
+  "end": "45BCB0",
+  "kind": "dead",
+  "block": "system",
+  "jp": "やりのこし？<end>"
+ },
+ {
+  "at": "45BCB0",
+  "end": "45BCC2",
+  "kind": "dead",
+  "block": "system",
+  "jp": "でんごんがあるよ<end>"
+ },
+ {
+  "at": "45BCC2",
+  "end": "45BCD6",
+  "kind": "dead",
+  "block": "system",
+  "jp": "プレゼントがあるよ<end>"
+ },
+ {
+  "at": "45BCD6",
+  "end": "45BCEE",
+  "kind": "dead",
+  "block": "system",
+  "jp": "ようけんにうつるセリフ<end>"
+ },
+ {
+  "at": "45BCEE",
+  "end": "45BCFA",
+  "kind": "dead",
+  "block": "system",
+  "jp": "じゃまたね<end>"
+ },
+ {
+  "at": "45BCFA",
+  "end": "45BD08",
+  "kind": "dead",
+  "block": "system",
+  "jp": "おぼえたよ！<end>"
+ },
+ {
+  "at": "45BD08",
+  "end": "45BD22",
+  "kind": "dead",
+  "block": "system",
+  "jp": "プレゼントあずかったよ！<end>"
+ },
+ {
+  "at": "45BD22",
+  "end": "45BD36",
+  "kind": "dead",
+  "block": "system",
+  "jp": "かんそうメッセージ<end>"
+ },
+ {
+  "at": "45BD50",
+  "end": "45BD66",
+  "kind": "dead",
+  "block": "system",
+  "jp": "マスターリボーンです<end>"
+ },
+ {
+  "at": "45BD66",
+  "end": "45BD7A",
+  "kind": "dead",
+  "block": "system",
+  "jp": "ゲストリボーンです<end>"
+ },
+ {
+  "at": "45BD7A",
+  "end": "45BD92",
+  "kind": "dead",
+  "block": "system",
+  "jp": "スペシャルリボーンです<end>"
+ },
+ {
+  "at": "45BD92",
+  "end": "45BDAA",
+  "kind": "dead",
+  "block": "system",
+  "jp": "ファーストリボーンです<end>"
+ },
+ {
+  "at": "45BDAA",
+  "end": "45BDCA",
+  "kind": "dead",
+  "block": "system",
+  "jp": "リボーンかいわテストメッセージ<end>"
+ },
+ {
+  "at": "45BDCA",
+  "end": "45BDEA",
+  "kind": "dead",
+  "block": "system",
+  "jp": "これいじょうとうろくできません<end>"
+ },
+ {
+  "at": "45DF9E",
+  "end": "45DFDC",
+  "kind": "dead",
+  "block": "system",
+  "jp": "ところで、[FFEE]スキなこいる？じつはボク、きになるこがいるんだ♪<page>\n"
+ },
+ {
+  "at": "45E7D8",
+  "end": "45E814",
+  "kind": "dead",
+  "block": "system",
+  "jp": "[FFED]ってさあ、たいせんで<br>\nまだ1かいも　かってないんだよね！<page>\n"
+ },
+ {
+  "at": "45F680",
+  "end": "45F68A",
+  "kind": "dead",
+  "block": "system",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "45F68A",
+  "end": "45F694",
+  "kind": "dead",
+  "block": "system",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "45F694",
+  "end": "45F69E",
+  "kind": "dead",
+  "block": "system",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "45F69E",
+  "end": "45F6A8",
+  "kind": "dead",
+  "block": "system",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "45F6A8",
+  "end": "45F6B2",
+  "kind": "dead",
+  "block": "system",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "45F6B2",
+  "end": "45F6BC",
+  "kind": "dead",
+  "block": "system",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "45F6BC",
+  "end": "45F6C6",
+  "kind": "dead",
+  "block": "system",
+  "jp": "けつばん<page>\n"
+ },
+ {
+  "at": "47BD3C",
+  "end": "47BD40",
+  "kind": "dead",
+  "block": "link",
+  "jp": "ま　"
+ },
+ {
+  "at": "47BD90",
+  "end": "47BD9E",
+  "kind": "dead",
+  "block": "link",
+  "jp": "　　WAIT<end>"
+ },
+ {
+  "at": "47BDB8",
+  "end": "47BDBC",
+  "kind": "dead",
+  "block": "link",
+  "jp": "・<end>"
+ },
+ {
+  "at": "47BDBC",
+  "end": "47BDCA",
+  "kind": "dead",
+  "block": "link",
+  "jp": "　　　　　　<end>"
+ },
+ {
+  "at": "47BF20",
+  "end": "47BF5E",
+  "kind": "data",
+  "block": "link"
+ }
+]

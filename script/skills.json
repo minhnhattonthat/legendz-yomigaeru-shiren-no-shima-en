@@ -1,0 +1,6107 @@
+[
+ {
+  "id": "2A7714",
+  "end": "2A771C",
+  "owners": [
+   "tab:2AA0A8"
+  ],
+  "jp": "クロー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A771C",
+  "end": "2A7724",
+  "owners": [
+   "tab:2AA0AC"
+  ],
+  "jp": "クロー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7724",
+  "end": "2A7734",
+  "owners": [
+   "tab:2AA0B0"
+  ],
+  "jp": "いりょく　30<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7734",
+  "end": "2A7742",
+  "owners": [
+   "tab:2AA0C4"
+  ],
+  "jp": "ダブルクロー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7742",
+  "end": "2A7750",
+  "owners": [
+   "tab:2AA0C8"
+  ],
+  "jp": "ダブルクロー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7750",
+  "end": "2A7774",
+  "owners": [
+   "tab:2AA0CC"
+  ],
+  "jp": "いりょく　30　　　2かいこうげき<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7774",
+  "end": "2A7784",
+  "owners": [
+   "tab:2AA0E0"
+  ],
+  "jp": "トリプルクロー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7784",
+  "end": "2A7794",
+  "owners": [
+   "tab:2AA0E4"
+  ],
+  "jp": "トリプルクロー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7794",
+  "end": "2A77B8",
+  "owners": [
+   "tab:2AA0E8"
+  ],
+  "jp": "いりょく　30　　　3かいこうげき<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A77B8",
+  "end": "2A77C0",
+  "owners": [
+   "tab:2AA0FC"
+  ],
+  "jp": "アロー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A77C0",
+  "end": "2A77C8",
+  "owners": [
+   "tab:2AA100"
+  ],
+  "jp": "アロー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A77C8",
+  "end": "2A77F2",
+  "owners": [
+   "tab:2AA104"
+  ],
+  "jp": "いりょく　25　　　クリティカルしやすい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A77F2",
+  "end": "2A7800",
+  "owners": [
+   "tab:2AA118"
+  ],
+  "jp": "ダブルアロー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7800",
+  "end": "2A780E",
+  "owners": [
+   "tab:2AA11C"
+  ],
+  "jp": "ダブルアロー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A780E",
+  "end": "2A7838",
+  "owners": [
+   "tab:2AA120"
+  ],
+  "jp": "いりょく　50　　　クリティカルしやすい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7838",
+  "end": "2A7848",
+  "owners": [
+   "tab:2AA134"
+  ],
+  "jp": "トリプルアロー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7848",
+  "end": "2A7858",
+  "owners": [
+   "tab:2AA138"
+  ],
+  "jp": "トリプルアロー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7858",
+  "end": "2A7882",
+  "owners": [
+   "tab:2AA13C"
+  ],
+  "jp": "いりょく　75　　　クリティカルしやすい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7882",
+  "end": "2A788C",
+  "owners": [
+   "tab:2AA150"
+  ],
+  "jp": "ブレイド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A788C",
+  "end": "2A7896",
+  "owners": [
+   "tab:2AA154"
+  ],
+  "jp": "ブレイド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7896",
+  "end": "2A78A6",
+  "owners": [
+   "tab:2AA158"
+  ],
+  "jp": "いりょく　35<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A78A6",
+  "end": "2A78B6",
+  "owners": [
+   "tab:2AA16C"
+  ],
+  "jp": "ダブルブレイド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A78B6",
+  "end": "2A78C6",
+  "owners": [
+   "tab:2AA170"
+  ],
+  "jp": "ダブルブレイド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A78C6",
+  "end": "2A78EA",
+  "owners": [
+   "tab:2AA174"
+  ],
+  "jp": "いりょく　35　　　2かいこうげき<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A78EA",
+  "end": "2A78FC",
+  "owners": [
+   "tab:2AA188"
+  ],
+  "jp": "トリプルブレイド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A78FC",
+  "end": "2A790E",
+  "owners": [
+   "tab:2AA18C"
+  ],
+  "jp": "トリプルブレイド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A790E",
+  "end": "2A7932",
+  "owners": [
+   "tab:2AA190"
+  ],
+  "jp": "いりょく　35　　　3かいこうげき<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7932",
+  "end": "2A793A",
+  "owners": [
+   "tab:2AA1A4"
+  ],
+  "jp": "クレイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A793A",
+  "end": "2A7942",
+  "owners": [
+   "tab:2AA1A8"
+  ],
+  "jp": "クレイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7942",
+  "end": "2A7952",
+  "owners": [
+   "tab:2AA1AC"
+  ],
+  "jp": "いりょく　40<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7952",
+  "end": "2A795C",
+  "owners": [
+   "tab:2AA1C0"
+  ],
+  "jp": "クレイド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A795C",
+  "end": "2A7966",
+  "owners": [
+   "tab:2AA1C4"
+  ],
+  "jp": "クレイド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7966",
+  "end": "2A7976",
+  "owners": [
+   "tab:2AA1C8"
+  ],
+  "jp": "いりょく　60<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7976",
+  "end": "2A7982",
+  "owners": [
+   "tab:2AA1DC"
+  ],
+  "jp": "クレイゾン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7982",
+  "end": "2A798E",
+  "owners": [
+   "tab:2AA1E0"
+  ],
+  "jp": "クレイゾン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A798E",
+  "end": "2A799E",
+  "owners": [
+   "tab:2AA1E4"
+  ],
+  "jp": "いりょく　80<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A799E",
+  "end": "2A79A6",
+  "owners": [
+   "tab:2AA1F8"
+  ],
+  "jp": "ブロウ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A79A6",
+  "end": "2A79AE",
+  "owners": [
+   "tab:2AA1FC"
+  ],
+  "jp": "ブロウ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A79AE",
+  "end": "2A79BE",
+  "owners": [
+   "tab:2AA200"
+  ],
+  "jp": "いりょく　40<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A79BE",
+  "end": "2A79C8",
+  "owners": [
+   "tab:2AA214"
+  ],
+  "jp": "ブロウガ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A79C8",
+  "end": "2A79D2",
+  "owners": [
+   "tab:2AA218"
+  ],
+  "jp": "ブロウガ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A79D2",
+  "end": "2A79E2",
+  "owners": [
+   "tab:2AA21C"
+  ],
+  "jp": "いりょく　60<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A79E2",
+  "end": "2A79EE",
+  "owners": [
+   "tab:2AA230"
+  ],
+  "jp": "ブロウザン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A79EE",
+  "end": "2A79FA",
+  "owners": [
+   "tab:2AA234"
+  ],
+  "jp": "ブロウザン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A79FA",
+  "end": "2A7A0A",
+  "owners": [
+   "tab:2AA238"
+  ],
+  "jp": "いりょく　80<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7A0A",
+  "end": "2A7A1A",
+  "owners": [
+   "tab:2AA24C"
+  ],
+  "jp": "グランドブロウ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7A1A",
+  "end": "2A7A2A",
+  "owners": [
+   "tab:2AA250"
+  ],
+  "jp": "グランドブロウ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7A2A",
+  "end": "2A7A50",
+  "owners": [
+   "tab:2AA254"
+  ],
+  "jp": "いりょく　50　　　せんせい　しばり<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7A50",
+  "end": "2A7A60",
+  "owners": [
+   "tab:2AA268"
+  ],
+  "jp": "ハンマーブロウ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7A60",
+  "end": "2A7A70",
+  "owners": [
+   "tab:2AA26C"
+  ],
+  "jp": "ハンマーブロウ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7A70",
+  "end": "2A7A80",
+  "owners": [
+   "tab:2AA270"
+  ],
+  "jp": "いりょく　50<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7A80",
+  "end": "2A7A90",
+  "owners": [
+   "tab:2AA284"
+  ],
+  "jp": "スタンプブロウ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7A90",
+  "end": "2A7AA0",
+  "owners": [
+   "tab:2AA288"
+  ],
+  "jp": "スタンプブロウ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7AA0",
+  "end": "2A7AC8",
+  "owners": [
+   "tab:2AA28C"
+  ],
+  "jp": "いりょく　40　　　こんらんをあたえる<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7AC8",
+  "end": "2A7AD8",
+  "owners": [
+   "tab:2AA2A0"
+  ],
+  "jp": "ロックブロウガ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7AD8",
+  "end": "2A7AE8",
+  "owners": [
+   "tab:2AA2A4"
+  ],
+  "jp": "ロックブロウガ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7AE8",
+  "end": "2A7B12",
+  "owners": [
+   "tab:2AA2A8"
+  ],
+  "jp": "いりょく　70　　　じぶんも10ダメージ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7B12",
+  "end": "2A7B20",
+  "owners": [
+   "tab:2AA2BC"
+  ],
+  "jp": "ボムブロウガ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7B20",
+  "end": "2A7B2E",
+  "owners": [
+   "tab:2AA2C0"
+  ],
+  "jp": "ボムブロウガ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7B2E",
+  "end": "2A7B54",
+  "owners": [
+   "tab:2AA2C4"
+  ],
+  "jp": "いりょく　80　　　しっぱいしやすい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7B54",
+  "end": "2A7B66",
+  "owners": [
+   "tab:2AA2D8"
+  ],
+  "jp": "ブレイドブロウガ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7B66",
+  "end": "2A7B78",
+  "owners": [
+   "tab:2AA2DC"
+  ],
+  "jp": "ブレイドブロウガ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7B78",
+  "end": "2A7BA0",
+  "owners": [
+   "tab:2AA2E0"
+  ],
+  "jp": "いりょく　30　　　1～5かいこうげき<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7BA0",
+  "end": "2A7BB4",
+  "owners": [
+   "tab:2AA2F4"
+  ],
+  "jp": "アーマーブロウザン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7BB4",
+  "end": "2A7BC2",
+  "owners": [
+   "tab:2AA2F8"
+  ],
+  "jp": "Aブロウザン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7BC2",
+  "end": "2A7BE8",
+  "owners": [
+   "tab:2AA2FC"
+  ],
+  "jp": "いりょく　90　　　カウンターむこう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7BE8",
+  "end": "2A7BFA",
+  "owners": [
+   "tab:2AA310"
+  ],
+  "jp": "クロスブロウザン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7BFA",
+  "end": "2A7C08",
+  "owners": [
+   "tab:2AA314"
+  ],
+  "jp": "Cブロウザン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7C08",
+  "end": "2A7C24",
+  "owners": [
+   "tab:2AA318"
+  ],
+  "jp": "いりょく　50　　　しばり<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7C24",
+  "end": "2A7C34",
+  "owners": [
+   "tab:2AA32C"
+  ],
+  "jp": "レイブロウザン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7C34",
+  "end": "2A7C44",
+  "owners": [
+   "tab:2AA330"
+  ],
+  "jp": "レイブロウザン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7C44",
+  "end": "2A7C6E",
+  "owners": [
+   "tab:2AA334"
+  ],
+  "jp": "いりょく　80　　　クリティカルしやすい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7C6E",
+  "end": "2A7C78",
+  "owners": [
+   "tab:2AA348"
+  ],
+  "jp": "スラスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7C78",
+  "end": "2A7C82",
+  "owners": [
+   "tab:2AA34C"
+  ],
+  "jp": "スラスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7C82",
+  "end": "2A7C92",
+  "owners": [
+   "tab:2AA350"
+  ],
+  "jp": "いりょく　40<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7C92",
+  "end": "2A7C9E",
+  "owners": [
+   "tab:2AA364"
+  ],
+  "jp": "スラッシュ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7C9E",
+  "end": "2A7CAA",
+  "owners": [
+   "tab:2AA368"
+  ],
+  "jp": "スラッシュ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7CAA",
+  "end": "2A7CBA",
+  "owners": [
+   "tab:2AA36C"
+  ],
+  "jp": "いりょく　60<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7CBA",
+  "end": "2A7CC8",
+  "owners": [
+   "tab:2AA380"
+  ],
+  "jp": "スラッシャー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7CC8",
+  "end": "2A7CD6",
+  "owners": [
+   "tab:2AA384"
+  ],
+  "jp": "スラッシャー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7CD6",
+  "end": "2A7CE6",
+  "owners": [
+   "tab:2AA388"
+  ],
+  "jp": "いりょく　80<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7CE6",
+  "end": "2A7CFC",
+  "owners": [
+   "tab:2AA39C"
+  ],
+  "jp": "ソニックスラッシャー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7CFC",
+  "end": "2A7D08",
+  "owners": [
+   "tab:2AA3A0"
+  ],
+  "jp": "ソニックS<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7D08",
+  "end": "2A7D18",
+  "owners": [
+   "tab:2AA3A4"
+  ],
+  "jp": "いりょく　90<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7D18",
+  "end": "2A7D22",
+  "owners": [
+   "tab:2AA3B8"
+  ],
+  "jp": "ハイドロ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7D22",
+  "end": "2A7D2C",
+  "owners": [
+   "tab:2AA3BC"
+  ],
+  "jp": "ハイドロ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7D2C",
+  "end": "2A7D3C",
+  "owners": [
+   "tab:2AA3C0"
+  ],
+  "jp": "いりょく　40<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7D3C",
+  "end": "2A7D46",
+  "owners": [
+   "tab:2AA3D4"
+  ],
+  "jp": "ハイドラ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7D46",
+  "end": "2A7D50",
+  "owners": [
+   "tab:2AA3D8"
+  ],
+  "jp": "ハイドラ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7D50",
+  "end": "2A7D60",
+  "owners": [
+   "tab:2AA3DC"
+  ],
+  "jp": "いりょく　60<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7D60",
+  "end": "2A7D6C",
+  "owners": [
+   "tab:2AA3F0"
+  ],
+  "jp": "ハイドラス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7D6C",
+  "end": "2A7D78",
+  "owners": [
+   "tab:2AA3F4"
+  ],
+  "jp": "ハイドラス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7D78",
+  "end": "2A7D88",
+  "owners": [
+   "tab:2AA3F8"
+  ],
+  "jp": "いりょく　80<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7D88",
+  "end": "2A7D90",
+  "owners": [
+   "tab:2AA40C"
+  ],
+  "jp": "パニス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7D90",
+  "end": "2A7D98",
+  "owners": [
+   "tab:2AA410"
+  ],
+  "jp": "パニス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7D98",
+  "end": "2A7DC2",
+  "owners": [
+   "tab:2AA414"
+  ],
+  "jp": "いりょく　50　　　クリティカルしやすい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7DC2",
+  "end": "2A7DCE",
+  "owners": [
+   "tab:2AA428"
+  ],
+  "jp": "パニッシュ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7DCE",
+  "end": "2A7DDA",
+  "owners": [
+   "tab:2AA42C"
+  ],
+  "jp": "パニッシュ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7DDA",
+  "end": "2A7E04",
+  "owners": [
+   "tab:2AA430"
+  ],
+  "jp": "いりょく　70　　　クリティカルしやすい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7E04",
+  "end": "2A7E12",
+  "owners": [
+   "tab:2AA444"
+  ],
+  "jp": "パニッシャー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7E12",
+  "end": "2A7E20",
+  "owners": [
+   "tab:2AA448"
+  ],
+  "jp": "パニッシャー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7E20",
+  "end": "2A7E4A",
+  "owners": [
+   "tab:2AA44C"
+  ],
+  "jp": "いりょく　90　　　クリティカルしやすい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7E4A",
+  "end": "2A7E52",
+  "owners": [
+   "tab:2AA460"
+  ],
+  "jp": "ペイン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7E52",
+  "end": "2A7E5A",
+  "owners": [
+   "tab:2AA464"
+  ],
+  "jp": "ペイン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7E5A",
+  "end": "2A7E6A",
+  "owners": [
+   "tab:2AA468"
+  ],
+  "jp": "いりょく　30<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7E6A",
+  "end": "2A7E74",
+  "owners": [
+   "tab:2AA47C"
+  ],
+  "jp": "ペインド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7E74",
+  "end": "2A7E7E",
+  "owners": [
+   "tab:2AA480"
+  ],
+  "jp": "ペインド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7E7E",
+  "end": "2A7E8E",
+  "owners": [
+   "tab:2AA484"
+  ],
+  "jp": "いりょく　50<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7E8E",
+  "end": "2A7E9A",
+  "owners": [
+   "tab:2AA498"
+  ],
+  "jp": "ペインゾン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7E9A",
+  "end": "2A7EA6",
+  "owners": [
+   "tab:2AA49C"
+  ],
+  "jp": "ペインゾン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7EA6",
+  "end": "2A7EB6",
+  "owners": [
+   "tab:2AA4A0"
+  ],
+  "jp": "いりょく　70<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7EB6",
+  "end": "2A7EC0",
+  "owners": [
+   "tab:2AA4B4"
+  ],
+  "jp": "リベンジ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7EC0",
+  "end": "2A7ECA",
+  "owners": [
+   "tab:2AA4B8"
+  ],
+  "jp": "リベンジ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7ECA",
+  "end": "2A7EF0",
+  "owners": [
+   "tab:2AA4BC"
+  ],
+  "jp": "いりょく　40　　　まほうにはんげき<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7EF0",
+  "end": "2A7EFC",
+  "owners": [
+   "tab:2AA4D0"
+  ],
+  "jp": "ラジエート<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7EFC",
+  "end": "2A7F08",
+  "owners": [
+   "tab:2AA4D4"
+  ],
+  "jp": "ラジエート<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7F08",
+  "end": "2A7F2E",
+  "owners": [
+   "tab:2AA4D8"
+  ],
+  "jp": "いりょく　40　　　だげきにはんげき<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7F2E",
+  "end": "2A7F38",
+  "owners": [
+   "tab:2AA4EC"
+  ],
+  "jp": "リライブ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7F38",
+  "end": "2A7F42",
+  "owners": [
+   "tab:2AA4F0"
+  ],
+  "jp": "リライブ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7F42",
+  "end": "2A7F68",
+  "owners": [
+   "tab:2AA4F4"
+  ],
+  "jp": "まほうダメージを　　はんぶん　60％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7F68",
+  "end": "2A7F74",
+  "owners": [
+   "tab:2AA508"
+  ],
+  "jp": "スウェイル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7F74",
+  "end": "2A7F80",
+  "owners": [
+   "tab:2AA50C"
+  ],
+  "jp": "スウェイル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7F80",
+  "end": "2A7F9E",
+  "owners": [
+   "tab:2AA510"
+  ],
+  "jp": "しばりじょうたいに　ならない<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7F9E",
+  "end": "2A7FAE",
+  "owners": [
+   "tab:2AA524"
+  ],
+  "jp": "リプルアーマー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7FAE",
+  "end": "2A7FBE",
+  "owners": [
+   "tab:2AA528"
+  ],
+  "jp": "リプルアーマー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7FBE",
+  "end": "2A7FE4",
+  "owners": [
+   "tab:2AA52C"
+  ],
+  "jp": "だげきダメージを　　はんぶん　60％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7FE4",
+  "end": "2A7FF2",
+  "owners": [
+   "tab:2AA540"
+  ],
+  "jp": "アイソレイト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A7FF2",
+  "end": "2A8000",
+  "owners": [
+   "tab:2AA544"
+  ],
+  "jp": "アイソレイト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8000",
+  "end": "2A8016",
+  "owners": [
+   "tab:2AA548"
+  ],
+  "jp": "ちけいこうかをふせぐ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8016",
+  "end": "2A801E",
+  "owners": [
+   "tab:2AA55C"
+  ],
+  "jp": "ハーム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A801E",
+  "end": "2A8026",
+  "owners": [
+   "tab:2AA560"
+  ],
+  "jp": "ハーム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8026",
+  "end": "2A804C",
+  "owners": [
+   "tab:2AA564"
+  ],
+  "jp": "こうげきあいてを　　じょうたいへんか<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A804C",
+  "end": "2A8054",
+  "owners": [
+   "tab:2AA578"
+  ],
+  "jp": "アクト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8054",
+  "end": "2A805C",
+  "owners": [
+   "tab:2AA57C"
+  ],
+  "jp": "アクト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A805C",
+  "end": "2A8084",
+  "owners": [
+   "tab:2AA580"
+  ],
+  "jp": "かいふく　20　　　2～4ターンじぞく<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8084",
+  "end": "2A8090",
+  "owners": [
+   "tab:2AA594"
+  ],
+  "jp": "アクティヴ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8090",
+  "end": "2A809C",
+  "owners": [
+   "tab:2AA598"
+  ],
+  "jp": "アクティヴ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A809C",
+  "end": "2A80C4",
+  "owners": [
+   "tab:2AA59C"
+  ],
+  "jp": "かいふく　30　　　2～4ターンじぞく<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A80C4",
+  "end": "2A80D2",
+  "owners": [
+   "tab:2AA5B0"
+  ],
+  "jp": "アクティヴァ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A80D2",
+  "end": "2A80E0",
+  "owners": [
+   "tab:2AA5B4"
+  ],
+  "jp": "アクティヴァ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A80E0",
+  "end": "2A8108",
+  "owners": [
+   "tab:2AA5B8"
+  ],
+  "jp": "かいふく　40　　　2～4ターンじぞく<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8108",
+  "end": "2A8114",
+  "owners": [
+   "tab:2AA5CC"
+  ],
+  "jp": "リジェネル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8114",
+  "end": "2A8120",
+  "owners": [
+   "tab:2AA5D0"
+  ],
+  "jp": "リジェネル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8120",
+  "end": "2A8148",
+  "owners": [
+   "tab:2AA5D4"
+  ],
+  "jp": "かいふく　10　　　バトルちゅうじぞく<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8148",
+  "end": "2A8154",
+  "owners": [
+   "tab:2AA5E8"
+  ],
+  "jp": "リジェネラ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8154",
+  "end": "2A8160",
+  "owners": [
+   "tab:2AA5EC"
+  ],
+  "jp": "リジェネラ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8160",
+  "end": "2A8188",
+  "owners": [
+   "tab:2AA5F0"
+  ],
+  "jp": "かいふく　15　　　バトルちゅうじぞく<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8188",
+  "end": "2A8194",
+  "owners": [
+   "tab:2AA604"
+  ],
+  "jp": "リジェント<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8194",
+  "end": "2A81A0",
+  "owners": [
+   "tab:2AA608"
+  ],
+  "jp": "リジェント<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A81A0",
+  "end": "2A81C8",
+  "owners": [
+   "tab:2AA60C"
+  ],
+  "jp": "かいふく　20　　　バトルちゅうじぞく<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A81C8",
+  "end": "2A81D2",
+  "owners": [
+   "tab:2AA620"
+  ],
+  "jp": "アブゾル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A81D2",
+  "end": "2A81DC",
+  "owners": [
+   "tab:2AA624"
+  ],
+  "jp": "アブゾル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A81DC",
+  "end": "2A8206",
+  "owners": [
+   "tab:2AA628"
+  ],
+  "jp": "いりょく　20　　　あいてのHPをうばう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8206",
+  "end": "2A8210",
+  "owners": [
+   "tab:2AA63C"
+  ],
+  "jp": "アブゾム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8210",
+  "end": "2A821A",
+  "owners": [
+   "tab:2AA640"
+  ],
+  "jp": "アブゾム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A821A",
+  "end": "2A8244",
+  "owners": [
+   "tab:2AA644"
+  ],
+  "jp": "いりょく　30　　　あいてのHPをうばう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8244",
+  "end": "2A8250",
+  "owners": [
+   "tab:2AA658"
+  ],
+  "jp": "アブゾルト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8250",
+  "end": "2A825C",
+  "owners": [
+   "tab:2AA65C"
+  ],
+  "jp": "アブゾルト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A825C",
+  "end": "2A8286",
+  "owners": [
+   "tab:2AA660"
+  ],
+  "jp": "いりょく　40　　　あいてのHPをうばう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8286",
+  "end": "2A828E",
+  "owners": [
+   "tab:2AA674"
+  ],
+  "jp": "グロウ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A828E",
+  "end": "2A8296",
+  "owners": [
+   "tab:2AA678"
+  ],
+  "jp": "グロウ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8296",
+  "end": "2A82C0",
+  "owners": [
+   "tab:2AA67C"
+  ],
+  "jp": "のうりょくぜんたいを120％にUPさせる<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A82C0",
+  "end": "2A82C8",
+  "owners": [
+   "tab:2AA690"
+  ],
+  "jp": "アンプ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A82C8",
+  "end": "2A82D0",
+  "owners": [
+   "tab:2AA694"
+  ],
+  "jp": "アンプ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A82D0",
+  "end": "2A82FA",
+  "owners": [
+   "tab:2AA698"
+  ],
+  "jp": "まりょくを　　　　　120％にUPさせる<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A82FA",
+  "end": "2A8308",
+  "owners": [
+   "tab:2AA6AC"
+  ],
+  "jp": "ストレングス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8308",
+  "end": "2A8316",
+  "owners": [
+   "tab:2AA6B0"
+  ],
+  "jp": "ストレングス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8316",
+  "end": "2A8340",
+  "owners": [
+   "tab:2AA6B4"
+  ],
+  "jp": "ちからを　　　　　　120％にUPさせる<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8340",
+  "end": "2A834A",
+  "owners": [
+   "tab:2AA6C8"
+  ],
+  "jp": "アクセル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A834A",
+  "end": "2A8354",
+  "owners": [
+   "tab:2AA6CC"
+  ],
+  "jp": "アクセル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8354",
+  "end": "2A837E",
+  "owners": [
+   "tab:2AA6D0"
+  ],
+  "jp": "すばやさを　　　　　120％にUPさせる<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A837E",
+  "end": "2A8388",
+  "owners": [
+   "tab:2AA6E4"
+  ],
+  "jp": "リカバー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8388",
+  "end": "2A8392",
+  "owners": [
+   "tab:2AA6E8"
+  ],
+  "jp": "リカバー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8392",
+  "end": "2A83BC",
+  "owners": [
+   "tab:2AA6EC"
+  ],
+  "jp": "HPかいふくりょうを120％にUPさせる<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A83BC",
+  "end": "2A83CA",
+  "owners": [
+   "tab:2AA700"
+  ],
+  "jp": "ディフェンス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A83CA",
+  "end": "2A83D8",
+  "owners": [
+   "tab:2AA704"
+  ],
+  "jp": "ディフェンス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A83D8",
+  "end": "2A8402",
+  "owners": [
+   "tab:2AA708"
+  ],
+  "jp": "ぼうぎょを　　　　　120％にUPさせる<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8402",
+  "end": "2A840C",
+  "owners": [
+   "tab:2AA71C"
+  ],
+  "jp": "レジスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A840C",
+  "end": "2A8416",
+  "owners": [
+   "tab:2AA720"
+  ],
+  "jp": "レジスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8416",
+  "end": "2A8440",
+  "owners": [
+   "tab:2AA724"
+  ],
+  "jp": "まぼうぎょを　　　　120％にUPさせる<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8440",
+  "end": "2A844C",
+  "owners": [
+   "tab:2AA738"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A844C",
+  "end": "2A8458",
+  "owners": [
+   "tab:2AA73C"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8458",
+  "end": "2A8466",
+  "owners": [
+   "tab:2AA740"
+  ],
+  "jp": "せつめいぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8466",
+  "end": "2A8472",
+  "owners": [
+   "tab:2AA754"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8472",
+  "end": "2A847E",
+  "owners": [
+   "tab:2AA758"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A847E",
+  "end": "2A848C",
+  "owners": [
+   "tab:2AA75C"
+  ],
+  "jp": "せつめいぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A848C",
+  "end": "2A8498",
+  "owners": [
+   "tab:2AA770"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8498",
+  "end": "2A84A4",
+  "owners": [
+   "tab:2AA774"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A84A4",
+  "end": "2A84B2",
+  "owners": [
+   "tab:2AA778"
+  ],
+  "jp": "せつめいぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A84B2",
+  "end": "2A84BE",
+  "owners": [
+   "tab:2AA78C"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A84BE",
+  "end": "2A84CA",
+  "owners": [
+   "tab:2AA790"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A84CA",
+  "end": "2A84D8",
+  "owners": [
+   "tab:2AA794"
+  ],
+  "jp": "せつめいぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A84D8",
+  "end": "2A84E4",
+  "owners": [
+   "tab:2AA7A8"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A84E4",
+  "end": "2A84F0",
+  "owners": [
+   "tab:2AA7AC"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A84F0",
+  "end": "2A84FE",
+  "owners": [
+   "tab:2AA7B0"
+  ],
+  "jp": "せつめいぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A84FE",
+  "end": "2A850A",
+  "owners": [
+   "tab:2AA7C4"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A850A",
+  "end": "2A8516",
+  "owners": [
+   "tab:2AA7C8"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8516",
+  "end": "2A8524",
+  "owners": [
+   "tab:2AA7CC"
+  ],
+  "jp": "せつめいぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8524",
+  "end": "2A852E",
+  "owners": [
+   "tab:2AA7E0"
+  ],
+  "jp": "ヴェノム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A852E",
+  "end": "2A8538",
+  "owners": [
+   "tab:2AA7E4"
+  ],
+  "jp": "ヴェノム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8538",
+  "end": "2A855C",
+  "owners": [
+   "tab:2AA7E8"
+  ],
+  "jp": "いりょく　20　　　どくをあたえる<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A855C",
+  "end": "2A8564",
+  "owners": [
+   "tab:2AA7FC"
+  ],
+  "jp": "フレム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8564",
+  "end": "2A856C",
+  "owners": [
+   "tab:2AA800"
+  ],
+  "jp": "フレム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A856C",
+  "end": "2A857C",
+  "owners": [
+   "tab:2AA804"
+  ],
+  "jp": "いりょく　40<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A857C",
+  "end": "2A8586",
+  "owners": [
+   "tab:2AA818"
+  ],
+  "jp": "フレイド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8586",
+  "end": "2A8590",
+  "owners": [
+   "tab:2AA81C"
+  ],
+  "jp": "フレイド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8590",
+  "end": "2A85A0",
+  "owners": [
+   "tab:2AA820"
+  ],
+  "jp": "いりょく　60<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A85A0",
+  "end": "2A85AA",
+  "owners": [
+   "tab:2AA834"
+  ],
+  "jp": "フレイム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A85AA",
+  "end": "2A85B4",
+  "owners": [
+   "tab:2AA838"
+  ],
+  "jp": "フレイム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A85B4",
+  "end": "2A85C4",
+  "owners": [
+   "tab:2AA83C"
+  ],
+  "jp": "いりょく　80<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A85C4",
+  "end": "2A85D2",
+  "owners": [
+   "tab:2AA850"
+  ],
+  "jp": "バーンフレム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A85D2",
+  "end": "2A85E0",
+  "owners": [
+   "tab:2AA854"
+  ],
+  "jp": "バーンフレム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A85E0",
+  "end": "2A85F0",
+  "owners": [
+   "tab:2AA858"
+  ],
+  "jp": "いりょく　50<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A85F0",
+  "end": "2A85FC",
+  "owners": [
+   "tab:2AA86C"
+  ],
+  "jp": "ピコフレム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A85FC",
+  "end": "2A8608",
+  "owners": [
+   "tab:2AA870"
+  ],
+  "jp": "ピコフレム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8608",
+  "end": "2A8630",
+  "owners": [
+   "tab:2AA874"
+  ],
+  "jp": "いりょく　30　　　1～5かいこうげき<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8630",
+  "end": "2A8640",
+  "owners": [
+   "tab:2AA888"
+  ],
+  "jp": "スピンフレイド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8640",
+  "end": "2A8650",
+  "owners": [
+   "tab:2AA88C"
+  ],
+  "jp": "スピンフレイド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8650",
+  "end": "2A8678",
+  "owners": [
+   "tab:2AA890"
+  ],
+  "jp": "いりょく　60　　　こんらんをあたえる<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8678",
+  "end": "2A868A",
+  "owners": [
+   "tab:2AA8A4"
+  ],
+  "jp": "ファーンフレイド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A868A",
+  "end": "2A869C",
+  "owners": [
+   "tab:2AA8A8"
+  ],
+  "jp": "ファーンフレイド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A869C",
+  "end": "2A86AC",
+  "owners": [
+   "tab:2AA8AC"
+  ],
+  "jp": "いりょく　75<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A86AC",
+  "end": "2A86BA",
+  "owners": [
+   "tab:2AA8C0"
+  ],
+  "jp": "ザンフレイド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A86BA",
+  "end": "2A86C8",
+  "owners": [
+   "tab:2AA8C4"
+  ],
+  "jp": "ザンフレイド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A86C8",
+  "end": "2A86D8",
+  "owners": [
+   "tab:2AA8C8"
+  ],
+  "jp": "いりょく　65<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A86D8",
+  "end": "2A86E8",
+  "owners": [
+   "tab:2AA8DC"
+  ],
+  "jp": "フォーフレイム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A86E8",
+  "end": "2A86F8",
+  "owners": [
+   "tab:2AA8E0"
+  ],
+  "jp": "フォーフレイム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A86F8",
+  "end": "2A8720",
+  "owners": [
+   "tab:2AA8E4"
+  ],
+  "jp": "いりょく　40　　　1～5かいこうげき<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8720",
+  "end": "2A872E",
+  "owners": [
+   "tab:2AA8F8"
+  ],
+  "jp": "デスフレイム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A872E",
+  "end": "2A873C",
+  "owners": [
+   "tab:2AA8FC"
+  ],
+  "jp": "デスフレイム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A873C",
+  "end": "2A8766",
+  "owners": [
+   "tab:2AA900"
+  ],
+  "jp": "いりょく　80　　　クリティカルしやすい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8766",
+  "end": "2A8774",
+  "owners": [
+   "tab:2AA914"
+  ],
+  "jp": "フレイムザン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8774",
+  "end": "2A8782",
+  "owners": [
+   "tab:2AA918"
+  ],
+  "jp": "フレイムザン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8782",
+  "end": "2A8792",
+  "owners": [
+   "tab:2AA91C"
+  ],
+  "jp": "いりょく　90<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8792",
+  "end": "2A87A2",
+  "owners": [
+   "tab:2AA930"
+  ],
+  "jp": "ヴォルグバーン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A87A2",
+  "end": "2A87B2",
+  "owners": [
+   "tab:2AA934"
+  ],
+  "jp": "ヴォルグバーン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A87B2",
+  "end": "2A87C2",
+  "owners": [
+   "tab:2AA938"
+  ],
+  "jp": "いりょく100<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A87C2",
+  "end": "2A87D6",
+  "owners": [
+   "tab:2AA94C"
+  ],
+  "jp": "ゾディアックバーン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A87D6",
+  "end": "2A87E6",
+  "owners": [
+   "tab:2AA950"
+  ],
+  "jp": "ゾディアックB<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A87E6",
+  "end": "2A87F6",
+  "owners": [
+   "tab:2AA954"
+  ],
+  "jp": "いりょく120<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A87F6",
+  "end": "2A8800",
+  "owners": [
+   "tab:2AA968"
+  ],
+  "jp": "クラック<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8800",
+  "end": "2A880A",
+  "owners": [
+   "tab:2AA96C"
+  ],
+  "jp": "クラック<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A880A",
+  "end": "2A8826",
+  "owners": [
+   "tab:2AA970"
+  ],
+  "jp": "いりょく　40　　　しばり<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8826",
+  "end": "2A8830",
+  "owners": [
+   "tab:2AA984"
+  ],
+  "jp": "クラスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8830",
+  "end": "2A883A",
+  "owners": [
+   "tab:2AA988"
+  ],
+  "jp": "クラスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A883A",
+  "end": "2A8856",
+  "owners": [
+   "tab:2AA98C"
+  ],
+  "jp": "いりょく　60　　　しばり<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8856",
+  "end": "2A8860",
+  "owners": [
+   "tab:2AA9A0"
+  ],
+  "jp": "クラスタ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8860",
+  "end": "2A886A",
+  "owners": [
+   "tab:2AA9A4"
+  ],
+  "jp": "クラスタ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A886A",
+  "end": "2A8886",
+  "owners": [
+   "tab:2AA9A8"
+  ],
+  "jp": "いりょく　80　　　しばり<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8886",
+  "end": "2A8890",
+  "owners": [
+   "tab:2AA9BC"
+  ],
+  "jp": "ショット<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8890",
+  "end": "2A889A",
+  "owners": [
+   "tab:2AA9C0"
+  ],
+  "jp": "ショット<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A889A",
+  "end": "2A88AA",
+  "owners": [
+   "tab:2AA9C4"
+  ],
+  "jp": "いりょく　40<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A88AA",
+  "end": "2A88B4",
+  "owners": [
+   "tab:2AA9D8"
+  ],
+  "jp": "シュトル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A88B4",
+  "end": "2A88BE",
+  "owners": [
+   "tab:2AA9DC"
+  ],
+  "jp": "シュトル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A88BE",
+  "end": "2A88CE",
+  "owners": [
+   "tab:2AA9E0"
+  ],
+  "jp": "いりょく　60<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A88CE",
+  "end": "2A88DA",
+  "owners": [
+   "tab:2AA9F4"
+  ],
+  "jp": "シュトルム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A88DA",
+  "end": "2A88E6",
+  "owners": [
+   "tab:2AA9F8"
+  ],
+  "jp": "シュトルム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A88E6",
+  "end": "2A88F6",
+  "owners": [
+   "tab:2AA9FC"
+  ],
+  "jp": "いりょく　80<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A88F6",
+  "end": "2A8900",
+  "owners": [
+   "tab:2AAA10"
+  ],
+  "jp": "フロード<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8900",
+  "end": "2A890A",
+  "owners": [
+   "tab:2AAA14"
+  ],
+  "jp": "フロード<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A890A",
+  "end": "2A891A",
+  "owners": [
+   "tab:2AAA18"
+  ],
+  "jp": "いりょく　40<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A891A",
+  "end": "2A8924",
+  "owners": [
+   "tab:2AAA2C"
+  ],
+  "jp": "フロリム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8924",
+  "end": "2A892E",
+  "owners": [
+   "tab:2AAA30"
+  ],
+  "jp": "フロリム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A892E",
+  "end": "2A893E",
+  "owners": [
+   "tab:2AAA34"
+  ],
+  "jp": "いりょく　60<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A893E",
+  "end": "2A8948",
+  "owners": [
+   "tab:2AAA48"
+  ],
+  "jp": "フロスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8948",
+  "end": "2A8952",
+  "owners": [
+   "tab:2AAA4C"
+  ],
+  "jp": "フロスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8952",
+  "end": "2A8962",
+  "owners": [
+   "tab:2AAA50"
+  ],
+  "jp": "いりょく　80<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8962",
+  "end": "2A896C",
+  "owners": [
+   "tab:2AAA64"
+  ],
+  "jp": "ホーリー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A896C",
+  "end": "2A8976",
+  "owners": [
+   "tab:2AAA68"
+  ],
+  "jp": "ホーリー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8976",
+  "end": "2A89A0",
+  "owners": [
+   "tab:2AAA6C"
+  ],
+  "jp": "いりょく　50　　　クリティカルしやすい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A89A0",
+  "end": "2A89AA",
+  "owners": [
+   "tab:2AAA80"
+  ],
+  "jp": "ホールド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A89AA",
+  "end": "2A89B4",
+  "owners": [
+   "tab:2AAA84"
+  ],
+  "jp": "ホールド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A89B4",
+  "end": "2A89DE",
+  "owners": [
+   "tab:2AAA88"
+  ],
+  "jp": "いりょく　70　　　クリティカルしやすい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A89DE",
+  "end": "2A89E8",
+  "owners": [
+   "tab:2AAA9C"
+  ],
+  "jp": "ホールガ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A89E8",
+  "end": "2A89F2",
+  "owners": [
+   "tab:2AAAA0"
+  ],
+  "jp": "ホールガ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A89F2",
+  "end": "2A8A1C",
+  "owners": [
+   "tab:2AAAA4"
+  ],
+  "jp": "いりょく　90　　　クリティカルしやすい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8A1C",
+  "end": "2A8A2C",
+  "owners": [
+   "tab:2AAAB8"
+  ],
+  "jp": "ライトホーリー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8A2C",
+  "end": "2A8A3C",
+  "owners": [
+   "tab:2AAABC"
+  ],
+  "jp": "ライトホーリー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8A3C",
+  "end": "2A8A60",
+  "owners": [
+   "tab:2AAAC0"
+  ],
+  "jp": "いりょく　60　　　マヒをあたえる<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8A60",
+  "end": "2A8A72",
+  "owners": [
+   "tab:2AAAD4"
+  ],
+  "jp": "アロウドホーリー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8A72",
+  "end": "2A8A84",
+  "owners": [
+   "tab:2AAAD8"
+  ],
+  "jp": "アロウドホーリー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8A84",
+  "end": "2A8AA0",
+  "owners": [
+   "tab:2AAADC"
+  ],
+  "jp": "いりょく　60　　　しばり<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8AA0",
+  "end": "2A8AAC",
+  "owners": [
+   "tab:2AAAF0"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8AAC",
+  "end": "2A8AB8",
+  "owners": [
+   "tab:2AAAF4"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8AB8",
+  "end": "2A8AE0",
+  "owners": [
+   "tab:2AAAF8"
+  ],
+  "jp": "あめのように　　　　ひかりのやをふらす<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8AE0",
+  "end": "2A8AEC",
+  "owners": [
+   "tab:2AAB0C"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8AEC",
+  "end": "2A8AF8",
+  "owners": [
+   "tab:2AAB10"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8AF8",
+  "end": "2A8B06",
+  "owners": [
+   "tab:2AAB14"
+  ],
+  "jp": "せつめいぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8B06",
+  "end": "2A8B12",
+  "owners": [
+   "tab:2AAB28"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8B12",
+  "end": "2A8B1E",
+  "owners": [
+   "tab:2AAB2C"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8B1E",
+  "end": "2A8B2C",
+  "owners": [
+   "tab:2AAB30"
+  ],
+  "jp": "せつめいぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8B2C",
+  "end": "2A8B34",
+  "owners": [
+   "tab:2AAB44"
+  ],
+  "jp": "ダルク<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8B34",
+  "end": "2A8B3C",
+  "owners": [
+   "tab:2AAB48"
+  ],
+  "jp": "ダルク<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8B3C",
+  "end": "2A8B4C",
+  "owners": [
+   "tab:2AAB4C"
+  ],
+  "jp": "いりょく　30<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8B4C",
+  "end": "2A8B56",
+  "owners": [
+   "tab:2AAB60"
+  ],
+  "jp": "ダルドム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8B56",
+  "end": "2A8B60",
+  "owners": [
+   "tab:2AAB64"
+  ],
+  "jp": "ダルドム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8B60",
+  "end": "2A8B70",
+  "owners": [
+   "tab:2AAB68"
+  ],
+  "jp": "いりょく　50<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8B70",
+  "end": "2A8B7A",
+  "owners": [
+   "tab:2AAB7C"
+  ],
+  "jp": "ダルドズ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8B7A",
+  "end": "2A8B84",
+  "owners": [
+   "tab:2AAB80"
+  ],
+  "jp": "ダルドズ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8B84",
+  "end": "2A8B94",
+  "owners": [
+   "tab:2AAB84"
+  ],
+  "jp": "いりょく　70<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8B94",
+  "end": "2A8BA0",
+  "owners": [
+   "tab:2AAB98"
+  ],
+  "jp": "ザンダルク<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8BA0",
+  "end": "2A8BAC",
+  "owners": [
+   "tab:2AAB9C"
+  ],
+  "jp": "ザンダルク<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8BAC",
+  "end": "2A8BD6",
+  "owners": [
+   "tab:2AABA0"
+  ],
+  "jp": "いりょく　40　　　クリティカルしやすい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8BD6",
+  "end": "2A8BE6",
+  "owners": [
+   "tab:2AABB4"
+  ],
+  "jp": "キャノンダルク<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8BE6",
+  "end": "2A8BF6",
+  "owners": [
+   "tab:2AABB8"
+  ],
+  "jp": "キャノンダルク<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8BF6",
+  "end": "2A8C18",
+  "owners": [
+   "tab:2AABBC"
+  ],
+  "jp": "いりょく　50　　　よくはずれる<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8C18",
+  "end": "2A8C24",
+  "owners": [
+   "tab:2AABD0"
+  ],
+  "jp": "サイダルク<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8C24",
+  "end": "2A8C30",
+  "owners": [
+   "tab:2AABD4"
+  ],
+  "jp": "サイダルク<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8C30",
+  "end": "2A8C54",
+  "owners": [
+   "tab:2AABD8"
+  ],
+  "jp": "いりょく　30　　　どくをあたえる<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8C54",
+  "end": "2A8C60",
+  "owners": [
+   "tab:2AABEC"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8C60",
+  "end": "2A8C6C",
+  "owners": [
+   "tab:2AABF0"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8C6C",
+  "end": "2A8C7A",
+  "owners": [
+   "tab:2AABF4"
+  ],
+  "jp": "せつめいぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8C7A",
+  "end": "2A8C86",
+  "owners": [
+   "tab:2AAC08"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8C86",
+  "end": "2A8C92",
+  "owners": [
+   "tab:2AAC0C"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8C92",
+  "end": "2A8CA0",
+  "owners": [
+   "tab:2AAC10"
+  ],
+  "jp": "せつめいぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8CA0",
+  "end": "2A8CAC",
+  "owners": [
+   "tab:2AAC24"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8CAC",
+  "end": "2A8CB8",
+  "owners": [
+   "tab:2AAC28"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8CB8",
+  "end": "2A8CC6",
+  "owners": [
+   "tab:2AAC2C"
+  ],
+  "jp": "せつめいぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8CC6",
+  "end": "2A8CD2",
+  "owners": [
+   "tab:2AAC40"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8CD2",
+  "end": "2A8CDE",
+  "owners": [
+   "tab:2AAC44"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8CDE",
+  "end": "2A8CEC",
+  "owners": [
+   "tab:2AAC48"
+  ],
+  "jp": "せつめいぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8CEC",
+  "end": "2A8CF8",
+  "owners": [
+   "tab:2AAC5C"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8CF8",
+  "end": "2A8D04",
+  "owners": [
+   "tab:2AAC60"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8D04",
+  "end": "2A8D12",
+  "owners": [
+   "tab:2AAC64"
+  ],
+  "jp": "せつめいぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8D12",
+  "end": "2A8D1E",
+  "owners": [
+   "tab:2AAC78"
+  ],
+  "jp": "ディストア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8D1E",
+  "end": "2A8D2A",
+  "owners": [
+   "tab:2AAC7C"
+  ],
+  "jp": "ディストア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8D2A",
+  "end": "2A8D40",
+  "owners": [
+   "tab:2AAC80"
+  ],
+  "jp": "ぜんふういんをふせぐ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8D40",
+  "end": "2A8D4A",
+  "owners": [
+   "tab:2AAC94"
+  ],
+  "jp": "ウォール<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8D4A",
+  "end": "2A8D54",
+  "owners": [
+   "tab:2AAC98"
+  ],
+  "jp": "ウォール<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8D54",
+  "end": "2A8D7E",
+  "owners": [
+   "tab:2AAC9C"
+  ],
+  "jp": "だげきダメージを　　すこしへらす　60％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8D7E",
+  "end": "2A8D88",
+  "owners": [
+   "tab:2AACB0"
+  ],
+  "jp": "ウォルト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8D88",
+  "end": "2A8D92",
+  "owners": [
+   "tab:2AACB4"
+  ],
+  "jp": "ウォルト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8D92",
+  "end": "2A8DBC",
+  "owners": [
+   "tab:2AACB8"
+  ],
+  "jp": "だげきダメージを　　はんぶん　　　50％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8DBC",
+  "end": "2A8DC8",
+  "owners": [
+   "tab:2AACCC"
+  ],
+  "jp": "ウォルスタ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8DC8",
+  "end": "2A8DD4",
+  "owners": [
+   "tab:2AACD0"
+  ],
+  "jp": "ウォルスタ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8DD4",
+  "end": "2A8DFE",
+  "owners": [
+   "tab:2AACD4"
+  ],
+  "jp": "だげきダメージを　　4ぶんの1　　40％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8DFE",
+  "end": "2A8E06",
+  "owners": [
+   "tab:2AACE8"
+  ],
+  "jp": "ブリス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8E06",
+  "end": "2A8E0E",
+  "owners": [
+   "tab:2AACEC"
+  ],
+  "jp": "ブリス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8E0E",
+  "end": "2A8E2E",
+  "owners": [
+   "tab:2AACF0"
+  ],
+  "jp": "まほうカウンター　　20％　　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8E2E",
+  "end": "2A8E38",
+  "owners": [
+   "tab:2AAD04"
+  ],
+  "jp": "ブリスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8E38",
+  "end": "2A8E42",
+  "owners": [
+   "tab:2AAD08"
+  ],
+  "jp": "ブリスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8E42",
+  "end": "2A8E62",
+  "owners": [
+   "tab:2AAD0C"
+  ],
+  "jp": "まほうカウンター　　30％　　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8E62",
+  "end": "2A8E6C",
+  "owners": [
+   "tab:2AAD20"
+  ],
+  "jp": "ブリスタ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8E6C",
+  "end": "2A8E76",
+  "owners": [
+   "tab:2AAD24"
+  ],
+  "jp": "ブリスタ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8E76",
+  "end": "2A8E92",
+  "owners": [
+   "tab:2AAD28"
+  ],
+  "jp": "まほうカウンター　　40％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8E92",
+  "end": "2A8EA0",
+  "owners": [
+   "tab:2AAD3C"
+  ],
+  "jp": "スターブリス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8EA0",
+  "end": "2A8EAE",
+  "owners": [
+   "tab:2AAD40"
+  ],
+  "jp": "スターブリス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8EAE",
+  "end": "2A8ECA",
+  "owners": [
+   "tab:2AAD44"
+  ],
+  "jp": "まほうカウンター　　25％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8ECA",
+  "end": "2A8EDE",
+  "owners": [
+   "tab:2AAD58"
+  ],
+  "jp": "ウイングトルネード<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8EDE",
+  "end": "2A8EEC",
+  "owners": [
+   "tab:2AAD5C"
+  ],
+  "jp": "Wトルネード<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8EEC",
+  "end": "2A8F08",
+  "owners": [
+   "tab:2AAD60"
+  ],
+  "jp": "まほうカウンター　　35％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8F08",
+  "end": "2A8F18",
+  "owners": [
+   "tab:2AAD74"
+  ],
+  "jp": "カースブリスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8F18",
+  "end": "2A8F28",
+  "owners": [
+   "tab:2AAD78"
+  ],
+  "jp": "カースブリスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8F28",
+  "end": "2A8F56",
+  "owners": [
+   "tab:2AAD7C"
+  ],
+  "jp": "まほうカウンター　　30％まほうふういん　　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8F56",
+  "end": "2A8F68",
+  "owners": [
+   "tab:2AAD90"
+  ],
+  "jp": "ファングブリスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8F68",
+  "end": "2A8F7A",
+  "owners": [
+   "tab:2AAD94"
+  ],
+  "jp": "ファングブリスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8F7A",
+  "end": "2A8FA0",
+  "owners": [
+   "tab:2AAD98"
+  ],
+  "jp": "まほうカウンター　　30％　しばり　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8FA0",
+  "end": "2A8FAE",
+  "owners": [
+   "tab:2AADAC"
+  ],
+  "jp": "ビーブリスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8FAE",
+  "end": "2A8FBC",
+  "owners": [
+   "tab:2AADB0"
+  ],
+  "jp": "ビーブリスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8FBC",
+  "end": "2A8FDE",
+  "owners": [
+   "tab:2AADB4"
+  ],
+  "jp": "まほうカウンター　　30％　どく<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8FDE",
+  "end": "2A8FEC",
+  "owners": [
+   "tab:2AADC8"
+  ],
+  "jp": "ガンブリスタ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8FEC",
+  "end": "2A8FFA",
+  "owners": [
+   "tab:2AADCC"
+  ],
+  "jp": "ガンブリスタ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A8FFA",
+  "end": "2A9016",
+  "owners": [
+   "tab:2AADD0"
+  ],
+  "jp": "まほうカウンター　　50％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9016",
+  "end": "2A9028",
+  "owners": [
+   "tab:2AADE4"
+  ],
+  "jp": "サンダーブリスタ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9028",
+  "end": "2A903A",
+  "owners": [
+   "tab:2AADE8"
+  ],
+  "jp": "サンダーブリスタ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A903A",
+  "end": "2A905C",
+  "owners": [
+   "tab:2AADEC"
+  ],
+  "jp": "まほうカウンター　　40％　マヒ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A905C",
+  "end": "2A906A",
+  "owners": [
+   "tab:2AAE00"
+  ],
+  "jp": "ウイングザン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A906A",
+  "end": "2A9078",
+  "owners": [
+   "tab:2AAE04"
+  ],
+  "jp": "ウイングザン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9078",
+  "end": "2A9094",
+  "owners": [
+   "tab:2AAE08"
+  ],
+  "jp": "まほうカウンター　　45％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9094",
+  "end": "2A90A8",
+  "owners": [
+   "tab:2AAE1C"
+  ],
+  "jp": "コマンドトルネード<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A90A8",
+  "end": "2A90B6",
+  "owners": [
+   "tab:2AAE20"
+  ],
+  "jp": "Cトルネード<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A90B6",
+  "end": "2A90E0",
+  "owners": [
+   "tab:2AAE24"
+  ],
+  "jp": "まほうをきょうかしてカウンター　　35％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A90E0",
+  "end": "2A90F6",
+  "owners": [
+   "tab:2AAE38"
+  ],
+  "jp": "ストライクトルネード<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A90F6",
+  "end": "2A9104",
+  "owners": [
+   "tab:2AAE3C"
+  ],
+  "jp": "Sトルネード<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9104",
+  "end": "2A912E",
+  "owners": [
+   "tab:2AAE40"
+  ],
+  "jp": "まほうをきょうかしてカウンター　　45％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A912E",
+  "end": "2A9136",
+  "owners": [
+   "tab:2AAE54"
+  ],
+  "jp": "バリア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9136",
+  "end": "2A913E",
+  "owners": [
+   "tab:2AAE58"
+  ],
+  "jp": "バリア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A913E",
+  "end": "2A9168",
+  "owners": [
+   "tab:2AAE5C"
+  ],
+  "jp": "まほうのダメージを　すこしへらす　60％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9168",
+  "end": "2A9172",
+  "owners": [
+   "tab:2AAE70"
+  ],
+  "jp": "バリアム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9172",
+  "end": "2A917C",
+  "owners": [
+   "tab:2AAE74"
+  ],
+  "jp": "バリアム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A917C",
+  "end": "2A91A6",
+  "owners": [
+   "tab:2AAE78"
+  ],
+  "jp": "まほうのダメージを　はんぶん　　　50％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A91A6",
+  "end": "2A91B0",
+  "owners": [
+   "tab:2AAE8C"
+  ],
+  "jp": "バリスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A91B0",
+  "end": "2A91BA",
+  "owners": [
+   "tab:2AAE90"
+  ],
+  "jp": "バリスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A91BA",
+  "end": "2A91E4",
+  "owners": [
+   "tab:2AAE94"
+  ],
+  "jp": "まほうのダメージを　4ぶんの1　　40％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A91E4",
+  "end": "2A91EE",
+  "owners": [
+   "tab:2AAEA8"
+  ],
+  "jp": "リフター<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A91EE",
+  "end": "2A91F8",
+  "owners": [
+   "tab:2AAEAC"
+  ],
+  "jp": "リフター<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A91F8",
+  "end": "2A9214",
+  "owners": [
+   "tab:2AAEB0"
+  ],
+  "jp": "だげきカウンター　　20％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9214",
+  "end": "2A921E",
+  "owners": [
+   "tab:2AAEC4"
+  ],
+  "jp": "リフレイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A921E",
+  "end": "2A9228",
+  "owners": [
+   "tab:2AAEC8"
+  ],
+  "jp": "リフレイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9228",
+  "end": "2A9244",
+  "owners": [
+   "tab:2AAECC"
+  ],
+  "jp": "だげきカウンター　　30％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9244",
+  "end": "2A9250",
+  "owners": [
+   "tab:2AAEE0"
+  ],
+  "jp": "リフレクト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9250",
+  "end": "2A925C",
+  "owners": [
+   "tab:2AAEE4"
+  ],
+  "jp": "リフレクト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A925C",
+  "end": "2A9278",
+  "owners": [
+   "tab:2AAEE8"
+  ],
+  "jp": "だげきカウンター　　40％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9278",
+  "end": "2A9282",
+  "owners": [
+   "tab:2AAEFC"
+  ],
+  "jp": "サクリス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9282",
+  "end": "2A928C",
+  "owners": [
+   "tab:2AAF00"
+  ],
+  "jp": "サクリス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A928C",
+  "end": "2A92B6",
+  "owners": [
+   "tab:2AAF04"
+  ],
+  "jp": "ダメージの50％　　しかえしする　50％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A92B6",
+  "end": "2A92C0",
+  "owners": [
+   "tab:2AAF18"
+  ],
+  "jp": "サクリル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A92C0",
+  "end": "2A92CA",
+  "owners": [
+   "tab:2AAF1C"
+  ],
+  "jp": "サクリル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A92CA",
+  "end": "2A92F4",
+  "owners": [
+   "tab:2AAF20"
+  ],
+  "jp": "ダメージの100％　しかえしする　40％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A92F4",
+  "end": "2A9302",
+  "owners": [
+   "tab:2AAF34"
+  ],
+  "jp": "サクリファイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9302",
+  "end": "2A9310",
+  "owners": [
+   "tab:2AAF38"
+  ],
+  "jp": "サクリファイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9310",
+  "end": "2A933A",
+  "owners": [
+   "tab:2AAF3C"
+  ],
+  "jp": "ダメージの150％　しかえしする　30％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A933A",
+  "end": "2A9344",
+  "owners": [
+   "tab:2AAF50"
+  ],
+  "jp": "リムーブ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9344",
+  "end": "2A934E",
+  "owners": [
+   "tab:2AAF54"
+  ],
+  "jp": "リムーブ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A934E",
+  "end": "2A9372",
+  "owners": [
+   "tab:2AAF58"
+  ],
+  "jp": "マイナスこうかを　　すべてうちけす<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9372",
+  "end": "2A937E",
+  "owners": [
+   "tab:2AAF6C"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A937E",
+  "end": "2A938A",
+  "owners": [
+   "tab:2AAF70"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A938A",
+  "end": "2A9398",
+  "owners": [
+   "tab:2AAF74"
+  ],
+  "jp": "せつめいぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9398",
+  "end": "2A93A4",
+  "owners": [
+   "tab:2AAF88"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A93A4",
+  "end": "2A93B0",
+  "owners": [
+   "tab:2AAF8C"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A93B0",
+  "end": "2A93BE",
+  "owners": [
+   "tab:2AAF90"
+  ],
+  "jp": "せつめいぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A93BE",
+  "end": "2A93C6",
+  "owners": [
+   "tab:2AAFA4"
+  ],
+  "jp": "キュア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A93C6",
+  "end": "2A93CE",
+  "owners": [
+   "tab:2AAFA8"
+  ],
+  "jp": "キュア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A93CE",
+  "end": "2A93DE",
+  "owners": [
+   "tab:2AAFAC"
+  ],
+  "jp": "かいふく　40<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A93DE",
+  "end": "2A93EA",
+  "owners": [
+   "tab:2AAFC0"
+  ],
+  "jp": "キュアリム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A93EA",
+  "end": "2A93F6",
+  "owners": [
+   "tab:2AAFC4"
+  ],
+  "jp": "キュアリム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A93F6",
+  "end": "2A9406",
+  "owners": [
+   "tab:2AAFC8"
+  ],
+  "jp": "かいふく　60<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9406",
+  "end": "2A9412",
+  "owners": [
+   "tab:2AAFDC"
+  ],
+  "jp": "キュアスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9412",
+  "end": "2A941E",
+  "owners": [
+   "tab:2AAFE0"
+  ],
+  "jp": "キュアスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A941E",
+  "end": "2A942E",
+  "owners": [
+   "tab:2AAFE4"
+  ],
+  "jp": "かいふく　80<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A942E",
+  "end": "2A943C",
+  "owners": [
+   "tab:2AAFF8"
+  ],
+  "jp": "レインキュア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A943C",
+  "end": "2A944A",
+  "owners": [
+   "tab:2AAFFC"
+  ],
+  "jp": "レインキュア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A944A",
+  "end": "2A945A",
+  "owners": [
+   "tab:2AB000"
+  ],
+  "jp": "かいふく　50<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A945A",
+  "end": "2A9468",
+  "owners": [
+   "tab:2AB014"
+  ],
+  "jp": "バブルキュア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9468",
+  "end": "2A9476",
+  "owners": [
+   "tab:2AB018"
+  ],
+  "jp": "バブルキュア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9476",
+  "end": "2A9486",
+  "owners": [
+   "tab:2AB01C"
+  ],
+  "jp": "かいふく　20<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9486",
+  "end": "2A9498",
+  "owners": [
+   "tab:2AB030"
+  ],
+  "jp": "ダンスキュアリム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9498",
+  "end": "2A94AA",
+  "owners": [
+   "tab:2AB034"
+  ],
+  "jp": "ダンスキュアリム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A94AA",
+  "end": "2A94D0",
+  "owners": [
+   "tab:2AB038"
+  ],
+  "jp": "かいふく　60　　　こんらんもなおす<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A94D0",
+  "end": "2A94E4",
+  "owners": [
+   "tab:2AB04C"
+  ],
+  "jp": "デヴォアキュアリム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A94E4",
+  "end": "2A94F2",
+  "owners": [
+   "tab:2AB050"
+  ],
+  "jp": "Dキュアリム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A94F2",
+  "end": "2A9514",
+  "owners": [
+   "tab:2AB054"
+  ],
+  "jp": "かいふく　60　　　どくもなおす<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9514",
+  "end": "2A9526",
+  "owners": [
+   "tab:2AB068"
+  ],
+  "jp": "ミルクキュアスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9526",
+  "end": "2A9538",
+  "owners": [
+   "tab:2AB06C"
+  ],
+  "jp": "ミルクキュアスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9538",
+  "end": "2A9548",
+  "owners": [
+   "tab:2AB070"
+  ],
+  "jp": "かいふく100<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9548",
+  "end": "2A955C",
+  "owners": [
+   "tab:2AB084"
+  ],
+  "jp": "コビックキュアスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A955C",
+  "end": "2A956A",
+  "owners": [
+   "tab:2AB088"
+  ],
+  "jp": "Cキュアスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A956A",
+  "end": "2A9594",
+  "owners": [
+   "tab:2AB08C"
+  ],
+  "jp": "かいふく　80　　　ぜんふういんをなおす<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9594",
+  "end": "2A95A6",
+  "owners": [
+   "tab:2AB0A0"
+  ],
+  "jp": "リプルキュアスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A95A6",
+  "end": "2A95B8",
+  "owners": [
+   "tab:2AB0A4"
+  ],
+  "jp": "リプルキュアスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A95B8",
+  "end": "2A95DE",
+  "owners": [
+   "tab:2AB0A8"
+  ],
+  "jp": "かいふく　80　　　サポートをなおす<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A95DE",
+  "end": "2A95EA",
+  "owners": [
+   "tab:2AB0BC"
+  ],
+  "jp": "キュアザン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A95EA",
+  "end": "2A95F6",
+  "owners": [
+   "tab:2AB0C0"
+  ],
+  "jp": "キュアザン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A95F6",
+  "end": "2A961C",
+  "owners": [
+   "tab:2AB0C4"
+  ],
+  "jp": "かいふく　90　　　シフトEをなおす<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A961C",
+  "end": "2A9628",
+  "owners": [
+   "tab:2AB0D8"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9628",
+  "end": "2A9634",
+  "owners": [
+   "tab:2AB0DC"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9634",
+  "end": "2A9642",
+  "owners": [
+   "tab:2AB0E0"
+  ],
+  "jp": "せつめいぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9642",
+  "end": "2A9650",
+  "owners": [
+   "tab:2AB0F4"
+  ],
+  "jp": "ピュリファイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9650",
+  "end": "2A965E",
+  "owners": [
+   "tab:2AB0F8"
+  ],
+  "jp": "ピュリファイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A965E",
+  "end": "2A9682",
+  "owners": [
+   "tab:2AB0FC"
+  ],
+  "jp": "すべてのじょうたい　へんかをなおす<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9682",
+  "end": "2A968E",
+  "owners": [
+   "tab:2AB110"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A968E",
+  "end": "2A969A",
+  "owners": [
+   "tab:2AB114"
+  ],
+  "jp": "みせってい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A969A",
+  "end": "2A96A8",
+  "owners": [
+   "tab:2AB118"
+  ],
+  "jp": "せつめいぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A96A8",
+  "end": "2A96B6",
+  "owners": [
+   "tab:2AB12C"
+  ],
+  "jp": "マグニファイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A96B6",
+  "end": "2A96C4",
+  "owners": [
+   "tab:2AB130"
+  ],
+  "jp": "マグニファイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A96C4",
+  "end": "2A96E8",
+  "owners": [
+   "tab:2AB134"
+  ],
+  "jp": "ムぞくせいのわざを　いりょく2ばい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A96E8",
+  "end": "2A96F6",
+  "owners": [
+   "tab:2AB148"
+  ],
+  "jp": "リダクション<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A96F6",
+  "end": "2A9704",
+  "owners": [
+   "tab:2AB14C"
+  ],
+  "jp": "リダクション<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9704",
+  "end": "2A972A",
+  "owners": [
+   "tab:2AB150"
+  ],
+  "jp": "ムぞくせいのわざを　いりょくはんぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A972A",
+  "end": "2A9732",
+  "owners": [
+   "tab:2AB164"
+  ],
+  "jp": "ヒート<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9732",
+  "end": "2A973A",
+  "owners": [
+   "tab:2AB168"
+  ],
+  "jp": "ヒート<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A973A",
+  "end": "2A975E",
+  "owners": [
+   "tab:2AB16C"
+  ],
+  "jp": "ヒぞくせいのわざを　いりょく2ばい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A975E",
+  "end": "2A9768",
+  "owners": [
+   "tab:2AB180"
+  ],
+  "jp": "エキスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9768",
+  "end": "2A9772",
+  "owners": [
+   "tab:2AB184"
+  ],
+  "jp": "エキスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9772",
+  "end": "2A9798",
+  "owners": [
+   "tab:2AB188"
+  ],
+  "jp": "ヒぞくせいのわざを　いりょくはんぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9798",
+  "end": "2A97A0",
+  "owners": [
+   "tab:2AB19C"
+  ],
+  "jp": "ライズ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A97A0",
+  "end": "2A97A8",
+  "owners": [
+   "tab:2AB1A0"
+  ],
+  "jp": "ライズ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A97A8",
+  "end": "2A97CC",
+  "owners": [
+   "tab:2AB1A4"
+  ],
+  "jp": "ツチぞくせいのわざをいりょく2ばい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A97CC",
+  "end": "2A97D4",
+  "owners": [
+   "tab:2AB1B8"
+  ],
+  "jp": "シンク<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A97D4",
+  "end": "2A97DC",
+  "owners": [
+   "tab:2AB1BC"
+  ],
+  "jp": "シンク<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A97DC",
+  "end": "2A9802",
+  "owners": [
+   "tab:2AB1C0"
+  ],
+  "jp": "ツチぞくせいのわざをいりょくはんぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9802",
+  "end": "2A980C",
+  "owners": [
+   "tab:2AB1D4"
+  ],
+  "jp": "リボルブ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A980C",
+  "end": "2A9816",
+  "owners": [
+   "tab:2AB1D8"
+  ],
+  "jp": "リボルブ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9816",
+  "end": "2A983A",
+  "owners": [
+   "tab:2AB1DC"
+  ],
+  "jp": "カゼぞくせいのわざをいりょく2ばい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A983A",
+  "end": "2A9842",
+  "owners": [
+   "tab:2AB1F0"
+  ],
+  "jp": "カーム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9842",
+  "end": "2A984A",
+  "owners": [
+   "tab:2AB1F4"
+  ],
+  "jp": "カーム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A984A",
+  "end": "2A9870",
+  "owners": [
+   "tab:2AB1F8"
+  ],
+  "jp": "カゼぞくせいのわざをいりょくはんぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9870",
+  "end": "2A987A",
+  "owners": [
+   "tab:2AB20C"
+  ],
+  "jp": "ウェット<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A987A",
+  "end": "2A9884",
+  "owners": [
+   "tab:2AB210"
+  ],
+  "jp": "ウェット<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9884",
+  "end": "2A98A8",
+  "owners": [
+   "tab:2AB214"
+  ],
+  "jp": "ミズぞくせいのわざをいりょく2ばい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A98A8",
+  "end": "2A98B2",
+  "owners": [
+   "tab:2AB228"
+  ],
+  "jp": "ドライド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A98B2",
+  "end": "2A98BC",
+  "owners": [
+   "tab:2AB22C"
+  ],
+  "jp": "ドライド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A98BC",
+  "end": "2A98E2",
+  "owners": [
+   "tab:2AB230"
+  ],
+  "jp": "ミズぞくせいのわざをいりょくはんぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A98E2",
+  "end": "2A98EE",
+  "owners": [
+   "tab:2AB244"
+  ],
+  "jp": "ディバイン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A98EE",
+  "end": "2A98FA",
+  "owners": [
+   "tab:2AB248"
+  ],
+  "jp": "ディバイン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A98FA",
+  "end": "2A9924",
+  "owners": [
+   "tab:2AB24C"
+  ],
+  "jp": "ヒカリぞくせいわざをいりょく2ばいにする<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9924",
+  "end": "2A992C",
+  "owners": [
+   "tab:2AB260"
+  ],
+  "jp": "オース<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A992C",
+  "end": "2A9934",
+  "owners": [
+   "tab:2AB264"
+  ],
+  "jp": "オース<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9934",
+  "end": "2A995A",
+  "owners": [
+   "tab:2AB268"
+  ],
+  "jp": "ヒカリぞくせいわざをいりょくはんぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A995A",
+  "end": "2A9966",
+  "owners": [
+   "tab:2AB27C"
+  ],
+  "jp": "インクルド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9966",
+  "end": "2A9972",
+  "owners": [
+   "tab:2AB280"
+  ],
+  "jp": "インクルド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9972",
+  "end": "2A9996",
+  "owners": [
+   "tab:2AB284"
+  ],
+  "jp": "ヤミぞくせいのわざをいりょく2ばい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9996",
+  "end": "2A99A0",
+  "owners": [
+   "tab:2AB298"
+  ],
+  "jp": "デクルド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A99A0",
+  "end": "2A99AA",
+  "owners": [
+   "tab:2AB29C"
+  ],
+  "jp": "デクルド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A99AA",
+  "end": "2A99D0",
+  "owners": [
+   "tab:2AB2A0"
+  ],
+  "jp": "ヤミぞくせいのわざをいりょくはんぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A99D0",
+  "end": "2A99DE",
+  "owners": [
+   "tab:2AB2B4"
+  ],
+  "jp": "ニュートラル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A99DE",
+  "end": "2A99EC",
+  "owners": [
+   "tab:2AB2B8"
+  ],
+  "jp": "ニュートラル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A99EC",
+  "end": "2A9A12",
+  "owners": [
+   "tab:2AB2BC"
+  ],
+  "jp": "6ぞくせいのわざを　いりょくはんぶん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9A12",
+  "end": "2A9A1E",
+  "owners": [
+   "tab:2AB2D0"
+  ],
+  "jp": "フィーバー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9A1E",
+  "end": "2A9A2A",
+  "owners": [
+   "tab:2AB2D4"
+  ],
+  "jp": "フィーバー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9A2A",
+  "end": "2A9A52",
+  "owners": [
+   "tab:2AB2D8"
+  ],
+  "jp": "いりょく　50　　　こんらんをあたえる<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9A52",
+  "end": "2A9A60",
+  "owners": [
+   "tab:2AB2EC"
+  ],
+  "jp": "ペトリファイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9A60",
+  "end": "2A9A6E",
+  "owners": [
+   "tab:2AB2F0"
+  ],
+  "jp": "ペトリファイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9A6E",
+  "end": "2A9A90",
+  "owners": [
+   "tab:2AB2F4"
+  ],
+  "jp": "いりょく　50　　　せきかにする<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9A90",
+  "end": "2A9A9C",
+  "owners": [
+   "tab:2AB308"
+  ],
+  "jp": "サイレンス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9A9C",
+  "end": "2A9AA8",
+  "owners": [
+   "tab:2AB30C"
+  ],
+  "jp": "サイレンス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9AA8",
+  "end": "2A9ACA",
+  "owners": [
+   "tab:2AB310"
+  ],
+  "jp": "まほうわざを　　　　ふういんする<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9ACA",
+  "end": "2A9AD4",
+  "owners": [
+   "tab:2AB324"
+  ],
+  "jp": "ララバイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9AD4",
+  "end": "2A9ADE",
+  "owners": [
+   "tab:2AB328"
+  ],
+  "jp": "ララバイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9ADE",
+  "end": "2A9AF0",
+  "owners": [
+   "tab:2AB32C"
+  ],
+  "jp": "ねむりをあたえる<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9AF0",
+  "end": "2A9B00",
+  "owners": [
+   "tab:2AB340"
+  ],
+  "jp": "ジャッジメント<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9B00",
+  "end": "2A9B10",
+  "owners": [
+   "tab:2AB344"
+  ],
+  "jp": "ジャッジメント<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9B10",
+  "end": "2A9B38",
+  "owners": [
+   "tab:2AB348"
+  ],
+  "jp": "2～4ターンのあいだめいちゅうりつUP<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9B38",
+  "end": "2A9B40",
+  "owners": [
+   "tab:2AB35C"
+  ],
+  "jp": "レイジ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9B40",
+  "end": "2A9B48",
+  "owners": [
+   "tab:2AB360"
+  ],
+  "jp": "レイジ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9B48",
+  "end": "2A9B72",
+  "owners": [
+   "tab:2AB364"
+  ],
+  "jp": "2～4ターンのあいだクリティカルりつUP<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9B72",
+  "end": "2A9B82",
+  "owners": [
+   "tab:2AB378"
+  ],
+  "jp": "メテオダルドズ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9B82",
+  "end": "2A9B92",
+  "owners": [
+   "tab:2AB37C"
+  ],
+  "jp": "メテオダルドズ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9B92",
+  "end": "2A9BA2",
+  "owners": [
+   "tab:2AB380"
+  ],
+  "jp": "いりょく100<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9BA2",
+  "end": "2A9BB8",
+  "owners": [
+   "tab:2AB394"
+  ],
+  "jp": "トライデントキュルド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9BB8",
+  "end": "2A9BC4",
+  "owners": [
+   "tab:2AB398"
+  ],
+  "jp": "Tキュルド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9BC4",
+  "end": "2A9BEA",
+  "owners": [
+   "tab:2AB39C"
+  ],
+  "jp": "かいふく100　　　マイナスもなおす<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9BEA",
+  "end": "2A9BF8",
+  "owners": [
+   "tab:2AB3B0"
+  ],
+  "jp": "Lトルネード<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9BF8",
+  "end": "2A9C06",
+  "owners": [
+   "tab:2AB3B4"
+  ],
+  "jp": "Lトルネード<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9C06",
+  "end": "2A9C30",
+  "owners": [
+   "tab:2AB3B8"
+  ],
+  "jp": "まほうをきょうかしてカウンター　　30％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9C30",
+  "end": "2A9C46",
+  "owners": [
+   "tab:2AB3CC"
+  ],
+  "jp": "Nウイングトルネード<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9C46",
+  "end": "2A9C56",
+  "owners": [
+   "tab:2AB3D0"
+  ],
+  "jp": "NWトルネード<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9C56",
+  "end": "2A9C84",
+  "owners": [
+   "tab:2AB3D4"
+  ],
+  "jp": "まほうをきょうかしてカウンター　　35％　　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9C84",
+  "end": "2A9C98",
+  "owners": [
+   "tab:2AB3E8"
+  ],
+  "jp": "トルネードブレイク<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9C98",
+  "end": "2A9CA4",
+  "owners": [
+   "tab:2AB3EC"
+  ],
+  "jp": "Tブレイク<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9CA4",
+  "end": "2A9CC0",
+  "owners": [
+   "tab:2AB3F0"
+  ],
+  "jp": "まほうカウンター　　50％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9CC0",
+  "end": "2A9CD4",
+  "owners": [
+   "tab:2AB404"
+  ],
+  "jp": "ダークバーンフレム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9CD4",
+  "end": "2A9CE4",
+  "owners": [
+   "tab:2AB408"
+  ],
+  "jp": "Dバーンフレム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9CE4",
+  "end": "2A9CF4",
+  "owners": [
+   "tab:2AB40C"
+  ],
+  "jp": "いりょく　60<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9CF4",
+  "end": "2A9D08",
+  "owners": [
+   "tab:2AB420"
+  ],
+  "jp": "ヴォルクヴァイパー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9D08",
+  "end": "2A9D1A",
+  "owners": [
+   "tab:2AB424"
+  ],
+  "jp": "ヴォルクバイパー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9D1A",
+  "end": "2A9D3E",
+  "owners": [
+   "tab:2AB428"
+  ],
+  "jp": "いりょく　70　　　2かいこうげき<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9D3E",
+  "end": "2A9D4E",
+  "owners": [
+   "tab:2AB43C"
+  ],
+  "jp": "シャイニングS<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9D4E",
+  "end": "2A9D5E",
+  "owners": [
+   "tab:2AB440"
+  ],
+  "jp": "シャイニングS<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9D5E",
+  "end": "2A9D88",
+  "owners": [
+   "tab:2AB444"
+  ],
+  "jp": "いりょく100　　　クリティカルしやすい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9D88",
+  "end": "2A9D9C",
+  "owners": [
+   "tab:2AB458"
+  ],
+  "jp": "トルネードハイロゥ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9D9C",
+  "end": "2A9DAA",
+  "owners": [
+   "tab:2AB45C"
+  ],
+  "jp": "トルネードH<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9DAA",
+  "end": "2A9DD4",
+  "owners": [
+   "tab:2AB460"
+  ],
+  "jp": "まほうをきょうかしてカウンター　　40％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9DD4",
+  "end": "2A9DE0",
+  "owners": [
+   "tab:2AB474"
+  ],
+  "jp": "オーラレイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9DE0",
+  "end": "2A9DEC",
+  "owners": [
+   "tab:2AB478"
+  ],
+  "jp": "オーラレイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9DEC",
+  "end": "2A9E16",
+  "owners": [
+   "tab:2AB47C"
+  ],
+  "jp": "いりょく150　　　クリティカルしやすい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9E16",
+  "end": "2A9E26",
+  "owners": [
+   "tab:2AB490"
+  ],
+  "jp": "ローズダルドム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9E26",
+  "end": "2A9E36",
+  "owners": [
+   "tab:2AB494"
+  ],
+  "jp": "ローズダルドム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9E36",
+  "end": "2A9E60",
+  "owners": [
+   "tab:2AB498"
+  ],
+  "jp": "いりょく　80　　　あいてのHPをうばう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9E60",
+  "end": "2A9E74",
+  "owners": [
+   "tab:2AB4AC"
+  ],
+  "jp": "エレメントバースト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9E74",
+  "end": "2A9E80",
+  "owners": [
+   "tab:2AB4B0"
+  ],
+  "jp": "Eバースト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9E80",
+  "end": "2A9E90",
+  "owners": [
+   "tab:2AB4B4"
+  ],
+  "jp": "いりょく150<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9E90",
+  "end": "2A9EA4",
+  "owners": [
+   "tab:2AB4C8"
+  ],
+  "jp": "ブレイドストライク<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9EA4",
+  "end": "2A9EB2",
+  "owners": [
+   "tab:2AB4CC"
+  ],
+  "jp": "Bストライク<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2A9EB2",
+  "end": "2A9EC2",
+  "owners": [
+   "tab:2AB4D0"
+  ],
+  "jp": "いりょく100<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ }
+]

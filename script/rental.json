@@ -1,0 +1,156 @@
+[
+ {
+  "id": "434BFC",
+  "end": "434C0C",
+  "owners": [
+   "lit:0B986C"
+  ],
+  "jp": "レンタルドール<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "434C0C",
+  "end": "434C1A",
+  "owners": [
+   "lit:0B9FA8"
+  ],
+  "jp": "●レンタル！<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "434C1A",
+  "end": "434C24",
+  "owners": [
+   "lit:0B9FAC"
+  ],
+  "jp": "●やめる<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "434C24",
+  "end": "434C34",
+  "owners": [
+   "lit:0B993C"
+  ],
+  "jp": "レンタルちゅう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "434C34",
+  "end": "434C5A",
+  "owners": [
+   "tab:7F74F4"
+  ],
+  "jp": "レンタルじかん　そろそろおわりだよ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "434C5A",
+  "end": "434C7A",
+  "owners": [
+   "tab:7F74F8"
+  ],
+  "jp": "レンタルじかん　おわりーーー‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "434C7A",
+  "end": "434CBE",
+  "owners": [
+   "tab:7F74CC"
+  ],
+  "jp": "ねえねえ　ボクを　レンタルしてよ！<br>\nきっと　やくにたつとおもうよ！<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "434CBE",
+  "end": "434CE8",
+  "owners": [
+   "tab:7F74D0"
+  ],
+  "jp": "わーい　ありがとう！<br>\nボク　がんばるよ‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "434CE8",
+  "end": "434D2A",
+  "owners": [
+   "tab:7F74D4"
+  ],
+  "jp": "ソウルドールが　ひつようなのか？<br>\nだったら　オレをレンタルしな！<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "434D2A",
+  "end": "434D5E",
+  "owners": [
+   "tab:7F74D8"
+  ],
+  "jp": "フ…　そうこなくっちゃな<br>\nこうかいは　させないぜ！<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "434D5E",
+  "end": "434D9E",
+  "owners": [
+   "tab:7F74DC"
+  ],
+  "jp": "あ～ら　アタシをえらぶだなんて<br>\nおきゃくさん　めがたかいわね♪<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "434D9E",
+  "end": "434DE0",
+  "owners": [
+   "tab:7F74E0"
+  ],
+  "jp": "いやん　レンタルされちゃったわ♪<br>\nらんぼうに　あつかわないでね♪<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "434DE0",
+  "end": "434E14",
+  "owners": [
+   "tab:7F74EC"
+  ],
+  "jp": "うおおおーーー‼<br>\nオレを　レンタルするきかーーー‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "434E14",
+  "end": "434E40",
+  "owners": [
+   "tab:7F74F0"
+  ],
+  "jp": "うおおおーーー‼<br>\nオレ　がんばるぞーーー‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ }
+]

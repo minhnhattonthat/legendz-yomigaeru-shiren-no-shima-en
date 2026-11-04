@@ -1,0 +1,2128 @@
+[
+ {
+  "id": "188074",
+  "end": "188086",
+  "owners": [
+   "tab:7EFFC4"
+  ],
+  "jp": "レジェンズタウン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188086",
+  "end": "1880A0",
+  "owners": [
+   "tab:7EFFC8"
+  ],
+  "jp": "LEGENDZ　TOWN<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1880A0",
+  "end": "1880B6",
+  "owners": [
+   "tab:7EFFCC"
+  ],
+  "jp": "アイランド・キャンプ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1880B6",
+  "end": "1880CE",
+  "owners": [
+   "tab:7EFFD0"
+  ],
+  "jp": "ISLAND　CAMP<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1880CE",
+  "end": "1880E2",
+  "owners": [
+   "tab:7EFFD4"
+  ],
+  "jp": "ウエスト・キャンプ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1880E2",
+  "end": "1880F6",
+  "owners": [
+   "tab:7EFFD8"
+  ],
+  "jp": "WEST　CAMP<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1880F6",
+  "end": "188108",
+  "owners": [
+   "tab:7EFFDC"
+  ],
+  "jp": "サウス・キャンプ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188108",
+  "end": "18811E",
+  "owners": [
+   "tab:7EFFE0"
+  ],
+  "jp": "SOUTH　CAMP<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18811E",
+  "end": "188132",
+  "owners": [
+   "tab:7EFFE4"
+  ],
+  "jp": "イースト・キャンプ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188132",
+  "end": "188146",
+  "owners": [
+   "tab:7EFFE8"
+  ],
+  "jp": "EAST　CAMP<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188146",
+  "end": "188158",
+  "owners": [
+   "tab:7EFFEC"
+  ],
+  "jp": "ノース・キャンプ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188158",
+  "end": "18816E",
+  "owners": [
+   "tab:7EFFF0"
+  ],
+  "jp": "NORTH　CAMP<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18816E",
+  "end": "188180",
+  "owners": [
+   "tab:7EFFF4"
+  ],
+  "jp": "DWC・キャンプ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188180",
+  "end": "188192",
+  "owners": [
+   "tab:7EFFF8"
+  ],
+  "jp": "DWC・CAMP<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188192",
+  "end": "18819C",
+  "owners": [
+   "tab:7EFFFC"
+  ],
+  "jp": "ショップ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18819C",
+  "end": "1881A6",
+  "owners": [
+   "tab:7F0000"
+  ],
+  "jp": "SHOP<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1881A6",
+  "end": "1881BA",
+  "owners": [
+   "tab:7F0004"
+  ],
+  "jp": "こうきゅうショップ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1881BA",
+  "end": "1881D8",
+  "owners": [
+   "tab:7F0008"
+  ],
+  "jp": "EXPENSIVE　SHOP<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1881D8",
+  "end": "1881EA",
+  "owners": [
+   "tab:7F000C"
+  ],
+  "jp": "レンタルショップ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1881EA",
+  "end": "188202",
+  "owners": [
+   "tab:7F0010"
+  ],
+  "jp": "RENTAL　SHOP<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188202",
+  "end": "18820A",
+  "owners": [
+   "tab:7F0014"
+  ],
+  "jp": "ホテル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18820A",
+  "end": "188216",
+  "owners": [
+   "tab:7F0018"
+  ],
+  "jp": "HOTEL<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188216",
+  "end": "18822A",
+  "owners": [
+   "tab:7F001C"
+  ],
+  "jp": "マーメイドのすみか<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18822A",
+  "end": "18824A",
+  "owners": [
+   "tab:7F0020"
+  ],
+  "jp": "MERMAID＇S　HOUSE<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18824A",
+  "end": "18825E",
+  "owners": [
+   "tab:7F0024"
+  ],
+  "jp": "ドワーフのこうぼう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18825E",
+  "end": "188278",
+  "owners": [
+   "tab:7F0028"
+  ],
+  "jp": "DWARF＇S　SHOP<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188278",
+  "end": "188282",
+  "owners": [
+   "tab:7F002C"
+  ],
+  "jp": "とうだい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188282",
+  "end": "188298",
+  "owners": [
+   "tab:7F0030"
+  ],
+  "jp": "LIGHTHOUSE<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188298",
+  "end": "1882A2",
+  "owners": [
+   "tab:7F0034"
+  ],
+  "jp": "せんない<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1882A2",
+  "end": "1882C2",
+  "owners": [
+   "tab:7F0038"
+  ],
+  "jp": "INSIDE　THE　SHIP<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1882C2",
+  "end": "1882CC",
+  "owners": [
+   "tab:7F003C"
+  ],
+  "jp": "じむしつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1882CC",
+  "end": "1882DA",
+  "owners": [
+   "tab:7F0040"
+  ],
+  "jp": "OFFICE<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1882DA",
+  "end": "1882EA",
+  "owners": [
+   "tab:7F0044"
+  ],
+  "jp": "しゅくはくじょ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1882EA",
+  "end": "1882FA",
+  "owners": [
+   "tab:7F0048"
+  ],
+  "jp": "HOSPICE<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1882FA",
+  "end": "18830E",
+  "owners": [
+   "tab:7F004C"
+  ],
+  "jp": "トレーニングルーム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18830E",
+  "end": "18832A",
+  "owners": [
+   "tab:7F0050"
+  ],
+  "jp": "TRAINING　ROOM<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18832A",
+  "end": "18833E",
+  "owners": [
+   "tab:7F0054"
+  ],
+  "jp": "ゴブリンのそうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18833E",
+  "end": "188358",
+  "owners": [
+   "tab:7F0058"
+  ],
+  "jp": "GOBLIN＇S　DEN<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188358",
+  "end": "18836A",
+  "owners": [
+   "tab:7F005C"
+  ],
+  "jp": "まじんのどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18836A",
+  "end": "188384",
+  "owners": [
+   "tab:7F0060"
+  ],
+  "jp": "DEVIL＇S　CAVE<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188384",
+  "end": "188396",
+  "owners": [
+   "tab:7F0064"
+  ],
+  "jp": "こていのどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188396",
+  "end": "1883B4",
+  "owners": [
+   "tab:7F0068"
+  ],
+  "jp": "UNDER　THE　LAKE<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1883B4",
+  "end": "1883C8",
+  "owners": [
+   "tab:7F006C"
+  ],
+  "jp": "ちかけんきゅうじょ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1883C8",
+  "end": "1883E2",
+  "owners": [
+   "tab:7F0070"
+  ],
+  "jp": "BASEMENT　LAB<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1883E2",
+  "end": "1883F6",
+  "owners": [
+   "tab:7F0074"
+  ],
+  "jp": "ゆきやまのどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1883F6",
+  "end": "188412",
+  "owners": [
+   "tab:7F0078"
+  ],
+  "jp": "SNOW　MOUNTAIN<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188412",
+  "end": "188422",
+  "owners": [
+   "tab:7F007C"
+  ],
+  "jp": "あかつきのたに<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188422",
+  "end": "188440",
+  "owners": [
+   "tab:7F0080"
+  ],
+  "jp": "VALLEY　OF　DAWN<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188440",
+  "end": "188456",
+  "owners": [
+   "tab:7F0084"
+  ],
+  "jp": "あおきみずのどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188456",
+  "end": "18846A",
+  "owners": [
+   "tab:7F0088"
+  ],
+  "jp": "BLUE　CAVE<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18846A",
+  "end": "18847E",
+  "owners": [
+   "tab:7F008C"
+  ],
+  "jp": "はくぎんのふうけつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18847E",
+  "end": "1884A2",
+  "owners": [
+   "tab:7F0090"
+  ],
+  "jp": "WHITE　SILVER　CAVE<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1884A2",
+  "end": "1884B8",
+  "owners": [
+   "tab:7F0094"
+  ],
+  "jp": "しゃくねつのどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1884B8",
+  "end": "1884D4",
+  "owners": [
+   "tab:7F0098"
+  ],
+  "jp": "RED　HEAT　CAVE<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1884D4",
+  "end": "1884E8",
+  "owners": [
+   "tab:7F009C"
+  ],
+  "jp": "はいいろのどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1884E8",
+  "end": "1884FC",
+  "owners": [
+   "tab:7F00A0"
+  ],
+  "jp": "GREY　CAVE<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1884FC",
+  "end": "188510",
+  "owners": [
+   "tab:7F00A4"
+  ],
+  "jp": "ミズのしれんじょう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188510",
+  "end": "18852C",
+  "owners": [
+   "tab:7F00A8"
+  ],
+  "jp": "TRIAL　OF　AQUA<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18852C",
+  "end": "188540",
+  "owners": [
+   "tab:7F00AC"
+  ],
+  "jp": "カゼのしれんじょう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188540",
+  "end": "18855C",
+  "owners": [
+   "tab:7F00B0"
+  ],
+  "jp": "TRIAL　OF　WIND<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18855C",
+  "end": "18856E",
+  "owners": [
+   "tab:7F00B4"
+  ],
+  "jp": "ヒのしれんじょう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18856E",
+  "end": "18858A",
+  "owners": [
+   "tab:7F00B8"
+  ],
+  "jp": "TRIAL　OF　FIRE<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18858A",
+  "end": "18859E",
+  "owners": [
+   "tab:7F00BC"
+  ],
+  "jp": "ツチのしれんじょう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18859E",
+  "end": "1885BC",
+  "owners": [
+   "tab:7F00C0"
+  ],
+  "jp": "TRIAL　OF　EARTH<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1885BC",
+  "end": "1885D0",
+  "owners": [
+   "tab:7F00C4"
+  ],
+  "jp": "りゅうじんのいずみ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1885D0",
+  "end": "1885F0",
+  "owners": [
+   "tab:7F00C8"
+  ],
+  "jp": "DRAGON　FOUNTAIN<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1885F0",
+  "end": "188600",
+  "owners": [
+   "tab:7F00CC"
+  ],
+  "jp": "ダークテンプル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188600",
+  "end": "188618",
+  "owners": [
+   "tab:7F00D0"
+  ],
+  "jp": "DARK　TEMPLE<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188618",
+  "end": "18862A",
+  "owners": [
+   "tab:7F00D4"
+  ],
+  "jp": "ならくのどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18862A",
+  "end": "188646",
+  "owners": [
+   "tab:7F00D8"
+  ],
+  "jp": "CAVE　OF　ABYSS<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188646",
+  "end": "18865A",
+  "owners": [
+   "tab:7F00DC"
+  ],
+  "jp": "じゃりゅうのいせき<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18865A",
+  "end": "188682",
+  "owners": [
+   "tab:7F00E0"
+  ],
+  "jp": "EVIL　DRAGON＇S　RELIC<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188682",
+  "end": "188696",
+  "owners": [
+   "tab:7F00E4"
+  ],
+  "jp": "たからのめいきゅう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188696",
+  "end": "1886BC",
+  "owners": [
+   "tab:7F00E8"
+  ],
+  "jp": "TREASURE　LABYRINTH<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1886BC",
+  "end": "1886CC",
+  "owners": [
+   "tab:7F00EC"
+  ],
+  "jp": "ハーピーのもり<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1886CC",
+  "end": "1886EA",
+  "owners": [
+   "tab:7F00F0"
+  ],
+  "jp": "HARPY＇S　FOREST<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1886EA",
+  "end": "1886FA",
+  "owners": [
+   "tab:7F00F4"
+  ],
+  "jp": "まじゅうのもり<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1886FA",
+  "end": "188714",
+  "owners": [
+   "tab:7F00F8"
+  ],
+  "jp": "BEAST　FOREST<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188714",
+  "end": "188726",
+  "owners": [
+   "tab:7F00FC"
+  ],
+  "jp": "きょうらんのもり<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188726",
+  "end": "18874A",
+  "owners": [
+   "tab:7F0100"
+  ],
+  "jp": "FOREST　OF　MADNESS<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18874A",
+  "end": "18875A",
+  "owners": [
+   "tab:7F0104"
+  ],
+  "jp": "けんじゃのとう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18875A",
+  "end": "188776",
+  "owners": [
+   "tab:7F0108"
+  ],
+  "jp": "TOWER　OF　SAGE<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188776",
+  "end": "188786",
+  "owners": [
+   "tab:7F010C"
+  ],
+  "jp": "ざわめきのもり<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188786",
+  "end": "1887A2",
+  "owners": [
+   "tab:7F0110"
+  ],
+  "jp": "MURMUR　FOREST<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1887A2",
+  "end": "1887B4",
+  "owners": [
+   "tab:7F0114"
+  ],
+  "jp": "せいじゃくのもり<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1887B4",
+  "end": "1887D0",
+  "owners": [
+   "tab:7F0118"
+  ],
+  "jp": "SILENT　FOREST<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1887D0",
+  "end": "1887E0",
+  "owners": [
+   "tab:7F011C"
+  ],
+  "jp": "もりのぬけみち<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1887E0",
+  "end": "1887FC",
+  "owners": [
+   "tab:7F0120"
+  ],
+  "jp": "FOREST　BYROAD<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1887FC",
+  "end": "18880A",
+  "owners": [
+   "tab:7F0124"
+  ],
+  "jp": "ひかりのとう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18880A",
+  "end": "188822",
+  "owners": [
+   "tab:7F0128"
+  ],
+  "jp": "LIGHT　TOWER<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188822",
+  "end": "18882E",
+  "owners": [
+   "tab:7F012C"
+  ],
+  "jp": "やみのとう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18882E",
+  "end": "18884C",
+  "owners": [
+   "tab:7F0130"
+  ],
+  "jp": "DARKNESS　TOWER<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18884C",
+  "end": "18885A",
+  "owners": [
+   "tab:7F0134"
+  ],
+  "jp": "こだいいせき<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18885A",
+  "end": "18887E",
+  "owners": [
+   "tab:7F0138"
+  ],
+  "jp": "ANCIENT　MONUMENT　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18887E",
+  "end": "18888E",
+  "owners": [
+   "tab:7F013C"
+  ],
+  "jp": "ちいさなほこら<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18888E",
+  "end": "1888A4",
+  "owners": [
+   "tab:7F0140"
+  ],
+  "jp": "SMALL　CAVE<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1888A4",
+  "end": "1888B8",
+  "owners": [
+   "tab:7F0144"
+  ],
+  "jp": "かいがんのどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1888B8",
+  "end": "1888D2",
+  "owners": [
+   "tab:7F0148"
+  ],
+  "jp": "SEASIDE　CAVE<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1888D2",
+  "end": "1888E6",
+  "owners": [
+   "tab:7F014C"
+  ],
+  "jp": "すなはまのどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1888E6",
+  "end": "188900",
+  "owners": [
+   "tab:7F0150"
+  ],
+  "jp": "DESSERT　CAVE<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188900",
+  "end": "188912",
+  "owners": [
+   "tab:7F0154"
+  ],
+  "jp": "ふぶきのどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188912",
+  "end": "18892E",
+  "owners": [
+   "tab:7F0158"
+  ],
+  "jp": "BLIZZARD　CAVE<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18892E",
+  "end": "18893C",
+  "owners": [
+   "tab:7F015C"
+  ],
+  "jp": "A－1エリア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18893C",
+  "end": "18894E",
+  "owners": [
+   "tab:7F0160"
+  ],
+  "jp": "AREA　A－1<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18894E",
+  "end": "18895C",
+  "owners": [
+   "tab:7F0164"
+  ],
+  "jp": "A－2エリア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18895C",
+  "end": "18896E",
+  "owners": [
+   "tab:7F0168"
+  ],
+  "jp": "AREA　A－2<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18896E",
+  "end": "18897C",
+  "owners": [
+   "tab:7F016C"
+  ],
+  "jp": "B－1エリア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18897C",
+  "end": "18898E",
+  "owners": [
+   "tab:7F0170"
+  ],
+  "jp": "AREA　B－1<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18898E",
+  "end": "18899C",
+  "owners": [
+   "tab:7F0174"
+  ],
+  "jp": "B－2エリア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "18899C",
+  "end": "1889AE",
+  "owners": [
+   "tab:7F0178"
+  ],
+  "jp": "AREA　B－2<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1889AE",
+  "end": "1889BC",
+  "owners": [
+   "tab:7F017C"
+  ],
+  "jp": "B－3エリア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1889BC",
+  "end": "1889CE",
+  "owners": [
+   "tab:7F0180"
+  ],
+  "jp": "AREA　B－3<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1889CE",
+  "end": "1889DC",
+  "owners": [
+   "tab:7F0184"
+  ],
+  "jp": "C－1エリア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1889DC",
+  "end": "1889EE",
+  "owners": [
+   "tab:7F0188"
+  ],
+  "jp": "AREA　C－1<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1889EE",
+  "end": "1889FC",
+  "owners": [
+   "tab:7F018C"
+  ],
+  "jp": "C－2エリア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "1889FC",
+  "end": "188A0E",
+  "owners": [
+   "tab:7F0190"
+  ],
+  "jp": "AREA　C－2<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188A0E",
+  "end": "188A1C",
+  "owners": [
+   "tab:7F0194"
+  ],
+  "jp": "D－1エリア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188A1C",
+  "end": "188A2E",
+  "owners": [
+   "tab:7F0198"
+  ],
+  "jp": "AREA　D－1<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188A2E",
+  "end": "188A3C",
+  "owners": [
+   "tab:7F019C"
+  ],
+  "jp": "D－2エリア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188A3C",
+  "end": "188A4E",
+  "owners": [
+   "tab:7F01A0"
+  ],
+  "jp": "AREA　D－2<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188A4E",
+  "end": "188A5C",
+  "owners": [
+   "tab:7F01A4"
+  ],
+  "jp": "D－3エリア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188A5C",
+  "end": "188A6E",
+  "owners": [
+   "tab:7F01A8"
+  ],
+  "jp": "AREA　D－3<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188A6E",
+  "end": "188A7C",
+  "owners": [
+   "tab:7F01AC"
+  ],
+  "jp": "E－1エリア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188A7C",
+  "end": "188A8E",
+  "owners": [
+   "tab:7F01B0"
+  ],
+  "jp": "AREA　E－1<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188A8E",
+  "end": "188A9C",
+  "owners": [
+   "tab:7F01B4"
+  ],
+  "jp": "F－1エリア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188A9C",
+  "end": "188AAE",
+  "owners": [
+   "tab:7F01B8"
+  ],
+  "jp": "AREA　F－1<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188AAE",
+  "end": "188ABC",
+  "owners": [
+   "tab:7F01BC"
+  ],
+  "jp": "G－1エリア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188ABC",
+  "end": "188ACE",
+  "owners": [
+   "tab:7F01C0"
+  ],
+  "jp": "AREA　G－1<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188ACE",
+  "end": "188ADC",
+  "owners": [
+   "tab:7F01C4"
+  ],
+  "jp": "つばさのしま<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188ADC",
+  "end": "188AFC",
+  "owners": [
+   "tab:7F01C8"
+  ],
+  "jp": "ISLAND　OF　WINGS<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188AFC",
+  "end": "188B10",
+  "owners": [
+   "tab:7F01CC"
+  ],
+  "jp": "おんすいのどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188B10",
+  "end": "188B30",
+  "owners": [
+   "tab:7F01D0"
+  ],
+  "jp": "WARM　WATER　CAVE<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188B30",
+  "end": "188B44",
+  "owners": [
+   "tab:7F01D4"
+  ],
+  "jp": "れいすいのどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188B44",
+  "end": "188B64",
+  "owners": [
+   "tab:7F01D8"
+  ],
+  "jp": "COLD　WATER　CAVE<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188B64",
+  "end": "188B74",
+  "owners": [
+   "tab:7F01DC"
+  ],
+  "jp": "じんろうのもり<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188B74",
+  "end": "188B98",
+  "owners": [
+   "tab:7F01E0"
+  ],
+  "jp": "WEREWOLF＇S　FOREST<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188B98",
+  "end": "188BAC",
+  "owners": [
+   "tab:7F01E4"
+  ],
+  "jp": "ごくかんのどうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188BAC",
+  "end": "188BC4",
+  "owners": [
+   "tab:7F01E8"
+  ],
+  "jp": "FRIGID　CAVE<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188BC4",
+  "end": "188BD2",
+  "owners": [
+   "tab:7F01EC"
+  ],
+  "jp": "もりのこはん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188BD2",
+  "end": "188BF6",
+  "owners": [
+   "tab:7F01F0"
+  ],
+  "jp": "LAKESIDE　IN　WOODS<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188BF6",
+  "end": "188C04",
+  "owners": [
+   "tab:7F01F4"
+  ],
+  "jp": "つばさのしま<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188C04",
+  "end": "188C16",
+  "owners": [
+   "tab:7F01F8"
+  ],
+  "jp": "AREA　G－3<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188C16",
+  "end": "188C24",
+  "owners": [
+   "tab:7F01FC"
+  ],
+  "jp": "つばさのしま<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188C24",
+  "end": "188C36",
+  "owners": [
+   "tab:7F0200"
+  ],
+  "jp": "AREA　H－2<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188C36",
+  "end": "188C44",
+  "owners": [
+   "tab:7F0204"
+  ],
+  "jp": "F－2エリア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188C44",
+  "end": "188C56",
+  "owners": [
+   "tab:7F0208"
+  ],
+  "jp": "AREA　F－2<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188C56",
+  "end": "188C62",
+  "owners": [
+   "tab:7F020C"
+  ],
+  "jp": "プレイヤー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188C62",
+  "end": "188C6E",
+  "owners": [
+   "tab:7F0210"
+  ],
+  "jp": "プレイヤー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188C6E",
+  "end": "188C76",
+  "owners": [
+   "tab:7F0214"
+  ],
+  "jp": "アリサ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188C76",
+  "end": "188C7E",
+  "owners": [
+   "tab:7F0218"
+  ],
+  "jp": "シュウ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188C7E",
+  "end": "188C84",
+  "owners": [
+   "tab:7F021C"
+  ],
+  "jp": "メグ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188C84",
+  "end": "188C8C",
+  "owners": [
+   "tab:7F0220"
+  ],
+  "jp": "マック<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188C8C",
+  "end": "188C96",
+  "owners": [
+   "tab:7F0224"
+  ],
+  "jp": "ディーノ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188C96",
+  "end": "188C9E",
+  "owners": [
+   "tab:7F0228"
+  ],
+  "jp": "ハルカ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188C9E",
+  "end": "188CA6",
+  "owners": [
+   "tab:7F022C"
+  ],
+  "jp": "？？？<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188CA6",
+  "end": "188CAE",
+  "owners": [
+   "tab:7F0230"
+  ],
+  "jp": "サスケ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188CAE",
+  "end": "188CB4",
+  "owners": [
+   "tab:7F0234"
+  ],
+  "jp": "BB<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188CB4",
+  "end": "188CBA",
+  "owners": [
+   "tab:7F0238"
+  ],
+  "jp": "J1<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188CBA",
+  "end": "188CC0",
+  "owners": [
+   "tab:7F023C"
+  ],
+  "jp": "J2<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188CC0",
+  "end": "188CC8",
+  "owners": [
+   "tab:7F0240"
+  ],
+  "jp": "そうむ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188CC8",
+  "end": "188CDA",
+  "owners": [
+   "tab:7F0244"
+  ],
+  "jp": "DWCしゃちょう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188CDA",
+  "end": "188CE6",
+  "owners": [
+   "tab:7F0248"
+  ],
+  "jp": "ランシーン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188CE6",
+  "end": "188CF2",
+  "owners": [
+   "tab:7F024C"
+  ],
+  "jp": "おとうさん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188CF2",
+  "end": "188CFE",
+  "owners": [
+   "tab:7F0250"
+  ],
+  "jp": "おかあさん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188CFE",
+  "end": "188D08",
+  "owners": [
+   "tab:7F0254"
+  ],
+  "jp": "くろふく<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188D08",
+  "end": "188D18",
+  "owners": [
+   "tab:7F0258"
+  ],
+  "jp": "けんきゅういん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188D18",
+  "end": "188D24",
+  "owners": [
+   "tab:7F025C"
+  ],
+  "jp": "おにいさん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188D24",
+  "end": "188D30",
+  "owners": [
+   "tab:7F0260"
+  ],
+  "jp": "おねえさん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188D30",
+  "end": "188D3E",
+  "owners": [
+   "tab:7F0264"
+  ],
+  "jp": "さぎょういん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188D3E",
+  "end": "188D48",
+  "owners": [
+   "tab:7F0268"
+  ],
+  "jp": "てんいん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188D48",
+  "end": "188D58",
+  "owners": [
+   "tab:7F026C"
+  ],
+  "jp": "わんぱくこぞう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188D58",
+  "end": "188D68",
+  "owners": [
+   "tab:7F0270"
+  ],
+  "jp": "がきだいしょう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188D68",
+  "end": "188D78",
+  "owners": [
+   "tab:7F0274"
+  ],
+  "jp": "いたずらこぞう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188D78",
+  "end": "188D88",
+  "owners": [
+   "tab:7F0278"
+  ],
+  "jp": "シニカルボーイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188D88",
+  "end": "188D98",
+  "owners": [
+   "tab:7F027C"
+  ],
+  "jp": "ゲーマーこぞう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188D98",
+  "end": "188DA8",
+  "owners": [
+   "tab:7F0280"
+  ],
+  "jp": "こだわりボーイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188DA8",
+  "end": "188DB8",
+  "owners": [
+   "tab:7F0284"
+  ],
+  "jp": "バカンスレディ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188DB8",
+  "end": "188DC6",
+  "owners": [
+   "tab:7F0288"
+  ],
+  "jp": "おじょうさま<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188DC6",
+  "end": "188DD6",
+  "owners": [
+   "tab:7F028C"
+  ],
+  "jp": "おしゃれガール<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188DD6",
+  "end": "188DE6",
+  "owners": [
+   "tab:7F0290"
+  ],
+  "jp": "はりきりレディ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188DE6",
+  "end": "188DF6",
+  "owners": [
+   "tab:7F0294"
+  ],
+  "jp": "スポーツガール<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188DF6",
+  "end": "188E06",
+  "owners": [
+   "tab:7F0298"
+  ],
+  "jp": "つっこみガール<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188E06",
+  "end": "188E16",
+  "owners": [
+   "tab:7F029C"
+  ],
+  "jp": "リュウイチロウ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188E16",
+  "end": "188E22",
+  "owners": [
+   "tab:7F02A0"
+  ],
+  "jp": "レイジロウ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188E22",
+  "end": "188E2C",
+  "owners": [
+   "tab:7F02A4"
+  ],
+  "jp": "ジョニー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188E2C",
+  "end": "188E38",
+  "owners": [
+   "tab:7F02A8"
+  ],
+  "jp": "アンディー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188E38",
+  "end": "188E40",
+  "owners": [
+   "tab:7F02AC"
+  ],
+  "jp": "ヒカル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188E40",
+  "end": "188E48",
+  "owners": [
+   "tab:7F02B0"
+  ],
+  "jp": "ナギサ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188E48",
+  "end": "188E50",
+  "owners": [
+   "tab:7F02B4"
+  ],
+  "jp": "カンナ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188E50",
+  "end": "188E58",
+  "owners": [
+   "tab:7F02B8"
+  ],
+  "jp": "キリコ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188E58",
+  "end": "188E64",
+  "owners": [
+   "tab:7F02BC"
+  ],
+  "jp": "プリンセス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188E64",
+  "end": "188E70",
+  "owners": [
+   "tab:7F02C0"
+  ],
+  "jp": "だいまおう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "188EA4",
+  "end": "188EA8",
+  "owners": [
+   "lit:0D6734",
+   "lit:0D756C",
+   "lit:0D7958",
+   "lit:0D7E6C"
+  ],
+  "jp": "●<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ }
+]

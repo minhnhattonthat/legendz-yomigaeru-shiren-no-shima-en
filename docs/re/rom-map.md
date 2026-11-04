@@ -13,7 +13,7 @@ CRC32 `33950228`, MD5 `9c7546d2fd1399614b035ead1d66aa8d`, SHA-1 `ff1e05a2fa70933
 | `0x1619D8-0x1895C0` | text (see `text.md`) | verified |
 | `0x18AC3C-0x42BB6B` | graphics, LZ blocks, portraits, monster sprites | verified by sweep |
 | `0x42BB6C-~0x430000` | fonts: font 1 at `0x42BB6C`, font 2 at `0x42FD6C` | starts verified; font 2's end is a guess |
-| `0x430000-0x47FFFF` | UI graphics and text tables | verified by sweep |
+| `0x430000-0x47FFFF` | UI graphics and text tables; credits text at `0x46F75C` (8-bit, `text.md`, Credits) | verified by sweep |
 | `0x488000-0x6FFFFF` | isometric map tile blocks | verified by sweep |
 | `0x700000-0x7EFFFF` | further graphics; LZ blocks to `0x7584F0`, tables after | partly verified |
 | `0x7EFD1C` | `FLASH512_V131` save library marker | verified |

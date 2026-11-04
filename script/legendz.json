@@ -1,0 +1,2356 @@
+[
+ {
+  "id": "2AFEE0",
+  "end": "2AFEF0",
+  "owners": [
+   "tab:2B0AE0"
+  ],
+  "jp": "ヘキサドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2AFEF0",
+  "end": "2AFF00",
+  "owners": [
+   "tab:2B0AE4"
+  ],
+  "jp": "ヘキサドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2AFF00",
+  "end": "2AFF12",
+  "owners": [
+   "tab:2B0AF8"
+  ],
+  "jp": "ブレイズドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2AFF12",
+  "end": "2AFF24",
+  "owners": [
+   "tab:2B0AFC"
+  ],
+  "jp": "ブレイズドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2AFF24",
+  "end": "2AFF36",
+  "owners": [
+   "tab:2B0B10"
+  ],
+  "jp": "ブレイズドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2AFF36",
+  "end": "2AFF48",
+  "owners": [
+   "tab:2B0B14"
+  ],
+  "jp": "ブレイズドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2AFF48",
+  "end": "2AFF62",
+  "owners": [
+   "tab:2B0B28"
+  ],
+  "jp": "Bドラゴンバーサクモード<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2AFF62",
+  "end": "2AFF74",
+  "owners": [
+   "tab:2B0B2C"
+  ],
+  "jp": "ブレイズドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2AFF74",
+  "end": "2AFF8E",
+  "owners": [
+   "tab:2B0B40"
+  ],
+  "jp": "コマンドブレイズドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2AFF8E",
+  "end": "2AFF9C",
+  "owners": [
+   "tab:2B0B44"
+  ],
+  "jp": "CBドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2AFF9C",
+  "end": "2AFFB4",
+  "owners": [
+   "tab:2B0B58"
+  ],
+  "jp": "Cブレイズドラゴン・V<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2AFFB4",
+  "end": "2AFFC6",
+  "owners": [
+   "tab:2B0B5C"
+  ],
+  "jp": "CBドラゴン・V<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2AFFC6",
+  "end": "2AFFDA",
+  "owners": [
+   "tab:2B0B70"
+  ],
+  "jp": "ウィルオーウィスプ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2AFFDA",
+  "end": "2AFFE6",
+  "owners": [
+   "tab:2B0B74"
+  ],
+  "jp": "Wウィスプ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2AFFE6",
+  "end": "2AFFF4",
+  "owners": [
+   "tab:2B0B88"
+  ],
+  "jp": "ヘルハウンド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2AFFF4",
+  "end": "2B0002",
+  "owners": [
+   "tab:2B0B8C"
+  ],
+  "jp": "ヘルハウンド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0002",
+  "end": "2B000E",
+  "owners": [
+   "tab:2B0BA0"
+  ],
+  "jp": "ワイバーン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B000E",
+  "end": "2B001A",
+  "owners": [
+   "tab:2B0BA4"
+  ],
+  "jp": "ワイバーン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B001A",
+  "end": "2B0024",
+  "owners": [
+   "tab:2B0BB8"
+  ],
+  "jp": "キマイラ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0024",
+  "end": "2B002E",
+  "owners": [
+   "tab:2B0BBC"
+  ],
+  "jp": "キマイラ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B002E",
+  "end": "2B003C",
+  "owners": [
+   "tab:2B0BD0"
+  ],
+  "jp": "ウェアウルフ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B003C",
+  "end": "2B004A",
+  "owners": [
+   "tab:2B0BD4"
+  ],
+  "jp": "ウェアウルフ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B004A",
+  "end": "2B0054",
+  "owners": [
+   "tab:2B0BE8"
+  ],
+  "jp": "ゴブリン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0054",
+  "end": "2B005E",
+  "owners": [
+   "tab:2B0BEC"
+  ],
+  "jp": "ゴブリン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B005E",
+  "end": "2B0066",
+  "owners": [
+   "tab:2B0C00"
+  ],
+  "jp": "トロル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0066",
+  "end": "2B006E",
+  "owners": [
+   "tab:2B0C04"
+  ],
+  "jp": "トロル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B006E",
+  "end": "2B0078",
+  "owners": [
+   "tab:2B0C18"
+  ],
+  "jp": "ドワーフ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0078",
+  "end": "2B0082",
+  "owners": [
+   "tab:2B0C1C"
+  ],
+  "jp": "ドワーフ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0082",
+  "end": "2B008E",
+  "owners": [
+   "tab:2B0C30"
+  ],
+  "jp": "グリフィン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B008E",
+  "end": "2B009A",
+  "owners": [
+   "tab:2B0C34"
+  ],
+  "jp": "グリフィン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B009A",
+  "end": "2B00AA",
+  "owners": [
+   "tab:2B0C48"
+  ],
+  "jp": "ウインドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B00AA",
+  "end": "2B00BA",
+  "owners": [
+   "tab:2B0C4C"
+  ],
+  "jp": "ウインドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B00BA",
+  "end": "2B00CA",
+  "owners": [
+   "tab:2B0C60"
+  ],
+  "jp": "ウインドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B00CA",
+  "end": "2B00DA",
+  "owners": [
+   "tab:2B0C64"
+  ],
+  "jp": "ウインドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B00DA",
+  "end": "2B00F4",
+  "owners": [
+   "tab:2B0C78"
+  ],
+  "jp": "Wドラゴンバーサクモード<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B00F4",
+  "end": "2B0104",
+  "owners": [
+   "tab:2B0C7C"
+  ],
+  "jp": "ウインドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0104",
+  "end": "2B011C",
+  "owners": [
+   "tab:2B0C90"
+  ],
+  "jp": "コマンドウインドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B011C",
+  "end": "2B012A",
+  "owners": [
+   "tab:2B0C94"
+  ],
+  "jp": "CWドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B012A",
+  "end": "2B0140",
+  "owners": [
+   "tab:2B0CA8"
+  ],
+  "jp": "Cウインドラゴン・B<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0140",
+  "end": "2B0152",
+  "owners": [
+   "tab:2B0CAC"
+  ],
+  "jp": "CWドラゴン・B<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0152",
+  "end": "2B015E",
+  "owners": [
+   "tab:2B0CC0"
+  ],
+  "jp": "ペリュトン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B015E",
+  "end": "2B016A",
+  "owners": [
+   "tab:2B0CC4"
+  ],
+  "jp": "ペリュトン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B016A",
+  "end": "2B0180",
+  "owners": [
+   "tab:2B0CD8"
+  ],
+  "jp": "クラウドジャイアント<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0180",
+  "end": "2B018C",
+  "owners": [
+   "tab:2B0CDC"
+  ],
+  "jp": "クラウドG<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B018C",
+  "end": "2B019A",
+  "owners": [
+   "tab:2B0CF0"
+  ],
+  "jp": "マンティコア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B019A",
+  "end": "2B01A8",
+  "owners": [
+   "tab:2B0CF4"
+  ],
+  "jp": "マンティコア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B01A8",
+  "end": "2B01B6",
+  "owners": [
+   "tab:2B0D08"
+  ],
+  "jp": "ビッグフット<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B01B6",
+  "end": "2B01C4",
+  "owners": [
+   "tab:2B0D0C"
+  ],
+  "jp": "ビッグフット<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B01C4",
+  "end": "2B01D0",
+  "owners": [
+   "tab:2B0D20"
+  ],
+  "jp": "マーメイド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B01D0",
+  "end": "2B01DC",
+  "owners": [
+   "tab:2B0D24"
+  ],
+  "jp": "マーメイド<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B01DC",
+  "end": "2B01E6",
+  "owners": [
+   "tab:2B0D38"
+  ],
+  "jp": "イエティ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B01E6",
+  "end": "2B01F0",
+  "owners": [
+   "tab:2B0D3C"
+  ],
+  "jp": "イエティ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B01F0",
+  "end": "2B0206",
+  "owners": [
+   "tab:2B0D50"
+  ],
+  "jp": "デヴォアクロコダイル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0206",
+  "end": "2B0216",
+  "owners": [
+   "tab:2B0D54"
+  ],
+  "jp": "Dクロコダイル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0216",
+  "end": "2B0220",
+  "owners": [
+   "tab:2B0D68"
+  ],
+  "jp": "トリトン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0220",
+  "end": "2B022A",
+  "owners": [
+   "tab:2B0D6C"
+  ],
+  "jp": "トリトン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B022A",
+  "end": "2B0238",
+  "owners": [
+   "tab:2B0D80"
+  ],
+  "jp": "ウンディーネ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0238",
+  "end": "2B0246",
+  "owners": [
+   "tab:2B0D84"
+  ],
+  "jp": "ウンディーネ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0246",
+  "end": "2B0254",
+  "owners": [
+   "tab:2B0D98"
+  ],
+  "jp": "カーバンクル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0254",
+  "end": "2B0262",
+  "owners": [
+   "tab:2B0D9C"
+  ],
+  "jp": "カーバンクル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0262",
+  "end": "2B026E",
+  "owners": [
+   "tab:2B0DB0"
+  ],
+  "jp": "スケルトン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B026E",
+  "end": "2B027A",
+  "owners": [
+   "tab:2B0DB4"
+  ],
+  "jp": "スケルトン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B027A",
+  "end": "2B0286",
+  "owners": [
+   "tab:2B0DC8"
+  ],
+  "jp": "ガーゴイル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0286",
+  "end": "2B0292",
+  "owners": [
+   "tab:2B0DCC"
+  ],
+  "jp": "ガーゴイル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0292",
+  "end": "2B02A8",
+  "owners": [
+   "tab:2B0DE0"
+  ],
+  "jp": "ファイアジャイアント<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B02A8",
+  "end": "2B02B4",
+  "owners": [
+   "tab:2B0DE4"
+  ],
+  "jp": "ファイアG<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B02B4",
+  "end": "2B02C6",
+  "owners": [
+   "tab:2B0DF8"
+  ],
+  "jp": "Vキングドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B02C6",
+  "end": "2B02D8",
+  "owners": [
+   "tab:2B0DFC"
+  ],
+  "jp": "Vキングドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B02D8",
+  "end": "2B02EA",
+  "owners": [
+   "tab:2B0E10"
+  ],
+  "jp": "Eキングドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B02EA",
+  "end": "2B02FC",
+  "owners": [
+   "tab:2B0E14"
+  ],
+  "jp": "Eキングドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B02FC",
+  "end": "2B030E",
+  "owners": [
+   "tab:2B0E28"
+  ],
+  "jp": "Tキングドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B030E",
+  "end": "2B0320",
+  "owners": [
+   "tab:2B0E2C"
+  ],
+  "jp": "Tキングドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0320",
+  "end": "2B0332",
+  "owners": [
+   "tab:2B0E40"
+  ],
+  "jp": "Sキングドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0332",
+  "end": "2B0344",
+  "owners": [
+   "tab:2B0E44"
+  ],
+  "jp": "Sキングドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0344",
+  "end": "2B0352",
+  "owners": [
+   "tab:2B0E58"
+  ],
+  "jp": "ティアマット<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0352",
+  "end": "2B0360",
+  "owners": [
+   "tab:2B0E5C"
+  ],
+  "jp": "ティアマット<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0360",
+  "end": "2B036C",
+  "owners": [
+   "tab:2B0E70"
+  ],
+  "jp": "スパルトイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B036C",
+  "end": "2B0378",
+  "owners": [
+   "tab:2B0E74"
+  ],
+  "jp": "スパルトイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0378",
+  "end": "2B0384",
+  "owners": [
+   "tab:2B0E88"
+  ],
+  "jp": "コカトリス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0384",
+  "end": "2B0390",
+  "owners": [
+   "tab:2B0E8C"
+  ],
+  "jp": "コカトリス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0390",
+  "end": "2B03A0",
+  "owners": [
+   "tab:2B0EA0"
+  ],
+  "jp": "サンダーバード<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B03A0",
+  "end": "2B03B0",
+  "owners": [
+   "tab:2B0EA4"
+  ],
+  "jp": "サンダーバード<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B03B0",
+  "end": "2B03C0",
+  "owners": [
+   "tab:2B0EB8"
+  ],
+  "jp": "グラシュティグ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B03C0",
+  "end": "2B03D0",
+  "owners": [
+   "tab:2B0EBC"
+  ],
+  "jp": "グラシュティグ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B03D0",
+  "end": "2B03DC",
+  "owners": [
+   "tab:2B0ED0"
+  ],
+  "jp": "ハイエルフ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B03DC",
+  "end": "2B03E8",
+  "owners": [
+   "tab:2B0ED4"
+  ],
+  "jp": "ハイエルフ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B03E8",
+  "end": "2B03F4",
+  "owners": [
+   "tab:2B0EE8"
+  ],
+  "jp": "デュラハン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B03F4",
+  "end": "2B0400",
+  "owners": [
+   "tab:2B0EEC"
+  ],
+  "jp": "デュラハン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0400",
+  "end": "2B040C",
+  "owners": [
+   "tab:2B0F00"
+  ],
+  "jp": "ワイアーム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B040C",
+  "end": "2B0418",
+  "owners": [
+   "tab:2B0F04"
+  ],
+  "jp": "ワイアーム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0418",
+  "end": "2B0424",
+  "owners": [
+   "tab:2B0F18"
+  ],
+  "jp": "サーペント<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0424",
+  "end": "2B0430",
+  "owners": [
+   "tab:2B0F1C"
+  ],
+  "jp": "サーペント<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0430",
+  "end": "2B044A",
+  "owners": [
+   "tab:2B0F30"
+  ],
+  "jp": "ジャイアントスコーピオン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B044A",
+  "end": "2B045A",
+  "owners": [
+   "tab:2B0F34"
+  ],
+  "jp": "Gスコーピオン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B045A",
+  "end": "2B0470",
+  "owners": [
+   "tab:2B0F48"
+  ],
+  "jp": "ジャイアントビートル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0470",
+  "end": "2B047C",
+  "owners": [
+   "tab:2B0F4C"
+  ],
+  "jp": "Gビートル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B047C",
+  "end": "2B0494",
+  "owners": [
+   "tab:2B0F60"
+  ],
+  "jp": "ジャイアントマンティス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0494",
+  "end": "2B04A2",
+  "owners": [
+   "tab:2B0F64"
+  ],
+  "jp": "Gマンティス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B04A2",
+  "end": "2B04BA",
+  "owners": [
+   "tab:2B0F78"
+  ],
+  "jp": "ジャイアントスパイダー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B04BA",
+  "end": "2B04C8",
+  "owners": [
+   "tab:2B0F7C"
+  ],
+  "jp": "Gスパイダー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B04C8",
+  "end": "2B04DA",
+  "owners": [
+   "tab:2B0F90"
+  ],
+  "jp": "キラーラフレシア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B04DA",
+  "end": "2B04EC",
+  "owners": [
+   "tab:2B0F94"
+  ],
+  "jp": "キラーラフレシア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B04EC",
+  "end": "2B04FC",
+  "owners": [
+   "tab:2B0FA8"
+  ],
+  "jp": "バインドケルプ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B04FC",
+  "end": "2B050C",
+  "owners": [
+   "tab:2B0FAC"
+  ],
+  "jp": "バインドケルプ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B050C",
+  "end": "2B051A",
+  "owners": [
+   "tab:2B0FC0"
+  ],
+  "jp": "サラマンダー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B051A",
+  "end": "2B0528",
+  "owners": [
+   "tab:2B0FC4"
+  ],
+  "jp": "サラマンダー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0528",
+  "end": "2B0532",
+  "owners": [
+   "tab:2B0FD8"
+  ],
+  "jp": "フンババ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0532",
+  "end": "2B053C",
+  "owners": [
+   "tab:2B0FDC"
+  ],
+  "jp": "フンババ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B053C",
+  "end": "2B0548",
+  "owners": [
+   "tab:2B0FF0"
+  ],
+  "jp": "ケットシー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0548",
+  "end": "2B0554",
+  "owners": [
+   "tab:2B0FF4"
+  ],
+  "jp": "ケットシー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0554",
+  "end": "2B0562",
+  "owners": [
+   "tab:2B1008"
+  ],
+  "jp": "リザードマン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0562",
+  "end": "2B0570",
+  "owners": [
+   "tab:2B100C"
+  ],
+  "jp": "リザードマン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0570",
+  "end": "2B0578",
+  "owners": [
+   "tab:2B1020"
+  ],
+  "jp": "オーガ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0578",
+  "end": "2B0580",
+  "owners": [
+   "tab:2B1024"
+  ],
+  "jp": "オーガ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0580",
+  "end": "2B058C",
+  "owners": [
+   "tab:2B1038"
+  ],
+  "jp": "ヒポグリフ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B058C",
+  "end": "2B0598",
+  "owners": [
+   "tab:2B103C"
+  ],
+  "jp": "ヒポグリフ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0598",
+  "end": "2B05A2",
+  "owners": [
+   "tab:2B1050"
+  ],
+  "jp": "ハーピー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B05A2",
+  "end": "2B05AC",
+  "owners": [
+   "tab:2B1054"
+  ],
+  "jp": "ハーピー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B05AC",
+  "end": "2B05BA",
+  "owners": [
+   "tab:2B1068"
+  ],
+  "jp": "アサシンバグ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B05BA",
+  "end": "2B05C8",
+  "owners": [
+   "tab:2B106C"
+  ],
+  "jp": "アサシンバグ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B05C8",
+  "end": "2B05D8",
+  "owners": [
+   "tab:2B1080"
+  ],
+  "jp": "ストームワーム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B05D8",
+  "end": "2B05E8",
+  "owners": [
+   "tab:2B1084"
+  ],
+  "jp": "ストームワーム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B05E8",
+  "end": "2B05FC",
+  "owners": [
+   "tab:2B1098"
+  ],
+  "jp": "ジャイアントクラブ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B05FC",
+  "end": "2B0606",
+  "owners": [
+   "tab:2B109C"
+  ],
+  "jp": "Gクラブ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0606",
+  "end": "2B0618",
+  "owners": [
+   "tab:2B10B0"
+  ],
+  "jp": "メイズオクトパス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0618",
+  "end": "2B062A",
+  "owners": [
+   "tab:2B10B4"
+  ],
+  "jp": "メイズオクトパス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B062A",
+  "end": "2B0636",
+  "owners": [
+   "tab:2B10C8"
+  ],
+  "jp": "シーホース<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0636",
+  "end": "2B0642",
+  "owners": [
+   "tab:2B10CC"
+  ],
+  "jp": "シーホース<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0642",
+  "end": "2B0648",
+  "owners": [
+   "tab:2B10E0"
+  ],
+  "jp": "パン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0648",
+  "end": "2B064E",
+  "owners": [
+   "tab:2B10E4"
+  ],
+  "jp": "パン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B064E",
+  "end": "2B0656",
+  "owners": [
+   "tab:2B10F8"
+  ],
+  "jp": "エルフ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0656",
+  "end": "2B065E",
+  "owners": [
+   "tab:2B10FC"
+  ],
+  "jp": "エルフ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B065E",
+  "end": "2B066E",
+  "owners": [
+   "tab:2B1110"
+  ],
+  "jp": "ウェアタイガー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B066E",
+  "end": "2B067E",
+  "owners": [
+   "tab:2B1114"
+  ],
+  "jp": "ウェアタイガー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B067E",
+  "end": "2B0686",
+  "owners": [
+   "tab:2B1128"
+  ],
+  "jp": "ゾンビ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0686",
+  "end": "2B068E",
+  "owners": [
+   "tab:2B112C"
+  ],
+  "jp": "ゾンビ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B068E",
+  "end": "2B069A",
+  "owners": [
+   "tab:2B1140"
+  ],
+  "jp": "スパルトイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B069A",
+  "end": "2B06A6",
+  "owners": [
+   "tab:2B1144"
+  ],
+  "jp": "スパルトイ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B06A6",
+  "end": "2B06B2",
+  "owners": [
+   "tab:2B1158"
+  ],
+  "jp": "コカトリス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B06B2",
+  "end": "2B06BE",
+  "owners": [
+   "tab:2B115C"
+  ],
+  "jp": "コカトリス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B06BE",
+  "end": "2B06CE",
+  "owners": [
+   "tab:2B1170"
+  ],
+  "jp": "サンダーバード<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B06CE",
+  "end": "2B06DE",
+  "owners": [
+   "tab:2B1174"
+  ],
+  "jp": "サンダーバード<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B06DE",
+  "end": "2B06EE",
+  "owners": [
+   "tab:2B1188"
+  ],
+  "jp": "グラシュティグ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B06EE",
+  "end": "2B06FE",
+  "owners": [
+   "tab:2B118C"
+  ],
+  "jp": "グラシュティグ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B06FE",
+  "end": "2B070A",
+  "owners": [
+   "tab:2B11A0"
+  ],
+  "jp": "ハイエルフ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B070A",
+  "end": "2B0716",
+  "owners": [
+   "tab:2B11A4"
+  ],
+  "jp": "ハイエルフ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0716",
+  "end": "2B0722",
+  "owners": [
+   "tab:2B11B8"
+  ],
+  "jp": "デュラハン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0722",
+  "end": "2B072E",
+  "owners": [
+   "tab:2B11BC"
+  ],
+  "jp": "デュラハン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B072E",
+  "end": "2B0742",
+  "owners": [
+   "tab:2B11D0"
+  ],
+  "jp": "ゴールドワイアーム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0742",
+  "end": "2B0750",
+  "owners": [
+   "tab:2B11D4"
+  ],
+  "jp": "Gワイアーム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0750",
+  "end": "2B0762",
+  "owners": [
+   "tab:2B11E8"
+  ],
+  "jp": "マッドサーペント<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0762",
+  "end": "2B0774",
+  "owners": [
+   "tab:2B11EC"
+  ],
+  "jp": "マッドサーペント<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0774",
+  "end": "2B0788",
+  "owners": [
+   "tab:2B1200"
+  ],
+  "jp": "スノースコーピオン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0788",
+  "end": "2B0798",
+  "owners": [
+   "tab:2B1204"
+  ],
+  "jp": "Sスコーピオン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0798",
+  "end": "2B07AC",
+  "owners": [
+   "tab:2B1218"
+  ],
+  "jp": "ウォータービートル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B07AC",
+  "end": "2B07B8",
+  "owners": [
+   "tab:2B121C"
+  ],
+  "jp": "Wビートル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B07B8",
+  "end": "2B07CC",
+  "owners": [
+   "tab:2B1230"
+  ],
+  "jp": "デザートマンティス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B07CC",
+  "end": "2B07DA",
+  "owners": [
+   "tab:2B1234"
+  ],
+  "jp": "Dマンティス<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B07DA",
+  "end": "2B07EC",
+  "owners": [
+   "tab:2B1248"
+  ],
+  "jp": "ダークスパイダー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B07EC",
+  "end": "2B07FE",
+  "owners": [
+   "tab:2B124C"
+  ],
+  "jp": "ダークスパイダー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B07FE",
+  "end": "2B0812",
+  "owners": [
+   "tab:2B1260"
+  ],
+  "jp": "ストレンジフラワー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0812",
+  "end": "2B081E",
+  "owners": [
+   "tab:2B1264"
+  ],
+  "jp": "Sフラワー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B081E",
+  "end": "2B0832",
+  "owners": [
+   "tab:2B1278"
+  ],
+  "jp": "ルナティックケルプ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0832",
+  "end": "2B083C",
+  "owners": [
+   "tab:2B127C"
+  ],
+  "jp": "Rケルプ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B083C",
+  "end": "2B0844",
+  "owners": [
+   "tab:2B1290"
+  ],
+  "jp": "シロン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0844",
+  "end": "2B084C",
+  "owners": [
+   "tab:2B1294"
+  ],
+  "jp": "シロン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B084C",
+  "end": "2B0858",
+  "owners": [
+   "tab:2B12A8"
+  ],
+  "jp": "チビシロン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0858",
+  "end": "2B0864",
+  "owners": [
+   "tab:2B12AC"
+  ],
+  "jp": "チビシロン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0864",
+  "end": "2B0876",
+  "owners": [
+   "tab:2B12C0"
+  ],
+  "jp": "Sウインドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0876",
+  "end": "2B0888",
+  "owners": [
+   "tab:2B12C4"
+  ],
+  "jp": "Sウインドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0888",
+  "end": "2B0896",
+  "owners": [
+   "tab:2B12D8"
+  ],
+  "jp": "クールドール<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0896",
+  "end": "2B08A4",
+  "owners": [
+   "tab:2B12DC"
+  ],
+  "jp": "クールドール<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B08A4",
+  "end": "2B08AE",
+  "owners": [
+   "tab:2B12F0"
+  ],
+  "jp": "ハーピー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B08AE",
+  "end": "2B08B8",
+  "owners": [
+   "tab:2B12F4"
+  ],
+  "jp": "ハーピー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B08B8",
+  "end": "2B08C8",
+  "owners": [
+   "tab:2B1308"
+  ],
+  "jp": "ウインドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B08C8",
+  "end": "2B08D8",
+  "owners": [
+   "tab:2B130C"
+  ],
+  "jp": "ウインドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B08D8",
+  "end": "2B08EE",
+  "owners": [
+   "tab:2B1320"
+  ],
+  "jp": "デヴォアクロコダイル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B08EE",
+  "end": "2B08FE",
+  "owners": [
+   "tab:2B1324"
+  ],
+  "jp": "Dクロコダイル<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B08FE",
+  "end": "2B090A",
+  "owners": [
+   "tab:2B1338"
+  ],
+  "jp": "ケットシー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B090A",
+  "end": "2B0916",
+  "owners": [
+   "tab:2B133C"
+  ],
+  "jp": "ケットシー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0916",
+  "end": "2B0924",
+  "owners": [
+   "tab:2B1350"
+  ],
+  "jp": "ヴァンパイア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0924",
+  "end": "2B0932",
+  "owners": [
+   "tab:2B1354"
+  ],
+  "jp": "ヴァンパイア<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0932",
+  "end": "2B093E",
+  "owners": [
+   "tab:2B1368"
+  ],
+  "jp": "ランシーン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B093E",
+  "end": "2B094A",
+  "owners": [
+   "tab:2B136C"
+  ],
+  "jp": "ランシーン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B094A",
+  "end": "2B095C",
+  "owners": [
+   "tab:2B1380"
+  ],
+  "jp": "ミチのレジェンズ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B095C",
+  "end": "2B096E",
+  "owners": [
+   "tab:2B1384"
+  ],
+  "jp": "ミチのレジェンズ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B096E",
+  "end": "2B0980",
+  "owners": [
+   "tab:2B1398"
+  ],
+  "jp": "ブレイズドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0980",
+  "end": "2B0992",
+  "owners": [
+   "tab:2B139C"
+  ],
+  "jp": "ブレイズドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0992",
+  "end": "2B09A0",
+  "owners": [
+   "tab:2B13B0"
+  ],
+  "jp": "サンドバッグ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B09A0",
+  "end": "2B09AE",
+  "owners": [
+   "tab:2B13B4"
+  ],
+  "jp": "サンドバッグ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B09AE",
+  "end": "2B09B6",
+  "owners": [
+   "tab:2B13C8"
+  ],
+  "jp": "ダミー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B09B6",
+  "end": "2B09BE",
+  "owners": [
+   "tab:2B13CC"
+  ],
+  "jp": "ダミー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B09BE",
+  "end": "2B09C6",
+  "owners": [
+   "tab:2B13E0"
+  ],
+  "jp": "ダミー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B09C6",
+  "end": "2B09CE",
+  "owners": [
+   "tab:2B13E4"
+  ],
+  "jp": "ダミー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B09CE",
+  "end": "2B09D6",
+  "owners": [
+   "tab:2B13F8"
+  ],
+  "jp": "ダミー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B09D6",
+  "end": "2B09DE",
+  "owners": [
+   "tab:2B13FC"
+  ],
+  "jp": "ダミー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B09DE",
+  "end": "2B09E6",
+  "owners": [
+   "tab:2B1410"
+  ],
+  "jp": "ダミー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B09E6",
+  "end": "2B09EE",
+  "owners": [
+   "tab:2B1414"
+  ],
+  "jp": "ダミー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B09EE",
+  "end": "2B09F6",
+  "owners": [
+   "tab:2B1428"
+  ],
+  "jp": "ダミー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B09F6",
+  "end": "2B09FE",
+  "owners": [
+   "tab:2B142C"
+  ],
+  "jp": "ダミー<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B09FE",
+  "end": "2B0A0E",
+  "owners": [
+   "tab:2B1440"
+  ],
+  "jp": "ヘキサドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0A0E",
+  "end": "2B0A1E",
+  "owners": [
+   "tab:2B1444"
+  ],
+  "jp": "ヘキサドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0A1E",
+  "end": "2B0A2E",
+  "owners": [
+   "tab:2B1458"
+  ],
+  "jp": "ヘキサドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0A2E",
+  "end": "2B0A3E",
+  "owners": [
+   "tab:2B145C"
+  ],
+  "jp": "ヘキサドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0A3E",
+  "end": "2B0A4E",
+  "owners": [
+   "tab:2B1470"
+  ],
+  "jp": "ヘキサドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0A4E",
+  "end": "2B0A5E",
+  "owners": [
+   "tab:2B1474"
+  ],
+  "jp": "ヘキサドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0A5E",
+  "end": "2B0A6E",
+  "owners": [
+   "tab:2B1488"
+  ],
+  "jp": "ヘキサドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0A6E",
+  "end": "2B0A7E",
+  "owners": [
+   "tab:2B148C"
+  ],
+  "jp": "ヘキサドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0A7E",
+  "end": "2B0A8E",
+  "owners": [
+   "tab:2B14A0"
+  ],
+  "jp": "ヘキサドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0A8E",
+  "end": "2B0A9E",
+  "owners": [
+   "tab:2B14A4"
+  ],
+  "jp": "ヘキサドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0A9E",
+  "end": "2B0AAE",
+  "owners": [
+   "tab:2B14B8"
+  ],
+  "jp": "ヘキサドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0AAE",
+  "end": "2B0ABE",
+  "owners": [
+   "tab:2B14BC"
+  ],
+  "jp": "ヘキサドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0ABE",
+  "end": "2B0ACE",
+  "owners": [
+   "tab:2B14D0"
+  ],
+  "jp": "ヘキサドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "2B0ACE",
+  "end": "2B0ADE",
+  "owners": [
+   "tab:2B14D4"
+  ],
+  "jp": "ヘキサドラゴン<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ }
+]

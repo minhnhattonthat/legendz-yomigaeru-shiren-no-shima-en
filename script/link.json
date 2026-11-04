@@ -1,0 +1,112 @@
+[
+ {
+  "id": "47BD40",
+  "end": "47BD90",
+  "owners": [
+   "tab:47BF94"
+  ],
+  "jp": "つうしんをおこないます。<br>\nつうしんケーブルをつないで<br>\nAボタンをおしてください<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "47BD9E",
+  "end": "47BDB8",
+  "owners": [
+   "tab:47BFA0"
+  ],
+  "jp": "データそうしんちゅう　　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "47BDCA",
+  "end": "47BDE4",
+  "owners": [
+   "tab:47BFAC"
+  ],
+  "jp": "（Bボタンでちゅうだん）<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "47BDE4",
+  "end": "47BDFE",
+  "owners": [
+   "lit:0D3868"
+  ],
+  "jp": "　　　　　　　　　　　　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "47BDFE",
+  "end": "47BE18",
+  "owners": [
+   "lit:0D387C"
+  ],
+  "jp": "ちゅうだんしました…　　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "47BE18",
+  "end": "47BE32",
+  "owners": [
+   "lit:0D39D8"
+  ],
+  "jp": "そうしんかんりょう！　　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "47BE32",
+  "end": "47BE7E",
+  "owners": [
+   "tab:47BFBC"
+  ],
+  "jp": "たいせんをかいしします。<br>\nたいせんちゅうは　ケーブル<br>\nをぬかないでください<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "47BE7E",
+  "end": "47BECA",
+  "owners": [
+   "tab:47BFC8"
+  ],
+  "jp": "たいせんかいしまちです。<br>\nたいせんちゅうは　ケーブル<br>\nをぬかないでください<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "47BECA",
+  "end": "47BEF0",
+  "owners": [
+   "tab:47BFD4"
+  ],
+  "jp": "つうしんエラーが<br>\nはっせいしました。<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "47BEF0",
+  "end": "47BF20",
+  "owners": [
+   "tab:47BFE0"
+  ],
+  "jp": "もういちど、さいしょから<br>\nやりなおしてください<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ }
+]

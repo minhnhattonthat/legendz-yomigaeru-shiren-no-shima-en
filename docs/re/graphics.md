@@ -15,8 +15,8 @@ Offsets are LZ block starts unless marked raw. Each row needs English in a zoome
 | G7 | `EXIT` signs on maps | sweep | `0x4B8CFC` | English already |
 | G8 | Field menu frame: `Emblem` and `Command` lettering (likely G3's blocks) | scene `field_menu` | not traced | seen on screen; English already, check nothing else in the frame is tile-drawn |
 | G9 | Card mode screen: dark logo and lettering; `A:START`, `A:STOP`, `CARD LEVEL` English | scenes `card_mode`, `card_mode_in` | not traced | logo not read at full size |
-| G10 | Credits staff roll: kana names and job titles on black beside map stills (`うつ えいじ`, `ウィズ`) | scene `ending_end` | not traced. Not in the font's encoding: `たかはし`, `さとう`, `ウィズ`, `せんでん` give no hit, so tiles, or text in another encoding | seen on screen, every shot |
-| G11 | Last credits screen: `きかく・せいさく`, `せんでん・はんばい`, `かぶしきがいしゃバンダイ`, `ビデオゲームカンパニー`, `PASS: 0B7B` | scene `ending_end`, final frame | not traced; `PASS:` isn't ASCII in ROM either | seen on screen. What the password is for, and whether its digits vary: not known. Kept as a number either way |
+| G10 | Credits staff roll: kana names and job titles on black beside map stills (`うつ えいじ`, `ウィズ`) | scene `ending_end` | **text, not graphics:** 8-bit string at `0x46F75C` (`text.md`, Credits); the stills are the only graphics | seen on screen, every shot |
+| G11 | Last credits screen: `きかく・せいさく`, `せんでん・はんばい`, `かぶしきがいしゃバンダイ`, `ビデオゲームカンパニー`, `PASS: 0B7B` | scene `ending_end`, final frame | names are in the same string; `PASS:` not traced, it isn't ASCII in ROM | seen on screen. What the password is for, and whether its digits vary: not known. Kept as a number either way |
 | G12 | Battle start banner: `敵が出現!!`, `ENEMY APPEARED` | scene `boss_fight`, a dense sheet near frame 1200 | not traced | seen once at small size; it lasts under 150 frames, so the regenerated shots miss it: use a denser `every` |
 | G13 | Status screen labels on the Talispod page: `Lv.`, `EX.`, `NEXT`, `S.E.`, `HP.`, ちから, ぼうぎょ, まりょく, まぼうぎょ, すばやさ (probably G4) | scene `menu_talispod` | `0x45B004` is the guess | seen at 2x; a VRAM check closes it |
 

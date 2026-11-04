@@ -1,0 +1,1029 @@
+[
+ {
+  "id": "45A602",
+  "end": "45A606",
+  "owners": [
+   "lit:0BE938"
+  ],
+  "jp": "　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A7A4",
+  "end": "45A7B6",
+  "owners": [
+   "tab:45AABC"
+  ],
+  "jp": "ぼうけんかいすう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A7B6",
+  "end": "45A7C6",
+  "owners": [
+   "tab:45AAC4"
+  ],
+  "jp": "ぼうけんじかん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A7C6",
+  "end": "45A7D8",
+  "owners": [
+   "tab:45AACC"
+  ],
+  "jp": "せいこうかいすう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A7D8",
+  "end": "45A7EC",
+  "owners": [
+   "tab:45AAD4"
+  ],
+  "jp": "こうりゃくかいすう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A7EC",
+  "end": "45A806",
+  "owners": [
+   "tab:45AADC"
+  ],
+  "jp": "さいしんぼうけんスポット<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A806",
+  "end": "45A820",
+  "owners": [
+   "tab:45AAE4"
+  ],
+  "jp": "『スタート¦にっきみる』<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A820",
+  "end": "45A832",
+  "owners": [
+   "lit:0BF100"
+  ],
+  "jp": "くんのうちへ！　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A832",
+  "end": "45A844",
+  "owners": [
+   "lit:0BF118"
+  ],
+  "jp": "ちゃんのうちへ！<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A8A2",
+  "end": "45A8B2",
+  "owners": [
+   "tab:45ABB4"
+  ],
+  "jp": "バトルかいすう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A8B2",
+  "end": "45A8C0",
+  "owners": [
+   "tab:45ABBC"
+  ],
+  "jp": "たおしたかず<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A8C0",
+  "end": "45A8D0",
+  "owners": [
+   "tab:45ABC4"
+  ],
+  "jp": "ひんしかいすう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A8D0",
+  "end": "45A8E2",
+  "owners": [
+   "tab:45ABCC"
+  ],
+  "jp": "あたえたダメージ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A8E2",
+  "end": "45A8F2",
+  "owners": [
+   "tab:45ABD4"
+  ],
+  "jp": "うけたダメージ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A8F2",
+  "end": "45A904",
+  "owners": [
+   "tab:45ABDC"
+  ],
+  "jp": "さいだいダメージ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A904",
+  "end": "45A914",
+  "owners": [
+   "tab:45ABE4"
+  ],
+  "jp": "おもなやくわり<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A914",
+  "end": "45A91E",
+  "owners": [
+   "tab:45AC44"
+  ],
+  "jp": "サポート<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A91E",
+  "end": "45A928",
+  "owners": [
+   "tab:45AC4C"
+  ],
+  "jp": "たいせい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A928",
+  "end": "45A930",
+  "owners": [
+   "tab:45AC54"
+  ],
+  "jp": "とくい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A930",
+  "end": "45A93A",
+  "owners": [
+   "tab:45AC5C"
+  ],
+  "jp": "アイテム<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A93A",
+  "end": "45A946",
+  "owners": [
+   "tab:45AC64"
+  ],
+  "jp": "ゆうこうど<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A946",
+  "end": "45A956",
+  "owners": [
+   "tab:45AC6C"
+  ],
+  "jp": "オートぼうけん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A956",
+  "end": "45A95C",
+  "owners": [
+   "tab:45AC74"
+  ],
+  "jp": "かい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A95C",
+  "end": "45A96A",
+  "owners": [
+   "tab:45AC7C"
+  ],
+  "jp": "ノーマルわざ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A96A",
+  "end": "45A974",
+  "owners": [
+   "tab:45AC84"
+  ],
+  "jp": "EXわざ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A974",
+  "end": "45A980",
+  "owners": [
+   "tab:45AD5C"
+  ],
+  "jp": "わざリスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A980",
+  "end": "45A994",
+  "owners": [
+   "tab:45ADAC"
+  ],
+  "jp": "ソウルドールリスト<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A994",
+  "end": "45A9A6",
+  "owners": [
+   "tab:45ADCC"
+  ],
+  "jp": "ドールしょうさい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A9A6",
+  "end": "45A9B8",
+  "owners": [
+   "tab:45ADD4"
+  ],
+  "jp": "セットする　　　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A9B8",
+  "end": "45A9CA",
+  "owners": [
+   "tab:45ADDC"
+  ],
+  "jp": "よろしいですか？<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A9CA",
+  "end": "45A9DC",
+  "owners": [
+   "tab:45ADF4"
+  ],
+  "jp": "やめる　　すてる<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A9DC",
+  "end": "45A9EE",
+  "owners": [
+   "tab:45ADE4"
+  ],
+  "jp": "ほんとにいいの？<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45A9EE",
+  "end": "45AA00",
+  "owners": [
+   "tab:45ADEC"
+  ],
+  "jp": "ほんとうに？　　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AA00",
+  "end": "45AA12",
+  "owners": [
+   "tab:45ADFC"
+  ],
+  "jp": "ドールをすてる　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AA12",
+  "end": "45AA24",
+  "owners": [
+   "tab:45AE04"
+  ],
+  "jp": "・・・すてました<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AA24",
+  "end": "45AA36",
+  "owners": [
+   "tab:45AE0C"
+  ],
+  "jp": "　　　　　　　　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AA36",
+  "end": "45AA42",
+  "owners": [
+   "tab:45AE18"
+  ],
+  "jp": "わざつかう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AA42",
+  "end": "45AA6C",
+  "owners": [
+   "lit:0A695C",
+   "lit:0BECD0",
+   "lit:0BF130",
+   "lit:0BFC00",
+   "lit:0BFCD8",
+   "lit:0C02FC",
+   "lit:0C0870",
+   "lit:0C0A08",
+   "lit:0C1030",
+   "lit:0C18D4",
+   "lit:0C1F4C",
+   "lit:0C1F6C",
+   "lit:0C25BC"
+  ],
+  "jp": "：：：：：：：：：：：：：：：：：：：：<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AA78",
+  "end": "45AA8E",
+  "owners": [
+   "tab:45AAEC",
+   "tab:45AB34",
+   "tab:45ABEC",
+   "tab:45AD3C"
+  ],
+  "jp": "『　　　　　　　　』<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AA8E",
+  "end": "45AA92",
+  "owners": [
+   "tab:45AC8C"
+  ],
+  "jp": "％<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AA92",
+  "end": "45AA9C",
+  "owners": [
+   "lit:0BF568"
+  ],
+  "jp": "せんとう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AA9C",
+  "end": "45AAA6",
+  "owners": [
+   "lit:0BF584"
+  ],
+  "jp": "サポート<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AAA6",
+  "end": "45AAB0",
+  "owners": [
+   "lit:0BF5F0"
+  ],
+  "jp": "ほけつ　<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AAB0",
+  "end": "45AAB4",
+  "owners": [
+   "tab:45AC94"
+  ],
+  "jp": "＇<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AAB4",
+  "end": "45AAB8",
+  "owners": [
+   "tab:45AC9C"
+  ],
+  "jp": "＂<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AAB8",
+  "end": "45AABC",
+  "owners": [
+   "tab:45AD64"
+  ],
+  "jp": "／<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AE30",
+  "end": "45AE3C",
+  "owners": [
+   "tab:7F7624"
+  ],
+  "jp": "むぞくせい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AE3C",
+  "end": "45AE46",
+  "owners": [
+   "tab:7F7628"
+  ],
+  "jp": "ようがん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AE46",
+  "end": "45AE50",
+  "owners": [
+   "tab:7F762C"
+  ],
+  "jp": "しんりん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AE50",
+  "end": "45AE56",
+  "owners": [
+   "tab:7F7630"
+  ],
+  "jp": "おか<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AE56",
+  "end": "45AE62",
+  "owners": [
+   "tab:7F7634"
+  ],
+  "jp": "すいじょう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AE62",
+  "end": "45AE6C",
+  "owners": [
+   "tab:7F7638"
+  ],
+  "jp": "てんかい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AE6C",
+  "end": "45AE74",
+  "owners": [
+   "tab:7F763C"
+  ],
+  "jp": "まかい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AE74",
+  "end": "45AE7E",
+  "owners": [
+   "tab:7F7640"
+  ],
+  "jp": "しんえん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AE7E",
+  "end": "45AE86",
+  "owners": [
+   "tab:7F7644"
+  ],
+  "jp": "さばく<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AE86",
+  "end": "45AE8E",
+  "owners": [
+   "tab:7F7648"
+  ],
+  "jp": "かざん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AE8E",
+  "end": "45AE9C",
+  "owners": [
+   "tab:7F764C"
+  ],
+  "jp": "かんけつせん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AE9C",
+  "end": "45AEA2",
+  "owners": [
+   "tab:7F7650"
+  ],
+  "jp": "やま<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AEA2",
+  "end": "45AEAA",
+  "owners": [
+   "tab:7F7654"
+  ],
+  "jp": "こうや<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AEAA",
+  "end": "45AEB4",
+  "owners": [
+   "tab:7F7658"
+  ],
+  "jp": "そうげん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AEB4",
+  "end": "45AEBE",
+  "owners": [
+   "tab:7F765C"
+  ],
+  "jp": "みずうみ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AEBE",
+  "end": "45AEC8",
+  "owners": [
+   "tab:7F7660"
+  ],
+  "jp": "こうげん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AEC8",
+  "end": "45AED2",
+  "owners": [
+   "tab:7F7664"
+  ],
+  "jp": "どうくつ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AED2",
+  "end": "45AEDA",
+  "owners": [
+   "tab:7F7668"
+  ],
+  "jp": "みずべ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AEDA",
+  "end": "45AEE4",
+  "owners": [
+   "tab:7F766C"
+  ],
+  "jp": "れいほう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AEE4",
+  "end": "45AEEA",
+  "owners": [
+   "tab:7F7670"
+  ],
+  "jp": "たに<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AEEA",
+  "end": "45AEF4",
+  "owners": [
+   "tab:7F7674"
+  ],
+  "jp": "せつげん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AEF4",
+  "end": "45AEFA",
+  "owners": [
+   "tab:7F7678"
+  ],
+  "jp": "ぬま<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AEFA",
+  "end": "45AF04",
+  "owners": [
+   "tab:7F767C"
+  ],
+  "jp": "さいだん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AF04",
+  "end": "45AF0E",
+  "owners": [
+   "tab:7F7680"
+  ],
+  "jp": "けつばん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AF0E",
+  "end": "45AF14",
+  "owners": [
+   "tab:7F7684"
+  ],
+  "jp": "とう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AF14",
+  "end": "45AF1C",
+  "owners": [
+   "tab:7F7688"
+  ],
+  "jp": "いせき<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AF1C",
+  "end": "45AF2A",
+  "owners": [
+   "tab:7F768C"
+  ],
+  "jp": "ひかりのとう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AF2A",
+  "end": "45AF36",
+  "owners": [
+   "tab:7F7690"
+  ],
+  "jp": "やみのとう<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AF36",
+  "end": "45AF40",
+  "owners": [
+   "tab:7F7694"
+  ],
+  "jp": "しがいち<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AF40",
+  "end": "45AF48",
+  "owners": [
+   "tab:7F7698"
+  ],
+  "jp": "リング<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AF48",
+  "end": "45AF50",
+  "owners": [
+   "tab:7F769C"
+  ],
+  "jp": "カード<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AF50",
+  "end": "45AF56",
+  "owners": [
+   "tab:7F75E8"
+  ],
+  "jp": "なし<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AF56",
+  "end": "45AF5E",
+  "owners": [
+   "tab:7F75EC"
+  ],
+  "jp": "ねむり<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AF5E",
+  "end": "45AF64",
+  "owners": [
+   "tab:7F75F0"
+  ],
+  "jp": "マヒ<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AF64",
+  "end": "45AF6E",
+  "owners": [
+   "tab:7F75F4"
+  ],
+  "jp": "こんらん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AF6E",
+  "end": "45AF76",
+  "owners": [
+   "tab:7F75F8"
+  ],
+  "jp": "しばり<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AF76",
+  "end": "45AF7C",
+  "owners": [
+   "tab:7F75FC"
+  ],
+  "jp": "どく<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AF7C",
+  "end": "45AF84",
+  "owners": [
+   "tab:7F7600"
+  ],
+  "jp": "せきか<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AF84",
+  "end": "45AF94",
+  "owners": [
+   "tab:7F7604"
+  ],
+  "jp": "だげきふういん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AF94",
+  "end": "45AFA4",
+  "owners": [
+   "tab:7F7608"
+  ],
+  "jp": "まほうふういん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AFA4",
+  "end": "45AFB6",
+  "owners": [
+   "tab:7F760C"
+  ],
+  "jp": "サポートふういん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AFB6",
+  "end": "45AFC8",
+  "owners": [
+   "tab:7F7610"
+  ],
+  "jp": "シフトEふういん<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AFC8",
+  "end": "45AFD6",
+  "owners": [
+   "tab:7F7614"
+  ],
+  "jp": "せいしんけい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AFD6",
+  "end": "45AFE4",
+  "owners": [
+   "tab:7F7618"
+  ],
+  "jp": "しんたいけい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AFE4",
+  "end": "45AFF2",
+  "owners": [
+   "tab:7F761C"
+  ],
+  "jp": "ふういんけい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "45AFF2",
+  "end": "45B002",
+  "owners": [
+   "tab:7F7620"
+  ],
+  "jp": "ぜんじょうたい<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ }
+]
