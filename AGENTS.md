@@ -10,6 +10,7 @@ Fresh clone: `git config core.hooksPath tools/hooks`; `fetch_emu.py mesen` and `
 - Check:    `python -X utf8 tools/check.py` (tests + lint; the pre-commit hook runs this)
 - Smoke:    `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/legendz_en.gba --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - Warp:     `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/legendz_en.gba --out work/qa/warp --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 900 --sheet` (phase 2+; scenes: `tools/debug/scenes.lua`; never ask the user to play to a scene)
+- All scenes: `python -X utf8 tools/debug/regen.py [--only a,b] [--rom R]` (every scene from a cold boot; states in `work/states/`, proof sheets in `work/qa/scenes/`; read the sheets, `REACHED` only proves the warp fired)
 - Release:  `python -X utf8 tools/release.py` (phase 9; patch + verify; never publish without the user)
 - Clean:    `python -X utf8 tools/clean.py` (published projects: lists rebuildable/downloadable files; `--yes` deletes)
 

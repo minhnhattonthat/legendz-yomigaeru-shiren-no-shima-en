@@ -6,8 +6,8 @@ CRC32 `33950228`, MD5 `9c7546d2fd1399614b035ead1d66aa8d`, SHA-1 `ff1e05a2fa70933
 | Range | Content | State |
 |---|---|---|
 | `0x000000-0x0000C0` | header | verified |
-| `0x0000C0-0x00FFFF` | startup code (guess: not disassembled) | guess |
-| `0x010000-~0x08A000` | script bytecode (16-bit words with embedded pointers) | verified for the opening; extent is a guess from pointer density |
+| `0x0000C0-0x0001DF` | startup code (guess: not disassembled) | guess |
+| `0x0001E0-~0x08A000` | script bytecode (16-bit words with embedded pointers; `script.md`) | start verified by trace; end is a guess from pointer density |
 | `~0x08A000-0x0E7877` | code; script VM at `0x08B000`, text engine at `0x0A2000-0x0A6000` | named routines verified by disassembly and hooks |
 | `0x0E7878-0x1619D7` | graphics, mostly raw | verified by sweep |
 | `0x1619D8-0x1895C0` | text (see `text.md`) | verified |
@@ -33,7 +33,7 @@ No run of 0x00 or 0xFF of 4 KB or more anywhere in the ROM. The patch appends pa
 
 - The retail game shipped with a Soul Doll and an adapter. The code drives cart GPIO `0x080000C4-C8` (`0x0E3F80-0x0E4700`) and link port RCNT `0x04000134` (literals at `0x0E47F0`, `0x0E4A2C`, `0x0E4C18`). Mesen emulates neither device.
 - The title menu has ドールしょきか. The story uses "Reborn": `0x162396` `ドールをセットして、Aボタンをおしてね / リボーーーーン`, `0x17EE30` `アナタの ソウルドールを はやく これで リボーンしてみて！`.
-- A forum post (gbatemp thread for dump 1596) says the game won't progress until the doll is plugged in. **Unverified:** neither confirmed nor refuted here. Phase 2 must find out, by reaching that scene with the debug tool. If it is a hard gate, phase 2 needs a virtual doll (hook the routine's result), and the release needs it too, because no player can be assumed to own the adapter.
+- A forum post (gbatemp thread for dump 1596) says the game won't progress until the doll is plugged in. **Verified in phase 2: it is a hard gate**, and a virtual doll passes it. See `doll.md`.
 
 ## Prior work
 

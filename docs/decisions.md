@@ -13,3 +13,4 @@ decision replaces one, mark the old one "replaced by D<n>" instead of deleting i
 | D5 | 2026-11-05 | Graphics text left in Japanese | none (default), list | Translate all of it (titles, menus, banners, cards); keep the original Japanese logo only if it has no official English version. Owner's standing answer. |
 | D6 | 2026-11-05 | Specs and plans | need approval, pre-approved | Pre-approved; keep going through checkpoints. Owner's standing answer. |
 | D7 | 2026-11-05 | Existing saves, memory cards, savestates | user supplies, none | None provided; build the debug tool as usual. Owner's standing answer. |
+| D8 | 2026-11-05 | Soul Doll adapter gate | leave the gate, virtual doll in the patch | Virtual doll, per the default in `status.md` ("if phase 2 finds it blocks progress, the patch includes a virtual doll"), which the owner's pre-approval covers. Phase 2 verified the gate is hard (`docs/re/doll.md`). Which dolls to offer is still open. |

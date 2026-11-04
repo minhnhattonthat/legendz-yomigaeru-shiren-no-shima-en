@@ -13,6 +13,8 @@ Offsets are LZ block starts unless marked raw. Each row needs English in a zoome
 | G5 | Date digits and 年月日 | sweep | `0x1617E8` (1,088) | seen in the zoom. Screen: not traced (guess: save slot) |
 | G6 | HP/MP/EXP bars | sweep | `0x43A8E4`, `0x47F848` | English already; no change unless lettering conflicts |
 | G7 | `EXIT` signs on maps | sweep | `0x4B8CFC` | English already |
+| G8 | Field menu frame: `Emblem` and `Command` lettering (likely G3's blocks) | scene `field_menu` | not traced | seen on screen; English already, check nothing else in the frame is tile-drawn |
+| G9 | Card mode screen: dark logo and lettering | scene `card_mode` | not traced | seen at small size only; not read |
 
 ## Text-engine screens, not graphics (listed so nobody hunts for tiles)
 
@@ -23,6 +25,7 @@ Same font: speaker tags (シュウ, ハルカ), dialogue, the location card, nam
 - **Static sweep:** all 2,364 items rendered: 2,024 drawn on 15 pages at 1x in `work/sweep/`, 171 duplicates and 172 tiny blocks listed in `index.tsv`. Regenerate with `python -X utf8 tools/gfx_sweep.py`.
 - **Read closely:** 2 full pages at 1x, plus 2x sheets of 159 blocks picked by a lettering score (`gfx_score.py`) and non-map position. At 1x, 4bpp tiles in greyscale without their palettes are hard to read, and tiles ordered for 1D sprites come out scrambled.
 - **Not read closely:** the other 13 pages, including most of `0x488000-0x6FFFFF` (isometric map blocks, which only showed `EXIT`) and raw regions. Linear formats were not rendered. Treat this list as a floor.
-- **Live tour:** title, title menu, ドールしょきか screen, name entry, the opening ship and first outdoor scene. **Not reached:** field menu, battle, shop, card mode, doll screens, chapter cards, game over, ending, credits. Start and Select did nothing in the scene reached.
+- **Live tour:** title, title menu, ドールしょきか screen, name entry, the opening ship and first outdoor scene; phase 2 added field menu, Talispod, card mode, the Reborn screen, Legendz name entry and 35 rooms. **Not reached:** battle, shop screens, chapter cards, game over, ending, credits. Credits text isn't in the font's text ranges (no `STAFF`/`PROGRAM` hit in decoded text or bytes), so they are likely graphics: untraced.
+- The room `LEGENDZ TOWN` / `レジェンズタウン` location card comes from the text table at `0x7EFFC4`, not tiles.
 
 **Phase 2 must:** warp to each unreached screen and add rows. Phase 5's marker tour must add anything still Japanese. A row can only close once a VRAM dump and `vramfind.py` confirm its source.
