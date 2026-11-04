@@ -17,7 +17,7 @@ OUT = ROOT / "build" / "legendz_en.gba"
 Piece = namedtuple("Piece", "start end kind value")
 
 # start, end: docs/re/text.md, Text ranges
-TEXT = [(0x1619D8, 0x184DCC), (0x1857D8, 0x187A5C), (0x188070, 0x188EA8), (0x188F00, 0x1895B8), (0x23C3D4, 0x23D110),
+TEXT = [(0x1619D8, 0x184DCC), (0x1857D8, 0x187A5C), (0x188070, 0x188EA8), (0x188F00, 0x1895B8), (0x23C36A, 0x23D110),
         (0x2A7714, 0x2A9EC2), (0x2AB4E0, 0x2AB97C), (0x2ABE2C, 0x2AC100), (0x2AFEE0, 0x2B0ADE), (0x434BF8, 0x434E40),
         (0x440C9C, 0x448836), (0x44F4B8, 0x450016), (0x45A602, 0x45B002), (0x45BBCE, 0x466CF0), (0x47BD3C, 0x47BF5E)]
 # start, count. shortcut: only the plain 4-byte tables; struct tables and script pointers need phase 4's owner walk (text.md)
@@ -74,11 +74,29 @@ def build(rom):
     return join(rom, split(rom))
 
 
+def marker(rom, overrides=None):
+    """Phase 5: every line replaced by its id and filler, on the VWF engine (docs/re/vwf.md). Returns the patched ROM's Rom object."""
+    import insert
+    r = insert.Rom(build(rom))
+    insert.insert_marker(r, overrides)
+    return r
+
+
 def main():
     check_rom.check()
     rom = next((ROOT / "rom").glob("*.gba")).read_bytes()
-    new = build(rom)
     OUT.parent.mkdir(exist_ok=True)
+    if "--marker" in sys.argv:
+        # --qa ID=text overrides one line: the width gate's test lines; --out NAME keeps such a build apart from the plain marker
+        qa = dict(a.split("=", 1) for a, flag in zip(sys.argv[1:], sys.argv) if flag == "--qa")
+        name = next((a for a, flag in zip(sys.argv[1:], sys.argv) if flag == "--out"), "legendz_marker.gba")
+        r = marker(rom, qa)
+        path = OUT.with_name(name)
+        path.write_bytes(r.out)
+        (OUT.parent / "writes.txt").write_text("\n".join(r.log) + "\n", encoding="utf-8")
+        print("%s %d bytes sha1 %s, %d writes" % (path.relative_to(ROOT), len(r.out), hashlib.sha1(r.out).hexdigest(), len(r.log)))
+        return
+    new = build(rom)
     OUT.write_bytes(new)
     print("%s %d bytes sha1 %s" % (OUT.relative_to(ROOT), len(new), hashlib.sha1(new).hexdigest()))
     print("identical to the dump" if new == rom else "differs from the dump")

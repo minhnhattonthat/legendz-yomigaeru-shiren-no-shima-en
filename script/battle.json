@@ -1,5 +1,82 @@
 [
  {
+  "id": "23C36A",
+  "end": "23C376",
+  "owners": [
+   "tab:7F32F0"
+  ],
+  "jp": "[FFEC]の攻撃‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C376",
+  "end": "23C38A",
+  "owners": [
+   "tab:7F32F4"
+  ],
+  "jp": "[FFEE]は道具を使った‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C38A",
+  "end": "23C39C",
+  "owners": [
+   "tab:7F32F8"
+  ],
+  "jp": "敵は[FFEF]を使った‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C39C",
+  "end": "23C3AE",
+  "owners": [
+   "tab:7F32FC"
+  ],
+  "jp": "[FFEC]は眠っている‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C3AE",
+  "end": "23C3BE",
+  "owners": [
+   "tab:7F3300"
+  ],
+  "jp": "[FFEC]は動けない‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C3BE",
+  "end": "23C3D2",
+  "owners": [
+   "tab:7F3304"
+  ],
+  "jp": "[FFEC]は混乱している‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
+  "id": "23C3D2",
+  "end": "23C3E6",
+  "owners": [
+   "tab:7F3308"
+  ],
+  "jp": "[FFEC]は石化している‼<end>",
+  "en": "",
+  "status": "",
+  "notes": ""
+ },
+ {
   "id": "23C3E6",
   "end": "23C3F6",
   "owners": [

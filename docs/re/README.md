@@ -18,3 +18,4 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | `script.md` | script VM opcodes | verified for what's listed; operand table incomplete |
 | `debug.md` | how warping works, RAM map | verified except where marked |
 | `doll.md` | Soul Doll adapter: the gate, the read path, what a virtual doll must do | verified; release design open |
+| `vwf.md` | English engine: VWF, two-letter pairs, sprite font, speaker tag, width gate | verified by test and part of a tour; its full tour hasn't run |

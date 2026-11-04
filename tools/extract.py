@@ -18,7 +18,7 @@ import vmwalk  # noqa: E402
 OUT = ROOT / "script"
 # name, start, end: docs/re/text.md, Text ranges
 BLOCKS = [("dialogue", 0x1619D8, 0x184DCC), ("items", 0x1857D8, 0x187A5C), ("places", 0x188070, 0x188EA8), ("names_old", 0x188F00, 0x1895B8),
-          ("battle", 0x23C3D4, 0x23D110), ("skills", 0x2A7714, 0x2A9EC2), ("skills2", 0x2AB4E0, 0x2AB97C), ("skills3", 0x2ABE2C, 0x2AC100),
+          ("battle", 0x23C36A, 0x23D110), ("skills", 0x2A7714, 0x2A9EC2), ("skills2", 0x2AB4E0, 0x2AB97C), ("skills3", 0x2ABE2C, 0x2AC100),
           ("legendz", 0x2AFEE0, 0x2B0ADE), ("rental", 0x434BF8, 0x434E40), ("adventure", 0x440C9C, 0x441882), ("quips", 0x441882, 0x448836),
           ("cards", 0x44F4B8, 0x450016), ("menus", 0x45A602, 0x45B002), ("system", 0x45BBCE, 0x466CF0), ("link", 0x47BD3C, 0x47BF5E)]
 # drawn with sprite font 0 (kanji cells) or 1 (its own symbol order): text.md, Sprite font

@@ -2268,13 +2268,6 @@
   "jp": "ゾンビ<end>"
  },
  {
-  "at": "23C3D4",
-  "end": "23C3E6",
-  "kind": "dead",
-  "block": "battle",
-  "jp": "は石化している‼<end>"
- },
- {
   "at": "23C836",
   "end": "23C872",
   "kind": "pad",

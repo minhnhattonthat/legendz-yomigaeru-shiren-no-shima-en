@@ -19,6 +19,10 @@ sys.path.insert(0, str(ROOT / "tools"))
 from skill import SKILL  # noqa: E402
 
 SAVE_FIXTURES = ROOT / "work/saves"
+DEFAULT_QA = ROOT / "work/qa/scenes"
+QA = DEFAULT_QA
+EXTRA_LUA = []
+TIMEOUT = 280
 
 ROM = next(l for l in (ROOT / "rom.sha1").read_text(encoding="utf-8").splitlines() if l.strip() and not l.startswith("#")).split("  ", 1)[1]
 
@@ -38,14 +42,16 @@ def scenes():
 
 
 def run(rom, name, frames, every, saves=False, sav=None):
-    out = ROOT / "work/qa/scenes" / name
-    state = ROOT / "work/states" / (name + ".mss")
+    out = QA / name
+    state = (ROOT / "work/states" if QA == DEFAULT_QA else QA) / (name + ".mss")
     cmd = [sys.executable, "-X", "utf8", str(Path(SKILL) / "scripts/emu.py"), rom, "--out", str(out), "--script", "tools/debug/warp.lua",
            "--var", "SCENE='%s'" % name, "--frames", str(frames), "--shot-every", str(every), "--state-out", str(state),
-           "--sheet", "--timeout", "280"]
+           "--sheet", "--timeout", str(TIMEOUT)]
     if sav:
         cmd += ["--sav", str(SAVE_FIXTURES / (sav + ".sav"))]
-    with open(ROOT / "work/qa/scenes" / (name + ".log"), "w", encoding="utf-8") as f:
+    for lua in EXTRA_LUA:
+        cmd += ["--script", lua]
+    with open(QA / (name + ".log"), "w", encoding="utf-8") as f:
         code = subprocess.call(cmd, cwd=ROOT, stdout=f, stderr=subprocess.STDOUT)
     log = (out / "log.txt").read_text(encoding="utf-8", errors="replace") if (out / "log.txt").exists() else ""
     reached = "REACHED " + name in log
@@ -57,12 +63,19 @@ def run(rom, name, frames, every, saves=False, sav=None):
 
 
 def main():
+    global QA, TIMEOUT
     ap = argparse.ArgumentParser()
     ap.add_argument("--rom", default=ROM)
     ap.add_argument("--only", default="")
     ap.add_argument("--jobs", type=int, default=4)
+    ap.add_argument("--out", default=str(DEFAULT_QA), help="output folder; away from the default, states go there too")
+    ap.add_argument("--lua", action="append", default=[], help="extra --script for every run, e.g. tools/lua/textlog.lua")
+    ap.add_argument("--timeout", type=int, default=TIMEOUT, help="seconds per scene; exec hooks (--lua) slow the long scenes past the default")
     a = ap.parse_args()
-    (ROOT / "work/qa/scenes").mkdir(parents=True, exist_ok=True)
+    QA = Path(a.out).resolve()
+    TIMEOUT = a.timeout
+    EXTRA_LUA.extend(a.lua)
+    QA.mkdir(parents=True, exist_ok=True)
     table = scenes()
     if a.only:
         table = {k: table[k] for k in a.only.split(",")}
@@ -92,9 +105,9 @@ def main():
         ok = code == 0 and reached and not blank
         bad += not ok
         print(("ok  " if ok else "FAIL"), name, "exit", code, "reached", reached, "blank", blank)
-    (ROOT / "work/qa/scenes/report.tsv").write_text("\n".join(rows) + "\n", encoding="utf-8")
-    finals = [str(ROOT / "work/qa/scenes" / n / "final.png") for n in table]
-    subprocess.call([sys.executable, "-X", "utf8", str(Path(SKILL) / "scripts/sheet.py"), *finals, "--out", str(ROOT / "work/qa/scenes" / ("proof_only.png" if a.only else "proof.png"))], cwd=ROOT)
+    (QA / "report.tsv").write_text("\n".join(rows) + "\n", encoding="utf-8")
+    finals = [str(QA / n / "final.png") for n in table]
+    subprocess.call([sys.executable, "-X", "utf8", str(Path(SKILL) / "scripts/sheet.py"), *finals, "--out", str(QA / ("proof_only.png" if a.only else "proof.png"))], cwd=ROOT)
     print(len(results) - bad, "of", len(results), "ok")
     sys.exit(1 if bad else 0)
 
