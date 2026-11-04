@@ -80,11 +80,19 @@ L.on_frame(function(n)
     return
   end
   if not start_keys then return end
+  -- A room's setup draws its map and actors; only then move the room's task (1) to a line deep in its script.
+  if scene.jump and n - start_keys == scene.jump[2] then
+    emu.write32(0x03002780 + 0x98 + 4, scene.jump[1] | 0x08000000, MEM)
+    L.log(string.format("JUMP %08X f%d", scene.jump[1] | 0x08000000, n))
+  end
   local pre = scene.premash or 0
   if n - start_keys < pre then
     if n % 40 == 0 then L.press("a", 6) end  -- click through the room's opening lines
     return
   end
+  -- The top loop opens the field menu on Start only with flags 0 and 9 clear (script 0x240); a warped room never clears them.
+  -- Save refuses with flag 6 or 8 set (0x080A69F8).
+  if scene.free then clrflag(0); clrflag(9); clrflag(6); clrflag(8) end
   local keys = scene.keys or {}
   local k = keys[nextkey]
   if k and n - start_keys - pre >= k[1] then

@@ -81,3 +81,4 @@ About 124k words of referenced text in total. Non-text that decodes as text: `0x
 2. **Digits inside quips** at `0x440C9C+` (`あ2ん…`, `カンジかな4`): they don't read as digits. Guess: this block's renderer maps them to punctuation or emotes. Check on screen before translating.
 3. **190 unreferenced dialogue pages**: reached by computed pointers, or dead text. The coverage test decides.
 4. **FFC6-FFF2**: list each variable and what it inserts (the jump table at `0x080B0628` and `0x080A2BC0`).
+5. **Credits text** (`graphics.md` G10, G11): no hit in this encoding. Find its source with a VRAM dump during `ending_end`, because staff names must stay correct.
