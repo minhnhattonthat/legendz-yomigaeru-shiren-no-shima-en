@@ -23,7 +23,7 @@ Save type: FLASH 64 KB (`FLASH512_V131`). Not EEPROM, so ROM growth doesn't affe
 
 ## Compression (verified)
 
-BIOS LZ77 type 0x10. `tools/lz77.py` decompresses and compresses; `lz77.scan` finds 2,159 well-formed blocks, 3.68 MB packed to 7.15 MB, 1,988 unique. Test: decompress(compress(x)) == x on 54 real blocks sampled across the ROM; recompressed bytes are not identical to the originals (0 of 54), so **rewrite only blocks the patch changes**, and keep pointers to the rest. No text sits in LZ blocks: none decode to SJIS and the first dialogue line was not in any block. Thumb `svc 0x11` and `svc 0x12` each occur once in the code range; `0x13`/`0x14` hits may be data, so Huffman and RLE are unconfirmed but no block has needed them yet.
+BIOS LZ77 type 0x10. `tools/lz77.py` decompresses and compresses; `lz77.scan` finds 2,159 well-formed blocks, 3.68 MB packed to 7.15 MB, 1,988 unique. Test: decompress(compress(x, min_disp=2)) == x on all 1,988 unique blocks, VRAM-safe (62 s, run once; `test_identity.py` keeps a sample). The original compressor isn't reproduced: 30 of 90 sampled blocks match with `min_disp=2`, 0 with 1, and the originals pass up some matches ours takes, so ours comes out smaller. So **rewrite only blocks the patch changes**, and keep pointers to the rest. 1,873 of the 2,159 blocks never use displacement 1 (VRAM-safe); recompress with `min_disp=2`. No text sits in LZ blocks: none decode to SJIS and the first dialogue line was not in any block. Thumb `svc 0x11` and `svc 0x12` each occur once in the code range; `0x13`/`0x14` hits may be data, so Huffman and RLE are unconfirmed but no block has needed them yet.
 
 ## Free space (verified that none exists inside the 8 MiB)
 

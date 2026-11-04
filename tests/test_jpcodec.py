@@ -24,6 +24,10 @@ class JpCodec(unittest.TestCase):
         raw = struct.pack("<6H", 1, 0x106, 0xFFE3, 0xFFFD, 0xA4, 0xFFFF)
         self.assertEqual(jpcodec.encode(jpcodec.decode(raw)), raw)
 
+    def test_roundtrip_every_control_code(self):
+        raw = struct.pack("<4H", *jpcodec.CTRL)
+        self.assertEqual(jpcodec.encode(jpcodec.decode(raw)), raw)
+
 
 if __name__ == "__main__":
     unittest.main()

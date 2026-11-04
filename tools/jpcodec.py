@@ -20,7 +20,7 @@ for i, c in enumerate(SYMS):
 CTRL = {0xFFFF: "<end>", 0xFFFE: "<page>\n", 0xFFFD: "<br>\n", 0xFFFB: "<flag4>"}
 REV = {v: k for k, v in TABLE.items()}
 REV.update({v: k for k, v in CTRL.items()})
-_token = re.compile(r"\[[0-9A-F]{4}\]|<[a-z]+>\n?|.", re.S)
+_token = re.compile(r"\[[0-9A-F]{4}\]|<[a-z0-9]+>\n?|.", re.S)
 
 
 def decode_words(words):
