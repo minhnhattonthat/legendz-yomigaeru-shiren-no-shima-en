@@ -1,6 +1,6 @@
 # Legendz: Yomigaeru Shiren no Shima (GBA) English translation
 
-The repo slug says "legions" (mislabelled dump name); the game is レジェンズ 甦る試練の島, header `LEGENDZSHIMA`/`BLJJ`.
+The ROM file and local folder say "legions" (mislabelled dump name; GitHub repo renamed `legendz-yomigaeru-shiren-no-shima-en` at publish, D15); the game is レジェンズ 甦る試練の島, header `LEGENDZSHIMA`/`BLJJ`.
 
 Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its SKILL.md before ROM, text or QA work. `"$(python tools/skill.py)"` works in bash and PowerShell; never paste a `plugins/cache/<hash>` path.
 Fresh clone: `git config core.hooksPath tools/hooks`; `fetch_emu.py mesen` and `fetch_emu.py gba-bios`.

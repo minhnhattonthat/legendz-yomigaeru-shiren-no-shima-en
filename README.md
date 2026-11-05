@@ -41,8 +41,8 @@ Known issues: see [Issues](../../issues).
 Needs Python 3.12+ and your own dump of the Japanese game.
 
 ```sh
-git clone https://github.com/minhnhattonthat/legions-yomigaeru-shiren-no-shima-en
-cd legions-yomigaeru-shiren-no-shima-en
+git clone https://github.com/minhnhattonthat/legendz-yomigaeru-shiren-no-shima-en
+cd legendz-yomigaeru-shiren-no-shima-en
 # copy your dump to: rom/Legions - Yomigaeru Shiren no Shima (Japan).gba
 #   (8,388,608 bytes, SHA-1 ff1e05a2fa70933dcf58a8be4f82fa289647c28a; the build refuses any other dump, see rom.sha1)
 python -X utf8 build.py                                # -> build/legendz_en.gba

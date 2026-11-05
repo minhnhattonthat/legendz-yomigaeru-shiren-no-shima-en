@@ -37,7 +37,7 @@ KNOWN ISSUES
   "Isle of Wings" under ISLAND OF WINGS). Deliberate: the names follow the Japanese.
 - The credits roll uses the game's own font, so it has no periods or commas.
 - Report anything else (untranslated text, typos, text running out of a box, crashes) at
-  https://github.com/minhnhattonthat/legions-yomigaeru-shiren-no-shima-en/issues - a savestate helps most.
+  https://github.com/minhnhattonthat/legendz-yomigaeru-shiren-no-shima-en/issues - a savestate helps most.
 
 CREDITS
 Translation, tools and patch: minhnhattonthat. Made with extensive AI assistance (Claude by Anthropic);
