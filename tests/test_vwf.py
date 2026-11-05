@@ -1,4 +1,5 @@
 """Run asm/vwf.s in Unicorn against a Python model of the screen it should draw, and check the font and the marker text."""
+import json
 import struct
 import subprocess
 import sys
@@ -14,6 +15,7 @@ sys.path.insert(0, str(ROOT))
 sys.path.insert(0, str(ROOT / "tools"))
 import font_en
 import insert
+import jpcodec
 from asm_thumb import assemble
 
 CODE, FONTS, WIDTHS, TEXT, VRAM, MAP, STACK, STOP = 0x08800000, 0x08700000, 0x08600000, 0x02000000, 0x06000000, 0x02010000, 0x03008000, 0x08900000
@@ -186,6 +188,54 @@ class MarkerBuild(unittest.TestCase):
     def test_no_site_was_written_twice(self):
         sites = [int(line.split(" ")[0], 16) for line in self.r.log]
         self.assertEqual(len(sites), len(set(sites)))
+
+
+class EnglishBuild(MarkerBuild):
+    """The same ROM checks as the marker's, on the real script, and what only English has."""
+
+    @classmethod
+    def setUpClass(cls):
+        import build
+        cls.r = build.english(ROM)
+
+    def _at(self, e):
+        return (struct.unpack_from("<I", self.r.out, int(e["owners"][0].split(":")[1], 16))[0] & 0x0FFFFFFF) - 0x08000000
+
+    def _string(self, e):
+        return self.r.out[self._at(e):self.r.out.index(b"\xff\xff", self._at(e)) + 2]
+
+    def test_every_string_has_english_or_keeps_its_bytes(self):
+        for _, entries in insert.strings():
+            for e in entries:
+                if insert.non_text(e):
+                    data = jpcodec.encode(e["jp"])
+                    self.assertEqual(self.r.out[self._at(e):self._at(e) + len(data)], data, e["id"])
+                else:
+                    self.assertTrue(e["en"], e["id"])
+                    self.assertNotRegex(e["en"], "[぀-ヿ一-鿿]", e["id"])
+
+    def test_single_word_strings_stay_single(self):
+        entries = {e["id"]: e for _, es in insert.strings() for e in es}
+        for id, words in (("45BDEA", 3), ("45BDF0", 7), ("45BDFE", 7)):  # drawn by length, table 0x7F7F30
+            self.assertEqual(len(self._string(entries[id])) // 2 - 1, words, id)
+        grid = self._string(entries["441066"])
+        self.assertEqual(len(grid) // 2 - 1, len(entries["441066"]["en"].replace("<end>", "")))  # a cell a word
+
+    def test_credits_in_the_8_bit_codes(self):
+        e = json.loads((ROOT / "script/credits.json").read_text(encoding="utf-8"))[0]
+        data = insert.credits_en(e["en"])
+        self.assertEqual(data[-1], 0xFF)
+        self.assertLessEqual(max(b for b in data if b < 0xF1), 0xF0)
+        self.assertEqual(data[:3], bytes((0xA4 + ord("S") - ord("A"), 0xA4 + ord("T") - ord("A"), 0xA4)))
+        word = struct.unpack_from("<I", self.r.out, 0x0D205C)[0]
+        self.assertEqual(self.r.out[word - 0x08000000:word - 0x08000000 + len(data)], data)
+
+    def test_layout_tables_keep_their_sums(self):
+        by = {}
+        for at, old, new in insert.LAYOUT:
+            table = 0x45ABB4 if at < 0x45AC00 else 0x45AC44
+            by[table] = by.get(table, 0) + new - old
+        self.assertEqual(set(by.values()), {0})
 
 
 class Font(unittest.TestCase):

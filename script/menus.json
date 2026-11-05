@@ -347,7 +347,7 @@
    "tab:45ADE4"
   ],
   "jp": "ほんとにいいの？<end>",
-  "en": "Really dump it?<end>",
+  "en": "Really dump?<end>",
   "status": "tl",
   "notes": ""
  },
@@ -483,7 +483,7 @@
    "lit:0BF5F0"
   ],
   "jp": "ほけつ　<end>",
-  "en": "Reserve<end>",
+  "en": "Bench<end>",
   "status": "tl",
   "notes": ""
  },

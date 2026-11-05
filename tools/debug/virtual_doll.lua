@@ -6,6 +6,7 @@ local MEM = emu.memType.gbaMemory
 local STATUS = 0x03006D48  -- adapter status: 0x01 busy, 0x02 present, 0x20 transfer running, 0x8000 no reply
 local KEY = 0xA8262CDB     -- image dwords are xored with this (0x080C3F00)
 local doll = DOLL or 0x2C
+if emu.read16(0x080E4948, MEM) ~= 0xB530 then return end  -- the English build answers the adapter itself (asm/doll.s)
 local pending
 local image = {}           -- what the game wrote back, per buffer offset
 

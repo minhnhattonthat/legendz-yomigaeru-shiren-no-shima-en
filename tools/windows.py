@@ -52,7 +52,11 @@ def by_class(block, e):
     if block == "quips":
         return TICKER, 1, "guess", "quip ticker: never seen on screen (status.md)"
     if block == "cards":
-        return 8 * max(1, len(e["jp"]) - 5), 1, "guess", "card mode past its reel game is out of reach (status.md)"
+        return 112, 1, "class", "card name, w=14 (0x0BD742; never on screen)"
+    if block == "menus" and owner(e, "tab:7F75", "tab:7F76"):
+        return 64, 1, "class", "status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)"
+    if block == "adventure" and owner(e, "tab:434") and owner(e, "tab:7F6"):
+        return 64, 1, "class", "spot list, w=8 (0x0B1C90, table 0x0B1D10)"
     return 8 * max(1, len(e["jp"]) - 5), 1, "guess", "menu label, not reached: its Japanese cells"
 
 

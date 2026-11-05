@@ -128,7 +128,7 @@
    "lit:0B1634"
   ],
   "jp": "ぼうけんする<end>",
-  "en": "Go on quest<end>",
+  "en": "Set out<end>",
   "status": "tl",
   "notes": ""
  },
@@ -304,7 +304,7 @@
    "lit:0A8E10"
   ],
   "jp": "いくつもたせる？<end>",
-  "en": "How many to hold?<end>",
+  "en": "How many?<end>",
   "status": "tl",
   "notes": ""
  },
@@ -581,7 +581,7 @@
    "tab:7F7F64"
   ],
   "jp": "でんごん…<end>",
-  "en": "Message...<end>",
+  "en": "Message<end>",
   "status": "tl",
   "notes": ""
  },
@@ -647,7 +647,7 @@
    "tab:46B280"
   ],
   "jp": "いまのじかん<end>",
-  "en": "Current time<end>",
+  "en": "Time now<end>",
   "status": "tl",
   "notes": ""
  },
@@ -658,7 +658,7 @@
    "tab:46B288"
   ],
   "jp": "　　　　　じ<end>",
-  "en": "          Hr<end>",
+  "en": "          H<end>",
   "status": "tl",
   "notes": ""
  },
@@ -946,7 +946,7 @@
    "tab:7F66FC"
   ],
   "jp": "やまのふうけつ<end>",
-  "en": "Peak Wind Hole<end>",
+  "en": "Windy Hollow<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1450,7 +1450,7 @@
    "tab:7F67A4"
   ],
   "jp": "いかずちのとう<end>",
-  "en": "Thunder Tower<end>",
+  "en": "Bolt Tower<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1510,7 +1510,7 @@
    "tab:7F67B8"
   ],
   "jp": "とどろくかざん<end>",
-  "en": "Roaring Volcano<end>",
+  "en": "Mt. Roar<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1558,7 +1558,7 @@
    "tab:7F67C8"
   ],
   "jp": "やみのしんでん<end>",
-  "en": "Temple of Dark<end>",
+  "en": "Dark Shrine<end>",
   "status": "tl",
   "notes": ""
  },

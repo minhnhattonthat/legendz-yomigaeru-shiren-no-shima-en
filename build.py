@@ -82,6 +82,14 @@ def marker(rom, overrides=None):
     return r
 
 
+def english(rom):
+    """The patch's ROM: the identity build, then the English script on the VWF engine. Returns the patched ROM's Rom object."""
+    import insert
+    r = insert.Rom(build(rom))
+    insert.insert_en(r)
+    return r
+
+
 def main():
     check_rom.check()
     rom = next((ROOT / "rom").glob("*.gba")).read_bytes()
@@ -96,10 +104,10 @@ def main():
         (OUT.parent / "writes.txt").write_text("\n".join(r.log) + "\n", encoding="utf-8")
         print("%s %d bytes sha1 %s, %d writes" % (path.relative_to(ROOT), len(r.out), hashlib.sha1(r.out).hexdigest(), len(r.log)))
         return
-    new = build(rom)
-    OUT.write_bytes(new)
-    print("%s %d bytes sha1 %s" % (OUT.relative_to(ROOT), len(new), hashlib.sha1(new).hexdigest()))
-    print("identical to the dump" if new == rom else "differs from the dump")
+    r = english(rom)
+    OUT.write_bytes(r.out)
+    (OUT.parent / "writes.txt").write_text("\n".join(r.log) + "\n", encoding="utf-8")
+    print("%s %d bytes sha1 %s, %d writes" % (OUT.relative_to(ROOT), len(r.out), hashlib.sha1(r.out).hexdigest(), len(r.log)))
 
 
 if __name__ == "__main__":

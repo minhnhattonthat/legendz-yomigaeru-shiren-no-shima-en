@@ -3625,7 +3625,7 @@
    "tab:2AAC9C"
   ],
   "jp": "だげきダメージを　　すこしへらす　60％<end>",
-  "en": "Cuts melee<br>\ndamage a little,<br>\n60%<end>",
+  "en": "Melee damage<br>\ndown a little, 60%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -4153,7 +4153,7 @@
    "tab:2AAE5C"
   ],
   "jp": "まほうのダメージを　すこしへらす　60％<end>",
-  "en": "Cuts magic<br>\ndamage a little,<br>\n60%<end>",
+  "en": "Magic damage<br>\ndown a little, 60%<end>",
   "status": "tl",
   "notes": ""
  },

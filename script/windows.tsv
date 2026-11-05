@@ -71,70 +71,70 @@ id	px	rows	source	where
 4412EA	56	1	guess	menu label, not reached: its Japanese cells
 4412FA	8	1	guess	menu label, not reached: its Japanese cells
 4412FE	8	1	guess	menu label, not reached: its Japanese cells
-441302	56	1	guess	menu label, not reached: its Japanese cells
-441312	48	1	guess	menu label, not reached: its Japanese cells
-441320	64	1	guess	menu label, not reached: its Japanese cells
-441332	56	1	guess	menu label, not reached: its Japanese cells
-441342	56	1	guess	menu label, not reached: its Japanese cells
-441352	40	1	guess	menu label, not reached: its Japanese cells
-44135E	64	1	guess	menu label, not reached: its Japanese cells
-441370	56	1	guess	menu label, not reached: its Japanese cells
-441380	56	1	guess	menu label, not reached: its Japanese cells
-441390	64	1	guess	menu label, not reached: its Japanese cells
-4413A2	56	1	guess	menu label, not reached: its Japanese cells
-4413B2	48	1	guess	menu label, not reached: its Japanese cells
-4413C0	56	1	guess	menu label, not reached: its Japanese cells
-4413D0	56	1	guess	menu label, not reached: its Japanese cells
-4413E0	64	1	guess	menu label, not reached: its Japanese cells
-4413F2	64	1	guess	menu label, not reached: its Japanese cells
-441404	64	1	guess	menu label, not reached: its Japanese cells
-441416	40	1	guess	menu label, not reached: its Japanese cells
-441422	64	1	guess	menu label, not reached: its Japanese cells
-441434	56	1	guess	menu label, not reached: its Japanese cells
-441444	64	1	guess	menu label, not reached: its Japanese cells
-441456	56	1	guess	menu label, not reached: its Japanese cells
-441466	64	1	guess	menu label, not reached: its Japanese cells
-441478	64	1	guess	menu label, not reached: its Japanese cells
-44148A	64	1	guess	menu label, not reached: its Japanese cells
-44149C	56	1	guess	menu label, not reached: its Japanese cells
-4414AC	64	1	guess	menu label, not reached: its Japanese cells
-4414BE	64	1	guess	menu label, not reached: its Japanese cells
-4414D0	56	1	guess	menu label, not reached: its Japanese cells
-4414E0	56	1	guess	menu label, not reached: its Japanese cells
-4414F0	56	1	guess	menu label, not reached: its Japanese cells
-441500	48	1	guess	menu label, not reached: its Japanese cells
-44150E	64	1	guess	menu label, not reached: its Japanese cells
-441520	64	1	guess	menu label, not reached: its Japanese cells
-441532	56	1	guess	menu label, not reached: its Japanese cells
-441542	64	1	guess	menu label, not reached: its Japanese cells
-441554	64	1	guess	menu label, not reached: its Japanese cells
-441566	56	1	guess	menu label, not reached: its Japanese cells
-441576	64	1	guess	menu label, not reached: its Japanese cells
-441588	56	1	guess	menu label, not reached: its Japanese cells
-441598	56	1	guess	menu label, not reached: its Japanese cells
-4415A8	48	1	guess	menu label, not reached: its Japanese cells
-4415B6	48	1	guess	menu label, not reached: its Japanese cells
-4415C4	56	1	guess	menu label, not reached: its Japanese cells
-4415D4	64	1	guess	menu label, not reached: its Japanese cells
-4415E6	64	1	guess	menu label, not reached: its Japanese cells
-4415F8	56	1	guess	menu label, not reached: its Japanese cells
-441608	56	1	guess	menu label, not reached: its Japanese cells
-441618	64	1	guess	menu label, not reached: its Japanese cells
-44162A	48	1	guess	menu label, not reached: its Japanese cells
-441638	64	1	guess	menu label, not reached: its Japanese cells
-44164A	64	1	guess	menu label, not reached: its Japanese cells
-44165C	64	1	guess	menu label, not reached: its Japanese cells
-44166E	64	1	guess	menu label, not reached: its Japanese cells
-441680	56	1	guess	menu label, not reached: its Japanese cells
-441690	64	1	guess	menu label, not reached: its Japanese cells
-4416A2	56	1	guess	menu label, not reached: its Japanese cells
-4416B2	64	1	guess	menu label, not reached: its Japanese cells
-4416C4	56	1	guess	menu label, not reached: its Japanese cells
-4416D4	56	1	guess	menu label, not reached: its Japanese cells
-4416E4	64	1	guess	menu label, not reached: its Japanese cells
-4416F6	64	1	guess	menu label, not reached: its Japanese cells
-441708	64	1	guess	menu label, not reached: its Japanese cells
-44171A	56	1	guess	menu label, not reached: its Japanese cells
+441302	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441312	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441320	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441332	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441342	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441352	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+44135E	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441370	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441380	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441390	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4413A2	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4413B2	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4413C0	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4413D0	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4413E0	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4413F2	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441404	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441416	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441422	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441434	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441444	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441456	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441466	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441478	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+44148A	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+44149C	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4414AC	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4414BE	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4414D0	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4414E0	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4414F0	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441500	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+44150E	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441520	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441532	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441542	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441554	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441566	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441576	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441588	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441598	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4415A8	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4415B6	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4415C4	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4415D4	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4415E6	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4415F8	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441608	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441618	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+44162A	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441638	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+44164A	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+44165C	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+44166E	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441680	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441690	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4416A2	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4416B2	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4416C4	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4416D4	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4416E4	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+4416F6	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+441708	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
+44171A	64	1	class	spot list, w=8 (0x0B1C90, table 0x0B1D10)
 44172A	192	1	guess	menu label, not reached: its Japanese cells
 44174C	288	1	guess	menu label, not reached: its Japanese cells
 441786	304	1	guess	menu label, not reached: its Japanese cells
@@ -338,172 +338,172 @@ id	px	rows	source	where
 23D10A	240	1	class	battle line, sprite
 23D10C	240	1	class	battle line, sprite
 23D10E	240	1	class	battle line, sprite
-44F4B8	24	1	guess	card mode past its reel game is out of reach (status.md)
-44F4C0	64	1	guess	card mode past its reel game is out of reach (status.md)
-44F4D2	16	1	guess	card mode past its reel game is out of reach (status.md)
-44F4D8	24	1	guess	card mode past its reel game is out of reach (status.md)
-44F4E0	32	1	guess	card mode past its reel game is out of reach (status.md)
-44F4EA	72	1	guess	card mode past its reel game is out of reach (status.md)
-44F4FE	96	1	guess	card mode past its reel game is out of reach (status.md)
-44F518	24	1	guess	card mode past its reel game is out of reach (status.md)
-44F520	72	1	guess	card mode past its reel game is out of reach (status.md)
-44F534	32	1	guess	card mode past its reel game is out of reach (status.md)
-44F53E	72	1	guess	card mode past its reel game is out of reach (status.md)
-44F552	64	1	guess	card mode past its reel game is out of reach (status.md)
-44F564	40	1	guess	card mode past its reel game is out of reach (status.md)
-44F570	56	1	guess	card mode past its reel game is out of reach (status.md)
-44F580	40	1	guess	card mode past its reel game is out of reach (status.md)
-44F58C	72	1	guess	card mode past its reel game is out of reach (status.md)
-44F5A0	56	1	guess	card mode past its reel game is out of reach (status.md)
-44F5B0	64	1	guess	card mode past its reel game is out of reach (status.md)
-44F5C2	64	1	guess	card mode past its reel game is out of reach (status.md)
-44F5D4	64	1	guess	card mode past its reel game is out of reach (status.md)
-44F5E6	32	1	guess	card mode past its reel game is out of reach (status.md)
-44F5F0	48	1	guess	card mode past its reel game is out of reach (status.md)
-44F5FE	80	1	guess	card mode past its reel game is out of reach (status.md)
-44F614	24	1	guess	card mode past its reel game is out of reach (status.md)
-44F61C	32	1	guess	card mode past its reel game is out of reach (status.md)
-44F626	72	1	guess	card mode past its reel game is out of reach (status.md)
-44F63A	32	1	guess	card mode past its reel game is out of reach (status.md)
-44F644	32	1	guess	card mode past its reel game is out of reach (status.md)
-44F64E	24	1	guess	card mode past its reel game is out of reach (status.md)
-44F656	40	1	guess	card mode past its reel game is out of reach (status.md)
-44F662	24	1	guess	card mode past its reel game is out of reach (status.md)
-44F66A	56	1	guess	card mode past its reel game is out of reach (status.md)
-44F67A	40	1	guess	card mode past its reel game is out of reach (status.md)
-44F686	32	1	guess	card mode past its reel game is out of reach (status.md)
-44F690	96	1	guess	card mode past its reel game is out of reach (status.md)
-44F6AA	80	1	guess	card mode past its reel game is out of reach (status.md)
-44F6C0	32	1	guess	card mode past its reel game is out of reach (status.md)
-44F6CA	88	1	guess	card mode past its reel game is out of reach (status.md)
-44F6E2	40	1	guess	card mode past its reel game is out of reach (status.md)
-44F6EE	32	1	guess	card mode past its reel game is out of reach (status.md)
-44F6F8	80	1	guess	card mode past its reel game is out of reach (status.md)
-44F70E	72	1	guess	card mode past its reel game is out of reach (status.md)
-44F722	56	1	guess	card mode past its reel game is out of reach (status.md)
-44F732	64	1	guess	card mode past its reel game is out of reach (status.md)
-44F744	64	1	guess	card mode past its reel game is out of reach (status.md)
-44F756	72	1	guess	card mode past its reel game is out of reach (status.md)
-44F76A	64	1	guess	card mode past its reel game is out of reach (status.md)
-44F77C	88	1	guess	card mode past its reel game is out of reach (status.md)
-44F794	88	1	guess	card mode past its reel game is out of reach (status.md)
-44F7AC	64	1	guess	card mode past its reel game is out of reach (status.md)
-44F7BE	56	1	guess	card mode past its reel game is out of reach (status.md)
-44F7CE	64	1	guess	card mode past its reel game is out of reach (status.md)
-44F7E0	72	1	guess	card mode past its reel game is out of reach (status.md)
-44F7F4	56	1	guess	card mode past its reel game is out of reach (status.md)
-44F804	72	1	guess	card mode past its reel game is out of reach (status.md)
-44F818	88	1	guess	card mode past its reel game is out of reach (status.md)
-44F830	112	1	guess	card mode past its reel game is out of reach (status.md)
-44F84E	80	1	guess	card mode past its reel game is out of reach (status.md)
-44F864	56	1	guess	card mode past its reel game is out of reach (status.md)
-44F874	96	1	guess	card mode past its reel game is out of reach (status.md)
-44F88E	112	1	guess	card mode past its reel game is out of reach (status.md)
-44F8AC	80	1	guess	card mode past its reel game is out of reach (status.md)
-44F8C2	112	1	guess	card mode past its reel game is out of reach (status.md)
-44F8E0	104	1	guess	card mode past its reel game is out of reach (status.md)
-44F8FC	72	1	guess	card mode past its reel game is out of reach (status.md)
-44F910	56	1	guess	card mode past its reel game is out of reach (status.md)
-44F920	88	1	guess	card mode past its reel game is out of reach (status.md)
-44F938	56	1	guess	card mode past its reel game is out of reach (status.md)
-44F948	88	1	guess	card mode past its reel game is out of reach (status.md)
-44F960	80	1	guess	card mode past its reel game is out of reach (status.md)
-44F976	40	1	guess	card mode past its reel game is out of reach (status.md)
-44F982	64	1	guess	card mode past its reel game is out of reach (status.md)
-44F994	56	1	guess	card mode past its reel game is out of reach (status.md)
-44F9A4	24	1	guess	card mode past its reel game is out of reach (status.md)
-44F9AC	80	1	guess	card mode past its reel game is out of reach (status.md)
-44F9C2	56	1	guess	card mode past its reel game is out of reach (status.md)
-44F9D2	56	1	guess	card mode past its reel game is out of reach (status.md)
-44F9E2	48	1	guess	card mode past its reel game is out of reach (status.md)
-44F9F0	64	1	guess	card mode past its reel game is out of reach (status.md)
-44FA02	72	1	guess	card mode past its reel game is out of reach (status.md)
-44FA16	72	1	guess	card mode past its reel game is out of reach (status.md)
-44FA2A	64	1	guess	card mode past its reel game is out of reach (status.md)
-44FA3C	56	1	guess	card mode past its reel game is out of reach (status.md)
-44FA4C	56	1	guess	card mode past its reel game is out of reach (status.md)
-44FA5C	32	1	guess	card mode past its reel game is out of reach (status.md)
-44FA66	32	1	guess	card mode past its reel game is out of reach (status.md)
-44FA70	104	1	guess	card mode past its reel game is out of reach (status.md)
-44FA8C	96	1	guess	card mode past its reel game is out of reach (status.md)
-44FAA6	40	1	guess	card mode past its reel game is out of reach (status.md)
-44FAB2	80	1	guess	card mode past its reel game is out of reach (status.md)
-44FAC8	32	1	guess	card mode past its reel game is out of reach (status.md)
-44FAD2	112	1	guess	card mode past its reel game is out of reach (status.md)
-44FAF0	88	1	guess	card mode past its reel game is out of reach (status.md)
-44FB08	112	1	guess	card mode past its reel game is out of reach (status.md)
-44FB26	80	1	guess	card mode past its reel game is out of reach (status.md)
-44FB3C	32	1	guess	card mode past its reel game is out of reach (status.md)
-44FB46	40	1	guess	card mode past its reel game is out of reach (status.md)
-44FB52	24	1	guess	card mode past its reel game is out of reach (status.md)
-44FB5A	40	1	guess	card mode past its reel game is out of reach (status.md)
-44FB66	56	1	guess	card mode past its reel game is out of reach (status.md)
-44FB76	24	1	guess	card mode past its reel game is out of reach (status.md)
-44FB7E	96	1	guess	card mode past its reel game is out of reach (status.md)
-44FB98	40	1	guess	card mode past its reel game is out of reach (status.md)
-44FBA4	72	1	guess	card mode past its reel game is out of reach (status.md)
-44FBB8	96	1	guess	card mode past its reel game is out of reach (status.md)
-44FBD2	48	1	guess	card mode past its reel game is out of reach (status.md)
-44FBE0	24	1	guess	card mode past its reel game is out of reach (status.md)
-44FBE8	32	1	guess	card mode past its reel game is out of reach (status.md)
-44FBF2	32	1	guess	card mode past its reel game is out of reach (status.md)
-44FBFC	80	1	guess	card mode past its reel game is out of reach (status.md)
-44FC12	40	1	guess	card mode past its reel game is out of reach (status.md)
-44FC1E	40	1	guess	card mode past its reel game is out of reach (status.md)
-44FC2A	72	1	guess	card mode past its reel game is out of reach (status.md)
-44FC3E	48	1	guess	card mode past its reel game is out of reach (status.md)
-44FC4C	88	1	guess	card mode past its reel game is out of reach (status.md)
-44FC64	112	1	guess	card mode past its reel game is out of reach (status.md)
-44FC82	96	1	guess	card mode past its reel game is out of reach (status.md)
-44FC9C	64	1	guess	card mode past its reel game is out of reach (status.md)
-44FCAE	80	1	guess	card mode past its reel game is out of reach (status.md)
-44FCC4	64	1	guess	card mode past its reel game is out of reach (status.md)
-44FCD6	80	1	guess	card mode past its reel game is out of reach (status.md)
-44FCEC	80	1	guess	card mode past its reel game is out of reach (status.md)
-44FD02	80	1	guess	card mode past its reel game is out of reach (status.md)
-44FD18	48	1	guess	card mode past its reel game is out of reach (status.md)
-44FD26	72	1	guess	card mode past its reel game is out of reach (status.md)
-44FD3A	80	1	guess	card mode past its reel game is out of reach (status.md)
-44FD50	48	1	guess	card mode past its reel game is out of reach (status.md)
-44FD5E	48	1	guess	card mode past its reel game is out of reach (status.md)
-44FD6C	80	1	guess	card mode past its reel game is out of reach (status.md)
-44FD82	72	1	guess	card mode past its reel game is out of reach (status.md)
-44FD96	64	1	guess	card mode past its reel game is out of reach (status.md)
-44FDA8	56	1	guess	card mode past its reel game is out of reach (status.md)
-44FDB8	80	1	guess	card mode past its reel game is out of reach (status.md)
-44FDCE	72	1	guess	card mode past its reel game is out of reach (status.md)
-44FDE2	72	1	guess	card mode past its reel game is out of reach (status.md)
-44FDF6	48	1	guess	card mode past its reel game is out of reach (status.md)
-44FE04	56	1	guess	card mode past its reel game is out of reach (status.md)
-44FE14	56	1	guess	card mode past its reel game is out of reach (status.md)
-44FE24	64	1	guess	card mode past its reel game is out of reach (status.md)
-44FE36	88	1	guess	card mode past its reel game is out of reach (status.md)
-44FE4E	64	1	guess	card mode past its reel game is out of reach (status.md)
-44FE60	104	1	guess	card mode past its reel game is out of reach (status.md)
-44FE7C	32	1	guess	card mode past its reel game is out of reach (status.md)
-44FE86	112	1	guess	card mode past its reel game is out of reach (status.md)
-44FEA4	48	1	guess	card mode past its reel game is out of reach (status.md)
-44FEB2	72	1	guess	card mode past its reel game is out of reach (status.md)
-44FEC6	56	1	guess	card mode past its reel game is out of reach (status.md)
-44FED6	80	1	guess	card mode past its reel game is out of reach (status.md)
-44FEEC	72	1	guess	card mode past its reel game is out of reach (status.md)
-44FF00	56	1	guess	card mode past its reel game is out of reach (status.md)
-44FF10	56	1	guess	card mode past its reel game is out of reach (status.md)
-44FF20	64	1	guess	card mode past its reel game is out of reach (status.md)
-44FF32	56	1	guess	card mode past its reel game is out of reach (status.md)
-44FF42	56	1	guess	card mode past its reel game is out of reach (status.md)
-44FF52	48	1	guess	card mode past its reel game is out of reach (status.md)
-44FF60	56	1	guess	card mode past its reel game is out of reach (status.md)
-44FF70	72	1	guess	card mode past its reel game is out of reach (status.md)
-44FF84	64	1	guess	card mode past its reel game is out of reach (status.md)
-44FF96	64	1	guess	card mode past its reel game is out of reach (status.md)
-44FFA8	48	1	guess	card mode past its reel game is out of reach (status.md)
-44FFB6	72	1	guess	card mode past its reel game is out of reach (status.md)
-44FFCA	72	1	guess	card mode past its reel game is out of reach (status.md)
-44FFDE	24	1	guess	card mode past its reel game is out of reach (status.md)
-44FFE6	40	1	guess	card mode past its reel game is out of reach (status.md)
-44FFF2	88	1	guess	card mode past its reel game is out of reach (status.md)
-45000A	40	1	guess	card mode past its reel game is out of reach (status.md)
+44F4B8	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F4C0	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F4D2	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F4D8	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F4E0	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F4EA	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F4FE	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F518	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F520	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F534	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F53E	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F552	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F564	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F570	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F580	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F58C	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F5A0	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F5B0	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F5C2	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F5D4	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F5E6	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F5F0	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F5FE	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F614	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F61C	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F626	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F63A	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F644	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F64E	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F656	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F662	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F66A	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F67A	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F686	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F690	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F6AA	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F6C0	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F6CA	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F6E2	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F6EE	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F6F8	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F70E	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F722	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F732	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F744	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F756	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F76A	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F77C	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F794	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F7AC	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F7BE	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F7CE	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F7E0	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F7F4	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F804	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F818	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F830	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F84E	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F864	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F874	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F88E	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F8AC	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F8C2	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F8E0	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F8FC	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F910	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F920	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F938	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F948	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F960	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F976	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F982	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F994	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F9A4	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F9AC	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F9C2	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F9D2	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F9E2	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44F9F0	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FA02	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FA16	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FA2A	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FA3C	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FA4C	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FA5C	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FA66	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FA70	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FA8C	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FAA6	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FAB2	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FAC8	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FAD2	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FAF0	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FB08	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FB26	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FB3C	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FB46	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FB52	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FB5A	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FB66	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FB76	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FB7E	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FB98	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FBA4	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FBB8	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FBD2	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FBE0	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FBE8	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FBF2	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FBFC	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FC12	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FC1E	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FC2A	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FC3E	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FC4C	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FC64	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FC82	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FC9C	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FCAE	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FCC4	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FCD6	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FCEC	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FD02	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FD18	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FD26	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FD3A	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FD50	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FD5E	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FD6C	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FD82	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FD96	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FDA8	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FDB8	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FDCE	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FDE2	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FDF6	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FE04	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FE14	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FE24	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FE36	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FE4E	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FE60	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FE7C	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FE86	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FEA4	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FEB2	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FEC6	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FED6	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FEEC	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FF00	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FF10	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FF20	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FF32	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FF42	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FF52	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FF60	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FF70	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FF84	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FF96	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FFA8	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FFB6	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FFCA	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FFDE	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FFE6	112	1	class	card name, w=14 (0x0BD742; never on screen)
+44FFF2	112	1	class	card name, w=14 (0x0BD742; never on screen)
+45000A	112	1	class	card name, w=14 (0x0BD742; never on screen)
 1619DC	156	2	class	dialogue box
 161A4A	156	2	class	dialogue box
 161A66	156	2	class	dialogue box
@@ -3627,51 +3627,51 @@ id	px	rows	source	where
 45AAB4	8	1	measured	080BF819
 45AAB8	8	1	guess	menu label, not reached: its Japanese cells
 45AE30	64	1	measured	080BFCA5
-45AE3C	32	1	guess	menu label, not reached: its Japanese cells
-45AE46	32	1	guess	menu label, not reached: its Japanese cells
-45AE50	16	1	guess	menu label, not reached: its Japanese cells
-45AE56	40	1	guess	menu label, not reached: its Japanese cells
-45AE62	32	1	guess	menu label, not reached: its Japanese cells
-45AE6C	24	1	guess	menu label, not reached: its Japanese cells
-45AE74	32	1	guess	menu label, not reached: its Japanese cells
-45AE7E	24	1	guess	menu label, not reached: its Japanese cells
-45AE86	24	1	guess	menu label, not reached: its Japanese cells
-45AE8E	48	1	guess	menu label, not reached: its Japanese cells
-45AE9C	16	1	guess	menu label, not reached: its Japanese cells
-45AEA2	24	1	guess	menu label, not reached: its Japanese cells
-45AEAA	32	1	guess	menu label, not reached: its Japanese cells
-45AEB4	32	1	guess	menu label, not reached: its Japanese cells
-45AEBE	32	1	guess	menu label, not reached: its Japanese cells
-45AEC8	32	1	guess	menu label, not reached: its Japanese cells
-45AED2	24	1	guess	menu label, not reached: its Japanese cells
-45AEDA	32	1	guess	menu label, not reached: its Japanese cells
-45AEE4	16	1	guess	menu label, not reached: its Japanese cells
-45AEEA	32	1	guess	menu label, not reached: its Japanese cells
-45AEF4	16	1	guess	menu label, not reached: its Japanese cells
-45AEFA	32	1	guess	menu label, not reached: its Japanese cells
-45AF04	32	1	guess	menu label, not reached: its Japanese cells
-45AF0E	16	1	guess	menu label, not reached: its Japanese cells
-45AF14	24	1	guess	menu label, not reached: its Japanese cells
-45AF1C	48	1	guess	menu label, not reached: its Japanese cells
-45AF2A	40	1	guess	menu label, not reached: its Japanese cells
-45AF36	32	1	guess	menu label, not reached: its Japanese cells
-45AF40	24	1	guess	menu label, not reached: its Japanese cells
-45AF48	24	1	guess	menu label, not reached: its Japanese cells
+45AE3C	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AE46	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AE50	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AE56	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AE62	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AE6C	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AE74	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AE7E	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AE86	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AE8E	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AE9C	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AEA2	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AEAA	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AEB4	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AEBE	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AEC8	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AED2	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AEDA	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AEE4	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AEEA	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AEF4	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AEFA	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AF04	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AF0E	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AF14	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AF1C	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AF2A	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AF36	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AF40	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AF48	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
 45AF50	64	1	measured	080BFCA5
-45AF56	24	1	guess	menu label, not reached: its Japanese cells
-45AF5E	16	1	guess	menu label, not reached: its Japanese cells
-45AF64	32	1	guess	menu label, not reached: its Japanese cells
-45AF6E	24	1	guess	menu label, not reached: its Japanese cells
-45AF76	16	1	guess	menu label, not reached: its Japanese cells
-45AF7C	24	1	guess	menu label, not reached: its Japanese cells
-45AF84	56	1	guess	menu label, not reached: its Japanese cells
-45AF94	56	1	guess	menu label, not reached: its Japanese cells
-45AFA4	64	1	guess	menu label, not reached: its Japanese cells
-45AFB6	64	1	guess	menu label, not reached: its Japanese cells
-45AFC8	48	1	guess	menu label, not reached: its Japanese cells
-45AFD6	48	1	guess	menu label, not reached: its Japanese cells
-45AFE4	48	1	guess	menu label, not reached: its Japanese cells
-45AFF2	56	1	guess	menu label, not reached: its Japanese cells
+45AF56	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AF5E	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AF64	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AF6E	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AF76	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AF7C	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AF84	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AF94	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AFA4	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AFB6	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AFC8	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AFD6	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AFE4	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
+45AFF2	64	1	class	status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)
 188074	240	1	class	location card, sprite line
 188086	240	1	class	location card, sprite line
 1880A0	240	1	class	location card, sprite line

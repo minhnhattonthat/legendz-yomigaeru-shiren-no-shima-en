@@ -235,3 +235,60 @@ def insert_marker(rom, overrides=None):
     for e in cred:
         repoint(rom, e, rom.append(credits_marker(e), "credits"))
     return count
+
+
+# Menu layout records (pointer, tiles h16, x, y): a label's box is tiles/2 cells and the next label's tiles start where this one's end, so a table's sum
+# stays the same. record, tiles in the dump, tiles in English: tools/layout.py lists them all.
+LAYOUT = [(0x45ABB4, 14, 12), (0x45ABD4, 14, 16),  # Battles, Damage Taken
+          (0x45AC44, 8, 10), (0x45AC5C, 8, 6),  # Support, Item
+          (0x45AC64, 10, 8), (0x45AC7C, 12, 14),  # Effect, Normal Skill
+          (0x45AC74, 4, 2), (0x45AC84, 8, 10)]  # the x sign, EX Skill
+
+
+def layout(rom):
+    for at, old, new in LAYOUT:
+        expect(rom, at + 4, struct.pack("<H", old).hex())
+        rom.put(at + 4, struct.pack("<H", new), "layout")
+
+
+DOLL_ENTRY = {"test": 0, "read": 2, "write": 4, "tick": 6}  # asm/doll.s, its first lines
+
+
+def doll(rom):
+    """The virtual Soul Doll (D8, docs/re/doll.md). The debug tool's Lua hook stands aside when it sees these jumps."""
+    at = (len(rom.out) + 3) & ~3
+    rom.put(at, assemble(ROOT / "asm" / "doll.s", CPU + at), "doll code")
+    for name, site, old in (("test", 0x0BADA8, "00B50006"), ("read", 0x0E4948, "30B5104D"), ("write", 0x0E488C, "30B5104D"), ("tick", 0x0BADD4, "10B5041C")):
+        expect(rom, site, old)
+        far_jump(rom, site, CPU + at + DOLL_ENTRY[name], 3, "hook doll " + name)
+
+
+def credits_en(text):
+    """The 8-bit credits: controls as [XX], the blank 00, every glyph its font_en code (encode8's table has no punctuation in English's order, vwf.md)."""
+    out = bytearray()
+    for t in re.findall(r"\[[0-9A-F]{2}\]|[^\n]", text):
+        code = int(t[1:3], 16) if t.startswith("[") else 0 if t == "　" else font_en.CODES[t]
+        out.append(code)
+    return bytes(out)
+
+
+def insert_en(rom):
+    """Every string's English. Non-text strings keep their bytes; a text string with no English stops the build."""
+    pairs = {}
+    encoded = []
+    for block, entries in strings():
+        for e in entries:
+            if non_text(e):
+                encoded.append((e, jpcodec.encode(e["jp"])))
+            elif e["en"]:
+                encoded.append((e, font_en.encode(e["en"], None if e["id"] in SINGLE_WORDS else pairs)))
+            else:
+                raise ValueError("no English: %s %s" % (block, e["id"]))
+    engine(rom, pairs)
+    layout(rom)
+    doll(rom)
+    for e, data in encoded:
+        repoint(rom, e, rom.append(data, "text " + e["id"]))
+    for e in json.loads((ROOT / "script" / "credits.json").read_text(encoding="utf-8")):
+        repoint(rom, e, rom.append(credits_en(e["en"]), "credits"))
+    return len(encoded), len(pairs)
