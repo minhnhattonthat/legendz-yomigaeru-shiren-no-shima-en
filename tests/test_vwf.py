@@ -210,6 +210,16 @@ class Font(unittest.TestCase):
                     for line in t.replace("<page>", "").replace("<end>", "").split("<br>"):
                         self.assertLessEqual(font_en.px_var(line, widths), insert.DIALOGUE_W * 8, e["id"])
 
+    def test_non_text_stays_and_words_dont(self):
+        entries = {e["id"]: (b, e) for b, es in insert.strings() for e in es}
+        for id in ("188EA4", "45AA42", "23C82E", "4642B0", "1865A0"):  # bead, rule of colons, empty slot, variables alone, dash
+            self.assertTrue(insert.non_text(entries[id][1]), id)
+        for id in ("17D524", "188C9E", "23CED2", "44128A"):  # ……, ？？？ and [FFEA]‼ read as words; a label behind a bead
+            self.assertFalse(insert.non_text(entries[id][1]), id)
+        _, widths = font_en.dialogue_fonts(ROM)
+        block, e = entries["44128A"]
+        self.assertTrue(insert.marker_text(e, block, widths).startswith("●"))  # the title menu's cursor sits on this cell
+
     def test_every_jump_site_stays_in_range(self):
         r = insert.Rom(ROM)
         insert.engine(r, {})

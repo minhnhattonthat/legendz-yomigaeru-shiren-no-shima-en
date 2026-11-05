@@ -194,7 +194,7 @@ def encode(text, pairs=None):
 
 def px_var(text, widths, var_px=48):
     """Dialogue-font width of a line with no controls; a [XXXX] variable counts var_px."""
-    return sum(var_px if len(t) == 6 else widths[CODES[t]] for t in _token.findall(text))
+    return sum(var_px if len(t) == 6 else 8 if t in KEEP else widths[CODES[t]] for t in _token.findall(text))
 
 
 if __name__ == "__main__":

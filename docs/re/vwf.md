@@ -52,7 +52,13 @@ The game's fixed limits count words: the name slots (6 for the player, 8 + termi
 
 ## Width gate
 
-`tools/windows.py` writes `script/windows.tsv`: per string, px a row and rows, with source `measured` (drawn in the tour), `class` (a measured sibling) or `guess`. The table below comes from the tour on the build before pairs (75 scenes); it needs the rerun on this engine, which also shows any box whose width the code computes from a word count.
+`tools/windows.py` writes `script/windows.tsv`: per string, px a row and rows, with source `measured` (drawn in the tour), `class` (a measured sibling) or `guess`. The table below holds on the final engine: all 75 scenes reached, and every box at every position has the same w and h as on the build before pairs, so **no box width comes from a word count**. `windows.py` must read a tour of the current build: it maps text addresses through `build/writes.txt`, which each marker build rewrites.
+
+Two reads of the dump's own text are left, neither a word: `0x433F90` (`●`, a list's bead, code `0x0A9731`) and `0x440C8A` (8 blanks, an empty item name, `0x0A7919`).
+
+**Non-text strings** (`insert.non_text`): a bead, blanks, a rule of colons, an empty slot, digits or variables alone. They keep their bytes in the marker and must stay out of translation: `188EA4` is the bead of the battle menu, and a marker there drew `4T` in place of it. Punctuation lines (`……`, `？？？`, `[FFEA]‼`) count as words.
+
+**A label's leading `●` stays:** `●つづきから` and `●レンタル！` draw their own bead and the cursor sits on that cell, so English goes after it and the bead takes 8 px of the budget. Leading and trailing `　` pad a label to its box: English doesn't need them (`　　どうぐ　　` is a centred header, so centring it is the translator's call).
 
 | Variant | Budget | Evidence |
 |---|---|---|
@@ -65,7 +71,9 @@ The game's fixed limits count words: the name slots (6 for the player, 8 + termi
 | Legendz name | 64 px; 96 on its own status page | `0x0A58CF`, `0x0B98F9` w=8; `0x0C00EF` w=12 |
 | Skill name | 80 px | `0x0BFCA5` w=10 |
 | Field menu commands | 48-56 px | `0x0A58CF` w=6, 7 |
-| Title menu | 56-64 px | `0x0CF0AD` w=7, 8 |
+| Title menu | 48, 56, 56, 64 px, bead included | `0x0CF0AD` w=6, 7, 7, 8. Layout table `0x46B418`: pointer, x, y, w, 0. The left labels have 8 cells before the next one starts; raising w needs the tiles checked first (phase 7) |
+| Name entry labels | 32-56 px | `0x0CC731`, `0x0CC75D` w=4; `0x0CC67F` w=7 |
+| Save slot, shop and rental headers | 16-56 px | one-row `S` boxes at w=2-7 in `windows.tsv` |
 | Quips | scrolling; 68-word buffer | **guess**: never on screen (`status.md`) |
 | Card names, skill info, unreached labels | Japanese cells x 8 | **guess** |
 

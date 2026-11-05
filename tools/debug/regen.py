@@ -7,10 +7,12 @@ Output: work/qa/scenes/<name>/ (run), work/states/<name>.mss, work/qa/scenes/pro
 work/saves/<name>.sav (what a `save = true` scene wrote; a `sav = "name"` scene boots with it).
 """
 import argparse
+import ctypes
 import re
 import shutil
 import subprocess
 import sys
+import time
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
@@ -23,6 +25,10 @@ DEFAULT_QA = ROOT / "work/qa/scenes"
 QA = DEFAULT_QA
 EXTRA_LUA = []
 TIMEOUT = 280
+RESUME = False
+MIN_FREE = 0.0  # GB: under this a running scene stops, and runs again once there is 1 GB more
+MEMORY_WAIT = 3 * 3600
+ROM_NAME = ""
 
 ROM = next(l for l in (ROOT / "rom.sha1").read_text(encoding="utf-8").splitlines() if l.strip() and not l.startswith("#")).split("  ", 1)[1]
 
@@ -41,6 +47,25 @@ def scenes():
     return out
 
 
+def free_gb():
+    class Status(ctypes.Structure):
+        _fields_ = [("length", ctypes.c_ulong), ("load", ctypes.c_ulong), ("total", ctypes.c_ulonglong), ("avail", ctypes.c_ulonglong),
+                    ("pagefile", ctypes.c_ulonglong), ("availfile", ctypes.c_ulonglong), ("virt", ctypes.c_ulonglong), ("availvirt", ctypes.c_ulonglong), ("ext", ctypes.c_ulonglong)]
+    s = Status()
+    s.length = ctypes.sizeof(s)
+    ctypes.windll.kernel32.GlobalMemoryStatusEx(ctypes.byref(s))
+    return s.avail / 2**30
+
+
+def wait_for_memory(gb):
+    """Hold the next scene until the machine has room; give up rather than wait all day."""
+    deadline = time.time() + MEMORY_WAIT
+    while free_gb() < gb:
+        if time.time() > deadline:
+            sys.exit("under %.1f GB free for %d s: stopped; rerun with --resume" % (gb, MEMORY_WAIT))
+        time.sleep(30)
+
+
 def run(rom, name, frames, every, saves=False, sav=None):
     out = QA / name
     state = (ROOT / "work/states" if QA == DEFAULT_QA else QA) / (name + ".mss")
@@ -51,8 +76,31 @@ def run(rom, name, frames, every, saves=False, sav=None):
         cmd += ["--sav", str(SAVE_FIXTURES / (sav + ".sav"))]
     for lua in EXTRA_LUA:
         cmd += ["--script", lua]
-    with open(QA / (name + ".log"), "w", encoding="utf-8") as f:
-        code = subprocess.call(cmd, cwd=ROOT, stdout=f, stderr=subprocess.STDOUT)
+    if RESUME and finished(name):
+        return result(name, 0)
+    while True:
+        wait_for_memory(MIN_FREE + 1)
+        with open(QA / (name + ".log"), "w", encoding="utf-8") as f:
+            proc = subprocess.Popen(cmd, cwd=ROOT, stdout=f, stderr=subprocess.STDOUT)
+            while proc.poll() is None and free_gb() >= MIN_FREE:
+                time.sleep(5)
+            if proc.poll() is not None:
+                return result(name, proc.returncode)
+            print("low memory: %.1f GB free, stopping %s to run it again" % (free_gb(), name), flush=True)
+            subprocess.call(["taskkill", "/PID", str(proc.pid), "/T", "/F"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            proc.wait()
+        if saves:  # the stopped run may have left its save, and a cold boot must not see one
+            (ROOT / "tools/mesen/Saves" / (Path(ROM_NAME).stem + ".sav")).unlink(missing_ok=True)
+
+
+def finished(name):
+    """A scene an earlier, stopped run already got through."""
+    log = QA / name / "log.txt"
+    return (QA / name / "final.png").exists() and log.exists() and "REACHED " + name in log.read_text(encoding="utf-8", errors="replace")
+
+
+def result(name, code):
+    out = QA / name
     log = (out / "log.txt").read_text(encoding="utf-8", errors="replace") if (out / "log.txt").exists() else ""
     reached = "REACHED " + name in log
     final = out / "final.png"
@@ -63,7 +111,7 @@ def run(rom, name, frames, every, saves=False, sav=None):
 
 
 def main():
-    global QA, TIMEOUT
+    global QA, TIMEOUT, RESUME, MIN_FREE, ROM_NAME
     ap = argparse.ArgumentParser()
     ap.add_argument("--rom", default=ROM)
     ap.add_argument("--only", default="")
@@ -71,9 +119,12 @@ def main():
     ap.add_argument("--out", default=str(DEFAULT_QA), help="output folder; away from the default, states go there too")
     ap.add_argument("--lua", action="append", default=[], help="extra --script for every run, e.g. tools/lua/textlog.lua")
     ap.add_argument("--timeout", type=int, default=TIMEOUT, help="seconds per scene; exec hooks (--lua) slow the long scenes past the default")
+    ap.add_argument("--resume", action="store_true", help="skip scenes this output folder already finished")
+    ap.add_argument("--min-free", type=float, default=0.0, help="GB of free memory: under it a scene stops and reruns when there's room (the machine may be shared)")
     a = ap.parse_args()
     QA = Path(a.out).resolve()
     TIMEOUT = a.timeout
+    RESUME, MIN_FREE, ROM_NAME = a.resume, a.min_free, a.rom
     EXTRA_LUA.extend(a.lua)
     QA.mkdir(parents=True, exist_ok=True)
     table = scenes()

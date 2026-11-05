@@ -2,6 +2,7 @@
 Every write goes through put(), logged for romdiff (references/pipeline.md, Checks). Marker mode writes `[id] filler` instead of `en`.
 """
 import json
+import re
 import struct
 from pathlib import Path
 
@@ -24,6 +25,7 @@ TYPEWRITER = {"dialogue", "system", "link", "rental"}  # mostly the 2-row dialog
 NAME_SLOTS = {"places", "legendz"}
 # the name entry grid: the cursor picks a cell by its index in the string, so every cell stays one word
 SINGLE_WORDS = {"441066", "4410A4", "4410E2", "441120", "44115E", "44119C"}
+NON_TEXT = re.compile(r"(?:<end>|<page>\n?|<br>\n?|[　●¦：－『』％＇＂／\d]|\[FF[0-9A-F]{2}\])*")
 
 
 class Rom:
@@ -107,6 +109,11 @@ def repoint(rom, entry, new):
         rom.put(site, struct.pack("<I", nib << 28 | CPU + new), "ptr " + entry["id"])
 
 
+def non_text(entry):
+    """Nothing to translate: a bead, blanks, a rule of colons, an empty slot, digits, variables alone. These stay as they are; a marker on the battle menu's bead drew "4T" there."""
+    return NON_TEXT.fullmatch(entry["jp"]) is not None
+
+
 def jp_lines(entry):
     """The string's lines without controls, and its terminator: <page> or <end>."""
     text = entry["jp"].replace("\n", "")
@@ -167,7 +174,8 @@ def marker_text(entry, block, widths):
             elif n and not line:
                 out.append("")
             elif n == 0:
-                head = marker_id(entry, room, widths) + "".join(variables)
+                lead = "●" if line.startswith("●") else ""  # a label's own bead: the menu's cursor sits on this cell, so words must start after it
+                head = lead + marker_id(entry, room - 8 * len(lead), widths) + "".join(variables)
                 out.append(fill(head, room, widths, 0))
             else:
                 out.append(fill("", room, widths, 11 * n))
@@ -213,7 +221,11 @@ def insert_marker(rom, overrides=None):
     encoded = []
     for block, entries in strings():
         for e in entries:
-            text = (overrides or {}).get(e["id"]) or marker_text(e, block, widths)
+            text = (overrides or {}).get(e["id"])
+            if not text and non_text(e):
+                encoded.append((e, jpcodec.encode(e["jp"])))
+                continue
+            text = text or marker_text(e, block, widths)
             encoded.append((e, font_en.encode(text, None if e["id"] in SINGLE_WORDS else pairs)))
     engine(rom, pairs)
     for e, data in encoded:
