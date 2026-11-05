@@ -37,7 +37,7 @@ The battle's lines and the quips draw one 16x16 OBJ per word out of a **ring of 
 
 A line slides in, and mid-slide its letters look doubled: that's the game's animation, not a bug.
 
-## Pairs: two letters a word (verified: Unicorn test, 8 tour scenes; the full tour was cut short, `status.md`)
+## Pairs: two letters a word (verified: Unicorn test, full marker tour of the final build)
 
 The game's fixed limits count words: the name slots (6 for the player, 8 + terminator for a Legendz), report mode's copies (13, 9, 6, 5: `text.md`), the builder's 68-word buffer, the sprite ring. So **`font_en.encode` packs two letters in a row into one word**, code `0x400 + n`, numbered by the build (`pairs` in `insert.insert_marker`). That's a little over 300 for the marker text and a few thousand at most for the script: the word stays under `FFC0`, and the font tables only grow where a pair is looked up.
 
@@ -52,7 +52,9 @@ The game's fixed limits count words: the name slots (6 for the player, 8 + termi
 
 ## Width gate
 
-`tools/windows.py` writes `script/windows.tsv`: per string, px a row and rows, with source `measured` (drawn in the tour), `class` (a measured sibling) or `guess`. The table below holds on the final engine: all 75 scenes reached, and every box at every position has the same w and h as on the build before pairs, so **no box width comes from a word count**. `windows.py` must read a tour of the current build: it maps text addresses through `build/writes.txt`, which each marker build rewrites.
+`tools/windows.py` writes `script/windows.tsv`: per string, px a row and rows, with source `measured` (drawn in the tour), `class` (a measured sibling) or `guess`. The table below holds on the final engine: all 75 scenes reached on `legendz_marker.gba` sha1 `1ea7e0e2` (`work/qa/wg2`), its 59 boxes are the same set as the build before the non-text fix, and those matched the build before pairs at every position, so **no box width comes from a word count**. `windows.py` must read a tour of the current build: it maps text addresses through `build/writes.txt`, which each marker build rewrites. A string's `measured` mark can differ between tours (battles and shop stock vary); the budgets don't.
+
+**Glyph torture (verified in game):** `tools/torture.py` builds `legendz_torture.gba`: every glyph of `font_en.CODES` with double spaces, filled to the budget, in `opening` (font 1, 156 px x 2), `menu_items` (font 2, 64 px and 88 px x 3) and `battle` (sprite line, 240 px, 42 letters). Zoomed shots: every glyph right in all three, nothing clipped, widths even, double spaces show, a 42-letter line spans the screen. An `--qa` or torture line needs its own `<end>`: without one the renderer runs on into the next string.
 
 Two reads of the dump's own text are left, neither a word: `0x433F90` (`●`, a list's bead, code `0x0A9731`) and `0x440C8A` (8 blanks, an empty item name, `0x0A7919`).
 

@@ -175,13 +175,13 @@ id	px	rows	source	where
 23C5A8	240	1	measured	08098C99
 23C5B4	240	1	class	battle line, sprite
 23C5C2	240	1	class	battle line, sprite
-23C5D6	240	1	class	battle line, sprite
+23C5D6	240	1	measured	08098E3B
 23C5E6	240	1	class	battle line, sprite
 23C5F8	240	1	class	battle line, sprite
 23C60C	240	1	class	battle line, sprite
 23C61E	240	1	measured	08098C99
 23C634	240	1	measured	080925C5
-23C64C	240	1	measured	08098C99
+23C64C	240	1	class	battle line, sprite
 23C658	240	1	class	battle line, sprite
 23C66E	240	1	class	battle line, sprite
 23C684	240	1	class	battle line, sprite
@@ -198,7 +198,7 @@ id	px	rows	source	where
 23C750	240	1	class	battle line, sprite
 23C766	240	1	class	battle line, sprite
 23C77A	240	1	class	battle line, sprite
-23C78E	240	1	class	battle line, sprite
+23C78E	240	1	measured	08098E3B
 23C79E	240	1	class	battle line, sprite
 23C7B2	240	1	class	battle line, sprite
 23C7D0	240	1	class	battle line, sprite
@@ -212,14 +212,14 @@ id	px	rows	source	where
 23C834	240	1	class	battle line, sprite
 23C872	240	1	measured	08098CC5
 23C87C	240	1	measured	08098CC5
-23C888	240	1	class	battle line, sprite
+23C888	240	1	measured	08098CC5
 23C890	240	1	class	battle line, sprite
 23C8A0	240	1	class	battle line, sprite
 23C8B4	240	1	class	battle line, sprite
 23C8BC	240	1	class	battle line, sprite
 23C8CA	240	1	measured	08098CC5
-23C8DE	240	1	class	battle line, sprite
-23C8F2	240	1	class	battle line, sprite
+23C8DE	240	1	measured	08098CC5
+23C8F2	240	1	measured	08098CC5
 23C902	240	1	class	battle line, sprite
 23C914	240	1	class	battle line, sprite
 23C924	240	1	class	battle line, sprite
@@ -3098,13 +3098,13 @@ id	px	rows	source	where
 184DAE	64	1	class	status labels, w=8 (0x0BFCA5)
 184DBE	64	1	class	status labels, w=8 (0x0BFCA5)
 1857D8	88	3	class	item info, 11x3 (0x0A7A01, 0x0B7F15)
-18581C	64	1	measured	080A7919
-18582E	88	3	measured	080A7A01
-18585A	64	1	measured	080A7919
+18581C	64	1	measured	080B7E5D
+18582E	88	3	measured	080B7F15
+18585A	64	1	measured	080B7E5D
 18586C	88	3	class	item info, 11x3 (0x0A7A01, 0x0B7F15)
-185898	64	1	measured	080A7919
+185898	64	1	measured	080B7E5D
 1858AA	88	3	class	item info, 11x3 (0x0A7A01, 0x0B7F15)
-1858D4	64	1	measured	080A7919
+1858D4	64	1	measured	080B7E5D
 1858E6	88	3	class	item info, 11x3 (0x0A7A01, 0x0B7F15)
 185928	64	1	class	item list, w=8 (0x0A7919, 0x0B7E5D)
 18593A	88	3	class	item info, 11x3 (0x0A7A01, 0x0B7F15)
@@ -3369,7 +3369,7 @@ id	px	rows	source	where
 2AFF9C	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2AFFB4	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2AFFC6	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
-2AFFDA	64	1	measured	080B98F9
+2AFFDA	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2AFFE6	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2AFFF4	64	1	measured	080A58CF
 2B0002	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
@@ -3379,13 +3379,13 @@ id	px	rows	source	where
 2B002E	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2B003C	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2B004A	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
-2B0054	64	1	measured	080B98F9
+2B0054	64	1	measured	080A58CF
 2B005E	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2B0066	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2B006E	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2B0078	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2B0082	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
-2B008E	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
+2B008E	64	1	measured	080B98F9
 2B009A	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2B00AA	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2B00BA	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
@@ -3409,7 +3409,7 @@ id	px	rows	source	where
 2B01DC	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2B01E6	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2B01F0	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
-2B0206	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
+2B0206	64	1	measured	080B98F9
 2B0216	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2B0220	64	1	measured	080B98F9
 2B022A	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
@@ -3421,7 +3421,7 @@ id	px	rows	source	where
 2B027A	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2B0286	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2B0292	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
-2B02A8	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
+2B02A8	64	1	measured	080B98F9
 2B02B4	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2B02C6	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2B02D8	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
@@ -3537,7 +3537,7 @@ id	px	rows	source	where
 2B08FE	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2B090A	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2B0916	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
-2B0924	64	1	measured	080B98F9
+2B0924	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2B0932	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2B093E	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
 2B094A	64	1	class	name fields, w=8 (0x0A58CF, 0x0B98F9)
