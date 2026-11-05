@@ -11,7 +11,7 @@ id	px	rows	source	where
 440D02	64	1	guess	menu label, not reached: its Japanese cells
 440D14	56	1	measured	080A58CF
 440D24	48	1	guess	menu label, not reached: its Japanese cells
-440D32	24	1	guess	menu label, not reached: its Japanese cells
+440D32	24	1	class	auto-quest cancel, w=3 (0x0B15E6)
 440D3A	88	3	class	auto-quest spot info, 11x3 (0x0B1DCC): values draw over cells 4-5, 9-10; 5-6, 8-9; 5-10
 440D7E	40	1	guess	menu label, not reached: its Japanese cells
 440D8A	24	1	guess	menu label, not reached: its Japanese cells
@@ -3620,8 +3620,8 @@ id	px	rows	source	where
 45AA42	48	1	measured	080A58CF
 45AA78	80	1	measured	080C0075
 45AA8E	8	1	measured	080BF819
-45AA92	32	1	guess	menu label, not reached: its Japanese cells
-45AA9C	32	1	guess	menu label, not reached: its Japanese cells
+45AA92	40	1	class	main role value, w=5 (table 0x45ABF8, record 8, grown in insert.LAYOUT)
+45AA9C	40	1	class	main role value, w=5 (table 0x45ABF8, record 8, grown in insert.LAYOUT)
 45AAA6	32	1	guess	menu label, not reached: its Japanese cells
 45AAB0	8	1	measured	080BF819
 45AAB4	8	1	measured	080BF819
@@ -4392,8 +4392,8 @@ id	px	rows	source	where
 448806	800	1	guess	quip ticker: never seen on screen (status.md)
 448814	800	1	guess	quip ticker: never seen on screen (status.md)
 434BFC	56	1	measured	080B9833
-434C0C	156	2	class	dialogue box
-434C1A	156	2	class	dialogue box
+434C0C	48	1	class	rental menu, w=6 (0x0B9F60)
+434C1A	32	1	class	rental menu, w=4 (0x0B9F84)
 434C24	156	2	class	dialogue box
 434C34	156	2	class	dialogue box
 434C5A	156	2	class	dialogue box

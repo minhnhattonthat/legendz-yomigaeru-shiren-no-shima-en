@@ -242,7 +242,8 @@ def insert_marker(rom, overrides=None):
 LAYOUT = [(0x45ABB4, 14, 12), (0x45ABD4, 14, 16),  # Battles, Damage Taken
           (0x45AC44, 8, 10), (0x45AC5C, 8, 6),  # Support, Item
           (0x45AC64, 10, 8), (0x45AC7C, 12, 14),  # Effect, Normal Skill
-          (0x45AC74, 4, 2), (0x45AC84, 8, 10)]  # the x sign, EX Skill
+          (0x45AC74, 4, 2), (0x45AC84, 8, 10),  # the x sign, EX Skill
+          (0x45AC38, 8, 10)]  # Main Role's value, "Support": the last box 0x0BF3E0 draws, so nothing moves; no box in the tour logs uses the 2 tiles it takes. Page not reached in a tour yet.
 
 
 def layout(rom):

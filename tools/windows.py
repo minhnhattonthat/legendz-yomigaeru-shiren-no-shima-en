@@ -19,6 +19,16 @@ TAG = 64  # a speaker tag: 8 tall OBJs (asm/vwf.s, vwf_tag)
 LINE_PX = 240  # one sprite line: the screen, and at most 21 words
 TICKER = 800  # a quip scrolls: the limit is the 68-word builder buffer, 2 letters a word
 ITEMS = 0x187A5C  # records of name, description, value
+# Boxes read from the code that draws them, for strings the marker tour missed or a block's class gets wrong.
+FROM_CODE = {
+    "440D3A": (88, 3, "class", "auto-quest spot info, 11x3 (0x0B1DCC): values draw over cells 4-5, 9-10; 5-6, 8-9; 5-10"),
+    "440DAE": (88, 2, "class", "auto-quest spot too high, 11x2 (0x0B1F04)"),
+    "440D32": (24, 1, "class", "auto-quest cancel, w=3 (0x0B15E6)"),
+    "45AA92": (40, 1, "class", "main role value, w=5 (table 0x45ABF8, record 8, grown in insert.LAYOUT)"),
+    "45AA9C": (40, 1, "class", "main role value, w=5 (table 0x45ABF8, record 8, grown in insert.LAYOUT)"),
+    "434C0C": (48, 1, "class", "rental menu, w=6 (0x0B9F60)"),
+    "434C1A": (32, 1, "class", "rental menu, w=4 (0x0B9F84)"),
+}
 
 
 def table_field(e, base, stride):
@@ -31,6 +41,8 @@ def owner(e, *prefixes):
 
 def by_class(block, e):
     """(px, rows, source, where) for a string the tour didn't reach."""
+    if e["id"] in FROM_CODE:
+        return FROM_CODE[e["id"]]
     if block in ("dialogue", "system", "link", "rental"):
         if owner(e, "tab:7F020C", "tab:7EF", "tab:7F7") and block == "dialogue" and "<br>" not in e["jp"] and len(e["jp"]) < 14:
             return 64, 1, "class", "status labels, w=8 (0x0BFCA5)"
@@ -57,10 +69,6 @@ def by_class(block, e):
         return 64, 1, "class", "status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)"
     if block == "adventure" and owner(e, "tab:434") and owner(e, "tab:7F6"):
         return 64, 1, "class", "spot list, w=8 (0x0B1C90, table 0x0B1D10)"
-    if e["id"] == "440D3A":
-        return 88, 3, "class", "auto-quest spot info, 11x3 (0x0B1DCC): values draw over cells 4-5, 9-10; 5-6, 8-9; 5-10"
-    if e["id"] == "440DAE":
-        return 88, 2, "class", "auto-quest spot too high, 11x2 (0x0B1F04)"
     return 8 * max(1, len(e["jp"]) - 5), 1, "guess", "menu label, not reached: its Japanese cells"
 
 
