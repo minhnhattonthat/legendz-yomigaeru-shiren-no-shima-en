@@ -776,7 +776,7 @@
    "tab:187C04"
   ],
   "jp": "ぜんぞくせいの　　　　エレメントパワーが　　さいだいになる<end>",
-  "en": "Maxes out Element<br>\nPower of all types.<end>",
+  "en": "Maxes out Element<br>\nPower of every<br>\nelement.<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1304,7 +1304,7 @@
    "tab:187D24"
   ],
   "jp": "レンタルドールを　　　ただでかりられる<end>",
-  "en": "Rent a rental doll<br>\nfor free.<end>",
+  "en": "Get a Rental Doll<br>\nfor free.<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2712,7 +2712,7 @@
    "tab:188024"
   ],
   "jp": "サーガといっしょに　　にがてなツチぞくせいですごしたときのにっき<end>",
-  "en": "Diary of days with<br>\nits Saga in its weak<br>\nEarth type.<end>",
+  "en": "Diary of days with<br>\nits Saga in its weak<br>\nEarth element.<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2756,7 +2756,7 @@
    "tab:18803C"
   ],
   "jp": "ハルカせんせいイチオシレジェンズはかせの　　だいじてん<end>",
-  "en": "Prof. Legendz's big<br>\nbook, Halca-sensei's<br>\ntop pick.<end>",
+  "en": "Halca-sensei's top<br>\npick: Doctor<br>\nLegendz's big book.<end>",
   "status": "tl",
   "notes": ""
  },

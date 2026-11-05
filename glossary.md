@@ -84,3 +84,8 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 - b019 `45BDEA`, `45BDF0`, `45BDFE`: drawn by length (table `0x7F7F30`), so padded with spaces to exactly 3, 7 and 7 words.
 - b024 `440CF8` いくつ？ -> Qty? (32 px measured).
 - b016 ライブRPG `Live RPG`: one word order, never "RPG Live".
+- Review, flagged abbreviation: まぼうぎょ is `M.Def` in the 64 px slots only (`M.Def Up`, `M.Def Focus`, `M.Def Tonic`: the shared string group's limit, `Magic Def Tonic` is 69 px). Everywhere with room: `Magic Defense`.
+- Review: ぼうぎょUP is `Defense Up` (the stat, as in the item text); ～ぼうぎょ resists and とっか/マスター are `Guard` (Earth Guard, Guard Focus, Guard Master).
+- Review: グランドデスサイズ `Grand Scythe` / `G.Scythe` (80 px; Grand Deathscythe is 83).
+- Review: American spelling (favorite). Capitalised terms: Saga Battle, Rental Doll. ドラゴンのもよう is a dragon `design`, not a crest (Crest is もんしょう). カムバックアンドリ・ボーン: `Come back and Reborn!`.
+- Names used in the script: エレメンタルレギオン Elemental Legion, りゅうじんのいずみ Dragon Fountain, たいまのひせき Banish Stone, ヴォルケーノキングドラゴン Volcano King Dragon.

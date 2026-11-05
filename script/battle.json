@@ -1474,7 +1474,7 @@
    "tab:7F3504"
   ],
   "jp": "魔防御UP‼<end>",
-  "en": "M.Def Up!<end>",
+  "en": "Magic Defense Up!<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1540,7 +1540,7 @@
    "tab:7F351C"
   ],
   "jp": "魔防御特化‼<end>",
-  "en": "M.Def Focus!<end>",
+  "en": "Magic Defense Focus!<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1806,7 +1806,7 @@
    "tab:7F357C"
   ],
   "jp": "魔防御　[FFE9]UP‼<end>",
-  "en": "M.Def +[FFE9]!<end>",
+  "en": "Magic Defense +[FFE9]!<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2092,7 +2092,7 @@
    "tab:7F35E4"
   ],
   "jp": "[FFEC]たちは回復した‼<end>",
-  "en": "[FFEC]'s team recovered!<end>",
+  "en": "[FFEC] & allies recovered!<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2103,7 +2103,7 @@
    "tab:7F35E8"
   ],
   "jp": "[FFEC]たちは全回復した‼<end>",
-  "en": "[FFEC]'s team fully healed!<end>",
+  "en": "[FFEC] & allies fully healed!<end>",
   "status": "tl",
   "notes": ""
  },
