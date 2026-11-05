@@ -12,13 +12,13 @@ id	px	rows	source	where
 440D14	56	1	measured	080A58CF
 440D24	48	1	guess	menu label, not reached: its Japanese cells
 440D32	24	1	guess	menu label, not reached: its Japanese cells
-440D3A	264	1	guess	menu label, not reached: its Japanese cells
+440D3A	88	3	class	auto-quest spot info, 11x3 (0x0B1DCC): values draw over cells 4-5, 9-10; 5-6, 8-9; 5-10
 440D7E	40	1	guess	menu label, not reached: its Japanese cells
 440D8A	24	1	guess	menu label, not reached: its Japanese cells
 440D92	32	1	guess	menu label, not reached: its Japanese cells
 440D9C	24	1	guess	menu label, not reached: its Japanese cells
 440DA4	32	1	guess	menu label, not reached: its Japanese cells
-440DAE	176	1	guess	menu label, not reached: its Japanese cells
+440DAE	88	2	class	auto-quest spot too high, 11x2 (0x0B1F04)
 440E0A	48	1	guess	menu label, not reached: its Japanese cells
 440E18	48	1	measured	080A58CF
 440E26	48	1	measured	080A58CF

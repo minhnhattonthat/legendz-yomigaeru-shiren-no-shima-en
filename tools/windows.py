@@ -57,6 +57,10 @@ def by_class(block, e):
         return 64, 1, "class", "status rows x=5, w=8 (table 0x45ACA8, read through 0x0BFAB0)"
     if block == "adventure" and owner(e, "tab:434") and owner(e, "tab:7F6"):
         return 64, 1, "class", "spot list, w=8 (0x0B1C90, table 0x0B1D10)"
+    if e["id"] == "440D3A":
+        return 88, 3, "class", "auto-quest spot info, 11x3 (0x0B1DCC): values draw over cells 4-5, 9-10; 5-6, 8-9; 5-10"
+    if e["id"] == "440DAE":
+        return 88, 2, "class", "auto-quest spot too high, 11x2 (0x0B1F04)"
     return 8 * max(1, len(e["jp"]) - 5), 1, "guess", "menu label, not reached: its Japanese cells"
 
 

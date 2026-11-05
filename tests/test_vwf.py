@@ -189,6 +189,31 @@ class MarkerBuild(unittest.TestCase):
         sites = [int(line.split(" ")[0], 16) for line in self.r.log]
         self.assertEqual(len(sites), len(set(sites)))
 
+    def test_no_branch_lands_inside_a_hook(self):
+        spans = []
+        for line in self.r.log:
+            p = line.split(" ")
+            if p[3] == "hook":
+                spans.append((int(p[0], 16), int(p[0], 16) + len(p[2]) // 2))
+        self.assertGreaterEqual(len(spans), 5)
+        for a, b in spans:
+            for at in range(a - 0x1000 & ~1, b + 0x1000, 2):
+                if a <= at < b:
+                    continue
+                op = struct.unpack_from("<H", ROM, at)[0]
+                if op >> 12 == 0xD and op >> 8 & 15 < 14:  # Bcc
+                    to = at + 4 + ((op & 0xFF ^ 0x80) - 0x80) * 2
+                elif op >> 11 == 0x1C:  # B
+                    to = at + 4 + ((op & 0x7FF ^ 0x400) - 0x400) * 2
+                elif op >> 11 == 0x1E:  # BL, in two halves
+                    low = struct.unpack_from("<H", ROM, at + 2)[0]
+                    if low >> 11 != 0x1F:
+                        continue
+                    to = at + 4 + ((op & 0x7FF ^ 0x400) - 0x400 << 12) + (low & 0x7FF) * 2
+                else:
+                    continue
+                self.assertFalse(a < to < b, "%06X branches to %06X, inside the hook at %06X" % (at, to, a))
+
 
 class EnglishBuild(MarkerBuild):
     """The same ROM checks as the marker's, on the real script, and what only English has."""
