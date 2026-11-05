@@ -13,13 +13,14 @@ helps most.
 
 | Part | Status |
 |---|---|
-| <Dialogue / story> | <Translated> |
-| <Menus, items, skills, system messages> | <Translated> |
-| <Title screen, logos, graphics with text> | <Translated / Left in Japanese> |
-| <Name entry> | <Translated / Japanese kana only> |
-| <Songs, voiced lines, credits roll> | <Left in Japanese> |
+| Dialogue, story, Soul Doll talk, Auto-Quest diary | Translated |
+| Menus, items, skills, cards, battle and system messages | Translated |
+| Title subtitle, menus and banners drawn as graphics | Translated (the stylised レジェンズ logo is kept: no official English logo) |
+| Name entry | Translated |
+| Credits roll | Translated |
+| Soul Doll adapter | Not needed: the patch includes a virtual doll |
 
-Known issues: <none known / see [Issues](../../issues)>.
+Known issues: see [Issues](../../issues).
 
 ## What's here
 
@@ -40,12 +41,13 @@ Known issues: <none known / see [Issues](../../issues)>.
 Needs Python 3.12+ and your own dump of the Japanese game.
 
 ```sh
-git clone https://github.com/minhnhattonthat/<repo>
-cd <repo>
-# copy your dump to: rom/<file>
-#   (<size> bytes, SHA-1 <sha1>; the build refuses any other dump, see rom.sha1)
-python -X utf8 tools/build.py                          # -> build/<game>_en.<ext>
+git clone https://github.com/minhnhattonthat/legions-yomigaeru-shiren-no-shima-en
+cd legions-yomigaeru-shiren-no-shima-en
+# copy your dump to: rom/Legions - Yomigaeru Shiren no Shima (Japan).gba
+#   (8,388,608 bytes, SHA-1 ff1e05a2fa70933dcf58a8be4f82fa289647c28a; the build refuses any other dump, see rom.sha1)
+python -X utf8 build.py                                # -> build/legendz_en.gba
 python -X utf8 tools/check.py                          # tests + text lint
+python -X utf8 tools/release.py                        # every gate, then release/*.zip (patch + README)
 ```
 
 ## Support
@@ -56,8 +58,8 @@ If you enjoy this translation, you can support my work on Ko-fi:
 
 ## Licence
 
-Tools and English translation: MIT. The original Japanese text in `script/` is <publisher>'s and is included only so
-the translation can be checked against it. <Game title> is (c) <publisher>; this project is not affiliated with them.
+Tools and English translation: MIT. The original Japanese text in `script/` is Bandai's and is included only so
+the translation can be checked against it. Legendz: Yomigaeru Shiren no Shima is (c) Wiz / Bandai; this project is not affiliated with them.
 Do not share patched ROMs.
 
 The translation was made with extensive AI assistance (Claude by Anthropic). Corrections are very welcome.

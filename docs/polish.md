@@ -381,3 +381,10 @@ Minor findings from the phase 6 review (`work/qa/review/bNNN.md`, read-only revi
 - [x] 18127A - レジェンズは そのなのとおり そんざいじたいが でんせつなのよ (Legendz, as the name says, are legends by their very existence) - "are legend itself" is ungrammatical - "Legendz, true to their name,<br>are legends just by existing!" - **fixed**
 - [x] 184596 / 1845C6 (fixed in phase 8 with Dino's 1844A4 / 1844DE, split mid-phrase) - one sentence over two pages; the second ends on the lone word "island~♪" - reflow: "Look, look♪ I picked up<br>so much Legendz research<page>" / "material on that<br>island~♪" or similar, widths via `batches.py fit`.
 - [x] room captions - 5 rooms' top banners are the JP ROM's own English art and differ from our subtitles: ISLAND OF WINGS/Isle of Wings, BLUE CAVE/Blue Water Cave, UNDER THE LAKE/Lakebed Cave, DARKNESS TOWER/Dark Tower, EVIL DRAGON'S RUINS/Evil Dragon Ruins. Align the subtitles (and glossary) to the banners, or keep and note why. - **waived: kept and recorded, D14 and glossary.md**
+
+## Story pass (phase 9, `work/qa/story/`)
+
+- [x] 02_hidden_event - 9 Minors: 17EA1C calling out (no "me"), 17EAEC I knew it, 17EBCC I'll go with you, 17EEA8 starting the Reborn now, 17EF14 tell you how, 17F120 vibe, 17F2EA Take that Goblin out (no "for me"), 17F4BA/17F53A I'm so mad / So mad, gob, 17F678 No, that's not it - **fixed as suggested**
+- [x] 01_ship - 18110C you two, 181BB4 More than friends / pushing each other higher, 181D96 before we reach the island, 17FA10 Dad, Mom (JP order), 17F9F4 Hee hee (Arisa's spelling) - **fixed**; 18187C gender prompt kept as a prompt, 1812FE no ♪ in the JP - **waived**
+- [x] 03_live_rpg - 161A4A showed up, 161B4C that was sudden, 161F34 Ehehe, 162C90/162CD2/162DD4 Ryuichiro more formal, 180872, 18085C corny, 16418A pretty cool, huh - **fixed**; 1620FC digit row is `insert.non_text`, kept as the original's bytes - **waived**
+- [x] 04_stages_1 - 1643E4 gooob, 165160 Really (Honestly is Meg's), 1659B8 set your skills, 166016 no y'know, 166CA4 Chief, 167764 the two of us, 168E8E the Dwarf, 16912E Kyaa - **fixed**; 166550-1665CE Ryuichiro mild in the JP too, tablet order per glossary - **waived**

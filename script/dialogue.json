@@ -19,7 +19,7 @@
    "op33:02B742"
   ],
   "jp": "き　きやがったゴブなぁ～！<page>\n",
-  "en": "Y-you came, gob!<page>\n",
+  "en": "Y-you showed up, gob!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -85,7 +85,7 @@
    "opBE:02B784:2"
   ],
   "jp": "うわっ　そんないきなり！！<page>\n",
-  "en": "Whoa, not so suddenly!!<page>\n",
+  "en": "Whoa, that was sudden!!<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -273,7 +273,7 @@
    "op33:01E410"
   ],
   "jp": "おさかな　いっぱいもらえるかな～<br>\nワクワク！<page>\n",
-  "en": "I wonder if I'll get lots of fish!<br>\nSo excited!<page>\n",
+  "en": "I wonder if I'll get lots of fish!<br>\nEhehe, so excited!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1133,7 +1133,7 @@
    "opDD:02862C"
   ],
   "jp": "はじめまして！　サーガコマンドの<br>\nリュウイチロウです　よろしく！<page>\n",
-  "en": "Nice to meet you! I'm Ryuichiro,<br>\nthe Saga Commander. Hello!<page>\n",
+  "en": "Pleased to meet you all! I'm<br>\nRyuichiro, the Saga Commander.<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -1147,7 +1147,7 @@
    "opDD:028634"
   ],
   "jp": "これから　だいじな　はなしを<br>\nするから　みんな　しずかにきいてね<page>\n",
-  "en": "I've got something important<br>\nto say, so please listen quietly.<page>\n",
+  "en": "I have something important to<br>\nsay, so please listen quietly.<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -1209,7 +1209,7 @@
    "opDD:02880C"
   ],
   "jp": "ボクは　だいまおうの　じょうほうを<br>\nここで　いろいろ　あつめてみる！<page>\n",
-  "en": "I'll stay here and gather what<br>\nI can on the Demon King!<page>\n",
+  "en": "I shall stay here and gather<br>\nwhat I can on the Demon King!<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -2253,7 +2253,7 @@
    "opDD:028DFC"
   ],
   "jp": "オレは　トロルだったんだ！<br>\nへへへっ　いーだろう♪<page>\n",
-  "en": "Mine's a Troll!<br>\nHeheh, jealous?♪<page>\n",
+  "en": "Mine's a Troll!<br>\nHeheh, pretty cool, huh?♪<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -2401,7 +2401,7 @@
    "opDD:0281EC"
   ],
   "jp": "おみせしまってるから　わるいこと<br>\nできないゴブーっ！<page>\n",
-  "en": "The shops are closed, so I<br>\ncan't do anything bad, goooob!<page>\n",
+  "en": "The shops are closed, so I<br>\ncan't do anything bad, gooob!<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -3210,7 +3210,7 @@
    "opDD:02D940"
   ],
   "jp": "もう　せっかく　このワタシが<br>\nまってて　あげてたのに…<page>\n",
-  "en": "Honestly, here I went to the<br>\ntrouble of waiting for you...<page>\n",
+  "en": "Really, I went to the trouble<br>\nof waiting for you...<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -3801,7 +3801,7 @@
    "opDD:02DCB4"
   ],
   "jp": "フフッ…　ちゃんと　きたわね<br>\nちゃんとワザは　セットしてある？<page>\n",
-  "en": "Heh... So you came after all.<br>\nDo you have your skills Set?<page>\n",
+  "en": "Heh... So you came after all.<br>\nHave you set your skills?<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -4152,7 +4152,7 @@
    "opDD:0316EC"
   ],
   "jp": "さっき　INFOのおにいさんに<br>\nきいたんだけどさ～<page>\n",
-  "en": "I just asked the guy<br>\nat INFO, y'know...<page>\n",
+  "en": "I just asked the guy<br>\nat INFO, and...<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -4925,7 +4925,7 @@
    "opDD:031D12"
   ],
   "jp": "オレたちも　これでりっぱな<br>\nレジェンズ　つかいっすね！<page>\n",
-  "en": "That makes us real<br>\nLegendz users, boss!<page>\n",
+  "en": "That makes us real<br>\nLegendz users, Chief!<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -5632,7 +5632,7 @@
    "opDD:0394A0"
   ],
   "jp": "オレたちふたりで　タリスポッド<br>\nゲットしたら　ボーナスでるかな！？<page>\n",
-  "en": "If us two nab the Talispod, I<br>\nwonder if we'll get a bonus!?<page>\n",
+  "en": "If the two of us nab the Talispod,<br>\nI wonder if we'll get a bonus!?<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -7120,7 +7120,7 @@
    "opDD:0328A4"
   ],
   "jp": "あとは　ドワーフのこうぼうで<br>\nタリスダムを　つくってもらうんだ<page>\n",
-  "en": "Now just have them build your<br>\nTalisdam at the Dwarf's Workshop.<page>\n",
+  "en": "Now just have the Dwarf build your<br>\nTalisdam at his Workshop.<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -7274,7 +7274,7 @@
    "opDD:0329DA"
   ],
   "jp": "レジェンズを　キャー　キャー<br>\nいいながら　おいかけてたのよ…！<page>\n",
-  "en": "She was chasing a Legendz<br>\naround, going \"Eek! Eek!\"...!<page>\n",
+  "en": "She was chasing a Legendz<br>\naround, going \"Kyaa! Kyaa!\"...!<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -29586,7 +29586,7 @@
    "opBE:024E5C:2"
   ],
   "jp": "なんだか　こっちにきてって…<br>\nよんでいるみたい…だったね<page>\n",
-  "en": "It seemed like it was calling<br>\nme to come over there...<page>\n",
+  "en": "It felt like it was calling out,<br>\n\"Come over here\"...<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -29642,7 +29642,7 @@
    "opDD:024F08"
   ],
   "jp": "やっぱり　アナタがそうなのね…！？<page>\n",
-  "en": "So you are the one...!?<page>\n",
+  "en": "I knew it. You're the one...!?<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -29726,7 +29726,7 @@
    "opDD:024F42"
   ],
   "jp": "つきあってあげるから　はやく<br>\nさがしに　いきましょ！<page>\n",
-  "en": "I'll come along, so let's hurry<br>\nand go look for it!<page>\n",
+  "en": "I'll go with you, so hurry<br>\nup and let's go look for it!<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -29951,7 +29951,7 @@
    "opBE:023F3E:2"
   ],
   "jp": "う　うん…　もちろんしってるよ！<br>\nそれじゃ　リボーンはじめるよ！<page>\n",
-  "en": "Y-yeah... Of course I know!<br>\nHere goes, starting the reborn!<page>\n",
+  "en": "Y-yeah... Of course I know!<br>\nOkay, starting the Reborn now!<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -29979,7 +29979,7 @@
    "opDD:023F60"
   ],
   "jp": "しかたないわね…　いい？　やりかた<br>\nおしえるから　ちゃんと　おぼえてね<page>\n",
-  "en": "Oh, all right. Listen: I'll show<br>\nyou how, so remember it.<page>\n",
+  "en": "Oh, honestly... Listen up. I'll<br>\ntell you how, so remember it.<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -30109,7 +30109,7 @@
    "opBE:024068"
   ],
   "jp": "なんか…　こどものドラゴン？<br>\nそんな　カンジだねー<page>\n",
-  "en": "Kind of... a little kid dragon?<br>\nThat's the feeling I get.<page>\n",
+  "en": "Kind of... a little kid dragon?<br>\nThat's the vibe I get.<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -30235,7 +30235,7 @@
    "opDD:024154"
   ],
   "jp": "はやく！　あんなゴブリン　サクッと<br>\nかたしちゃってよ！！<page>\n",
-  "en": "Hurry! Make short work of<br>\nthat Goblin for me!!<page>\n",
+  "en": "Hurry! Take that Goblin<br>\nout, quick!!<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -30350,7 +30350,7 @@
    "opDD:0242FA"
   ],
   "jp": "いたたた…　くやしーーー！！<br>\nこんどこそぜったい　まけないぞ！<page>\n",
-  "en": "Ow ow ow... That stinks!!<br>\nNext time I won't lose for sure!<page>\n",
+  "en": "Ow ow ow... I'm so mad!!<br>\nI won't lose next time, no way!<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -30378,7 +30378,7 @@
    "opDD:0241E8"
   ],
   "jp": "くやしいゴブー！！<br>\nここは　にげるがカチなんだゴブー！<page>\n",
-  "en": "This stinks, gob!!<br>\nHe who runs away wins, gob!<page>\n",
+  "en": "So mad, gob!!<br>\nHe who runs away wins, gob!<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -30462,7 +30462,7 @@
    "opBE:024252"
   ],
   "jp": "あはは…　そうじゃないってば<page>\n",
-  "en": "Haha... I told you, it's not.<page>\n",
+  "en": "Haha... No, that's not it.<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -30725,7 +30725,7 @@
    "opDD:0250E8"
   ],
   "jp": "ウフフ…<br>\nよかったわねー！<page>\n",
-  "en": "Hee-hee...<br>\nIsn't that wonderful!<page>\n",
+  "en": "Hee hee...<br>\nIsn't that wonderful!<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -30739,7 +30739,7 @@
    "opBE:0250F4"
   ],
   "jp": "おとうさん　おかあさん<br>\nどうも　アリガトー！！<page>\n",
-  "en": "Mom, Dad,<br>\nthank you so much!!<page>\n",
+  "en": "Dad, Mom,<br>\nthank you so much!!<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -31752,7 +31752,7 @@
    "opDD:0236BE"
   ],
   "jp": "…ベタな　せっていね<page>\n",
-  "en": "...What a cliched setup.<page>\n",
+  "en": "...What a corny setup.<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -31766,7 +31766,7 @@
    "opBE:0236C4"
   ],
   "jp": "あはは…　まあ　いいんじゃない？<page>\n",
-  "en": "Haha... Well, isn't it fine?<page>\n",
+  "en": "Haha... Well, it's fine, isn't it?<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -32296,7 +32296,7 @@
    "opDD:02527E"
   ],
   "jp": "このフネが　どこにむかっているのか<br>\nわかってんのかしらね？<page>\n",
-  "en": "Do they even know where<br>\nthis ship is going?<page>\n",
+  "en": "Do you two even know where<br>\nthis ship is going?<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -33136,7 +33136,7 @@
    "opDD:02569C"
   ],
   "jp": "そう…　ライバル！　ともだちよりも<br>\nおたがいを　たかめあうカンケイ…<page>\n",
-  "en": "Yes... a rival! Closer than friends,<br>\neach one lifting the other higher...<page>\n",
+  "en": "Yes... a rival! More than friends,<br>\npushing each other higher...<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
@@ -33276,7 +33276,7 @@
    "opDD:025750"
   ],
   "jp": "そしたら　しまにつくまで<br>\nもうすこし　こうしていられるわね…<page>\n",
-  "en": "Then I can stay like this a<br>\nlittle longer before we reach it...<page>\n",
+  "en": "Then I can stay like this a little<br>\nlonger before we reach the island...<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
