@@ -251,6 +251,29 @@ class EnglishBuild(MarkerBuild):
             self.assertEqual(new[t * 32:t * 32 + 32], old[t * 32:t * 32 + 32])
         self.assertNotEqual(new[:5 * 32], old[:5 * 32])
 
+    def test_relabelled_maps_only_grow_their_sheet_and_change_label_cells(self):
+        import lz77
+        for name, (sheet, ptrs, maps) in insert.MAP_LABELS.items():
+            old = lz77.decompress(ROM, sheet)[0]
+            for p in ptrs:
+                new = lz77.decompress(self.r.out, struct.unpack_from("<I", self.r.out, p)[0] - 0x08000000)[0]
+                self.assertEqual(new[:len(old)], old, name)  # other maps on this sheet keep their tiles
+                self.assertGreater(len(new), len(old), name)
+            for at, map_ptr, _, labels in maps:
+                w, h = ROM[at + 4], ROM[at + 5]
+                was = struct.unpack_from("<%dH" % (w * h), ROM, at + 6)
+                now = struct.unpack_from("<%dH" % (w * h), self.r.out, struct.unpack_from("<I", self.r.out, map_ptr)[0] - 0x08000000 + 6)
+                rects = {(cx + i, cy + j) for (cx, cy, cw, ch), *_ in labels for i in range(cw) for j in range(ch)}
+                changed = {(n % w, n // w) for n in range(w * h) if was[n] != now[n]}
+                self.assertTrue(changed and changed <= rects, name)
+
+    def test_banner_keeps_its_size_and_changes(self):
+        for name, (ptr, at, *_rest) in insert.BANNERS.items():
+            size = struct.unpack_from("<H", ROM, at)[0]
+            new = struct.unpack_from("<I", self.r.out, ptr)[0] - 0x08000000
+            self.assertEqual(self.r.out[new:new + 2], ROM[at:at + 2], name)
+            self.assertNotEqual(self.r.out[new + 2:new + 2 + size], ROM[at + 2:at + 2 + size], name)
+
     def test_every_string_has_english_or_keeps_its_bytes(self):
         for _, entries in insert.strings():
             for e in entries:

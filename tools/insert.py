@@ -266,6 +266,8 @@ def allowed():
     """Every span below BASE the build may write, built from the tables, not the log: (start, end) pairs. A write outside them is a stray."""
     spans = [(site, site + len(old) // 2) for _, site, old, _ in HOOKS] + [(site, site + len(old) // 2) for _, site, old in DOLL_HOOKS]
     spans += [(PEN_RESET, PEN_RESET + 2), (FONT_TABLE, FONT_TABLE + 8), (SPRITE_TABLE, SPRITE_TABLE + 64), (G2_PTR, G2_PTR + 4)]
+    spans += [(p, p + 4) for v in MAP_LABELS.values() for p in v[1]] + [(m[1], m[1] + 4) for v in MAP_LABELS.values() for m in v[2]]
+    spans += [(v[0], v[0] + 4) for v in BANNERS.values()]
     spans += [(site, site + 2) for site, _ in BOX_WIDTH_SITES] + [(at + 4, at + 6) for at, _, _ in LAYOUT]
     entries = [e for _, es in strings() for e in es] + json.loads((ROOT / "script" / "credits.json").read_text(encoding="utf-8"))
     spans += [(int(o.split(":")[1], 16), int(o.split(":")[1], 16) + 4) for e in entries for o in e["owners"]]
@@ -276,6 +278,26 @@ def allowed():
 # Labels by top-row tile column: start, tiles, English. Tile 22 and 27 are the menu's orange corner marks and stay.
 G2_SHEET, G2_PTR = 0x47FE24, 0x0D6728
 G2_LABELS = [(0, 5, "Fight"), (5, 4, "Shift E"), (9, 4, "Items"), (13, 4, "Run"), (17, 5, "Talisdam"), (23, 4, "Give Up")]
+
+
+def draw_text(px, pen, top, text, fill, edge, x0, x1):
+    """English font art at (pen, top) on a pixel grid, outlined 1 px, kept inside columns x0..x1 and on clear (0) pixels only."""
+    adv = [font_en.art_width(c) + 1 if c != " " else 2 for c in text]  # a 3 px word gap: `Give Up` fills its 4 tiles
+    width = sum(adv) - 1 if text else 0
+    if pen + width > x1 - 1 or pen - 1 < x0:
+        raise ValueError("label %r is %d px from %d, room %d-%d" % (text, width, pen, x0, x1))
+    ink = set()
+    for c, a in zip(text, adv):
+        for y, row in enumerate(font_en.ART[c]):
+            ink.update((top + y, pen + x) for x, ch in enumerate(row) if ch == "#")
+        pen += a
+    rim = {(y + dy, x + dx) for y, x in ink for dy in (-1, 0, 1) for dx in (-1, 0, 1)} - ink
+    if any(y < 0 or x < 0 or y >= len(px) or px[y][x] for y, x in ink | rim):
+        raise ValueError("label %r lands on drawn pixels or off the grid" % text)
+    for y, x in rim:
+        px[y][x] = edge
+    for y, x in ink:  # a list fill shades by row from the capital's top, its last colour on down
+        px[y][x] = fill[min(y - top, len(fill) - 1)] if isinstance(fill, list) else fill
 
 
 def draw_labels(tiles, cols, labels, fill=2, edge=1, top=4):
@@ -291,21 +313,7 @@ def draw_labels(tiles, cols, labels, fill=2, edge=1, top=4):
         x0, x1 = start * 8, (start + n) * 8
         for y in range(16):
             px[y][x0:x1] = [0] * (x1 - x0)
-        adv = [font_en.art_width(c) + 1 if c != " " else 2 for c in text]  # a 3 px word gap: `Give Up` fills its 4 tiles
-        width = sum(adv) - 1 if text else 0
-        if width > x1 - x0 - 2:
-            raise ValueError("label %r is %d px, room %d" % (text, width, x1 - x0 - 2))
-        pen = x0 + 1  # flush after the bead, as the kana sit
-        for c, a in zip(text, adv):
-            for y, row in enumerate(font_en.ART[c]):
-                for x, ch in enumerate(row):
-                    if ch == "#":
-                        px[top + y][pen + x] = fill
-            pen += a
-        for y in range(16):
-            for x in range(x0, x1):
-                if px[y][x] == 0 and any(px[y + dy][x + dx] == fill for dy in (-1, 0, 1) for dx in (-1, 0, 1) if 0 <= y + dy < 16 and x0 <= x + dx < x1):
-                    px[y][x] = edge
+        draw_text(px, x0 + 1, top, text, fill, edge, x0, x1)  # flush after the bead, as the kana sit
     out = bytearray(len(tiles))
     for t in range(cols * 2):
         for y in range(8):
@@ -315,6 +323,109 @@ def draw_labels(tiles, cols, labels, fill=2, edge=1, top=4):
     return bytes(out)
 
 
+# Labels drawn through a raw BG map (header `00 size24`, w, h, then u16 entries: tile index in its LZ sheet, h/v flip bits 10/11).
+# The sheet's loader (0x8095710) hands out VRAM tiles in load order and keeps each sheet's base in RAM, so a sheet can grow:
+# a label's new tiles go on its end and the map copies point at them. Each: sheet, its pointers, then maps: map, its pointer,
+# style (background, fill: a colour or a shade a row, outline), labels as ((x, y, w, h) map cells, pen x, English[, top]) in map
+# px. Every rect's fill and outline become the background first, then each English goes on, its capital's top at `top` or the
+# rect's top + 4. Empty English: just cleared.
+PLAIN = (0, 2, 1)
+STAT_SHADE = (0, [0xA, 9, 8, 8, 7, 7, 6], 1)
+MAP_LABELS = {
+    "G3": (0x435CA0, [0x0D51B4], [(0x4379A0, 0x485498, PLAIN, [  # field menu (field_menu, field_menu_party)
+        ((9, 5, 5, 2), 73, "Money"), ((8, 7, 6, 2), 65, "Soul Doll"), ((7, 9, 9, 2), 59, "Guest Legendz"),
+        ((6, 11, 6, 2), 51, "Play Time"), ((5, 14, 7, 2), 43, "Auto-Quest"), ((8, 16, 3, 2), 66, "runs"),
+        ((20, 7, 1, 2), 0, ""), ((18, 9, 2, 2), 0, "")])]),  # コ and 種 after the counts: the number alone reads
+    "G15": (0x438E60, [0x0D5280], [  # doll care (menu_care): footer みがく, ドールいどう beside sprite icons; top bar `1/ 1コ`
+        (0x43938A, 0x485518, PLAIN, [((5, 1, 4, 2), 41, "Polish"), ((13, 1, 7, 2), 105, "Switch Doll")]),
+        (0x4392EC, 0x485508, (3, 2, 1), [((17, 2, 2, 1), 0, "")])]),
+    # Talispod status (menu_talispod): ちから ぼうぎょ まりょく まぼうぎょ すばやさ, 12 px apart in a 40 px column (D9: M.Def)
+    "G13": (0x45B004, [0x0BF77C, 0x0C1608], [(0x45B34E, 0x0BF988, STAT_SHADE, [((0, 0, 5, 8), 1, t, 4 + 12 * i) for i, t in enumerate(
+        ["Power", "Defense", "Magic", "M.Def", "Speed"])])]),
+}
+
+
+def relabel_map(sheet, cells, w, labels, style):
+    """Redraw labels through a map: returns the grown sheet and the new cells. Unchanged tiles keep their index."""
+    bg, fill, edge = style
+    clear = {edge, bg} | set(fill if isinstance(fill, list) else [fill])
+    tiles = bytearray(sheet)
+    index = {}
+    for k in range(len(tiles) // 32 - 1, -1, -1):
+        index[bytes(tiles[k * 32:k * 32 + 32])] = k
+    cells = list(cells)
+    h = len(cells) // w
+    px = [[-1] * (w * 8) for _ in range(h * 8)]  # -1: transparent and staying so
+    for n, e in enumerate(cells):
+        t = tiles[(e & 0x3FF) * 32:(e & 0x3FF) * 32 + 32]
+        for y in range(8):
+            for x in range(8):
+                ty, tx = (7 - y if e & 0x800 else y), (7 - x if e & 0x400 else x)
+                v = t[ty * 4 + tx // 2] >> 4 * (tx & 1) & 15 if len(t) == 32 else 0
+                px[n // w * 8 + y][n % w * 8 + x] = -1 if v == 0 and bg else v
+    touched = set()
+    for (cx, cy, cw, ch), *_ in labels:
+        touched |= {(cx + i, cy + j) for i in range(cw) for j in range(ch)}
+        for y in range(cy * 8, (cy + ch) * 8):
+            for x in range(cx * 8, (cx + cw) * 8):
+                if px[y][x] in clear:
+                    px[y][x] = 0
+    for (cx, cy, cw, ch), pen, text, *top in labels:
+        if text:
+            draw_text(px, pen, top[0] if top else cy * 8 + 4, text, fill, edge, cx * 8, (cx + cw) * 8)
+    def val(y, x):
+        v = px[y][x]
+        return 0 if v < 0 else v or bg
+
+    for i, j in sorted(touched):
+        t = bytes(val(j * 8 + y, i * 8 + x) | val(j * 8 + y, i * 8 + x + 1) << 4 for y in range(8) for x in range(0, 8, 2))
+        if t not in index:
+            index[t] = len(tiles) // 32
+            tiles += t
+        cells[j * w + i] = index[t]
+    return bytes(tiles), cells
+
+
+# Raw OBJ sheets drawn on a shaded banner: (pointer, sheet: u16 byte size then 4bpp tiles in rows of `cols`), cols, rows,
+# fill, outline, the banner's text span in px, English (centred there). Kana pixels take the nearest banner colour in their row.
+BANNERS = {
+    "G14": (0x0CCC58, 0x43B678, 17, 2, 0xF, 2, (17, 124), "START: Confirm"),  # name entry footer スタートボタン：けっていへ
+}
+
+
+def tile_px(tiles, cols, rows):
+    return [[tiles[((y // 8) * cols + x // 8) * 32 + (y % 8) * 4 + (x % 8) // 2] >> 4 * (x & 1) & 15 if ((y // 8) * cols + x // 8) * 32 < len(tiles) else 0
+             for x in range(cols * 8)] for y in range(rows * 8)]
+
+
+def px_tiles(px, cols, size):
+    out = bytearray(size)
+    for i in range(0, size * 2):
+        t, p = divmod(i, 64)
+        y, x = (t // cols) * 8 + p // 8, (t % cols) * 8 + p % 8
+        out[i // 2] |= px[y][x] << 4 * (x & 1)
+    return bytes(out)
+
+
+def redraw_banner(tiles, cols, rows, fill, edge, span, text):
+    px = tile_px(tiles, cols, rows)
+    for row in px:
+        keep = [x for x, v in enumerate(row) if v and v not in (fill, edge)]
+        for x in range(span[0], span[1]):
+            if row[x] in (fill, edge):
+                row[x] = row[min(keep, key=lambda k: abs(k - x))]
+    ink = [[0] * len(px[0]) for _ in px]
+    width = sum(font_en.art_width(c) + 1 if c != " " else 2 for c in text) - 1
+    draw_text(ink, (span[0] + span[1] - width) // 2, 2, text, fill, edge, span[0], span[1])
+    for y, row in enumerate(ink):
+        for x, v in enumerate(row):
+            if v:
+                if not px[y][x]:
+                    raise ValueError("banner text %r leaves the banner at %d,%d" % (text, x, y))
+                px[y][x] = v
+    return px_tiles(px, cols, len(tiles))
+
+
 def graphics(rom):
     """Tile-drawn Japanese replaced: a new LZ block past the dump, its pointer moved."""
     import lz77
@@ -322,6 +433,23 @@ def graphics(rom):
     data = lz77.compress(draw_labels(tiles, 28, G2_LABELS), 2)
     expect(rom, G2_PTR, struct.pack("<I", CPU + G2_SHEET).hex())
     rom.put(G2_PTR, struct.pack("<I", CPU + rom.append(data, "gfx G2", 4)), "gfx ptr G2")
+    for name, (sheet, sheet_ptrs, maps) in MAP_LABELS.items():
+        tiles = lz77.decompress(rom.orig, sheet)[0]
+        for at, map_ptr, style, labels in maps:
+            w, h = rom.orig[at + 4], rom.orig[at + 5]
+            tiles, cells = relabel_map(tiles, struct.unpack_from("<%dH" % (w * h), rom.orig, at + 6), w, labels, style)
+            expect(rom, map_ptr, struct.pack("<I", CPU + at).hex())
+            new = rom.orig[at:at + 6] + struct.pack("<%dH" % len(cells), *cells)
+            rom.put(map_ptr, struct.pack("<I", CPU + rom.append(new, "gfx map " + name, 4)), "gfx map ptr " + name)
+        new = rom.append(lz77.compress(tiles, 2), "gfx " + name, 4)
+        for p in sheet_ptrs:
+            expect(rom, p, struct.pack("<I", CPU + sheet).hex())
+            rom.put(p, struct.pack("<I", CPU + new), "gfx ptr " + name)
+    for name, (ptr, at, cols, rows, fill, edge, span, text) in BANNERS.items():
+        size = struct.unpack_from("<H", rom.orig, at)[0]
+        expect(rom, ptr, struct.pack("<I", CPU + at).hex())
+        new = rom.orig[at:at + 2] + redraw_banner(rom.orig[at + 2:at + 2 + size], cols, rows, fill, edge, span, text)
+        rom.put(ptr, struct.pack("<I", CPU + rom.append(new, "gfx " + name, 4)), "gfx ptr " + name)
 
 
 def credits_en(text):
