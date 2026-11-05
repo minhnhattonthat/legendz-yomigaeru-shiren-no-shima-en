@@ -847,7 +847,7 @@
    "tab:7F3420"
   ],
   "jp": "属性効果バッチリ‼<end>",
-  "en": "Perfect attribute match!<end>",
+  "en": "Perfect element match!<end>",
   "status": "tl",
   "notes": ""
  },
@@ -858,7 +858,7 @@
    "tab:7F3424"
   ],
   "jp": "属性効果イマイチ‼<end>",
-  "en": "Poor attribute match!<end>",
+  "en": "Poor element match!<end>",
   "status": "tl",
   "notes": ""
  },

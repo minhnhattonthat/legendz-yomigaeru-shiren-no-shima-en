@@ -6,6 +6,7 @@
     python -X utf8 tools/batches.py status             # per block: translated, left; multi-page lines for phase 7
     python -X utf8 tools/batches.py lint               # check every merged string (run after glossary changes)
     python -X utf8 tools/batches.py fit "text / text" [--px 156]
+    python -X utf8 tools/batches.py credits            # work/tl/credits.out.txt -> script/credits.json
 
 Input line: id, speaker, limit (156x2 = px x rows), flags (* = op 0116, one of 4 personality lines), Japanese. ` / ` is a row break, ` // ` a new page (phase 7 builds
 those: vwf.md, Longer than two lines). Output line: id, English. The terminator comes from the Japanese. Identical Japanese is one entry, written to every copy.
@@ -212,7 +213,11 @@ def problems(en, copies, bud, w):
         cap = max(len(jpcodec._token.findall(jp.replace("<end>", "").replace("<page>\n", ""))), 6 if "places" in blocks and int(copies[0][1]["id"], 16) >= 0x188C56 else 8)
         if words(en) > cap:
             out.append("%d words, name slot holds %d" % (words(en), cap))
-    return out + glossary_problems(jp, en)
+    return out + ([] if copies[0][1]["id"] in TERM_IN_NEIGHBOUR else glossary_problems(jp, en))
+
+
+# A sentence split over two strings: English word order puts the glossary term in the neighbouring string (checked by hand, phase 6).
+TERM_IN_NEIGHBOUR = set("16296A 1662C0 16B2A2 16BAB2 16CFF8 16F646 170CDC 1717CA 1785C8 17B2A2 17B600 17B7E6 17BE86 17C194 17CD26 181AF6 1838E6".split())
 
 
 def glossary():
@@ -233,6 +238,7 @@ def glossary_problems(jp, en):
     if GLOSSARY is None:
         GLOSSARY = glossary()
     out = []
+    en = en.replace(" / ", " ").replace(" // ", " ")  # a term may wrap
     for term, want, avoid in GLOSSARY:
         for a in avoid:
             if re.search(r"\b%s\b" % re.escape(a), en):
@@ -315,12 +321,63 @@ def lint(blocks, bud, w):
     return errs
 
 
+CREDIT_CELLS = 15  # one 8 px glyph a cell, from x = 120 to the screen's edge
+
+
+def credits():
+    """work/tl/credits.out.txt -> script/credits.json. `>NAME` right-aligns; a name too wide takes two rows, given then family. A page keeps the Japanese's row count, or the roll's timing moves."""
+    path = ROOT / "script" / "credits.json"
+    entries = json.loads(path.read_text(encoding="utf-8"))
+    rows, errs = [], []
+    for row in (TL / "credits.out.txt").read_text(encoding="utf-8").splitlines():
+        head, _, tail = row.rpartition(">")
+        if not _:
+            rows.append(row)
+            continue
+        name = tail[:-4]
+        parts = [name] if len(name) <= CREDIT_CELLS else name.split(" ", 1)
+        rows += [head + "　" * (CREDIT_CELLS - len(p)) + p + "[FD]" for p in parts]
+    want = [p.count("[FD]") for p in entries[0]["jp"].split("[F3]")]
+    pages = "\n".join(rows).split("[F3]")
+    for n, page in enumerate(pages):
+        lines = page.split("\n")
+        while sum(line.count("[FD]") for line in lines) > want[n]:
+            # a double blank gives up a row, then a single one, last first: a page's opening blanks place its picture
+            gap = next((i for i in range(len(lines) - 2, 1, -1) if lines[i] == lines[i + 1] == "[FD]"), None)
+            if gap is None:
+                gap = next((i for i in range(len(lines) - 1, 1, -1) if lines[i] == "[FD]"), None)
+            if gap is None:
+                break
+            lines.pop(gap)
+        rows_here = sum(line.count("[FD]") for line in lines)
+        if rows_here > max(want):
+            errs.append("page %d: %d rows, the Japanese's longest page has %d" % (n, rows_here, max(want)))
+        elif rows_here > want[n]:
+            print("page %d: %d rows, Japanese %d (checked on screen in phase 8)" % (n, rows_here, want[n]))
+        pages[n] = "\n".join(lines)
+    en = "[F3]".join(pages).replace(" ", "　")  # 00 is the 8-bit blank
+    for row in en.split("\n"):
+        plain = re.sub(r"\[F1\].|\[F2\].|\[F3\]|\[FD\]|\[FF\]", "", row)
+        if len(plain) > CREDIT_CELLS:
+            errs.append("too wide: " + plain)
+        bad = [c for c in plain if c != "　" and font_en.CODES.get(c, 0xFF) > 0xF0]
+        if bad:
+            errs.append("no 8-bit code: %r in %s" % (bad, plain))
+    if errs:
+        raise SystemExit("\n".join(errs))
+    entries[0]["en"], entries[0]["status"] = en, "tl"
+    path.write_text(json.dumps(entries, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
+    print("OK", len(rows), "rows")
+
+
 def main():
     a = sys.argv[1:]
     if not a:
         raise SystemExit(__doc__)
     if a[0] == "split":
         split()
+    elif a[0] == "credits":
+        credits()
     elif a[0] == "fit":
         w = widths()
         px = int(a[a.index("--px") + 1]) if "--px" in a else 156

@@ -40,7 +40,7 @@
    "tab:7F7F30"
   ],
   "jp": "LV　ニックネーム¦しょゆうしゃ¦ぼうけんちゅうコマンドブレイズドラゴンニックネーム00ただいまメッセージ<end>",
-  "en": "LV<end>",
+  "en": "LV <end>",
   "status": "tl",
   "notes": ""
  },
@@ -51,7 +51,7 @@
    "tab:7F7F38"
   ],
   "jp": "ニックネーム¦しょゆうしゃ¦ぼうけんちゅうコマンドブレイズドラゴンニックネーム00ただいまメッセージ<end>",
-  "en": "Nickname¦<end>",
+  "en": "Name¦  <end>",
   "status": "tl",
   "notes": ""
  },
@@ -62,7 +62,7 @@
    "tab:7F7F40"
   ],
   "jp": "しょゆうしゃ¦ぼうけんちゅうコマンドブレイズドラゴンニックネーム00ただいまメッセージ<end>",
-  "en": "Owner¦<end>",
+  "en": "Owner¦ <end>",
   "status": "tl",
   "notes": ""
  },
@@ -4875,7 +4875,7 @@
    "tab:46AC20"
   ],
   "jp": "ぞくせいの「あいしょう」って<br>\nちゃんと　かんがえてる？<page>\n",
-  "en": "Do you think about the<br>\nattribute \"affinity\"?<page>\n",
+  "en": "Do you think about the<br>\nelement \"affinity\"?<page>\n",
   "status": "tl",
   "notes": ""
  },

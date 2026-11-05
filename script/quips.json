@@ -402,7 +402,7 @@
    "tab:7F6A94"
   ],
   "jp": "ここって<br>\nカゼぞくせい<br>\nだけあって<br>\nすごくカゼが<br>\nつよいよ！<br>\nとばされないようにきをつけなきゃ！<end>",
-  "en": "This place<br>\nis Wind<br>\nattribute,<br>\nso the wind<br>\nis really strong!<br>\nCareful not to get blown away!<end>",
+  "en": "This place<br>\nis Wind<br>\nelement,<br>\nso the wind<br>\nis really strong!<br>\nCareful not to get blown away!<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -510,7 +510,7 @@
    "tab:7F6AB8"
   ],
   "jp": "ここは<br>\nヒカリぞくせいのばしょだね…ふ～<br>\nなんだか<br>\nきんちょう<br>\nしちゃうよ…<end>",
-  "en": "This is a<br>\nLight attribute place... Phew~<br>\nSomehow<br>\nI'm getting<br>\nnervous...<end>",
+  "en": "This is a<br>\nLight element place... Phew~<br>\nSomehow<br>\nI'm getting<br>\nnervous...<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -522,7 +522,7 @@
    "tab:7F6ABC"
   ],
   "jp": "ヒカリぞくせいのボスって<br>\nどんなヒトなのかなぁ…<br>\nいいヒトだと<br>\nいいなぁ…<end>",
-  "en": "I wonder what a Light<br>\nattribute boss is like...<br>\nI hope they're<br>\nnice...<end>",
+  "en": "I wonder what a Light<br>\nelement boss is like...<br>\nI hope they're<br>\nnice...<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -546,7 +546,7 @@
    "tab:7F6AC4"
   ],
   "jp": "う～ん<br>\nふつうっぽい<br>\nトコだけど…<br>\nヒカリぞくせいだけあって<br>\nフシギなフンイキがするよね…<end>",
-  "en": "Hmm,<br>\nseems like an<br>\nordinary spot...<br>\nBut, Light attribute<br>\ngives it a mysterious feel...<end>",
+  "en": "Hmm,<br>\nseems like an<br>\nordinary spot...<br>\nBut, Light element<br>\ngives it a mysterious feel...<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -654,7 +654,7 @@
    "tab:7F6AE8"
   ],
   "jp": "へぇ…<br>\nこんなトコが<br>\nあるんだね～<br>\nここからは<br>\nぞくせいの<br>\nチカラをなにもかんじないよ！<end>",
-  "en": "Huh...<br>\nSo there are<br>\nplaces like this~<br>\nI can't feel<br>\nany attribute<br>\npower at all from here!<end>",
+  "en": "Huh...<br>\nSo there are<br>\nplaces like this~<br>\nI can't feel<br>\nany element<br>\npower at all from here!<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -2106,7 +2106,7 @@
    "tab:7F6CCC"
   ],
   "jp": "ヒカリぞくせいのばしょか…<br>\nガラにもなく<br>\nきんちょう<br>\nしちまったぜ<end>",
-  "en": "A Light attribute place...<br>\nIt's not like me,<br>\nbut I'm<br>\na bit tense.<end>",
+  "en": "A Light element place...<br>\nIt's not like me,<br>\nbut I'm<br>\na bit tense.<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -2142,7 +2142,7 @@
    "tab:7F6CD8"
   ],
   "jp": "さすがにヒカリぞくせいだな…ハダにかんじるフンイキが<br>\nちがうぜ…<end>",
-  "en": "Light attribute, all right... The air<br>\nfeels different...<end>",
+  "en": "Light element, all right... The air<br>\nfeels different...<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -2250,7 +2250,7 @@
    "tab:7F6CFC"
   ],
   "jp": "ぞくせいの<br>\nないばしょか…ゆうりも<br>\nふりもない<br>\nチカラだけが<br>\nしょうぶを<br>\nきめるばしょだ<end>",
-  "en": "A place with<br>\nno attribute... No edge,<br>\nno handicap.<br>\nOnly power<br>\ndecides<br>\nthe match.<end>",
+  "en": "A place with<br>\nno element... No edge,<br>\nno handicap.<br>\nOnly power<br>\ndecides<br>\nthe match.<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -3714,7 +3714,7 @@
    "tab:7F6EE4"
   ],
   "jp": "ヒカリぞくせいがなによ！<br>\nボスもどうせ<br>\nたいしたこと…<end>",
-  "en": "So what if it's Light attribute!<br>\nThe boss must be<br>\nnothing much...<end>",
+  "en": "So what if it's Light element!<br>\nThe boss must be<br>\nnothing much...<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -3738,7 +3738,7 @@
    "tab:7F6EEC"
   ],
   "jp": "ここもたしか<br>\nヒカリぞくせいだったわよね…なんかふつうっぽいトコね…<end>",
-  "en": "This one's Light attribute<br>\ntoo... It seems kind of ordinary...<end>",
+  "en": "This one's Light element<br>\ntoo... It seems kind of ordinary...<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -3774,7 +3774,7 @@
    "tab:7F6EF8"
   ],
   "jp": "ヤミぞくせいがなんだっての！ぎゃくにひらきなおっちゃう<br>\nわね！<end>",
-  "en": "So what if it's Dark attribute! I'll just get over<br>\nit!<end>",
+  "en": "So what if it's Dark element! I'll just get over<br>\nit!<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -4458,7 +4458,7 @@
    "tab:7F6FFC"
   ],
   "jp": "ふぅ～<br>\nいまのちょっとヤバかったわ…ぞくせいって<br>\nあなどれないわね…<end>",
-  "en": "Phew~<br>\nThat was a bit dicey... Attributes<br>\naren't to be underestimated...<end>",
+  "en": "Phew~<br>\nThat was a bit dicey... Elements<br>\naren't to be underestimated...<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -4734,7 +4734,7 @@
    "tab:7F724C"
   ],
   "jp": "ぞくせい？<br>\nレベル？<br>\nなんだそれ？<br>\nトクなのか？<br>\nそうかよかったぞーーー‼<end>",
-  "en": "Attribute?<br>\nLevel?<br>\nWhat's that?<br>\nGood deal?<br>\nOh, greeeat!!<end>",
+  "en": "Element?<br>\nLevel?<br>\nWhat's that?<br>\nGood deal?<br>\nOh, greeeat!!<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -4746,7 +4746,7 @@
    "tab:7F7250"
   ],
   "jp": "ぞくせい？<br>\nレベル？<br>\nなんだそれ？<br>\nオレがトクなのか？ホントか？<end>",
-  "en": "Attribute?<br>\nLevel?<br>\nWhat's that?<br>\nGood for me? Really?<end>",
+  "en": "Element?<br>\nLevel?<br>\nWhat's that?<br>\nGood for me? Really?<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -4758,7 +4758,7 @@
    "tab:7F7254"
   ],
   "jp": "ぞくせい？<br>\nレベル？<br>\nなんだそれ？<br>\nそんなのかんけいないぞー‼<end>",
-  "en": "Attribute?<br>\nLevel?<br>\nWhat's that?<br>\nMe not care!!<end>",
+  "en": "Element?<br>\nLevel?<br>\nWhat's that?<br>\nMe not care!!<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -5298,7 +5298,7 @@
    "tab:7F7308"
   ],
   "jp": "ココ、ヒカリのぞくせい…<br>\nソレって<br>\nすごいのか？<br>\nオレそういうのぜんぜん<br>\nわかんない…<end>",
-  "en": "Here, Light attribute...<br>\nIs that<br>\namazing?<br>\nMe don't get that<br>\nstuff at all...<end>",
+  "en": "Here, Light element...<br>\nIs that<br>\namazing?<br>\nMe don't get that<br>\nstuff at all...<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -5370,7 +5370,7 @@
    "tab:7F7320"
   ],
   "jp": "ココ、<br>\nヤミぞくせい…ソレって<br>\nすごいのか？<br>\nオレそういうのぜんぜん<br>\nわかんない…<end>",
-  "en": "Here,<br>\nDark attribute... Is that<br>\namazing?<br>\nMe don't get that<br>\nstuff at all...<end>",
+  "en": "Here,<br>\nDark element... Is that<br>\namazing?<br>\nMe don't get that<br>\nstuff at all...<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -5442,7 +5442,7 @@
    "tab:7F7338"
   ],
   "jp": "ココ、ぞくせいないばしょ！<br>\nだからあんしんだぞ♪<br>\nなんであんしんなんだ？<br>\nオレわからん…<end>",
-  "en": "Here, no-attribute place!<br>\nSo me feel safe♪<br>\nWhy me feel safe?<br>\nMe don't know...<end>",
+  "en": "Here, no-element place!<br>\nSo me feel safe♪<br>\nWhy me feel safe?<br>\nMe don't know...<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"

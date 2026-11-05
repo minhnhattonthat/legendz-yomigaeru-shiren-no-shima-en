@@ -23,8 +23,8 @@ BOX_WIDTH_SITES = [(0x08D2CA, 1), (0x0A9522, 0), (0x0B2B8A, 0), (0x0B9E7A, 0), (
 SPRITE_BLOCKS = {"battle", "quips"}
 TYPEWRITER = {"dialogue", "system", "link", "rental"}  # mostly the 2-row dialogue box; marker lines fill it
 NAME_SLOTS = {"places", "legendz"}
-# the name entry grid: the cursor picks a cell by its index in the string, so every cell stays one word
-SINGLE_WORDS = {"441066", "4410A4", "4410E2", "441120", "44115E", "44119C"}
+# Name entry grid: its cursor picks a cell by index. 45BD*: table 0x7F7F30 draws 3, 7, 7 words of each by length, not to a terminator (phase 6), so spaces pad them to that count.
+SINGLE_WORDS = {"441066", "4410A4", "4410E2", "441120", "44115E", "44119C", "45BDEA", "45BDF0", "45BDFE"}
 NON_TEXT = re.compile(r"(?:<end>|<page>\n?|<br>\n?|[　●¦：－『』％＇＂／\d]|\[FF[0-9A-F]{2}\])*")
 
 
