@@ -16,6 +16,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 - ゾクセイ/ぞくせい is "element" everywhere ("Fire element", "Earth type" only where English wants it), to match Shift Element and Element Power.
 - ぼうけん: "adventure" in the story's Live RPG, "quest" in Auto-Quest: spot lists, the partner's diary lines, doll prompts.
 - A sprite line is at most 21 words (pairs of letters count as one): tools/batches.py checks it.
+- Place labels in capitals are the game's own English (the `places` block's English-in-Japanese strings). Kept as written, except five fixed for sense: TRIAL OF AQUA -> TRIAL OF WATER (the element is Water everywhere), HOSPICE -> LODGE (a hospice is end-of-life care), EXPENSIVE SHOP -> LUXURY SHOP, MERMAID'S HOUSE -> MERMAID'S HOME, EVIL DRAGON'S RELIC -> EVIL DRAGON'S RUINS (いせき is ruins). Five room names translate the Japanese and differ from their capitals: Isle of Wings (ISLAND OF WINGS), Blue Water Cave (BLUE CAVE), Lakebed Cave (UNDER THE LAKE), Dark Tower (DARKNESS TOWER), Evil Dragon Ruins (EVIL DRAGON'S RUINS). Kept: the names follow the Japanese the dialogue uses, the capitals are the original's own English art, and players see both together.
 - The 8 tablets are one sentence in order: "The crag above / the giant dragon's / very heart, / when it shakes the land, / the waters barring / your way shall vanish, / and a new labyrinth / shall reveal its form."
 
 ## Characters

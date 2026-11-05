@@ -160,7 +160,7 @@
    "tab:187AB4"
   ],
   "jp": "セットされたレジェンズぜんいんをふっかつさせHPを50％かいふく<end>",
-  "en": "Revives all<br>\nset Legendz<br>\nwith 50% HP.<end>",
+  "en": "Revives all<br>\nparty Legendz<br>\nwith 50% HP.<end>",
   "status": "tl",
   "notes": ""
  },
@@ -424,7 +424,7 @@
    "tab:187B44"
   ],
   "jp": "すべての　　　　　　　ふういんじょうたいを　かいふくさせる<end>",
-  "en": "Cures all seals.<end>",
+  "en": "Cures all<br>\nsealed states.<end>",
   "status": "tl",
   "notes": ""
  },
@@ -468,7 +468,7 @@
    "tab:187B5C"
   ],
   "jp": "セットされたレジェンズぜんいんのじょうたいをかいふくさせる<end>",
-  "en": "Cures the status<br>\nof all set Legendz.<end>",
+  "en": "Cures the status<br>\nof all Legendz<br>\nin the party.<end>",
   "status": "tl",
   "notes": ""
  },
@@ -622,7 +622,7 @@
    "tab:187BB0"
   ],
   "jp": "バトルフィールドを　　むぞくせいに　　　　　へんかさせる<end>",
-  "en": "Turns the<br>\nbattlefield Null.<end>",
+  "en": "Turns the<br>\nbattlefield<br>\nelementless.<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1458,7 +1458,7 @@
    "tab:187D78"
   ],
   "jp": "カゼのけっしょうを　　くみこんだタリスダム<end>",
-  "en": "A Talisdam fitted<br>\nwith a wind crystal.<end>",
+  "en": "A Talisdam fitted<br>\nwith a Wind Crystal.<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2382,7 +2382,7 @@
    "tab:187F70"
   ],
   "jp": "りゅうおうのつかいで　とびかうレジェンズが　あつさしのぎにもつ<end>",
-  "en": "Dragon King<br>\nmessengers hold it<br>\nto beat the heat.<end>",
+  "en": "Dragon King's<br>\nflying Legendz use<br>\nit to beat the heat.<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2404,7 +2404,7 @@
    "tab:187F7C"
   ],
   "jp": "くものようにかるく　　ここちよさがにんきの　いっぴん<end>",
-  "en": "A popular gem,<br>\nlight as a cloud<br>\nand so comfy.<end>",
+  "en": "A popular item,<br>\nlight as a cloud<br>\nand so comfy.<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2514,7 +2514,7 @@
    "tab:187FB8"
   ],
   "jp": "スケボーにつかうよりもうみでサーフィンに　　つかっているらしい…<end>",
-  "en": "They say it's<br>\nused to surf<br>\nmore than skate...<end>",
+  "en": "They say it's used<br>\nto surf the sea<br>\nmore than skate...<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2569,7 +2569,7 @@
    "tab:187FD8"
   ],
   "jp": "ひみつのバンダナ<end>",
-  "en": "Hush Bandana<end>",
+  "en": "Spy Bandana<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2624,7 +2624,7 @@
    "tab:187FF4"
   ],
   "jp": "いがいにひとみしりな　レジェンズもこれで　　クールにだいへんしん<end>",
-  "en": "Turns a shy<br>\nLegendz into<br>\na cool one.<end>",
+  "en": "Turns an oddly shy<br>\nLegendz into<br>\na cool one.<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2690,7 +2690,7 @@
    "tab:188018"
   ],
   "jp": "カレといっしょの　　　ランチボックスは　　　ゆでたまごでぎっしり<end>",
-  "en": "Shared with him,<br>\nand packed with<br>\nboiled eggs.<end>",
+  "en": "Lunchbox for two,<br>\npacked with<br>\nboiled eggs.<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2800,7 +2800,7 @@
    "tab:188054"
   ],
   "jp": "しつないようのハイテクけいたいせんぷうき　　うるさいのがタマにキズ<end>",
-  "en": "High-tech indoor<br>\nfan. Its one<br>\nflaw: it's noisy.<end>",
+  "en": "High-tech portable<br>\nindoor fan. Flaw:<br>\nit's noisy.<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2822,7 +2822,7 @@
    "tab:188060"
   ],
   "jp": "みてい<end>",
-  "en": "TBD<end>",
+  "en": "Undecided<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2833,7 +2833,7 @@
    "tab:188068"
   ],
   "jp": "げきからドリンク<end>",
-  "en": "Spicy Drink<end>",
+  "en": "Fiery Drink<end>",
   "status": "tl",
   "notes": ""
  },

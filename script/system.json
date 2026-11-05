@@ -161,7 +161,7 @@
    "tab:467C28"
   ],
   "jp": "これは…　ぼうけんスポットのちず！<br>\nキャーーーッ　ステキ！！<page>\n",
-  "en": "This is... a Quest Spot map!<br>\nEeeek, how wonderful!!<page>\n",
+  "en": "This is... a Quest Spot map!<br>\nKyaaa, how wonderful!!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1123,7 +1123,7 @@
    "tab:467EE8"
   ],
   "jp": "スマンがこれでも　いそがしいのでないっしょに　ぼうけんはできぬ…<page>\n",
-  "en": "Forgive me, but I am busy. I<br>\ncannot go on a quest with you...<page>\n",
+  "en": "Forgive me, but I am busier than<br>\nI look. I cannot go on a quest...<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1156,7 +1156,7 @@
    "tab:467F08"
   ],
   "jp": "ワタシは　ミズをすべるりゅうのおうサーガのみちを　あゆむものよ…<page>\n",
-  "en": "I am the dragon king ruling Water,<br>\nyou who walk the Saga's way...<page>\n",
+  "en": "Walker of the Saga's way, I am<br>\nthe dragon king ruling Water...<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1266,7 +1266,7 @@
    "tab:467F68"
   ],
   "jp": "そとのせかいは　なんねんぶりかな～なにがおきるか　たのしみだなぁ♪<page>\n",
-  "en": "How many years since I've seen<br>\noutside~ I wonder what'll happen♪<page>\n",
+  "en": "Been years since I saw outside~<br>\nCan't wait to see what happens♪<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1277,7 +1277,7 @@
    "tab:467F70"
   ],
   "jp": "キミがボクのパートナーだね！<br>\nがんばるからヨロシクね‼<page>\n",
-  "en": "You're my partner, right!<br>\nI'll do my best, so hi there!!<page>\n",
+  "en": "You're my partner, right! I'll<br>\ndo my best, so be nice to me!!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1499,7 +1499,7 @@
    "tab:468038"
   ],
   "jp": "ながいつきあいに　なりそうだな。<br>\nじゃ、よろしくたのむよ！<page>\n",
-  "en": "This looks to be a long<br>\npartnership. So, if you please!<page>\n",
+  "en": "This looks to be a long<br>\npartnership. Let's get along!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1576,7 +1576,7 @@
    "tab:468088"
   ],
   "jp": "これで　スポットがひとつふえたね！えへへ。ボクえらい？<page>\n",
-  "en": "This adds one more<br>\nspot! Ehehe. Am I good?<page>\n",
+  "en": "This adds one more<br>\nspot! Ehehe. Aren't I great?<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1862,7 +1862,7 @@
    "tab:4681C8"
   ],
   "jp": "あ～ら　おひさしぶり！<br>\nほかのコばかり　よんでたんでしょ！<page>\n",
-  "en": "Oh my, long time no see!<br>\nYou've been calling other girls!<page>\n",
+  "en": "Oh my, long time no see!<br>\nYou've been calling the others!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1961,7 +1961,7 @@
    "tab:4691A0"
   ],
   "jp": "じゃ、よむから　よくきいててね！<page>\n",
-  "en": "So I'll read it, listen close!<page>\n",
+  "en": "Okay, I'll read it, so listen close!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -2291,7 +2291,7 @@
    "tab:469330"
   ],
   "jp": "よう、[FFEE]。げんきかい？<br>\nこんかいも　せわになるぜ<page>\n",
-  "en": "Hey, [FFEE]. How've you been?<br>\nI'm in your care again.<page>\n",
+  "en": "Hey, [FFEE]. How've you been?<br>\nThanks for having me again.<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -2346,7 +2346,7 @@
    "tab:469380"
   ],
   "jp": "うおおおーーー‼<br>\nオレ　[FFEC]‼‼<page>\n",
-  "en": "Rraaaaah!!<br>\nMe, [FFEC]!!!<page>\n",
+  "en": "Rraaaaah!!<br>\nMe, [FFEC]!!!!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -2401,7 +2401,7 @@
    "tab:46A328"
   ],
   "jp": "じゃ、よむから　よくきいててね！<page>\n",
-  "en": "So I'll read it, listen close!<page>\n",
+  "en": "Okay, I'll read it, so listen close!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -2667,7 +2667,7 @@
    "tab:7F7FBC"
   ],
   "jp": "フ：　[FFC5]ていどなら<br>\nいっしゅんで　おぼえられるぜ<page>\n",
-  "en": "Heh... [FFC5]?<br>\nI can pick that up in an instant.<page>\n",
+  "en": "Heh... Just [FFC5]?<br>\nI can pick that up in an instant.<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -2856,7 +2856,7 @@
    "tab:46A538"
   ],
   "jp": "う～ん　キモチはうれしいけど：<br>\nううん　なんでもないよ　ありがと♪<page>\n",
-  "en": "Mmm, it's the thought that counts...<br>\nNo, it's nothing. Thanks♪<page>\n",
+  "en": "Mmm, I appreciate the thought...<br>\nNo, it's nothing. Thanks♪<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -2970,7 +2970,7 @@
    "tab:7F691C"
   ],
   "jp": "よーし！　こんかいのぼうけんは<br>\n「はっけん」じゅうしでいくよ！<page>\n",
-  "en": "All right! This quest, we go<br>\nfor \"Finds\"!<page>\n",
+  "en": "All right! This quest, we go<br>\nfor \"Find\"!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -2994,7 +2994,7 @@
    "tab:7F6928"
   ],
   "jp": "りょうかいだ。こんかいは<br>\n「じかん」たんしゅくでいくか<page>\n",
-  "en": "Understood. This time, I'll<br>\ngo for shorter \"Time\".<page>\n",
+  "en": "Understood. This time, I'll<br>\ngo for less \"Time\".<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -3018,7 +3018,7 @@
    "tab:7F692C"
   ],
   "jp": "りょうかいだ。こんかいは<br>\n「はっけん」にきをつかっていくか<page>\n",
-  "en": "Understood. This time, I'll<br>\nkeep an eye out for \"Finds\".<page>\n",
+  "en": "Understood. This time, I'll<br>\nkeep an eye out for \"Find\".<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -3042,7 +3042,7 @@
    "tab:7F6938"
   ],
   "jp": "「じかん」たんしゅく　したいのね？<br>\nオッケ～　まかせて♪<page>\n",
-  "en": "You want shorter \"Time\"?<br>\nOkay~ Leave it to me♪<page>\n",
+  "en": "You want less \"Time\"?<br>\nOkay~ Leave it to me♪<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -3066,7 +3066,7 @@
    "tab:7F693C"
   ],
   "jp": "「はっけん」いっぱい　したいのね？<br>\nオッケ～　まかせて♪<page>\n",
-  "en": "You want lots of \"Finds\"?<br>\nOkay~ Leave it to me♪<page>\n",
+  "en": "You want lots of \"Find\"?<br>\nOkay~ Leave it to me♪<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -3170,7 +3170,7 @@
    "tab:7F7FCC"
   ],
   "jp": "やったーーー‼<br>\n[FFC5]を　おそわったよ‼<page>\n",
-  "en": "Yaaay!!<br>\nI was taught [FFC5]!!<page>\n",
+  "en": "Yaaay!!<br>\nI got taught [FFC5]!!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -3258,7 +3258,7 @@
    "tab:46A750"
   ],
   "jp": "ボクの　ぼうけん　みてくれる？<br>\nこんかいも　すごかったんだよ♪<page>\n",
-  "en": "Will you look at my quest?<br>\nIt was amazing this time too♪<page>\n",
+  "en": "Wanna hear how my quest went?<br>\nIt was amazing this time too♪<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -3346,7 +3346,7 @@
    "tab:46A7B8"
   ],
   "jp": "うん、おきにいりを　うけとったよ♪<page>\n",
-  "en": "Yep, I got a favorite♪<page>\n",
+  "en": "Yep, I got a Favorite♪<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -3357,7 +3357,7 @@
    "tab:46A7C8"
   ],
   "jp": "うん、おきにいりを　もちかえたよ！<page>\n",
-  "en": "Yep, I've brought back a favorite!<page>\n",
+  "en": "Yep, I've brought back a Favorite!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -3368,7 +3368,7 @@
    "tab:46A7D8"
   ],
   "jp": "メッセージは　ちゃんとおぼえたからあんしんしてね♪<page>\n",
-  "en": "I've memorized the message<br>\njust fine, so don't worry♪<page>\n",
+  "en": "I memorized the message<br>\nproperly, so don't worry♪<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -3500,7 +3500,7 @@
    "tab:7F67F8"
   ],
   "jp": "フ：　セオリーどおりだな<br>\nレベルがたかいのが　ふまんだがな<page>\n",
-  "en": "Heh... Just by the book.<br>\nNot thrilled by the high level, tho.<page>\n",
+  "en": "Heh... Just by the book. Not<br>\nthrilled by the high level, though.<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -3533,7 +3533,7 @@
    "tab:7F6804"
   ],
   "jp": "りょうかいだ。まかせてくれ<br>\nレベルがたかいのが　ふまんだがな<page>\n",
-  "en": "Understood. Leave it to me.<br>\nNot thrilled by the high level, tho.<page>\n",
+  "en": "Understood. Leave it to me. Not<br>\nthrilled by the high level, though.<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -3544,7 +3544,7 @@
    "tab:7F6808"
   ],
   "jp": "チッ：　あいしょうムシかよ：<br>\nレベルがひくくても　キビシイぜ<page>\n",
-  "en": "Tch... Ignoring affinity, huh...<br>\nEven at a low level, it's rough.<page>\n",
+  "en": "Tch... Ignoring matchups, huh...<br>\nEven at a low level, it's rough.<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -3555,7 +3555,7 @@
    "tab:7F680C"
   ],
   "jp": "チッ：　あいしょうムシかよ：<br>\nレベルはつりあってるが　キビシイぜ<page>\n",
-  "en": "Tch... Ignoring affinity, huh...<br>\nThe level's even, but it's rough.<page>\n",
+  "en": "Tch... Ignoring matchups, huh...<br>\nThe level's even, but it's rough.<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -3566,7 +3566,7 @@
    "tab:7F6810"
   ],
   "jp": "チッ：　あいしょうムシかよ：<br>\nおまけに　レベルもたかいじゃねえか<page>\n",
-  "en": "Tch... Ignoring affinity, huh...<br>\nAnd the level's high, on top of it.<page>\n",
+  "en": "Tch... Ignoring matchups, huh...<br>\nAnd the level's high, on top of it.<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -3885,7 +3885,7 @@
    "tab:46A7E8"
   ],
   "jp": "じつは　さいきん　ねぶそくなんだ～<page>\n",
-  "en": "Actually, I haven't<br>\nbeen sleeping lately~<page>\n",
+  "en": "Actually, I haven't been getting<br>\nenough sleep lately~<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -3984,7 +3984,7 @@
    "tab:46A850"
   ],
   "jp": "そうでもない？　そうかなあ<br>\nボクは　けっこう　スキだけどな♪<page>\n",
-  "en": "Not really? You think so?<br>\nI like it pretty well♪<page>\n",
+  "en": "Not really? You think so?<br>\nI kinda like it, though♪<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -4226,7 +4226,7 @@
    "tab:46A958"
   ],
   "jp": "いってみた？<br>\n[FFEE]って　たんじゅんだね♪<page>\n",
-  "en": "Did you do it?<br>\nYou're so easy, [FFEE]♪<page>\n",
+  "en": "Did you do it?<br>\nYou're so simple, [FFEE]♪<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -4402,7 +4402,7 @@
    "tab:46AA18"
   ],
   "jp": "オレはほんがスキでな<br>\nかんじの　おおいのは　ニガテだが：<page>\n",
-  "en": "I like books, myself.<br>\nToo much kanji's not for me, tho...<page>\n",
+  "en": "I like books, myself. Too much<br>\nkanji's not for me, though...<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -4688,7 +4688,7 @@
    "tab:46AB50"
   ],
   "jp": "わたしを　カワイイだけの<br>\nオンナだとは　おもわないでね！<page>\n",
-  "en": "Don't think I'm just a<br>\ngirl who's cute!<page>\n",
+  "en": "Don't think I'm just a<br>\ncute girl!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -4864,7 +4864,7 @@
    "tab:46AC10"
   ],
   "jp": "[FFEB]ブレイクアームド‼<br>\nどう？　どう？<page>\n",
-  "en": "[FFEB] Breakarmed!!<br>\nHow? How?<page>\n",
+  "en": "[FFEB] Breakarmed!!<br>\nWell? Well?<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -5304,7 +5304,7 @@
    "tab:7F69A8"
   ],
   "jp": "「[FFE7]」ってトコだよ！<br>\nこんど　ちょうせん　してみてね！<page>\n",
-  "en": "It's called \"[FFE7]\"!<br>\nTry it some time!<page>\n",
+  "en": "It's called \"[FFE7]\"!<br>\nTry it sometime!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -5326,7 +5326,7 @@
    "tab:7F69B0"
   ],
   "jp": "「[FFE7]」ってトコだ<br>\nこんど　ちょうせんしてみな<page>\n",
-  "en": "It's called \"[FFE7]\".<br>\nGive it a try some time.<page>\n",
+  "en": "It's called \"[FFE7]\".<br>\nGive it a try sometime.<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -5348,7 +5348,7 @@
    "tab:7F69B8"
   ],
   "jp": "「[FFE7]」っていうのよ<br>\nあたし　なかなかやるでしょ♪<page>\n",
-  "en": "It's called \"[FFE7]\".<br>\nNot bad, am I♪<page>\n",
+  "en": "It's called \"[FFE7]\".<br>\nPretty good, right♪<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -5612,7 +5612,7 @@
    "tab:4682A8"
   ],
   "jp": "はっけんすうについては　[FFEE]<br>\nのほうが　すすんでるようだな<page>\n",
-  "en": "In spots found, [FFEE],<br>\nyou seem to be ahead.<page>\n",
+  "en": "As for spots found, you<br>\nseem ahead, [FFEE].<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -5768,7 +5768,7 @@
    "tab:468378"
   ],
   "jp": "ストーリーの　プレイじかんが<br>\n[FFD0]じかん[FFD1]ふん！<page>\n",
-  "en": "Their Story play time:<br>\n[FFD0] hr [FFD1] min!<page>\n",
+  "en": "Their Story play time:<br>\n[FFD0] hours [FFD1] minutes!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -5780,7 +5780,7 @@
    "tab:468380"
   ],
   "jp": "オートぼうけんの　プレイじかんが<br>\n[FFD2]じかん[FFD3]ふん！<page>\n",
-  "en": "Their Auto-Quest play time:<br>\n[FFD2] hr [FFD3] min!<page>\n",
+  "en": "Their Auto-Quest play time:<br>\n[FFD2] hours [FFD3] minutes!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -5792,7 +5792,7 @@
    "tab:468388"
   ],
   "jp": "つうしんたいせんの　プレイじかんが<br>\n[FFD4]じかん[FFD5]ふん！<page>\n",
-  "en": "Their Link Battle play time:<br>\n[FFD4] hr [FFD5] min!<page>\n",
+  "en": "Their Link Battle play time:<br>\n[FFD4] hours [FFD5] minutes!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -5804,7 +5804,7 @@
    "tab:468390"
   ],
   "jp": "ぜんぶ　あわせて　なんと！<br>\n[FFD6]じかん[FFD7]ふんだよ！<page>\n",
-  "en": "Altogether, it comes to<br>\n[FFD6] hr [FFD7] min!<page>\n",
+  "en": "Altogether, it comes to<br>\n[FFD6] hours [FFD7] minutes!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -5850,7 +5850,7 @@
    "tab:4683E8"
   ],
   "jp": "ストーリーの　プレイじかんは<br>\n[FFD0]じかん[FFD1]ふん：<page>\n",
-  "en": "Their Story play time:<br>\n[FFD0] hr [FFD1] min...<page>\n",
+  "en": "Their Story play time:<br>\n[FFD0] hours [FFD1] minutes...<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -5862,7 +5862,7 @@
    "tab:4683F0"
   ],
   "jp": "オートぼうけんの　プレイじかんは<br>\n[FFD2]じかん[FFD3]ふん：<page>\n",
-  "en": "Their Auto-Quest play time:<br>\n[FFD2] hr [FFD3] min...<page>\n",
+  "en": "Their Auto-Quest play time:<br>\n[FFD2] hours [FFD3] minutes...<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -5874,7 +5874,7 @@
    "tab:4683F8"
   ],
   "jp": "つうしんたいせんの　プレイじかんは<br>\n[FFD4]じかん[FFD5]ふん：<page>\n",
-  "en": "Their Link Battle play time:<br>\n[FFD4] hr [FFD5] min...<page>\n",
+  "en": "Their Link Battle play time:<br>\n[FFD4] hours [FFD5] minutes...<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -5886,7 +5886,7 @@
    "tab:468400"
   ],
   "jp": "つまりごうけい　[FFD6]じかん[FFD7]ふん<br>\nどうおもう？<page>\n",
-  "en": "So a total of [FFD6] hr [FFD7] min.<br>\nWhat do you think?<page>\n",
+  "en": "[FFD6] hours [FFD7] minutes in all.<br>\nWhat do you think?<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -5932,7 +5932,7 @@
    "tab:468458"
   ],
   "jp": "ストーリー　プレイじかんはね～<br>\n[FFD0]じかん[FFD1]ふん♪<page>\n",
-  "en": "Their Story play time~<br>\n[FFD0] hr [FFD1] min♪<page>\n",
+  "en": "Their Story play time~<br>\n[FFD0] hours [FFD1] minutes♪<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -5944,7 +5944,7 @@
    "tab:468460"
   ],
   "jp": "オートぼうけん　プレイじかんはね～<br>\n[FFD2]じかん[FFD3]ふん♪<page>\n",
-  "en": "Their Auto-Quest play time~<br>\n[FFD2] hr [FFD3] min♪<page>\n",
+  "en": "Their Auto-Quest play time~<br>\n[FFD2] hours [FFD3] minutes♪<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -5956,7 +5956,7 @@
    "tab:468468"
   ],
   "jp": "つうしんたいせんプレイじかんはね～<br>\n[FFD4]じかん[FFD5]ふん♪<page>\n",
-  "en": "Their Link Battle play time~<br>\n[FFD4] hr [FFD5] min♪<page>\n",
+  "en": "Their Link Battle play time~<br>\n[FFD4] hours [FFD5] minutes♪<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -5968,7 +5968,7 @@
    "tab:468470"
   ],
   "jp": "ぜ～んぶ　あわせて　なんと<br>\n[FFD6]じかん[FFD7]ふんよ♪<page>\n",
-  "en": "Altogether, that comes to<br>\n[FFD6] hr [FFD7] min♪<page>\n",
+  "en": "Altogether, that comes to<br>\n[FFD6] hours [FFD7] minutes♪<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -6014,7 +6014,7 @@
    "tab:4684C8"
   ],
   "jp": "ストーリー　プレイじかん<br>\nたぶん　[FFD0]じかん[FFD1]ふん<page>\n",
-  "en": "Story play time.<br>\nMaybe [FFD0] hr [FFD1] min.<page>\n",
+  "en": "Story play time. Maybe<br>\n[FFD0] hours [FFD1] minutes.<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -6026,7 +6026,7 @@
    "tab:4684D0"
   ],
   "jp": "オートぼうけん　プレイじかん<br>\nたぶん　[FFD2]じかん[FFD3]ふん<page>\n",
-  "en": "Auto-Quest play time.<br>\nMaybe [FFD2] hr [FFD3] min.<page>\n",
+  "en": "Auto-Quest play time. Maybe<br>\n[FFD2] hours [FFD3] minutes.<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -6038,7 +6038,7 @@
    "tab:4684D8"
   ],
   "jp": "つうしんたいせん　プレイじかん<br>\nたぶん　[FFD4]じかん[FFD5]ふん<page>\n",
-  "en": "Link Battle play time.<br>\nMaybe [FFD4] hr [FFD5] min.<page>\n",
+  "en": "Link Battle play time. Maybe<br>\n[FFD4] hours [FFD5] minutes.<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -6050,7 +6050,7 @@
    "tab:4684E0"
   ],
   "jp": "あわせて：：あれ？　いくつだ？<br>\nたぶん　[FFD6]じかん[FFD7]ふん：かな？<page>\n",
-  "en": "Together... huh? What's that?<br>\nMaybe [FFD6] hr [FFD7] min...?<page>\n",
+  "en": "Together... huh? What's that?<br>\nMaybe [FFD6] hours [FFD7] minutes...?<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -6108,7 +6108,7 @@
    "tab:468688"
   ],
   "jp": "ドールのかしかりを　[FFD8]にんと<br>\nやってるみたいだよ！<page>\n",
-  "en": "Looks like they've swapped dolls<br>\nwith [FFD8] people!<page>\n",
+  "en": "Looks like they've lent and<br>\nborrowed dolls with [FFD8] people!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -6397,7 +6397,7 @@
    "tab:468930"
   ],
   "jp": "みかけによらず　ともだち　いるのね<br>\n[FFEE]ちゃんも　ファイトォ！<page>\n",
-  "en": "More friends than they look!<br>\nFight on, [FFEE]-chan!<page>\n",
+  "en": "Friends, despite their looks!<br>\nFight on, [FFEE]-chan!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -6582,7 +6582,7 @@
    "tab:468B70"
   ],
   "jp": "ん？　おんなのともだち？<br>\nん～　[FFDA]にんだったぞ！　たぶん！<page>\n",
-  "en": "Huh? Girl friends?<br>\nHmm, [FFDA]! Probably!<page>\n",
+  "en": "Huh? Girls?<br>\nHmm, [FFDA] of them! Probably!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -6596,7 +6596,7 @@
    "tab:468BE0"
   ],
   "jp": "ん？　おとこのともだち？<br>\nん～　[FFDA]にんだったぞ！　たぶん！<page>\n",
-  "en": "Huh? Boy friends?<br>\nHmm, [FFDA]! Probably!<page>\n",
+  "en": "Huh? Boys?<br>\nHmm, [FFDA] of them! Probably!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -6685,7 +6685,7 @@
    "tab:468C38"
   ],
   "jp": "けっこう　のんびりや　なのかな？<br>\nいろいろ　おしえて　あげようね！<page>\n",
-  "en": "Are they kind of laid-back?<br>\nYou should teach them lots!<page>\n",
+  "en": "Are they kind of laid-back?<br>\nLet's teach them lots!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -6948,7 +6948,7 @@
    "tab:468E18"
   ],
   "jp": "ダムにセットした　3たいのごうけい<br>\nチームさいだいレベルは　[FFE1]！<page>\n",
-  "en": "The team's top level total for<br>\nthe 3 set in the Dam: [FFE1]!<page>\n",
+  "en": "Combined max level of the 3<br>\nset in the Dam: [FFE1]!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -7018,7 +7018,7 @@
    "tab:468E78"
   ],
   "jp": "ダムにセットした　3たいのごうけい<br>\nチームさいだいレベルは　[FFE1]だ<page>\n",
-  "en": "The team's top level total for<br>\nthe 3 set in the Dam: [FFE1].<page>\n",
+  "en": "Combined max level of the 3<br>\nset in the Dam: [FFE1].<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -7088,7 +7088,7 @@
    "tab:468ED8"
   ],
   "jp": "ダムにセットした　3たいのごうけい<br>\nチームさいだいレベルは　[FFE1]ね<page>\n",
-  "en": "The team's top level total for<br>\nthe 3 set in the Dam: [FFE1].<page>\n",
+  "en": "Combined max level of the 3<br>\nset in the Dam: [FFE1].<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -7158,7 +7158,7 @@
    "tab:468F38"
   ],
   "jp": "ダムにセットした　3たいのごうけい<br>\nチームさいだいレベル　[FFE1]だ<page>\n",
-  "en": "The team's top level total for<br>\nthe 3 set in the Dam: [FFE1].<page>\n",
+  "en": "Combined max level of the 3<br>\nset in the Dam: [FFE1].<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -7394,7 +7394,7 @@
    "tab:469028"
   ],
   "jp": "たしか　[FFE3]とかだ！<br>\nもってたか？　もってないよな？<page>\n",
-  "en": "Me think [FFE3]!<br>\nYou have it? You don't, right?<page>\n",
+  "en": "Me think [FFE3] or so!<br>\nYou have it? You don't, right?<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -7695,7 +7695,7 @@
    "tab:469160"
   ],
   "jp": "オレ　いみが　よくわかんないけど<br>\nなんか　すごそうだぞ‼<page>\n",
-  "en": "Me not really get it,<br>\nbut they seem great!!<page>\n",
+  "en": "Me not really get it,<br>\nbut looks awesome!!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -7750,7 +7750,7 @@
    "tab:4693C8"
   ],
   "jp": "ぼうけんスポットを　[FFE8]コも<br>\nはっけんしてるんだよ！<page>\n",
-  "en": "They've found [FFE8]<br>\nQuest Spots!<page>\n",
+  "en": "They've found as many as<br>\n[FFE8] Quest Spots!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -7761,7 +7761,7 @@
    "tab:4693D0"
   ],
   "jp": "だから　こっそり　[FFE7]<br>\nおしえてあげる♪<page>\n",
-  "en": "So I'll secretly tell<br>\nyou [FFE7]♪<page>\n",
+  "en": "So I'll secretly tell<br>\nyou about [FFE7]♪<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -7860,7 +7860,7 @@
    "tab:469430"
   ],
   "jp": "はっけんすうについては　[FFEE]<br>\nのほうが　すすんでるようだな<page>\n",
-  "en": "In spots found, [FFEE],<br>\nyou seem to be ahead.<page>\n",
+  "en": "As for spots found, you<br>\nseem ahead, [FFEE].<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -8016,7 +8016,7 @@
    "tab:469500"
   ],
   "jp": "ストーリーの　プレイじかんが<br>\n[FFD0]じかん[FFD1]ふん！<page>\n",
-  "en": "Their Story play time:<br>\n[FFD0] hr [FFD1] min!<page>\n",
+  "en": "Their Story play time:<br>\n[FFD0] hours [FFD1] minutes!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -8028,7 +8028,7 @@
    "tab:469508"
   ],
   "jp": "オートぼうけんの　プレイじかんが<br>\n[FFD2]じかん[FFD3]ふん！<page>\n",
-  "en": "Their Auto-Quest play time:<br>\n[FFD2] hr [FFD3] min!<page>\n",
+  "en": "Their Auto-Quest play time:<br>\n[FFD2] hours [FFD3] minutes!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -8040,7 +8040,7 @@
    "tab:469510"
   ],
   "jp": "つうしんたいせんの　プレイじかんが<br>\n[FFD4]じかん[FFD5]ふん！<page>\n",
-  "en": "Their Link Battle play time:<br>\n[FFD4] hr [FFD5] min!<page>\n",
+  "en": "Their Link Battle play time:<br>\n[FFD4] hours [FFD5] minutes!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -8052,7 +8052,7 @@
    "tab:469518"
   ],
   "jp": "ぜんぶ　あわせて　なんと！<br>\n[FFD6]じかん[FFD7]ふんだよ！<page>\n",
-  "en": "Altogether, it comes to<br>\n[FFD6] hr [FFD7] min!<page>\n",
+  "en": "Altogether, it comes to<br>\n[FFD6] hours [FFD7] minutes!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -8098,7 +8098,7 @@
    "tab:469570"
   ],
   "jp": "ストーリーの　プレイじかんは<br>\n[FFD0]じかん[FFD1]ふん：<page>\n",
-  "en": "Their Story play time:<br>\n[FFD0] hr [FFD1] min...<page>\n",
+  "en": "Their Story play time:<br>\n[FFD0] hours [FFD1] minutes...<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -8110,7 +8110,7 @@
    "tab:469578"
   ],
   "jp": "オートぼうけんの　プレイじかんは<br>\n[FFD2]じかん[FFD3]ふん：<page>\n",
-  "en": "Their Auto-Quest play time:<br>\n[FFD2] hr [FFD3] min...<page>\n",
+  "en": "Their Auto-Quest play time:<br>\n[FFD2] hours [FFD3] minutes...<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -8122,7 +8122,7 @@
    "tab:469580"
   ],
   "jp": "つうしんたいせんの　プレイじかんは<br>\n[FFD4]じかん[FFD5]ふん：<page>\n",
-  "en": "Their Link Battle play time:<br>\n[FFD4] hr [FFD5] min...<page>\n",
+  "en": "Their Link Battle play time:<br>\n[FFD4] hours [FFD5] minutes...<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -8134,7 +8134,7 @@
    "tab:469588"
   ],
   "jp": "つまりごうけい　[FFD6]じかん[FFD7]ふん<br>\nどうおもう？<page>\n",
-  "en": "So a total of [FFD6] hr [FFD7] min.<br>\nWhat do you think?<page>\n",
+  "en": "[FFD6] hours [FFD7] minutes in all.<br>\nWhat do you think?<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -8180,7 +8180,7 @@
    "tab:4695E0"
   ],
   "jp": "ストーリー　プレイじかんはね～<br>\n[FFD0]じかん[FFD1]ふん♪<page>\n",
-  "en": "Their Story play time~<br>\n[FFD0] hr [FFD1] min♪<page>\n",
+  "en": "Their Story play time~<br>\n[FFD0] hours [FFD1] minutes♪<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -8192,7 +8192,7 @@
    "tab:4695E8"
   ],
   "jp": "オートぼうけん　プレイじかんはね～<br>\n[FFD2]じかん[FFD3]ふん♪<page>\n",
-  "en": "Their Auto-Quest play time~<br>\n[FFD2] hr [FFD3] min♪<page>\n",
+  "en": "Their Auto-Quest play time~<br>\n[FFD2] hours [FFD3] minutes♪<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -8204,7 +8204,7 @@
    "tab:4695F0"
   ],
   "jp": "つうしんたいせんプレイじかんはね～<br>\n[FFD4]じかん[FFD5]ふん♪<page>\n",
-  "en": "Their Link Battle play time~<br>\n[FFD4] hr [FFD5] min♪<page>\n",
+  "en": "Their Link Battle play time~<br>\n[FFD4] hours [FFD5] minutes♪<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -8216,7 +8216,7 @@
    "tab:4695F8"
   ],
   "jp": "ぜ～んぶ　あわせて　なんと<br>\n[FFD6]じかん[FFD7]ふんよ♪<page>\n",
-  "en": "Altogether, that comes to<br>\n[FFD6] hr [FFD7] min♪<page>\n",
+  "en": "Altogether, that comes to<br>\n[FFD6] hours [FFD7] minutes♪<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -8262,7 +8262,7 @@
    "tab:469650"
   ],
   "jp": "ストーリー　プレイじかん<br>\nたぶん　[FFD0]じかん[FFD1]ふん<page>\n",
-  "en": "Story play time.<br>\nMaybe [FFD0] hr [FFD1] min.<page>\n",
+  "en": "Story play time. Maybe<br>\n[FFD0] hours [FFD1] minutes.<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -8274,7 +8274,7 @@
    "tab:469658"
   ],
   "jp": "オートぼうけん　プレイじかん<br>\nたぶん　[FFD2]じかん[FFD3]ふん<page>\n",
-  "en": "Auto-Quest play time.<br>\nMaybe [FFD2] hr [FFD3] min.<page>\n",
+  "en": "Auto-Quest play time. Maybe<br>\n[FFD2] hours [FFD3] minutes.<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -8286,7 +8286,7 @@
    "tab:469660"
   ],
   "jp": "つうしんたいせん　プレイじかん<br>\nたぶん　[FFD4]じかん[FFD5]ふん<page>\n",
-  "en": "Link Battle play time.<br>\nMaybe [FFD4] hr [FFD5] min.<page>\n",
+  "en": "Link Battle play time. Maybe<br>\n[FFD4] hours [FFD5] minutes.<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -8298,7 +8298,7 @@
    "tab:469668"
   ],
   "jp": "あわせて：：あれ？　いくつだ？<br>\nたぶん　[FFD6]じかん[FFD7]ふん：かな？<page>\n",
-  "en": "Together... huh? What's that?<br>\nMaybe [FFD6] hr [FFD7] min...?<page>\n",
+  "en": "Together... huh? What's that?<br>\nMaybe [FFD6] hours [FFD7] minutes...?<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -8596,7 +8596,7 @@
    "tab:4699F0"
   ],
   "jp": "ま、そのていどと　おもってたか？<br>\nなあ　[FFEE]<page>\n",
-  "en": "Well, is that what you expected?<br>\nRight, [FFEE]?<page>\n",
+  "en": "Well, about what you figured,<br>\nhuh? Right, [FFEE]?<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -8830,7 +8830,7 @@
    "tab:469CF8"
   ],
   "jp": "ん？　おんなのともだち？<br>\nん～　[FFDA]にんだったぞ！　たぶん！<page>\n",
-  "en": "Huh? Girl friends?<br>\nHmm, [FFDA]! Probably!<page>\n",
+  "en": "Huh? Girls?<br>\nHmm, [FFDA] of them! Probably!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -8844,7 +8844,7 @@
    "tab:469D68"
   ],
   "jp": "ん？　おとこのともだち？<br>\nん～　[FFDA]にんだったぞ！　たぶん！<page>\n",
-  "en": "Huh? Boy friends?<br>\nHmm, [FFDA]! Probably!<page>\n",
+  "en": "Huh? Boys?<br>\nHmm, [FFDA] of them! Probably!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -9196,7 +9196,7 @@
    "tab:469FA0"
   ],
   "jp": "ダムにセットした　3たいのごうけい<br>\nチームさいだいレベルは　[FFE1]！<page>\n",
-  "en": "The team's top level total for<br>\nthe 3 set in the Dam: [FFE1]!<page>\n",
+  "en": "Combined max level of the 3<br>\nset in the Dam: [FFE1]!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -9266,7 +9266,7 @@
    "tab:46A000"
   ],
   "jp": "ダムにセットした　3たいのごうけい<br>\nチームさいだいレベルは　[FFE1]だ<page>\n",
-  "en": "The team's top level total for<br>\nthe 3 set in the Dam: [FFE1].<page>\n",
+  "en": "Combined max level of the 3<br>\nset in the Dam: [FFE1].<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -9336,7 +9336,7 @@
    "tab:46A060"
   ],
   "jp": "ダムにセットした　3たいのごうけい<br>\nチームさいだいレベルは　[FFE1]ね<page>\n",
-  "en": "The team's top level total for<br>\nthe 3 set in the Dam: [FFE1].<page>\n",
+  "en": "Combined max level of the 3<br>\nset in the Dam: [FFE1].<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -9406,7 +9406,7 @@
    "tab:46A0C0"
   ],
   "jp": "ダムにセットした　3たいのごうけい<br>\nチームさいだいレベル　[FFE1]だ<page>\n",
-  "en": "The team's top level total for<br>\nthe 3 set in the Dam: [FFE1].<page>\n",
+  "en": "Combined max level of the 3<br>\nset in the Dam: [FFE1].<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -9552,7 +9552,7 @@
    "tab:46A150"
   ],
   "jp": "こんど　[FFC6]とか<br>\nかしてやってくれ<page>\n",
-  "en": "Why not lend them [FFC6]<br>\nor something some time.<page>\n",
+  "en": "Why not lend them [FFC6]<br>\nor something sometime.<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -9642,7 +9642,7 @@
    "tab:46A1B0"
   ],
   "jp": "たしか　[FFE3]とかだ！<br>\nもってたか？　もってないよな？<page>\n",
-  "en": "Me think [FFE3]!<br>\nYou have it? You don't, right?<page>\n",
+  "en": "Me think [FFE3] or so!<br>\nYou have it? You don't, right?<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -9687,7 +9687,7 @@
    "tab:46A1E8"
   ],
   "jp": "ヘキサドラゴンには<br>\nこんなワザを　おぼえさせてるよ！<page>\n",
-  "en": "This is what they've taught<br>\ntheir Hexadragon!<page>\n",
+  "en": "These are the skills they've<br>\ntaught their Hexadragon!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -9720,7 +9720,7 @@
    "tab:46A210"
   ],
   "jp": "ヘキサドラゴンが　いないんだよ‼<br>\nしんじられないでしょ！<page>\n",
-  "en": "There's no Hexadragon!!<br>\nCan you believe it!<page>\n",
+  "en": "They don't have a Hexadragon!!<br>\nCan you believe it!?<page>\n",
   "status": "tl",
   "notes": ""
  },

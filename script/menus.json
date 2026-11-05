@@ -72,7 +72,7 @@
    "tab:45AAE4"
   ],
   "jp": "『スタート¦にっきみる』<end>",
-  "en": "\"Start: Read Diary\"<end>",
+  "en": "'Start: Read Diary'<end>",
   "status": "tl",
   "notes": ""
  },
@@ -127,7 +127,7 @@
    "tab:45ABC4"
   ],
   "jp": "ひんしかいすう<end>",
-  "en": "Near-Deaths<end>",
+  "en": "Times KO'd<end>",
   "status": "tl",
   "notes": ""
  },

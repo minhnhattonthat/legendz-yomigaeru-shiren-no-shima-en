@@ -1348,7 +1348,7 @@
    "tab:2AA510"
   ],
   "jp": "しばりじょうたいに　ならない<end>",
-  "en": "Prevents bind<end>",
+  "en": "Prevents binding<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2217,7 +2217,7 @@
    "tab:2AA7FC"
   ],
   "jp": "フレム<end>",
-  "en": "Flem<end>",
+  "en": "Flam<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2228,7 +2228,7 @@
    "tab:2AA800"
   ],
   "jp": "フレム<end>",
-  "en": "Flem<end>",
+  "en": "Flam<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2316,7 +2316,7 @@
    "tab:2AA850"
   ],
   "jp": "バーンフレム<end>",
-  "en": "Burn Flem<end>",
+  "en": "Burn Flam<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2327,7 +2327,7 @@
    "tab:2AA854"
   ],
   "jp": "バーンフレム<end>",
-  "en": "Burn Flem<end>",
+  "en": "Burn Flam<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2349,7 +2349,7 @@
    "tab:2AA86C"
   ],
   "jp": "ピコフレム<end>",
-  "en": "Pico Flem<end>",
+  "en": "Pico Flam<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2360,7 +2360,7 @@
    "tab:2AA870"
   ],
   "jp": "ピコフレム<end>",
-  "en": "Pico Flem<end>",
+  "en": "Pico Flam<end>",
   "status": "tl",
   "notes": ""
  },
@@ -5847,7 +5847,7 @@
    "tab:2AB404"
   ],
   "jp": "ダークバーンフレム<end>",
-  "en": "Dark Burn Flem<end>",
+  "en": "Dark Burn Flam<end>",
   "status": "tl",
   "notes": ""
  },
@@ -5858,7 +5858,7 @@
    "tab:2AB408"
   ],
   "jp": "Dバーンフレム<end>",
-  "en": "D.Burn Flem<end>",
+  "en": "D.Burn Flam<end>",
   "status": "tl",
   "notes": ""
  },
@@ -5891,7 +5891,7 @@
    "tab:2AB424"
   ],
   "jp": "ヴォルクバイパー<end>",
-  "en": "Volk Bipar<end>",
+  "en": "Volk Viper<end>",
   "status": "tl",
   "notes": ""
  },

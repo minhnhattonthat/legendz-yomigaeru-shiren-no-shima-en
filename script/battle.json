@@ -460,7 +460,7 @@
    "tab:7F3394"
   ],
   "jp": "[FFEC]は攻撃手段がない‼<end>",
-  "en": "[FFEC] has no attack!<end>",
+  "en": "[FFEC] can't attack!<end>",
   "status": "tl",
   "notes": ""
  },
@@ -471,7 +471,7 @@
    "tab:7F3398"
   ],
   "jp": "[FFEB]は攻撃手段がない‼<end>",
-  "en": "[FFEB] has no attack!<end>",
+  "en": "[FFEB] can't attack!<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1056,7 +1056,7 @@
    "tab:7F346C"
   ],
   "jp": "[FFEC]は瀕死から回復‼<end>",
-  "en": "[FFEC] revived!<end>",
+  "en": "[FFEC] pulled through!<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1551,7 +1551,7 @@
    "tab:7F3520"
   ],
   "jp": "防御特化‼<end>",
-  "en": "Guard Focus!<end>",
+  "en": "Defense Focus!<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1617,7 +1617,7 @@
    "tab:7F3538"
   ],
   "jp": "防御マスター‼<end>",
-  "en": "Guard Master!<end>",
+  "en": "Defense Master!<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2117,7 +2117,7 @@
    "tab:7F35EC"
   ],
   "jp": "あたらしいワザを　ひらめいたみたい<br>\nリボーンして　ワザをおぼえなきゃ！<page>\n",
-  "en": "New skill!<br>\nReborn to learn it!<page>\n",
+  "en": "New skill idea!<br>\nReborn to learn it!<page>\n",
   "status": "tl",
   "notes": "",
   "speaker": [
