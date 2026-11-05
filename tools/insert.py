@@ -525,7 +525,8 @@ def graphics(rom):
 
 
 def credits_en(text):
-    """The 8-bit credits: controls as [XX], the blank 00, every glyph its font_en code (encode8's table has no punctuation in English's order, vwf.md)."""
+    """The 8-bit credits: controls as [XX], the blank 00, every glyph its font_en code (encode8's table has no punctuation in English's order, vwf.md).
+    The roll draws the Japanese glyphs, not font_en's: no baseline dot or comma (C0 is 。, BF is 、), so batches.credits refuses `.` and `,`."""
     out = bytearray()
     for t in re.findall(r"\[[0-9A-F]{2}\]|[^\n]", text):
         code = int(t[1:3], 16) if t.startswith("[") else 0 if t == "　" else font_en.CODES[t]

@@ -454,7 +454,8 @@ def credits():
         plain = re.sub(r"\[F1\].|\[F2\].|\[F3\]|\[FD\]|\[FF\]", "", row)
         if len(plain) > CREDIT_CELLS:
             errs.append("too wide: " + plain)
-        bad = [c for c in plain if c != "　" and font_en.CODES.get(c, 0xFF) > 0xF0]
+        # the roll's font has 。 and 、 where English wants . and , (insert.credits_en)
+        bad = [c for c in plain if c != "　" and (c in ".," or font_en.CODES.get(c, 0xFF) > 0xF0)]
         if bad:
             errs.append("no 8-bit code: %r in %s" % (bad, plain))
     if errs:

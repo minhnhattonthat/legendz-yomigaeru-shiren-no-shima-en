@@ -355,6 +355,17 @@ class Font(unittest.TestCase):
         table = struct.unpack_from("<2I", r.out, insert.FONT_TABLE)
         self.assertTrue(all(a >= 0x08800000 for a in table))
 
+    def test_colon_keeps_the_games_two_dot_leader(self):
+        # DC is ‥ (the field menu's locked rows draw it by code); EC is the Japanese font's own colon, which the credits draw
+        self.assertNotIn(0xDC, font_en.glyphs())
+        self.assertEqual(font_en.CODES[":"], 0xEC)
+        self.assertEqual(insert.credits_en("ART:"), bytes([0xA4, 0xB5, 0xB7, 0xEC]))
+
+    def test_credits_have_no_period_or_comma(self):
+        # the roll draws the Japanese glyphs: 。 and 、 at the English codes
+        en = json.loads((ROOT / "script" / "credits.json").read_text(encoding="utf-8"))[0]["en"]
+        self.assertFalse(set(".,") & set(en.replace("[", "").replace("]", "")))
+
 
 if __name__ == "__main__":
     unittest.main()

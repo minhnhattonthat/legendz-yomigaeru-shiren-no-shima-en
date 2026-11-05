@@ -81,7 +81,7 @@ Owners, decoded rather than matched by a scan: script operands from `tools/vmwal
 
 ## Credits (verified)
 
-`0x46F75C-0x46FF53`, one string, reached by the literal at `0x0D205C`, in `script/credits.json`. **One byte per glyph**, same codes as the table for `00-F0`, which is why the 16-bit search found nothing. `F1 x` colour, `F2 x` picture, `F3` next page, `FD` newline, `FF` end. `jpcodec.decode8`/`encode8`. It opens with a staff comment (`スタッフロールぶんめんはここからスタート`) that isn't drawn: guess, from where the roll starts on screen.
+`0x46F75C-0x46FF53`, one string, reached by the literal at `0x0D205C`, in `script/credits.json`. **One byte per glyph**, same codes as the table for `00-F0`, which is why the 16-bit search found nothing. `F1 x` colour, `F2 x` picture, `F3` next page, `FD` newline, `FF` end. `jpcodec.decode8`/`encode8`. It opens with a staff comment (`スタッフロールぶんめんはここからスタート`) that isn't drawn: guess, from where the roll starts on screen. The roll draws the Japanese glyph shapes, not the English font copies (an 8-bit draw path not traced; patching font 1 at `0x42BB6C` changed nothing on screen, and no tile of its `A` sits aligned in ROM or the LZ blocks): `C0` is 。, `BF` is 、, `DC` is ‥ and `EC` the colon, so `jpcodec`'s `：` at `DC` is a misnomer (D12).
 
 ## Not text
 

@@ -21,7 +21,8 @@ TABULAR = 6  # px: digits, and code 0 that the game pads numbers with
 CODES = {c: 0xA4 + i for i, c in enumerate("ABCDEFGHIJKLMNOPQRSTUVWXYZ")}
 CODES.update({c: 0xC9 + i for i, c in enumerate("0123456789")})
 CODES.update(zip("$,.-~…!?", (0xBE, 0xBF, 0xC0, 0xD8, 0xC2, 0xC3, 0xC4, 0xC5)))
-CODES.update(zip("%+:'\"/()", (0xD6, 0xD7, 0xDC, 0xE9, 0xEA, 0xEB, 0xEF, 0xF0)))
+# ':' is EC, the font's own colon; DC is ‥, which the field menu's locked command rows draw by code
+CODES.update(zip("%+:'\"/()", (0xD6, 0xD7, 0xEC, 0xE9, 0xEA, 0xEB, 0xEF, 0xF0)))
 CODES.update({c: 0xF1 + i for i, c in enumerate("abcdefghijklmnopqrstuvwxyz")})
 CODES.update({c: 0x10B + i for i, c in enumerate(" ;&*=#[]<>_")})
 # Japanese punctuation the game's own strings or code may still draw: same art as its English twin

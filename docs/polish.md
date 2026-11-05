@@ -375,3 +375,9 @@ Minor findings from the phase 6 review (`work/qa/review/bNNN.md`, read-only revi
 ## phase 7 review
 
 - [ ] battle record page (`debug_battle_record`) - number values sit 2 px left in the 5-cell boxes (Damage Dealt, Damage Taken) of the 4-cell ones: the game pads numbers with code 0, 6 px in English, 8 in Japanese, so right edges differ by box size. Fix in the renderer (right-align digit runs) or leave; JP has them in one column.
+
+## Phase 8 visual QA
+
+- [ ] 18127A - レジェンズは そのなのとおり そんざいじたいが でんせつなのよ (Legendz, as the name says, are legends by their very existence) - "are legend itself" is ungrammatical - "Legendz, true to their name,<br>are legends just by existing!"
+- [x] 184596 / 1845C6 (fixed in phase 8 with Dino's 1844A4 / 1844DE, split mid-phrase) - one sentence over two pages; the second ends on the lone word "island~♪" - reflow: "Look, look♪ I picked up<br>so much Legendz research<page>" / "material on that<br>island~♪" or similar, widths via `batches.py fit`.
+- [ ] room captions - 5 rooms' top banners are the JP ROM's own English art and differ from our subtitles: ISLAND OF WINGS/Isle of Wings, BLUE CAVE/Blue Water Cave, UNDER THE LAKE/Lakebed Cave, DARKNESS TOWER/Dark Tower, EVIL DRAGON'S RUINS/Evil Dragon Ruins. Align the subtitles (and glossary) to the banners, or keep and note why.
