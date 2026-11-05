@@ -3098,13 +3098,13 @@ id	px	rows	source	where
 184DAE	64	1	class	status labels, w=8 (0x0BFCA5)
 184DBE	64	1	class	status labels, w=8 (0x0BFCA5)
 1857D8	88	3	class	item info, 11x3 (0x0A7A01, 0x0B7F15)
-18581C	64	1	measured	080B7E5D
-18582E	88	3	measured	080B7F15
-18585A	64	1	measured	080B7E5D
+18581C	64	1	measured	080A7919
+18582E	88	3	measured	080A7A01
+18585A	64	1	measured	080A7919
 18586C	88	3	class	item info, 11x3 (0x0A7A01, 0x0B7F15)
-185898	64	1	measured	080B7E5D
+185898	64	1	measured	080A7919
 1858AA	88	3	class	item info, 11x3 (0x0A7A01, 0x0B7F15)
-1858D4	64	1	measured	080B7E5D
+1858D4	64	1	measured	080A7919
 1858E6	88	3	class	item info, 11x3 (0x0A7A01, 0x0B7F15)
 185928	64	1	class	item list, w=8 (0x0A7919, 0x0B7E5D)
 18593A	88	3	class	item info, 11x3 (0x0A7A01, 0x0B7F15)
@@ -3687,137 +3687,137 @@ id	px	rows	source	where
 18816E	240	1	class	location card, sprite line
 188180	240	1	class	location card, sprite line
 188192	240	1	class	location card, sprite line
-18819C	64	1	class	speaker tag
-1881A6	64	1	class	speaker tag
-1881BA	64	1	class	speaker tag
-1881D8	64	1	class	speaker tag
-1881EA	64	1	class	speaker tag
-188202	64	1	class	speaker tag
-18820A	64	1	class	speaker tag
-188216	64	1	class	speaker tag
-18822A	64	1	class	speaker tag
-18824A	64	1	class	speaker tag
-18825E	64	1	class	speaker tag
-188278	64	1	class	speaker tag
-188282	64	1	class	speaker tag
-188298	64	1	class	speaker tag
-1882A2	64	1	class	speaker tag
-1882C2	64	1	class	speaker tag
-1882CC	64	1	class	speaker tag
-1882DA	64	1	class	speaker tag
-1882EA	64	1	class	speaker tag
-1882FA	64	1	class	speaker tag
-18830E	64	1	class	speaker tag
-18832A	64	1	class	speaker tag
-18833E	64	1	class	speaker tag
-188358	64	1	class	speaker tag
-18836A	64	1	class	speaker tag
-188384	64	1	class	speaker tag
-188396	64	1	class	speaker tag
-1883B4	64	1	class	speaker tag
-1883C8	64	1	class	speaker tag
-1883E2	64	1	class	speaker tag
-1883F6	64	1	class	speaker tag
-188412	64	1	class	speaker tag
-188422	64	1	class	speaker tag
-188440	64	1	class	speaker tag
-188456	64	1	class	speaker tag
-18846A	64	1	class	speaker tag
-18847E	64	1	class	speaker tag
-1884A2	64	1	class	speaker tag
-1884B8	64	1	class	speaker tag
-1884D4	64	1	class	speaker tag
-1884E8	64	1	class	speaker tag
-1884FC	64	1	class	speaker tag
-188510	64	1	class	speaker tag
-18852C	64	1	class	speaker tag
-188540	64	1	class	speaker tag
-18855C	64	1	class	speaker tag
-18856E	64	1	class	speaker tag
-18858A	64	1	class	speaker tag
-18859E	64	1	class	speaker tag
-1885BC	64	1	class	speaker tag
-1885D0	64	1	class	speaker tag
-1885F0	64	1	class	speaker tag
-188600	64	1	class	speaker tag
-188618	64	1	class	speaker tag
-18862A	64	1	class	speaker tag
-188646	64	1	class	speaker tag
-18865A	64	1	class	speaker tag
-188682	64	1	class	speaker tag
-188696	64	1	class	speaker tag
-1886BC	64	1	class	speaker tag
-1886CC	64	1	class	speaker tag
-1886EA	64	1	class	speaker tag
-1886FA	64	1	class	speaker tag
-188714	64	1	class	speaker tag
-188726	64	1	class	speaker tag
-18874A	64	1	class	speaker tag
-18875A	64	1	class	speaker tag
-188776	64	1	class	speaker tag
-188786	64	1	class	speaker tag
-1887A2	64	1	class	speaker tag
-1887B4	64	1	class	speaker tag
-1887D0	64	1	class	speaker tag
-1887E0	64	1	class	speaker tag
-1887FC	64	1	class	speaker tag
-18880A	64	1	class	speaker tag
-188822	64	1	class	speaker tag
-18882E	64	1	class	speaker tag
-18884C	64	1	class	speaker tag
-18885A	64	1	class	speaker tag
-18887E	64	1	class	speaker tag
-18888E	64	1	class	speaker tag
-1888A4	64	1	class	speaker tag
-1888B8	64	1	class	speaker tag
-1888D2	64	1	class	speaker tag
-1888E6	64	1	class	speaker tag
-188900	64	1	class	speaker tag
-188912	64	1	class	speaker tag
-18892E	64	1	class	speaker tag
-18893C	64	1	class	speaker tag
-18894E	64	1	class	speaker tag
-18895C	64	1	class	speaker tag
-18896E	64	1	class	speaker tag
-18897C	64	1	class	speaker tag
-18898E	64	1	class	speaker tag
-18899C	64	1	class	speaker tag
-1889AE	64	1	class	speaker tag
-1889BC	64	1	class	speaker tag
-1889CE	64	1	class	speaker tag
-1889DC	64	1	class	speaker tag
-1889EE	64	1	class	speaker tag
-1889FC	64	1	class	speaker tag
-188A0E	64	1	class	speaker tag
-188A1C	64	1	class	speaker tag
-188A2E	64	1	class	speaker tag
-188A3C	64	1	class	speaker tag
-188A4E	64	1	class	speaker tag
-188A5C	64	1	class	speaker tag
-188A6E	64	1	class	speaker tag
-188A7C	64	1	class	speaker tag
-188A8E	64	1	class	speaker tag
-188A9C	64	1	class	speaker tag
-188AAE	64	1	class	speaker tag
-188ABC	64	1	class	speaker tag
-188ACE	64	1	class	speaker tag
-188ADC	64	1	class	speaker tag
-188AFC	64	1	class	speaker tag
-188B10	64	1	class	speaker tag
-188B30	64	1	class	speaker tag
-188B44	64	1	class	speaker tag
-188B64	64	1	class	speaker tag
-188B74	64	1	class	speaker tag
-188B98	64	1	class	speaker tag
-188BAC	64	1	class	speaker tag
-188BC4	64	1	class	speaker tag
-188BD2	64	1	class	speaker tag
-188BF6	64	1	class	speaker tag
-188C04	64	1	class	speaker tag
-188C16	64	1	class	speaker tag
-188C24	64	1	class	speaker tag
-188C36	64	1	class	speaker tag
-188C44	64	1	class	speaker tag
+18819C	240	1	class	location card, sprite line
+1881A6	240	1	class	location card, sprite line
+1881BA	240	1	class	location card, sprite line
+1881D8	240	1	class	location card, sprite line
+1881EA	240	1	class	location card, sprite line
+188202	240	1	class	location card, sprite line
+18820A	240	1	class	location card, sprite line
+188216	240	1	class	location card, sprite line
+18822A	240	1	class	location card, sprite line
+18824A	240	1	class	location card, sprite line
+18825E	240	1	class	location card, sprite line
+188278	240	1	class	location card, sprite line
+188282	240	1	class	location card, sprite line
+188298	240	1	class	location card, sprite line
+1882A2	240	1	class	location card, sprite line
+1882C2	240	1	class	location card, sprite line
+1882CC	240	1	class	location card, sprite line
+1882DA	240	1	class	location card, sprite line
+1882EA	240	1	class	location card, sprite line
+1882FA	240	1	class	location card, sprite line
+18830E	240	1	class	location card, sprite line
+18832A	240	1	class	location card, sprite line
+18833E	240	1	class	location card, sprite line
+188358	240	1	class	location card, sprite line
+18836A	240	1	class	location card, sprite line
+188384	240	1	class	location card, sprite line
+188396	240	1	class	location card, sprite line
+1883B4	240	1	class	location card, sprite line
+1883C8	240	1	class	location card, sprite line
+1883E2	240	1	class	location card, sprite line
+1883F6	240	1	class	location card, sprite line
+188412	240	1	class	location card, sprite line
+188422	240	1	class	location card, sprite line
+188440	240	1	class	location card, sprite line
+188456	240	1	class	location card, sprite line
+18846A	240	1	class	location card, sprite line
+18847E	240	1	class	location card, sprite line
+1884A2	240	1	class	location card, sprite line
+1884B8	240	1	class	location card, sprite line
+1884D4	240	1	class	location card, sprite line
+1884E8	240	1	class	location card, sprite line
+1884FC	240	1	class	location card, sprite line
+188510	240	1	class	location card, sprite line
+18852C	240	1	class	location card, sprite line
+188540	240	1	class	location card, sprite line
+18855C	240	1	class	location card, sprite line
+18856E	240	1	class	location card, sprite line
+18858A	240	1	class	location card, sprite line
+18859E	240	1	class	location card, sprite line
+1885BC	240	1	class	location card, sprite line
+1885D0	240	1	class	location card, sprite line
+1885F0	240	1	class	location card, sprite line
+188600	240	1	class	location card, sprite line
+188618	240	1	class	location card, sprite line
+18862A	240	1	class	location card, sprite line
+188646	240	1	class	location card, sprite line
+18865A	240	1	class	location card, sprite line
+188682	240	1	class	location card, sprite line
+188696	240	1	class	location card, sprite line
+1886BC	240	1	class	location card, sprite line
+1886CC	240	1	class	location card, sprite line
+1886EA	240	1	class	location card, sprite line
+1886FA	240	1	class	location card, sprite line
+188714	240	1	class	location card, sprite line
+188726	240	1	class	location card, sprite line
+18874A	240	1	class	location card, sprite line
+18875A	240	1	class	location card, sprite line
+188776	240	1	class	location card, sprite line
+188786	240	1	class	location card, sprite line
+1887A2	240	1	class	location card, sprite line
+1887B4	240	1	class	location card, sprite line
+1887D0	240	1	class	location card, sprite line
+1887E0	240	1	class	location card, sprite line
+1887FC	240	1	class	location card, sprite line
+18880A	240	1	class	location card, sprite line
+188822	240	1	class	location card, sprite line
+18882E	240	1	class	location card, sprite line
+18884C	240	1	class	location card, sprite line
+18885A	240	1	class	location card, sprite line
+18887E	240	1	class	location card, sprite line
+18888E	240	1	class	location card, sprite line
+1888A4	240	1	class	location card, sprite line
+1888B8	240	1	class	location card, sprite line
+1888D2	240	1	class	location card, sprite line
+1888E6	240	1	class	location card, sprite line
+188900	240	1	class	location card, sprite line
+188912	240	1	class	location card, sprite line
+18892E	240	1	class	location card, sprite line
+18893C	240	1	class	location card, sprite line
+18894E	240	1	class	location card, sprite line
+18895C	240	1	class	location card, sprite line
+18896E	240	1	class	location card, sprite line
+18897C	240	1	class	location card, sprite line
+18898E	240	1	class	location card, sprite line
+18899C	240	1	class	location card, sprite line
+1889AE	240	1	class	location card, sprite line
+1889BC	240	1	class	location card, sprite line
+1889CE	240	1	class	location card, sprite line
+1889DC	240	1	class	location card, sprite line
+1889EE	240	1	class	location card, sprite line
+1889FC	240	1	class	location card, sprite line
+188A0E	240	1	class	location card, sprite line
+188A1C	240	1	class	location card, sprite line
+188A2E	240	1	class	location card, sprite line
+188A3C	240	1	class	location card, sprite line
+188A4E	240	1	class	location card, sprite line
+188A5C	240	1	class	location card, sprite line
+188A6E	240	1	class	location card, sprite line
+188A7C	240	1	class	location card, sprite line
+188A8E	240	1	class	location card, sprite line
+188A9C	240	1	class	location card, sprite line
+188AAE	240	1	class	location card, sprite line
+188ABC	240	1	class	location card, sprite line
+188ACE	240	1	class	location card, sprite line
+188ADC	240	1	class	location card, sprite line
+188AFC	240	1	class	location card, sprite line
+188B10	240	1	class	location card, sprite line
+188B30	240	1	class	location card, sprite line
+188B44	240	1	class	location card, sprite line
+188B64	240	1	class	location card, sprite line
+188B74	240	1	class	location card, sprite line
+188B98	240	1	class	location card, sprite line
+188BAC	240	1	class	location card, sprite line
+188BC4	240	1	class	location card, sprite line
+188BD2	240	1	class	location card, sprite line
+188BF6	240	1	class	location card, sprite line
+188C04	240	1	class	location card, sprite line
+188C16	240	1	class	location card, sprite line
+188C24	240	1	class	location card, sprite line
+188C36	240	1	class	location card, sprite line
+188C44	240	1	class	location card, sprite line
 188C56	64	1	class	speaker tag
 188C62	64	1	class	speaker tag
 188C6E	64	1	class	speaker tag
@@ -4407,682 +4407,682 @@ id	px	rows	source	where
 434E14	156	2	class	dialogue box
 2A7714	80	1	measured	080BFCA5
 2A771C	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7724	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7724	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7734	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7742	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7750	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7750	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7774	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7784	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7794	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7794	80	2	guess	skill info: 10 cells a row in the Japanese
 2A77B8	80	1	class	skill list, w=10 (0x0BFCA5)
 2A77C0	80	1	class	skill list, w=10 (0x0BFCA5)
-2A77C8	80	1	class	skill list, w=10 (0x0BFCA5)
+2A77C8	80	2	guess	skill info: 10 cells a row in the Japanese
 2A77F2	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7800	80	1	class	skill list, w=10 (0x0BFCA5)
-2A780E	80	1	class	skill list, w=10 (0x0BFCA5)
+2A780E	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7838	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7848	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7858	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7858	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7882	80	1	class	skill list, w=10 (0x0BFCA5)
 2A788C	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7896	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7896	80	2	guess	skill info: 10 cells a row in the Japanese
 2A78A6	80	1	class	skill list, w=10 (0x0BFCA5)
 2A78B6	80	1	class	skill list, w=10 (0x0BFCA5)
-2A78C6	80	1	class	skill list, w=10 (0x0BFCA5)
+2A78C6	80	2	guess	skill info: 10 cells a row in the Japanese
 2A78EA	80	1	class	skill list, w=10 (0x0BFCA5)
 2A78FC	80	1	class	skill list, w=10 (0x0BFCA5)
-2A790E	80	1	class	skill list, w=10 (0x0BFCA5)
+2A790E	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7932	80	1	class	skill list, w=10 (0x0BFCA5)
 2A793A	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7942	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7942	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7952	80	1	class	skill list, w=10 (0x0BFCA5)
 2A795C	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7966	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7966	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7976	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7982	80	1	class	skill list, w=10 (0x0BFCA5)
-2A798E	80	1	class	skill list, w=10 (0x0BFCA5)
+2A798E	80	2	guess	skill info: 10 cells a row in the Japanese
 2A799E	80	1	class	skill list, w=10 (0x0BFCA5)
 2A79A6	80	1	class	skill list, w=10 (0x0BFCA5)
-2A79AE	80	1	class	skill list, w=10 (0x0BFCA5)
+2A79AE	80	2	guess	skill info: 10 cells a row in the Japanese
 2A79BE	80	1	class	skill list, w=10 (0x0BFCA5)
 2A79C8	80	1	class	skill list, w=10 (0x0BFCA5)
-2A79D2	80	1	class	skill list, w=10 (0x0BFCA5)
+2A79D2	80	2	guess	skill info: 10 cells a row in the Japanese
 2A79E2	80	1	class	skill list, w=10 (0x0BFCA5)
 2A79EE	80	1	class	skill list, w=10 (0x0BFCA5)
-2A79FA	80	1	class	skill list, w=10 (0x0BFCA5)
+2A79FA	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7A0A	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7A1A	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7A2A	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7A2A	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7A50	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7A60	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7A70	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7A70	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7A80	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7A90	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7AA0	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7AA0	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7AC8	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7AD8	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7AE8	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7AE8	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7B12	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7B20	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7B2E	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7B2E	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7B54	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7B66	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7B78	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7B78	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7BA0	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7BB4	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7BC2	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7BC2	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7BE8	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7BFA	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7C08	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7C08	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7C24	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7C34	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7C44	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7C44	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7C6E	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7C78	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7C82	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7C82	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7C92	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7C9E	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7CAA	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7CAA	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7CBA	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7CC8	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7CD6	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7CD6	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7CE6	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7CFC	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7D08	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7D08	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7D18	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7D22	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7D2C	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7D2C	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7D3C	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7D46	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7D50	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7D50	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7D60	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7D6C	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7D78	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7D78	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7D88	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7D90	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7D98	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7D98	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7DC2	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7DCE	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7DDA	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7DDA	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7E04	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7E12	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7E20	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7E20	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7E4A	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7E52	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7E5A	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7E5A	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7E6A	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7E74	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7E7E	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7E7E	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7E8E	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7E9A	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7EA6	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7EA6	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7EB6	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7EC0	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7ECA	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7ECA	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7EF0	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7EFC	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7F08	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7F08	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7F2E	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7F38	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7F42	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7F42	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7F68	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7F74	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7F80	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7F80	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7F9E	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7FAE	80	1	class	skill list, w=10 (0x0BFCA5)
-2A7FBE	80	1	class	skill list, w=10 (0x0BFCA5)
+2A7FBE	80	2	guess	skill info: 10 cells a row in the Japanese
 2A7FE4	80	1	class	skill list, w=10 (0x0BFCA5)
 2A7FF2	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8000	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8000	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8016	80	1	class	skill list, w=10 (0x0BFCA5)
 2A801E	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8026	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8026	80	2	guess	skill info: 10 cells a row in the Japanese
 2A804C	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8054	80	1	class	skill list, w=10 (0x0BFCA5)
-2A805C	80	1	class	skill list, w=10 (0x0BFCA5)
+2A805C	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8084	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8090	80	1	class	skill list, w=10 (0x0BFCA5)
-2A809C	80	1	class	skill list, w=10 (0x0BFCA5)
+2A809C	80	2	guess	skill info: 10 cells a row in the Japanese
 2A80C4	80	1	class	skill list, w=10 (0x0BFCA5)
 2A80D2	80	1	class	skill list, w=10 (0x0BFCA5)
-2A80E0	80	1	class	skill list, w=10 (0x0BFCA5)
+2A80E0	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8108	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8114	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8120	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8120	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8148	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8154	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8160	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8160	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8188	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8194	80	1	class	skill list, w=10 (0x0BFCA5)
-2A81A0	80	1	class	skill list, w=10 (0x0BFCA5)
+2A81A0	80	2	guess	skill info: 10 cells a row in the Japanese
 2A81C8	80	1	class	skill list, w=10 (0x0BFCA5)
 2A81D2	80	1	class	skill list, w=10 (0x0BFCA5)
-2A81DC	80	1	class	skill list, w=10 (0x0BFCA5)
+2A81DC	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8206	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8210	80	1	class	skill list, w=10 (0x0BFCA5)
-2A821A	80	1	class	skill list, w=10 (0x0BFCA5)
+2A821A	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8244	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8250	80	1	class	skill list, w=10 (0x0BFCA5)
-2A825C	80	1	class	skill list, w=10 (0x0BFCA5)
+2A825C	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8286	80	1	class	skill list, w=10 (0x0BFCA5)
 2A828E	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8296	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8296	80	2	guess	skill info: 10 cells a row in the Japanese
 2A82C0	80	1	class	skill list, w=10 (0x0BFCA5)
 2A82C8	80	1	class	skill list, w=10 (0x0BFCA5)
-2A82D0	80	1	class	skill list, w=10 (0x0BFCA5)
+2A82D0	80	2	guess	skill info: 10 cells a row in the Japanese
 2A82FA	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8308	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8316	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8316	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8340	80	1	class	skill list, w=10 (0x0BFCA5)
 2A834A	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8354	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8354	80	2	guess	skill info: 10 cells a row in the Japanese
 2A837E	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8388	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8392	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8392	80	2	guess	skill info: 10 cells a row in the Japanese
 2A83BC	80	1	class	skill list, w=10 (0x0BFCA5)
 2A83CA	80	1	class	skill list, w=10 (0x0BFCA5)
-2A83D8	80	1	class	skill list, w=10 (0x0BFCA5)
+2A83D8	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8402	80	1	class	skill list, w=10 (0x0BFCA5)
 2A840C	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8416	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8416	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8440	80	1	class	skill list, w=10 (0x0BFCA5)
 2A844C	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8458	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8458	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8466	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8472	80	1	class	skill list, w=10 (0x0BFCA5)
-2A847E	80	1	class	skill list, w=10 (0x0BFCA5)
+2A847E	80	2	guess	skill info: 10 cells a row in the Japanese
 2A848C	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8498	80	1	class	skill list, w=10 (0x0BFCA5)
-2A84A4	80	1	class	skill list, w=10 (0x0BFCA5)
+2A84A4	80	2	guess	skill info: 10 cells a row in the Japanese
 2A84B2	80	1	class	skill list, w=10 (0x0BFCA5)
 2A84BE	80	1	class	skill list, w=10 (0x0BFCA5)
-2A84CA	80	1	class	skill list, w=10 (0x0BFCA5)
+2A84CA	80	2	guess	skill info: 10 cells a row in the Japanese
 2A84D8	80	1	class	skill list, w=10 (0x0BFCA5)
 2A84E4	80	1	class	skill list, w=10 (0x0BFCA5)
-2A84F0	80	1	class	skill list, w=10 (0x0BFCA5)
+2A84F0	80	2	guess	skill info: 10 cells a row in the Japanese
 2A84FE	80	1	class	skill list, w=10 (0x0BFCA5)
 2A850A	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8516	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8516	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8524	80	1	class	skill list, w=10 (0x0BFCA5)
 2A852E	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8538	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8538	80	2	guess	skill info: 10 cells a row in the Japanese
 2A855C	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8564	80	1	class	skill list, w=10 (0x0BFCA5)
-2A856C	80	1	class	skill list, w=10 (0x0BFCA5)
+2A856C	80	2	guess	skill info: 10 cells a row in the Japanese
 2A857C	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8586	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8590	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8590	80	2	guess	skill info: 10 cells a row in the Japanese
 2A85A0	80	1	class	skill list, w=10 (0x0BFCA5)
 2A85AA	80	1	class	skill list, w=10 (0x0BFCA5)
-2A85B4	80	1	class	skill list, w=10 (0x0BFCA5)
+2A85B4	80	2	guess	skill info: 10 cells a row in the Japanese
 2A85C4	80	1	class	skill list, w=10 (0x0BFCA5)
 2A85D2	80	1	class	skill list, w=10 (0x0BFCA5)
-2A85E0	80	1	class	skill list, w=10 (0x0BFCA5)
+2A85E0	80	2	guess	skill info: 10 cells a row in the Japanese
 2A85F0	80	1	class	skill list, w=10 (0x0BFCA5)
 2A85FC	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8608	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8608	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8630	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8640	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8650	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8650	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8678	80	1	class	skill list, w=10 (0x0BFCA5)
 2A868A	80	1	class	skill list, w=10 (0x0BFCA5)
-2A869C	80	1	class	skill list, w=10 (0x0BFCA5)
+2A869C	80	2	guess	skill info: 10 cells a row in the Japanese
 2A86AC	80	1	class	skill list, w=10 (0x0BFCA5)
 2A86BA	80	1	class	skill list, w=10 (0x0BFCA5)
-2A86C8	80	1	class	skill list, w=10 (0x0BFCA5)
+2A86C8	80	2	guess	skill info: 10 cells a row in the Japanese
 2A86D8	80	1	class	skill list, w=10 (0x0BFCA5)
 2A86E8	80	1	class	skill list, w=10 (0x0BFCA5)
-2A86F8	80	1	class	skill list, w=10 (0x0BFCA5)
+2A86F8	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8720	80	1	class	skill list, w=10 (0x0BFCA5)
 2A872E	80	1	class	skill list, w=10 (0x0BFCA5)
-2A873C	80	1	class	skill list, w=10 (0x0BFCA5)
+2A873C	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8766	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8774	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8782	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8782	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8792	80	1	class	skill list, w=10 (0x0BFCA5)
 2A87A2	80	1	class	skill list, w=10 (0x0BFCA5)
-2A87B2	80	1	class	skill list, w=10 (0x0BFCA5)
+2A87B2	80	2	guess	skill info: 10 cells a row in the Japanese
 2A87C2	80	1	class	skill list, w=10 (0x0BFCA5)
 2A87D6	80	1	class	skill list, w=10 (0x0BFCA5)
-2A87E6	80	1	class	skill list, w=10 (0x0BFCA5)
+2A87E6	80	2	guess	skill info: 10 cells a row in the Japanese
 2A87F6	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8800	80	1	class	skill list, w=10 (0x0BFCA5)
-2A880A	80	1	class	skill list, w=10 (0x0BFCA5)
+2A880A	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8826	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8830	80	1	class	skill list, w=10 (0x0BFCA5)
-2A883A	80	1	class	skill list, w=10 (0x0BFCA5)
+2A883A	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8856	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8860	80	1	class	skill list, w=10 (0x0BFCA5)
-2A886A	80	1	class	skill list, w=10 (0x0BFCA5)
+2A886A	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8886	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8890	80	1	class	skill list, w=10 (0x0BFCA5)
-2A889A	80	1	class	skill list, w=10 (0x0BFCA5)
+2A889A	80	2	guess	skill info: 10 cells a row in the Japanese
 2A88AA	80	1	class	skill list, w=10 (0x0BFCA5)
 2A88B4	80	1	class	skill list, w=10 (0x0BFCA5)
-2A88BE	80	1	class	skill list, w=10 (0x0BFCA5)
+2A88BE	80	2	guess	skill info: 10 cells a row in the Japanese
 2A88CE	80	1	class	skill list, w=10 (0x0BFCA5)
 2A88DA	80	1	class	skill list, w=10 (0x0BFCA5)
-2A88E6	80	1	class	skill list, w=10 (0x0BFCA5)
+2A88E6	80	2	guess	skill info: 10 cells a row in the Japanese
 2A88F6	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8900	80	1	class	skill list, w=10 (0x0BFCA5)
-2A890A	80	1	class	skill list, w=10 (0x0BFCA5)
+2A890A	80	2	guess	skill info: 10 cells a row in the Japanese
 2A891A	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8924	80	1	class	skill list, w=10 (0x0BFCA5)
-2A892E	80	1	class	skill list, w=10 (0x0BFCA5)
+2A892E	80	2	guess	skill info: 10 cells a row in the Japanese
 2A893E	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8948	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8952	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8952	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8962	80	1	class	skill list, w=10 (0x0BFCA5)
 2A896C	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8976	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8976	80	2	guess	skill info: 10 cells a row in the Japanese
 2A89A0	80	1	class	skill list, w=10 (0x0BFCA5)
 2A89AA	80	1	class	skill list, w=10 (0x0BFCA5)
-2A89B4	80	1	class	skill list, w=10 (0x0BFCA5)
+2A89B4	80	2	guess	skill info: 10 cells a row in the Japanese
 2A89DE	80	1	class	skill list, w=10 (0x0BFCA5)
 2A89E8	80	1	class	skill list, w=10 (0x0BFCA5)
-2A89F2	80	1	class	skill list, w=10 (0x0BFCA5)
+2A89F2	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8A1C	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8A2C	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8A3C	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8A3C	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8A60	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8A72	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8A84	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8A84	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8AA0	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8AAC	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8AB8	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8AB8	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8AE0	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8AEC	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8AF8	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8AF8	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8B06	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8B12	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8B1E	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8B1E	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8B2C	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8B34	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8B3C	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8B3C	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8B4C	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8B56	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8B60	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8B60	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8B70	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8B7A	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8B84	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8B84	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8B94	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8BA0	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8BAC	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8BAC	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8BD6	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8BE6	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8BF6	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8BF6	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8C18	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8C24	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8C30	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8C30	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8C54	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8C60	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8C6C	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8C6C	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8C7A	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8C86	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8C92	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8C92	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8CA0	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8CAC	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8CB8	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8CB8	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8CC6	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8CD2	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8CDE	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8CDE	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8CEC	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8CF8	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8D04	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8D04	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8D12	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8D1E	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8D2A	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8D2A	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8D40	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8D4A	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8D54	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8D54	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8D7E	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8D88	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8D92	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8D92	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8DBC	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8DC8	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8DD4	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8DD4	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8DFE	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8E06	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8E0E	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8E0E	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8E2E	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8E38	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8E42	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8E42	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8E62	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8E6C	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8E76	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8E76	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8E92	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8EA0	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8EAE	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8EAE	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8ECA	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8EDE	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8EEC	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8EEC	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8F08	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8F18	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8F28	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8F28	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8F56	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8F68	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8F7A	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8F7A	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8FA0	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8FAE	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8FBC	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8FBC	80	2	guess	skill info: 10 cells a row in the Japanese
 2A8FDE	80	1	class	skill list, w=10 (0x0BFCA5)
 2A8FEC	80	1	class	skill list, w=10 (0x0BFCA5)
-2A8FFA	80	1	class	skill list, w=10 (0x0BFCA5)
+2A8FFA	80	2	guess	skill info: 10 cells a row in the Japanese
 2A9016	80	1	class	skill list, w=10 (0x0BFCA5)
 2A9028	80	1	class	skill list, w=10 (0x0BFCA5)
-2A903A	80	1	class	skill list, w=10 (0x0BFCA5)
+2A903A	80	2	guess	skill info: 10 cells a row in the Japanese
 2A905C	80	1	class	skill list, w=10 (0x0BFCA5)
 2A906A	80	1	class	skill list, w=10 (0x0BFCA5)
-2A9078	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9078	80	2	guess	skill info: 10 cells a row in the Japanese
 2A9094	80	1	class	skill list, w=10 (0x0BFCA5)
 2A90A8	80	1	class	skill list, w=10 (0x0BFCA5)
-2A90B6	80	1	class	skill list, w=10 (0x0BFCA5)
+2A90B6	80	2	guess	skill info: 10 cells a row in the Japanese
 2A90E0	80	1	class	skill list, w=10 (0x0BFCA5)
 2A90F6	80	1	class	skill list, w=10 (0x0BFCA5)
-2A9104	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9104	80	2	guess	skill info: 10 cells a row in the Japanese
 2A912E	80	1	class	skill list, w=10 (0x0BFCA5)
 2A9136	80	1	class	skill list, w=10 (0x0BFCA5)
-2A913E	80	1	class	skill list, w=10 (0x0BFCA5)
+2A913E	80	2	guess	skill info: 10 cells a row in the Japanese
 2A9168	80	1	class	skill list, w=10 (0x0BFCA5)
 2A9172	80	1	class	skill list, w=10 (0x0BFCA5)
-2A917C	80	1	class	skill list, w=10 (0x0BFCA5)
+2A917C	80	2	guess	skill info: 10 cells a row in the Japanese
 2A91A6	80	1	class	skill list, w=10 (0x0BFCA5)
 2A91B0	80	1	class	skill list, w=10 (0x0BFCA5)
-2A91BA	80	1	class	skill list, w=10 (0x0BFCA5)
+2A91BA	80	2	guess	skill info: 10 cells a row in the Japanese
 2A91E4	80	1	class	skill list, w=10 (0x0BFCA5)
 2A91EE	80	1	class	skill list, w=10 (0x0BFCA5)
-2A91F8	80	1	class	skill list, w=10 (0x0BFCA5)
+2A91F8	80	2	guess	skill info: 10 cells a row in the Japanese
 2A9214	80	1	class	skill list, w=10 (0x0BFCA5)
 2A921E	80	1	class	skill list, w=10 (0x0BFCA5)
-2A9228	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9228	80	2	guess	skill info: 10 cells a row in the Japanese
 2A9244	80	1	class	skill list, w=10 (0x0BFCA5)
 2A9250	80	1	class	skill list, w=10 (0x0BFCA5)
-2A925C	80	1	class	skill list, w=10 (0x0BFCA5)
+2A925C	80	2	guess	skill info: 10 cells a row in the Japanese
 2A9278	80	1	class	skill list, w=10 (0x0BFCA5)
 2A9282	80	1	class	skill list, w=10 (0x0BFCA5)
-2A928C	80	1	class	skill list, w=10 (0x0BFCA5)
+2A928C	80	2	guess	skill info: 10 cells a row in the Japanese
 2A92B6	80	1	class	skill list, w=10 (0x0BFCA5)
 2A92C0	80	1	class	skill list, w=10 (0x0BFCA5)
-2A92CA	80	1	class	skill list, w=10 (0x0BFCA5)
+2A92CA	80	2	guess	skill info: 10 cells a row in the Japanese
 2A92F4	80	1	class	skill list, w=10 (0x0BFCA5)
 2A9302	80	1	class	skill list, w=10 (0x0BFCA5)
-2A9310	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9310	80	2	guess	skill info: 10 cells a row in the Japanese
 2A933A	80	1	class	skill list, w=10 (0x0BFCA5)
 2A9344	80	1	class	skill list, w=10 (0x0BFCA5)
-2A934E	80	1	class	skill list, w=10 (0x0BFCA5)
+2A934E	80	2	guess	skill info: 10 cells a row in the Japanese
 2A9372	80	1	class	skill list, w=10 (0x0BFCA5)
 2A937E	80	1	class	skill list, w=10 (0x0BFCA5)
-2A938A	80	1	class	skill list, w=10 (0x0BFCA5)
+2A938A	80	2	guess	skill info: 10 cells a row in the Japanese
 2A9398	80	1	class	skill list, w=10 (0x0BFCA5)
 2A93A4	80	1	class	skill list, w=10 (0x0BFCA5)
-2A93B0	80	1	class	skill list, w=10 (0x0BFCA5)
+2A93B0	80	2	guess	skill info: 10 cells a row in the Japanese
 2A93BE	80	1	class	skill list, w=10 (0x0BFCA5)
 2A93C6	80	1	class	skill list, w=10 (0x0BFCA5)
-2A93CE	80	1	class	skill list, w=10 (0x0BFCA5)
+2A93CE	80	2	guess	skill info: 10 cells a row in the Japanese
 2A93DE	80	1	class	skill list, w=10 (0x0BFCA5)
 2A93EA	80	1	class	skill list, w=10 (0x0BFCA5)
-2A93F6	80	1	class	skill list, w=10 (0x0BFCA5)
+2A93F6	80	2	guess	skill info: 10 cells a row in the Japanese
 2A9406	80	1	class	skill list, w=10 (0x0BFCA5)
 2A9412	80	1	class	skill list, w=10 (0x0BFCA5)
-2A941E	80	1	class	skill list, w=10 (0x0BFCA5)
+2A941E	80	2	guess	skill info: 10 cells a row in the Japanese
 2A942E	80	1	class	skill list, w=10 (0x0BFCA5)
 2A943C	80	1	class	skill list, w=10 (0x0BFCA5)
-2A944A	88	3	guess	skill info: assumed like item info
-2A945A	88	3	guess	skill info: assumed like item info
-2A9468	88	3	guess	skill info: assumed like item info
-2A9476	88	3	guess	skill info: assumed like item info
-2A9486	88	3	guess	skill info: assumed like item info
-2A9498	88	3	guess	skill info: assumed like item info
-2A94AA	88	3	guess	skill info: assumed like item info
-2A94D0	88	3	guess	skill info: assumed like item info
-2A94E4	88	3	guess	skill info: assumed like item info
-2A94F2	88	3	guess	skill info: assumed like item info
-2A9514	88	3	guess	skill info: assumed like item info
-2A9526	88	3	guess	skill info: assumed like item info
-2A9538	88	3	guess	skill info: assumed like item info
-2A9548	88	3	guess	skill info: assumed like item info
-2A955C	88	3	guess	skill info: assumed like item info
-2A956A	88	3	guess	skill info: assumed like item info
-2A9594	88	3	guess	skill info: assumed like item info
-2A95A6	88	3	guess	skill info: assumed like item info
-2A95B8	88	3	guess	skill info: assumed like item info
-2A95DE	88	3	guess	skill info: assumed like item info
-2A95EA	88	3	guess	skill info: assumed like item info
-2A95F6	88	3	guess	skill info: assumed like item info
-2A961C	88	3	guess	skill info: assumed like item info
-2A9628	88	3	guess	skill info: assumed like item info
-2A9634	88	3	guess	skill info: assumed like item info
-2A9642	88	3	guess	skill info: assumed like item info
-2A9650	88	3	guess	skill info: assumed like item info
-2A965E	88	3	guess	skill info: assumed like item info
-2A9682	88	3	guess	skill info: assumed like item info
-2A968E	88	3	guess	skill info: assumed like item info
-2A969A	88	3	guess	skill info: assumed like item info
-2A96A8	88	3	guess	skill info: assumed like item info
-2A96B6	88	3	guess	skill info: assumed like item info
-2A96C4	88	3	guess	skill info: assumed like item info
-2A96E8	88	3	guess	skill info: assumed like item info
-2A96F6	88	3	guess	skill info: assumed like item info
-2A9704	88	3	guess	skill info: assumed like item info
-2A972A	88	3	guess	skill info: assumed like item info
-2A9732	88	3	guess	skill info: assumed like item info
-2A973A	88	3	guess	skill info: assumed like item info
-2A975E	88	3	guess	skill info: assumed like item info
-2A9768	88	3	guess	skill info: assumed like item info
-2A9772	88	3	guess	skill info: assumed like item info
-2A9798	88	3	guess	skill info: assumed like item info
-2A97A0	88	3	guess	skill info: assumed like item info
-2A97A8	88	3	guess	skill info: assumed like item info
-2A97CC	88	3	guess	skill info: assumed like item info
-2A97D4	88	3	guess	skill info: assumed like item info
-2A97DC	88	3	guess	skill info: assumed like item info
-2A9802	88	3	guess	skill info: assumed like item info
-2A980C	88	3	guess	skill info: assumed like item info
-2A9816	88	3	guess	skill info: assumed like item info
-2A983A	88	3	guess	skill info: assumed like item info
-2A9842	88	3	guess	skill info: assumed like item info
-2A984A	88	3	guess	skill info: assumed like item info
-2A9870	88	3	guess	skill info: assumed like item info
-2A987A	88	3	guess	skill info: assumed like item info
-2A9884	88	3	guess	skill info: assumed like item info
-2A98A8	88	3	guess	skill info: assumed like item info
-2A98B2	88	3	guess	skill info: assumed like item info
-2A98BC	88	3	guess	skill info: assumed like item info
-2A98E2	88	3	guess	skill info: assumed like item info
-2A98EE	88	3	guess	skill info: assumed like item info
-2A98FA	88	3	guess	skill info: assumed like item info
-2A9924	88	3	guess	skill info: assumed like item info
-2A992C	88	3	guess	skill info: assumed like item info
-2A9934	88	3	guess	skill info: assumed like item info
-2A995A	88	3	guess	skill info: assumed like item info
-2A9966	88	3	guess	skill info: assumed like item info
-2A9972	88	3	guess	skill info: assumed like item info
-2A9996	88	3	guess	skill info: assumed like item info
-2A99A0	88	3	guess	skill info: assumed like item info
-2A99AA	88	3	guess	skill info: assumed like item info
-2A99D0	88	3	guess	skill info: assumed like item info
-2A99DE	88	3	guess	skill info: assumed like item info
-2A99EC	88	3	guess	skill info: assumed like item info
-2A9A12	88	3	guess	skill info: assumed like item info
-2A9A1E	88	3	guess	skill info: assumed like item info
-2A9A2A	88	3	guess	skill info: assumed like item info
-2A9A52	88	3	guess	skill info: assumed like item info
-2A9A60	88	3	guess	skill info: assumed like item info
-2A9A6E	88	3	guess	skill info: assumed like item info
-2A9A90	88	3	guess	skill info: assumed like item info
-2A9A9C	88	3	guess	skill info: assumed like item info
-2A9AA8	88	3	guess	skill info: assumed like item info
-2A9ACA	88	3	guess	skill info: assumed like item info
-2A9AD4	88	3	guess	skill info: assumed like item info
-2A9ADE	88	3	guess	skill info: assumed like item info
-2A9AF0	88	3	guess	skill info: assumed like item info
-2A9B00	88	3	guess	skill info: assumed like item info
-2A9B10	88	3	guess	skill info: assumed like item info
-2A9B38	88	3	guess	skill info: assumed like item info
-2A9B40	88	3	guess	skill info: assumed like item info
-2A9B48	88	3	guess	skill info: assumed like item info
-2A9B72	88	3	guess	skill info: assumed like item info
-2A9B82	88	3	guess	skill info: assumed like item info
-2A9B92	88	3	guess	skill info: assumed like item info
-2A9BA2	88	3	guess	skill info: assumed like item info
-2A9BB8	88	3	guess	skill info: assumed like item info
-2A9BC4	88	3	guess	skill info: assumed like item info
-2A9BEA	88	3	guess	skill info: assumed like item info
-2A9BF8	88	3	guess	skill info: assumed like item info
-2A9C06	88	3	guess	skill info: assumed like item info
-2A9C30	88	3	guess	skill info: assumed like item info
-2A9C46	88	3	guess	skill info: assumed like item info
-2A9C56	88	3	guess	skill info: assumed like item info
-2A9C84	88	3	guess	skill info: assumed like item info
-2A9C98	88	3	guess	skill info: assumed like item info
-2A9CA4	88	3	guess	skill info: assumed like item info
-2A9CC0	88	3	guess	skill info: assumed like item info
-2A9CD4	88	3	guess	skill info: assumed like item info
-2A9CE4	88	3	guess	skill info: assumed like item info
-2A9CF4	88	3	guess	skill info: assumed like item info
-2A9D08	88	3	guess	skill info: assumed like item info
-2A9D1A	88	3	guess	skill info: assumed like item info
-2A9D3E	88	3	guess	skill info: assumed like item info
-2A9D4E	88	3	guess	skill info: assumed like item info
-2A9D5E	88	3	guess	skill info: assumed like item info
-2A9D88	88	3	guess	skill info: assumed like item info
-2A9D9C	88	3	guess	skill info: assumed like item info
-2A9DAA	88	3	guess	skill info: assumed like item info
-2A9DD4	88	3	guess	skill info: assumed like item info
-2A9DE0	88	3	guess	skill info: assumed like item info
-2A9DEC	88	3	guess	skill info: assumed like item info
-2A9E16	88	3	guess	skill info: assumed like item info
-2A9E26	88	3	guess	skill info: assumed like item info
-2A9E36	88	3	guess	skill info: assumed like item info
-2A9E60	88	3	guess	skill info: assumed like item info
-2A9E74	88	3	guess	skill info: assumed like item info
-2A9E80	88	3	guess	skill info: assumed like item info
-2A9E90	88	3	guess	skill info: assumed like item info
-2A9EA4	88	3	guess	skill info: assumed like item info
-2A9EB2	88	3	guess	skill info: assumed like item info
-2AB4E4	80	1	guess	skill names: assumed like the skill list
-2AB4F4	80	1	guess	skill names: assumed like the skill list
-2AB504	80	1	guess	skill names: assumed like the skill list
-2AB512	80	1	guess	skill names: assumed like the skill list
-2AB524	80	1	guess	skill names: assumed like the skill list
-2AB536	80	1	guess	skill names: assumed like the skill list
-2AB544	80	1	guess	skill names: assumed like the skill list
-2AB554	80	1	guess	skill names: assumed like the skill list
-2AB564	80	1	guess	skill names: assumed like the skill list
-2AB572	80	1	guess	skill names: assumed like the skill list
-2AB582	80	1	guess	skill names: assumed like the skill list
-2AB592	80	1	guess	skill names: assumed like the skill list
-2AB5A0	80	1	guess	skill names: assumed like the skill list
-2AB5B0	80	1	guess	skill names: assumed like the skill list
-2AB5C0	80	1	guess	skill names: assumed like the skill list
-2AB5CE	80	1	guess	skill names: assumed like the skill list
-2AB5DE	80	1	guess	skill names: assumed like the skill list
-2AB5EE	80	1	guess	skill names: assumed like the skill list
-2AB5FC	80	1	guess	skill names: assumed like the skill list
-2AB60E	80	1	guess	skill names: assumed like the skill list
-2AB620	80	1	guess	skill names: assumed like the skill list
-2AB62E	80	1	guess	skill names: assumed like the skill list
-2AB63E	80	1	guess	skill names: assumed like the skill list
-2AB64E	80	1	guess	skill names: assumed like the skill list
-2AB65C	80	1	guess	skill names: assumed like the skill list
-2AB66A	80	1	guess	skill names: assumed like the skill list
-2AB678	80	1	guess	skill names: assumed like the skill list
-2AB686	80	1	guess	skill names: assumed like the skill list
-2AB698	80	1	guess	skill names: assumed like the skill list
-2AB6AA	80	1	guess	skill names: assumed like the skill list
-2AB6B8	80	1	guess	skill names: assumed like the skill list
-2AB6C8	80	1	guess	skill names: assumed like the skill list
-2AB6D8	80	1	guess	skill names: assumed like the skill list
-2AB6E6	80	1	guess	skill names: assumed like the skill list
-2AB6F8	80	1	guess	skill names: assumed like the skill list
-2AB70A	80	1	guess	skill names: assumed like the skill list
-2AB718	80	1	guess	skill names: assumed like the skill list
-2AB728	80	1	guess	skill names: assumed like the skill list
-2AB738	80	1	guess	skill names: assumed like the skill list
-2AB746	80	1	guess	skill names: assumed like the skill list
-2AB75A	80	1	guess	skill names: assumed like the skill list
-2AB768	80	1	guess	skill names: assumed like the skill list
-2AB776	80	1	guess	skill names: assumed like the skill list
-2AB786	80	1	guess	skill names: assumed like the skill list
-2AB796	80	1	guess	skill names: assumed like the skill list
-2AB7A4	80	1	guess	skill names: assumed like the skill list
-2AB7B6	80	1	guess	skill names: assumed like the skill list
-2AB7C8	80	1	guess	skill names: assumed like the skill list
-2AB7D6	80	1	guess	skill names: assumed like the skill list
-2AB7E4	80	1	guess	skill names: assumed like the skill list
-2AB7F2	80	1	guess	skill names: assumed like the skill list
-2AB800	80	1	guess	skill names: assumed like the skill list
-2AB810	80	1	guess	skill names: assumed like the skill list
-2AB820	80	1	guess	skill names: assumed like the skill list
-2AB82E	80	1	guess	skill names: assumed like the skill list
-2AB840	80	1	guess	skill names: assumed like the skill list
-2AB852	80	1	guess	skill names: assumed like the skill list
-2AB860	80	1	guess	skill names: assumed like the skill list
-2AB872	80	1	guess	skill names: assumed like the skill list
-2AB884	80	1	guess	skill names: assumed like the skill list
-2AB892	80	1	guess	skill names: assumed like the skill list
-2AB8A4	80	1	guess	skill names: assumed like the skill list
-2AB8B6	80	1	guess	skill names: assumed like the skill list
-2AB8C4	80	1	guess	skill names: assumed like the skill list
-2AB8D4	80	1	guess	skill names: assumed like the skill list
-2AB8E4	80	1	guess	skill names: assumed like the skill list
-2AB8F2	80	1	guess	skill names: assumed like the skill list
-2AB904	80	1	guess	skill names: assumed like the skill list
-2AB916	80	1	guess	skill names: assumed like the skill list
-2AB924	80	1	guess	skill names: assumed like the skill list
-2AB932	80	1	guess	skill names: assumed like the skill list
-2AB940	80	1	guess	skill names: assumed like the skill list
-2AB94E	80	1	guess	skill names: assumed like the skill list
-2AB95E	80	1	guess	skill names: assumed like the skill list
-2AB96E	80	1	guess	skill names: assumed like the skill list
-2ABE30	80	1	guess	skill names: assumed like the skill list
-2ABE44	80	1	guess	skill names: assumed like the skill list
-2ABE50	80	1	guess	skill names: assumed like the skill list
-2ABE5E	80	1	guess	skill names: assumed like the skill list
-2ABE72	80	1	guess	skill names: assumed like the skill list
-2ABE7E	80	1	guess	skill names: assumed like the skill list
-2ABE8C	80	1	guess	skill names: assumed like the skill list
-2ABEA0	80	1	guess	skill names: assumed like the skill list
-2ABEAC	80	1	guess	skill names: assumed like the skill list
-2ABEBA	80	1	guess	skill names: assumed like the skill list
-2ABED2	80	1	guess	skill names: assumed like the skill list
-2ABEE2	80	1	guess	skill names: assumed like the skill list
-2ABEF0	80	1	guess	skill names: assumed like the skill list
-2ABF04	80	1	guess	skill names: assumed like the skill list
-2ABF10	80	1	guess	skill names: assumed like the skill list
-2ABF1E	80	1	guess	skill names: assumed like the skill list
-2ABF30	80	1	guess	skill names: assumed like the skill list
-2ABF3C	80	1	guess	skill names: assumed like the skill list
-2ABF4A	80	1	guess	skill names: assumed like the skill list
-2ABF5E	80	1	guess	skill names: assumed like the skill list
-2ABF6C	80	1	guess	skill names: assumed like the skill list
-2ABF7A	80	1	guess	skill names: assumed like the skill list
-2ABF86	80	1	guess	skill names: assumed like the skill list
-2ABF92	80	1	guess	skill names: assumed like the skill list
-2ABFA0	80	1	guess	skill names: assumed like the skill list
-2ABFAC	80	1	guess	skill names: assumed like the skill list
-2ABFB8	80	1	guess	skill names: assumed like the skill list
-2ABFC6	80	1	guess	skill names: assumed like the skill list
-2ABFD2	80	1	guess	skill names: assumed like the skill list
-2ABFDE	80	1	guess	skill names: assumed like the skill list
-2ABFEC	80	1	guess	skill names: assumed like the skill list
-2AC000	80	1	guess	skill names: assumed like the skill list
-2AC00C	80	1	guess	skill names: assumed like the skill list
-2AC01A	80	1	guess	skill names: assumed like the skill list
-2AC02A	80	1	guess	skill names: assumed like the skill list
-2AC034	80	1	guess	skill names: assumed like the skill list
-2AC042	80	1	guess	skill names: assumed like the skill list
-2AC056	80	1	guess	skill names: assumed like the skill list
-2AC062	80	1	guess	skill names: assumed like the skill list
-2AC070	80	1	guess	skill names: assumed like the skill list
-2AC086	80	1	guess	skill names: assumed like the skill list
-2AC096	80	1	guess	skill names: assumed like the skill list
-2AC0A4	80	1	guess	skill names: assumed like the skill list
-2AC0B8	80	1	guess	skill names: assumed like the skill list
-2AC0C2	80	1	guess	skill names: assumed like the skill list
-2AC0D0	80	1	guess	skill names: assumed like the skill list
-2AC0E4	80	1	guess	skill names: assumed like the skill list
-2AC0F2	80	1	guess	skill names: assumed like the skill list
+2A944A	80	2	guess	skill info: 10 cells a row in the Japanese
+2A945A	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9468	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9476	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9486	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9498	80	1	class	skill list, w=10 (0x0BFCA5)
+2A94AA	80	2	guess	skill info: 10 cells a row in the Japanese
+2A94D0	80	1	class	skill list, w=10 (0x0BFCA5)
+2A94E4	80	1	class	skill list, w=10 (0x0BFCA5)
+2A94F2	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9514	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9526	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9538	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9548	80	1	class	skill list, w=10 (0x0BFCA5)
+2A955C	80	1	class	skill list, w=10 (0x0BFCA5)
+2A956A	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9594	80	1	class	skill list, w=10 (0x0BFCA5)
+2A95A6	80	1	class	skill list, w=10 (0x0BFCA5)
+2A95B8	80	2	guess	skill info: 10 cells a row in the Japanese
+2A95DE	80	1	class	skill list, w=10 (0x0BFCA5)
+2A95EA	80	1	class	skill list, w=10 (0x0BFCA5)
+2A95F6	80	2	guess	skill info: 10 cells a row in the Japanese
+2A961C	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9628	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9634	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9642	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9650	80	1	class	skill list, w=10 (0x0BFCA5)
+2A965E	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9682	80	1	class	skill list, w=10 (0x0BFCA5)
+2A968E	80	1	class	skill list, w=10 (0x0BFCA5)
+2A969A	80	2	guess	skill info: 10 cells a row in the Japanese
+2A96A8	80	1	class	skill list, w=10 (0x0BFCA5)
+2A96B6	80	1	class	skill list, w=10 (0x0BFCA5)
+2A96C4	80	2	guess	skill info: 10 cells a row in the Japanese
+2A96E8	80	1	class	skill list, w=10 (0x0BFCA5)
+2A96F6	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9704	80	2	guess	skill info: 10 cells a row in the Japanese
+2A972A	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9732	80	1	class	skill list, w=10 (0x0BFCA5)
+2A973A	80	2	guess	skill info: 10 cells a row in the Japanese
+2A975E	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9768	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9772	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9798	80	1	class	skill list, w=10 (0x0BFCA5)
+2A97A0	80	1	class	skill list, w=10 (0x0BFCA5)
+2A97A8	80	2	guess	skill info: 10 cells a row in the Japanese
+2A97CC	80	1	class	skill list, w=10 (0x0BFCA5)
+2A97D4	80	1	class	skill list, w=10 (0x0BFCA5)
+2A97DC	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9802	80	1	class	skill list, w=10 (0x0BFCA5)
+2A980C	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9816	80	2	guess	skill info: 10 cells a row in the Japanese
+2A983A	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9842	80	1	class	skill list, w=10 (0x0BFCA5)
+2A984A	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9870	80	1	class	skill list, w=10 (0x0BFCA5)
+2A987A	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9884	80	2	guess	skill info: 10 cells a row in the Japanese
+2A98A8	80	1	class	skill list, w=10 (0x0BFCA5)
+2A98B2	80	1	class	skill list, w=10 (0x0BFCA5)
+2A98BC	80	2	guess	skill info: 10 cells a row in the Japanese
+2A98E2	80	1	class	skill list, w=10 (0x0BFCA5)
+2A98EE	80	1	class	skill list, w=10 (0x0BFCA5)
+2A98FA	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9924	80	1	class	skill list, w=10 (0x0BFCA5)
+2A992C	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9934	80	2	guess	skill info: 10 cells a row in the Japanese
+2A995A	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9966	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9972	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9996	80	1	class	skill list, w=10 (0x0BFCA5)
+2A99A0	80	1	class	skill list, w=10 (0x0BFCA5)
+2A99AA	80	2	guess	skill info: 10 cells a row in the Japanese
+2A99D0	80	1	class	skill list, w=10 (0x0BFCA5)
+2A99DE	80	1	class	skill list, w=10 (0x0BFCA5)
+2A99EC	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9A12	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9A1E	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9A2A	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9A52	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9A60	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9A6E	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9A90	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9A9C	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9AA8	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9ACA	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9AD4	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9ADE	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9AF0	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9B00	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9B10	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9B38	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9B40	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9B48	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9B72	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9B82	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9B92	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9BA2	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9BB8	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9BC4	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9BEA	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9BF8	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9C06	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9C30	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9C46	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9C56	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9C84	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9C98	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9CA4	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9CC0	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9CD4	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9CE4	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9CF4	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9D08	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9D1A	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9D3E	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9D4E	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9D5E	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9D88	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9D9C	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9DAA	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9DD4	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9DE0	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9DEC	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9E16	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9E26	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9E36	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9E60	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9E74	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9E80	80	2	guess	skill info: 10 cells a row in the Japanese
+2A9E90	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9EA4	80	1	class	skill list, w=10 (0x0BFCA5)
+2A9EB2	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB4E4	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB4F4	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB504	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB512	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB524	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB536	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB544	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB554	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB564	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB572	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB582	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB592	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB5A0	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB5B0	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB5C0	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB5CE	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB5DE	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB5EE	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB5FC	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB60E	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB620	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB62E	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB63E	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB64E	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB65C	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB66A	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB678	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB686	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB698	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB6AA	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB6B8	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB6C8	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB6D8	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB6E6	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB6F8	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB70A	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB718	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB728	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB738	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB746	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB75A	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB768	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB776	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB786	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB796	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB7A4	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB7B6	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB7C8	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB7D6	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB7E4	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB7F2	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB800	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB810	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB820	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB82E	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB840	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB852	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB860	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB872	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB884	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB892	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB8A4	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB8B6	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB8C4	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB8D4	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB8E4	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB8F2	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB904	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB916	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB924	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB932	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB940	80	2	guess	skill info: 10 cells a row in the Japanese
+2AB94E	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB95E	80	1	class	skill list, w=10 (0x0BFCA5)
+2AB96E	80	2	guess	skill info: 10 cells a row in the Japanese
+2ABE30	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABE44	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABE50	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABE5E	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABE72	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABE7E	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABE8C	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABEA0	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABEAC	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABEBA	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABED2	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABEE2	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABEF0	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABF04	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABF10	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABF1E	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABF30	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABF3C	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABF4A	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABF5E	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABF6C	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABF7A	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABF86	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABF92	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABFA0	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABFAC	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABFB8	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABFC6	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABFD2	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABFDE	80	1	class	skill list, w=10 (0x0BFCA5)
+2ABFEC	80	1	class	skill list, w=10 (0x0BFCA5)
+2AC000	80	1	class	skill list, w=10 (0x0BFCA5)
+2AC00C	80	1	class	skill list, w=10 (0x0BFCA5)
+2AC01A	80	1	class	skill list, w=10 (0x0BFCA5)
+2AC02A	80	1	class	skill list, w=10 (0x0BFCA5)
+2AC034	80	1	class	skill list, w=10 (0x0BFCA5)
+2AC042	80	1	class	skill list, w=10 (0x0BFCA5)
+2AC056	80	1	class	skill list, w=10 (0x0BFCA5)
+2AC062	80	1	class	skill list, w=10 (0x0BFCA5)
+2AC070	80	1	class	skill list, w=10 (0x0BFCA5)
+2AC086	80	1	class	skill list, w=10 (0x0BFCA5)
+2AC096	80	1	class	skill list, w=10 (0x0BFCA5)
+2AC0A4	80	1	class	skill list, w=10 (0x0BFCA5)
+2AC0B8	80	1	class	skill list, w=10 (0x0BFCA5)
+2AC0C2	80	1	class	skill list, w=10 (0x0BFCA5)
+2AC0D0	80	1	class	skill list, w=10 (0x0BFCA5)
+2AC0E4	80	1	class	skill list, w=10 (0x0BFCA5)
+2AC0F2	80	1	class	skill list, w=10 (0x0BFCA5)
 45BBD0	156	1	measured	080C8273
 45BBF4	160	1	measured	080C8171
 45BD36	156	2	class	dialogue box

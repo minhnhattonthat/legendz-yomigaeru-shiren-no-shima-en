@@ -6,8 +6,8 @@
    "tab:187A60"
   ],
   "jp": "0123456789A0123456789A0123456789A<end>",
-  "en": "",
-  "status": "",
+  "en": "0123456789A<br>\n0123456789A<br>\n0123456789A<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -17,8 +17,8 @@
    "tab:187A68"
   ],
   "jp": "HPかいふく30<end>",
-  "en": "",
-  "status": "",
+  "en": "HP Heal 30<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -28,8 +28,8 @@
    "tab:187A6C"
   ],
   "jp": "レジェンズのHPを　　30％かいふくさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Restores 30% of a<br>\nLegendz's HP.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -39,8 +39,8 @@
    "tab:187A74"
   ],
   "jp": "HPかいふく60<end>",
-  "en": "",
-  "status": "",
+  "en": "HP Heal 60<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -50,8 +50,8 @@
    "tab:187A78"
   ],
   "jp": "レジェンズのHPを　　60％かいふくさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Restores 60% of a<br>\nLegendz's HP.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -61,8 +61,8 @@
    "tab:187A80"
   ],
   "jp": "HPフルかいふく<end>",
-  "en": "",
-  "status": "",
+  "en": "HP Full Heal<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -72,8 +72,8 @@
    "tab:187A84"
   ],
   "jp": "レジェンズのHPを　　フルかいふくさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Fully restores a<br>\nLegendz's HP.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -83,8 +83,8 @@
    "tab:187A8C"
   ],
   "jp": "HPぜんいん30<end>",
-  "en": "",
-  "status": "",
+  "en": "HP All 30<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -94,8 +94,8 @@
    "tab:187A90"
   ],
   "jp": "セットされたレジェンズぜんいんのHPを　　　30％かいふくさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Restores 30% of<br>\nHP for all set<br>\nLegendz.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    "tab:187A98"
   ],
   "jp": "HPぜんいん60<end>",
-  "en": "",
-  "status": "",
+  "en": "HP All 60<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -116,8 +116,8 @@
    "tab:187A9C"
   ],
   "jp": "セットされたレジェンズぜんいんのHPを　　　60％かいふくさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Restores 60% of<br>\nHP for all set<br>\nLegendz.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -127,8 +127,8 @@
    "tab:187AA4"
   ],
   "jp": "HPぜんいんフル<end>",
-  "en": "",
-  "status": "",
+  "en": "HP All Full<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -138,8 +138,8 @@
    "tab:187AA8"
   ],
   "jp": "セットされたレジェンズぜんいんのHPを　　　フルかいふくさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Fully restores HP<br>\nfor all set Legendz.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -149,8 +149,8 @@
    "tab:187AB0"
   ],
   "jp": "ふっかつハーフ<end>",
-  "en": "",
-  "status": "",
+  "en": "Revive Half<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -160,8 +160,8 @@
    "tab:187AB4"
   ],
   "jp": "セットされたレジェンズぜんいんをふっかつさせHPを50％かいふく<end>",
-  "en": "",
-  "status": "",
+  "en": "Revives all set<br>\nLegendz with 50%<br>\nHP.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -171,8 +171,8 @@
    "tab:187ABC"
   ],
   "jp": "ふっかつマックス<end>",
-  "en": "",
-  "status": "",
+  "en": "Revive Max<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -182,8 +182,8 @@
    "tab:187AC0"
   ],
   "jp": "セットされたレジェンズぜんいんをふっかつさせHPをフルかいふく<end>",
-  "en": "",
-  "status": "",
+  "en": "Revives all set<br>\nLegendz with full<br>\nHP.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -193,8 +193,8 @@
    "tab:187AC8"
   ],
   "jp": "MPかいふく30<end>",
-  "en": "",
-  "status": "",
+  "en": "MP Heal 30<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -204,8 +204,8 @@
    "tab:187ACC"
   ],
   "jp": "しゅじんこうのMPを　30％かいふくさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Restores 30% of<br>\nthe hero's MP.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    "tab:187AD4"
   ],
   "jp": "MPかいふく60<end>",
-  "en": "",
-  "status": "",
+  "en": "MP Heal 60<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -226,8 +226,8 @@
    "tab:187AD8"
   ],
   "jp": "しゅじんこうのMPを　60％かいふくさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Restores 60% of<br>\nthe hero's MP.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -237,8 +237,8 @@
    "tab:187AE0"
   ],
   "jp": "MPフルかいふく<end>",
-  "en": "",
-  "status": "",
+  "en": "MP Full Heal<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -248,8 +248,8 @@
    "tab:187AE4"
   ],
   "jp": "しゅじんこうのMPを　フルかいふくさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Fully restores the<br>\nhero's MP.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -259,8 +259,8 @@
    "tab:187AEC"
   ],
   "jp": "シフトE＋10<end>",
-  "en": "",
-  "status": "",
+  "en": "Shift E +10<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -270,8 +270,8 @@
    "tab:187AF0"
   ],
   "jp": "シフトエレメントの　　しようかいすうを　　　10かいふくさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Restores 10 uses<br>\nof Shift Element.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -281,8 +281,8 @@
    "tab:187AF8"
   ],
   "jp": "シフトEマックス<end>",
-  "en": "",
-  "status": "",
+  "en": "Shift E Max<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -292,8 +292,8 @@
    "tab:187AFC"
   ],
   "jp": "シフトエレメントの　　しようかいすうを　　　フルかいふくさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Fully restores uses<br>\nof Shift Element.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -303,8 +303,8 @@
    "tab:187B04"
   ],
   "jp": "どくけし<end>",
-  "en": "",
-  "status": "",
+  "en": "Antidote<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -314,8 +314,8 @@
    "tab:187B08"
   ],
   "jp": "どくじょうたいを　　　かいふくさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Cures poison.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    "tab:187B10"
   ],
   "jp": "せきかなおし<end>",
-  "en": "",
-  "status": "",
+  "en": "Stone Cure<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -336,8 +336,8 @@
    "tab:187B14"
   ],
   "jp": "せきかじょうたいを　　かいふくさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Cures petrification.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -347,8 +347,8 @@
    "tab:187B1C"
   ],
   "jp": "マヒなおし<end>",
-  "en": "",
-  "status": "",
+  "en": "Numb Cure<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -358,8 +358,8 @@
    "tab:187B20"
   ],
   "jp": "マヒじょうたいを　　　かいふくさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Cures paralysis.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -369,8 +369,8 @@
    "tab:187B28"
   ],
   "jp": "ねむりなおし<end>",
-  "en": "",
-  "status": "",
+  "en": "Sleep Cure<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -380,8 +380,8 @@
    "tab:187B2C"
   ],
   "jp": "ねむりじょうたいを　　かいふくさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Cures sleep.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -391,8 +391,8 @@
    "tab:187B34"
   ],
   "jp": "こんらんなおし<end>",
-  "en": "",
-  "status": "",
+  "en": "Daze Cure<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -402,8 +402,8 @@
    "tab:187B38"
   ],
   "jp": "こんらんじょうたいを　かいふくさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Cures confusion.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -413,8 +413,8 @@
    "tab:187B40"
   ],
   "jp": "ふういんかいじょ<end>",
-  "en": "",
-  "status": "",
+  "en": "Seal Breaker<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -424,8 +424,8 @@
    "tab:187B44"
   ],
   "jp": "すべての　　　　　　　ふういんじょうたいを　かいふくさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Cures all seals.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    "tab:187B4C"
   ],
   "jp": "すべてなおし<end>",
-  "en": "",
-  "status": "",
+  "en": "Cure All<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -446,8 +446,8 @@
    "tab:187B50"
   ],
   "jp": "すべてのじょうたいを　かいふくさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Cures every status.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -457,8 +457,8 @@
    "tab:187B58"
   ],
   "jp": "ぜんいんなおし<end>",
-  "en": "",
-  "status": "",
+  "en": "Party Cure<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -468,8 +468,8 @@
    "tab:187B5C"
   ],
   "jp": "セットされたレジェンズぜんいんのじょうたいをかいふくさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Cures the status of<br>\nall set Legendz.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -479,8 +479,8 @@
    "tab:187B64"
   ],
   "jp": "ヒのすいしょう<end>",
-  "en": "",
-  "status": "",
+  "en": "Fire Crystal<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -490,8 +490,8 @@
    "tab:187B68"
   ],
   "jp": "ヒぞくせいの　　　　　シフトエレメントを　　はっせいさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Creates a Fire Shift<br>\nElement.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -501,8 +501,8 @@
    "tab:187B70"
   ],
   "jp": "ミズのすいしょう<end>",
-  "en": "",
-  "status": "",
+  "en": "Water Crystal<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -512,8 +512,8 @@
    "tab:187B74"
   ],
   "jp": "ミズぞくせいの　　　　シフトエレメントを　　はっせいさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Creates a Water<br>\nShift Element.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -523,8 +523,8 @@
    "tab:187B7C"
   ],
   "jp": "カゼのすいしょう<end>",
-  "en": "",
-  "status": "",
+  "en": "Wind Crystal<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -534,8 +534,8 @@
    "tab:187B80"
   ],
   "jp": "カゼぞくせいの　　　　シフトエレメントを　　はっせいさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Creates a Wind<br>\nShift Element.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    "tab:187B88"
   ],
   "jp": "ツチのすいしょう<end>",
-  "en": "",
-  "status": "",
+  "en": "Earth Crystal<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -556,8 +556,8 @@
    "tab:187B8C"
   ],
   "jp": "ツチぞくせいの　　　　シフトエレメントを　　はっせいさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Creates an Earth<br>\nShift Element.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -567,8 +567,8 @@
    "tab:187B94"
   ],
   "jp": "ヒカリすいしょう<end>",
-  "en": "",
-  "status": "",
+  "en": "Light Crystal<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -578,8 +578,8 @@
    "tab:187B98"
   ],
   "jp": "ヒカリぞくせいの　　　シフトエレメントを　　はっせいさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Creates a Light<br>\nShift Element.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -589,8 +589,8 @@
    "tab:187BA0"
   ],
   "jp": "ヤミのすいしょう<end>",
-  "en": "",
-  "status": "",
+  "en": "Dark Crystal<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -600,8 +600,8 @@
    "tab:187BA4"
   ],
   "jp": "ヤミぞくせいの　　　　シフトエレメントを　　はっせいさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Creates a Dark<br>\nShift Element.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -611,8 +611,8 @@
    "tab:187BAC"
   ],
   "jp": "ムのすいしょう<end>",
-  "en": "",
-  "status": "",
+  "en": "Null Crystal<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -622,8 +622,8 @@
    "tab:187BB0"
   ],
   "jp": "バトルフィールドを　　むぞくせいに　　　　　へんかさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Turns the<br>\nbattlefield Null.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -633,8 +633,8 @@
    "tab:187BB8"
   ],
   "jp": "ヒのエレメント<end>",
-  "en": "",
-  "status": "",
+  "en": "Fire Element<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -644,8 +644,8 @@
    "tab:187BBC"
   ],
   "jp": "ヒぞくせいの　　　　　エレメントパワーが　　さいだいになる<end>",
-  "en": "",
-  "status": "",
+  "en": "Maxes out Fire<br>\nElement Power.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    "tab:187BC4"
   ],
   "jp": "ミズのエレメント<end>",
-  "en": "",
-  "status": "",
+  "en": "Water Element<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -666,8 +666,8 @@
    "tab:187BC8"
   ],
   "jp": "ミズぞくせいの　　　　エレメントパワーが　　さいだいになる<end>",
-  "en": "",
-  "status": "",
+  "en": "Maxes out Water<br>\nElement Power.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -677,8 +677,8 @@
    "tab:187BD0"
   ],
   "jp": "カゼのエレメント<end>",
-  "en": "",
-  "status": "",
+  "en": "Wind Element<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -688,8 +688,8 @@
    "tab:187BD4"
   ],
   "jp": "カゼぞくせいの　　　　エレメントパワーが　　さいだいになる<end>",
-  "en": "",
-  "status": "",
+  "en": "Maxes out Wind<br>\nElement Power.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -699,8 +699,8 @@
    "tab:187BDC"
   ],
   "jp": "ツチのエレメント<end>",
-  "en": "",
-  "status": "",
+  "en": "Earth Element<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -710,8 +710,8 @@
    "tab:187BE0"
   ],
   "jp": "ツチぞくせいの　　　　エレメントパワーが　　さいだいになる<end>",
-  "en": "",
-  "status": "",
+  "en": "Maxes out Earth<br>\nElement Power.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -721,8 +721,8 @@
    "tab:187BE8"
   ],
   "jp": "ヒカリエレメント<end>",
-  "en": "",
-  "status": "",
+  "en": "Light Element<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -732,8 +732,8 @@
    "tab:187BEC"
   ],
   "jp": "ヒカリぞくせいの　　　エレメントパワーが　　さいだいになる<end>",
-  "en": "",
-  "status": "",
+  "en": "Maxes out Light<br>\nElement Power.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -743,8 +743,8 @@
    "tab:187BF4"
   ],
   "jp": "ヤミのエレメント<end>",
-  "en": "",
-  "status": "",
+  "en": "Dark Element<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -754,8 +754,8 @@
    "tab:187BF8"
   ],
   "jp": "ヤミぞくせいの　　　　エレメントパワーが　　さいだいになる<end>",
-  "en": "",
-  "status": "",
+  "en": "Maxes out Dark<br>\nElement Power.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    "tab:187C00"
   ],
   "jp": "オールエレメント<end>",
-  "en": "",
-  "status": "",
+  "en": "All Elements<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -776,8 +776,8 @@
    "tab:187C04"
   ],
   "jp": "ぜんぞくせいの　　　　エレメントパワーが　　さいだいになる<end>",
-  "en": "",
-  "status": "",
+  "en": "Maxes out Element<br>\nPower of all types.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -787,8 +787,8 @@
    "tab:187C0C"
   ],
   "jp": "ちからUP<end>",
-  "en": "",
-  "status": "",
+  "en": "Power Up<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -798,8 +798,8 @@
    "tab:187C10"
   ],
   "jp": "ちからが　　　　　　　しばらくのあいだ　　　じょうしょうする<end>",
-  "en": "",
-  "status": "",
+  "en": "Raises Power for a<br>\nwhile.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -809,8 +809,8 @@
    "tab:187C18"
   ],
   "jp": "ぼうぎょUP<end>",
-  "en": "",
-  "status": "",
+  "en": "Defense Up<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -820,8 +820,8 @@
    "tab:187C1C"
   ],
   "jp": "ぼうぎょが　　　　　　しばらくのあいだ　　　じょうしょうする<end>",
-  "en": "",
-  "status": "",
+  "en": "Raises Defense for<br>\na while.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -831,8 +831,8 @@
    "tab:187C24"
   ],
   "jp": "まりょくUP<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic Up<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -842,8 +842,8 @@
    "tab:187C28"
   ],
   "jp": "まりょくが　　　　　　しばらくのあいだ　　　じょうしょうする<end>",
-  "en": "",
-  "status": "",
+  "en": "Raises Magic for a<br>\nwhile.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -853,8 +853,8 @@
    "tab:187C30"
   ],
   "jp": "まぼうぎょUP<end>",
-  "en": "",
-  "status": "",
+  "en": "M.Def Up<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -864,8 +864,8 @@
    "tab:187C34"
   ],
   "jp": "まぼうぎょが　　　　　しばらくのあいだ　　　じょうしょうする<end>",
-  "en": "",
-  "status": "",
+  "en": "Raises Magic<br>\nDefense for a while.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    "tab:187C3C"
   ],
   "jp": "すばやさUP<end>",
-  "en": "",
-  "status": "",
+  "en": "Speed Up<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -886,8 +886,8 @@
    "tab:187C40"
   ],
   "jp": "すばやさが　　　　　　しばらくのあいだ　　　じょうしょうする<end>",
-  "en": "",
-  "status": "",
+  "en": "Raises Speed for a<br>\nwhile.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -897,8 +897,8 @@
    "tab:187C48"
   ],
   "jp": "クリティカルUP<end>",
-  "en": "",
-  "status": "",
+  "en": "Critical Up<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -908,8 +908,8 @@
    "tab:187C4C"
   ],
   "jp": "わざクリティカルりつがしばらくのあいだ　　　じょうしょうする<end>",
-  "en": "",
-  "status": "",
+  "en": "Raises skill critical<br>\nrate for a while.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -919,8 +919,8 @@
    "tab:187C54"
   ],
   "jp": "めいちゅうUP<end>",
-  "en": "",
-  "status": "",
+  "en": "Accuracy Up<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -930,8 +930,8 @@
    "tab:187C58"
   ],
   "jp": "わざのめいちゅうりつがしばらくのあいだ　　　じょうしょうする<end>",
-  "en": "",
-  "status": "",
+  "en": "Raises skill<br>\naccuracy for a<br>\nwhile.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -941,8 +941,8 @@
    "tab:187C60"
   ],
   "jp": "にげるアイテム<end>",
-  "en": "",
-  "status": "",
+  "en": "Escape Item<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -952,8 +952,8 @@
    "tab:187C64"
   ],
   "jp": "スキのあるてきから　　にげだす<end>",
-  "en": "",
-  "status": "",
+  "en": "Escape from an<br>\noff-guard enemy.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -963,8 +963,8 @@
    "tab:187C6C"
   ],
   "jp": "ちからのもと<end>",
-  "en": "",
-  "status": "",
+  "en": "Power Tonic<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -974,8 +974,8 @@
    "tab:187C70"
   ],
   "jp": "ちからパラメータを　　せいちょうさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Grows the Power<br>\nstat.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    "tab:187C78"
   ],
   "jp": "ぼうぎょのもと<end>",
-  "en": "",
-  "status": "",
+  "en": "Defense Tonic<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -996,8 +996,8 @@
    "tab:187C7C"
   ],
   "jp": "ぼうぎょパラメータを　せいちょうさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Grows the Defense<br>\nstat.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1007,8 +1007,8 @@
    "tab:187C84"
   ],
   "jp": "まりょくのもと<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic Tonic<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1018,8 +1018,8 @@
    "tab:187C88"
   ],
   "jp": "まりょくパラメータを　せいちょうさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Grows the Magic<br>\nstat.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1029,8 +1029,8 @@
    "tab:187C90"
   ],
   "jp": "まぼうぎょのもと<end>",
-  "en": "",
-  "status": "",
+  "en": "M.Def Tonic<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1040,8 +1040,8 @@
    "tab:187C94"
   ],
   "jp": "まぼうぎょパラメータをせいちょうさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Grows the Magic<br>\nDefense stat.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1051,8 +1051,8 @@
    "tab:187C9C"
   ],
   "jp": "すばやさのもと<end>",
-  "en": "",
-  "status": "",
+  "en": "Speed Tonic<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1062,8 +1062,8 @@
    "tab:187CA0"
   ],
   "jp": "すばやさパラメータを　せいちょうさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Grows the Speed<br>\nstat.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1073,8 +1073,8 @@
    "tab:187CA8"
   ],
   "jp": "HPのもと<end>",
-  "en": "",
-  "status": "",
+  "en": "HP Tonic<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1084,8 +1084,8 @@
    "tab:187CAC"
   ],
   "jp": "レジェンズのHPを　　せいちょうさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Grows a Legendz's<br>\nHP.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1095,8 +1095,8 @@
    "tab:187CB4"
   ],
   "jp": "MPのもと<end>",
-  "en": "",
-  "status": "",
+  "en": "MP Tonic<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1106,8 +1106,8 @@
    "tab:187CB8"
   ],
   "jp": "しゅじんこうのMPを　せいちょうさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Grows the hero's<br>\nMP.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1139,8 +1139,8 @@
    "tab:187CCC"
   ],
   "jp": "そうぐうゼロ<end>",
-  "en": "",
-  "status": "",
+  "en": "Encounter 0<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1150,8 +1150,8 @@
    "tab:187CD0"
   ],
   "jp": "しばらくのあいだてきとそうぐうしなくなる<end>",
-  "en": "",
-  "status": "",
+  "en": "No enemy<br>\nencounters for a<br>\nwhile.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1161,8 +1161,8 @@
    "tab:187CD8"
   ],
   "jp": "そうぐうUP<end>",
-  "en": "",
-  "status": "",
+  "en": "Encounter Up<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1172,8 +1172,8 @@
    "tab:187CDC"
   ],
   "jp": "しばらくのあいだてきとそうぐうしやすくなる<end>",
-  "en": "",
-  "status": "",
+  "en": "More enemy<br>\nencounters for a<br>\nwhile.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1249,8 +1249,8 @@
    "tab:187D08"
   ],
   "jp": "ドールみがき<end>",
-  "en": "",
-  "status": "",
+  "en": "Doll Polish<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1260,8 +1260,8 @@
    "tab:187D0C"
   ],
   "jp": "すべてのドールの　　　よごれをキレイにする<end>",
-  "en": "",
-  "status": "",
+  "en": "Cleans the dirt off<br>\nevery doll.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1271,8 +1271,8 @@
    "tab:187D14"
   ],
   "jp": "サービスチケット<end>",
-  "en": "",
-  "status": "",
+  "en": "Sale Ticket<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1282,8 +1282,8 @@
    "tab:187D18"
   ],
   "jp": "ショップでのかいものがはんがくになる<end>",
-  "en": "",
-  "status": "",
+  "en": "Halves the price of<br>\nshop purchases.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1293,8 +1293,8 @@
    "tab:187D20"
   ],
   "jp": "レンタルチケット<end>",
-  "en": "",
-  "status": "",
+  "en": "Rental Ticket<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1304,8 +1304,8 @@
    "tab:187D24"
   ],
   "jp": "レンタルドールを　　　ただでかりられる<end>",
-  "en": "",
-  "status": "",
+  "en": "Rent a rental doll<br>\nfor free.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1315,8 +1315,8 @@
    "tab:187D2C"
   ],
   "jp": "シルバーストーン<end>",
-  "en": "",
-  "status": "",
+  "en": "Silver Stone<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1326,8 +1326,8 @@
    "tab:187D30"
   ],
   "jp": "ショップでうると　　　そこそこのおかねになる<end>",
-  "en": "",
-  "status": "",
+  "en": "Sells at a shop for<br>\ndecent money.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1337,8 +1337,8 @@
    "tab:187D38"
   ],
   "jp": "ゴールドストーン<end>",
-  "en": "",
-  "status": "",
+  "en": "Gold Stone<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1348,8 +1348,8 @@
    "tab:187D3C"
   ],
   "jp": "ショップでうると　　　けっこうなおかねになる<end>",
-  "en": "",
-  "status": "",
+  "en": "Sells at a shop for<br>\ngood money.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1359,8 +1359,8 @@
    "tab:187D44"
   ],
   "jp": "プラチナストーン<end>",
-  "en": "",
-  "status": "",
+  "en": "Platinum Stone<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1370,8 +1370,8 @@
    "tab:187D48"
   ],
   "jp": "ショップでうると　　　すごいおかねになる<end>",
-  "en": "",
-  "status": "",
+  "en": "Sells at a shop for<br>\namazing money!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1381,8 +1381,8 @@
    "tab:187D50"
   ],
   "jp": "なぞのクリスタル<end>",
-  "en": "",
-  "status": "",
+  "en": "Odd Crystal<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1392,8 +1392,8 @@
    "tab:187D54"
   ],
   "jp": "なぞのアイテム…<end>",
-  "en": "",
-  "status": "",
+  "en": "A mystery item...<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1403,8 +1403,8 @@
    "tab:187D5C"
   ],
   "jp": "タリスポッド<end>",
-  "en": "",
-  "status": "",
+  "en": "Talispod<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1414,8 +1414,8 @@
    "tab:187D60"
   ],
   "jp": "0123456789A0123456789A0123456789A<end>",
-  "en": "",
-  "status": "",
+  "en": "0123456789A<br>\n0123456789A<br>\n0123456789A<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1425,8 +1425,8 @@
    "tab:187D68"
   ],
   "jp": "タリスポッド<end>",
-  "en": "",
-  "status": "",
+  "en": "Talispod<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1436,8 +1436,8 @@
    "tab:187D6C"
   ],
   "jp": "かくしイベント？　で　アリサといっしょに　　みつけたタリスポッド<end>",
-  "en": "",
-  "status": "",
+  "en": "A Talispod found<br>\nwith Arisa in a<br>\nhidden event?<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1447,8 +1447,8 @@
    "tab:187D74"
   ],
   "jp": "タリスダム<end>",
-  "en": "",
-  "status": "",
+  "en": "Talisdam<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1458,8 +1458,8 @@
    "tab:187D78"
   ],
   "jp": "カゼのけっしょうを　　くみこんだタリスダム<end>",
-  "en": "",
-  "status": "",
+  "en": "A Talisdam fitted<br>\nwith a wind crystal.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1469,8 +1469,8 @@
    "tab:187D80"
   ],
   "jp": "ショップのにもつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Shop Parcel<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1480,8 +1480,8 @@
    "tab:187D84"
   ],
   "jp": "ゴブリンにぬすまれた　ショップのにもつ<end>",
-  "en": "",
-  "status": "",
+  "en": "A shop's parcel<br>\nstolen by goblins.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1491,8 +1491,8 @@
    "tab:187D8C"
   ],
   "jp": "ダムパーツA<end>",
-  "en": "",
-  "status": "",
+  "en": "Dam Part A<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1502,8 +1502,8 @@
    "tab:187D90"
   ],
   "jp": "タリスダムのさくせいにひつようなぶひん<end>",
-  "en": "",
-  "status": "",
+  "en": "A part needed to<br>\nbuild a Talisdam.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1513,8 +1513,8 @@
    "tab:187D98"
   ],
   "jp": "ダムパーツB<end>",
-  "en": "",
-  "status": "",
+  "en": "Dam Part B<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1524,8 +1524,8 @@
    "tab:187D9C"
   ],
   "jp": "タリスダムのさくせいにひつようなぶひん<end>",
-  "en": "",
-  "status": "",
+  "en": "A part needed to<br>\nbuild a Talisdam.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1535,8 +1535,8 @@
    "tab:187DA4"
   ],
   "jp": "ダムパーツC<end>",
-  "en": "",
-  "status": "",
+  "en": "Dam Part C<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1546,8 +1546,8 @@
    "tab:187DA8"
   ],
   "jp": "タリスダムのさくせいにひつようなぶひん<end>",
-  "en": "",
-  "status": "",
+  "en": "A part needed to<br>\nbuild a Talisdam.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1557,8 +1557,8 @@
    "tab:187DB0"
   ],
   "jp": "せきばん1<end>",
-  "en": "",
-  "status": "",
+  "en": "Tablet 1<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1568,8 +1568,8 @@
    "tab:187DB4"
   ],
   "jp": "けんじゃのでしに　　　たのまれたせきばん　　1ときざまれている<end>",
-  "en": "",
-  "status": "",
+  "en": "Tablet the sage's<br>\npupil asked for. It<br>\nreads \"1.\"<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1579,8 +1579,8 @@
    "tab:187DBC"
   ],
   "jp": "せきばん2<end>",
-  "en": "",
-  "status": "",
+  "en": "Tablet 2<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1590,8 +1590,8 @@
    "tab:187DC0"
   ],
   "jp": "けんじゃのでしに　　　たのまれたせきばん　　2ときざまれている<end>",
-  "en": "",
-  "status": "",
+  "en": "Tablet the sage's<br>\npupil asked for. It<br>\nreads \"2.\"<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1601,8 +1601,8 @@
    "tab:187DC8"
   ],
   "jp": "せきばん3<end>",
-  "en": "",
-  "status": "",
+  "en": "Tablet 3<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1612,8 +1612,8 @@
    "tab:187DCC"
   ],
   "jp": "けんじゃのでしに　　　たのまれたせきばん　　3ときざまれている<end>",
-  "en": "",
-  "status": "",
+  "en": "Tablet the sage's<br>\npupil asked for. It<br>\nreads \"3.\"<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1623,8 +1623,8 @@
    "tab:187DD4"
   ],
   "jp": "せきばん4<end>",
-  "en": "",
-  "status": "",
+  "en": "Tablet 4<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1634,8 +1634,8 @@
    "tab:187DD8"
   ],
   "jp": "けんじゃのでしに　　　たのまれたせきばん　　4ときざまれている<end>",
-  "en": "",
-  "status": "",
+  "en": "Tablet the sage's<br>\npupil asked for. It<br>\nreads \"4.\"<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1645,8 +1645,8 @@
    "tab:187DE0"
   ],
   "jp": "せきばん5<end>",
-  "en": "",
-  "status": "",
+  "en": "Tablet 5<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1656,8 +1656,8 @@
    "tab:187DE4"
   ],
   "jp": "けんじゃのでしに　　　たのまれたせきばん　　5ときざまれている<end>",
-  "en": "",
-  "status": "",
+  "en": "Tablet the sage's<br>\npupil asked for. It<br>\nreads \"5.\"<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1667,8 +1667,8 @@
    "tab:187DEC"
   ],
   "jp": "せきばん6<end>",
-  "en": "",
-  "status": "",
+  "en": "Tablet 6<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1678,8 +1678,8 @@
    "tab:187DF0"
   ],
   "jp": "けんじゃのでしに　　　たのまれたせきばん　　6ときざまれている<end>",
-  "en": "",
-  "status": "",
+  "en": "Tablet the sage's<br>\npupil asked for. It<br>\nreads \"6.\"<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1689,8 +1689,8 @@
    "tab:187DF8"
   ],
   "jp": "せきばん7<end>",
-  "en": "",
-  "status": "",
+  "en": "Tablet 7<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1700,8 +1700,8 @@
    "tab:187DFC"
   ],
   "jp": "けんじゃのでしに　　　たのまれたせきばん　　7ときざまれている<end>",
-  "en": "",
-  "status": "",
+  "en": "Tablet the sage's<br>\npupil asked for. It<br>\nreads \"7.\"<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1711,8 +1711,8 @@
    "tab:187E04"
   ],
   "jp": "せきばん8<end>",
-  "en": "",
-  "status": "",
+  "en": "Tablet 8<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1722,8 +1722,8 @@
    "tab:187E08"
   ],
   "jp": "けんじゃのでしに　　　たのまれたせきばん　　8ときざまれている<end>",
-  "en": "",
-  "status": "",
+  "en": "Tablet the sage's<br>\npupil asked for. It<br>\nreads \"8.\"<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1733,8 +1733,8 @@
    "tab:187E10"
   ],
   "jp": "あかつきのひほう<end>",
-  "en": "",
-  "status": "",
+  "en": "Dawn Relic<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1744,8 +1744,8 @@
    "tab:187E14"
   ],
   "jp": "けんじゃにたのまれた　あかつきのたにに　　　ねむるひほう…<end>",
-  "en": "",
-  "status": "",
+  "en": "Treasure the sage<br>\nwants from the<br>\nValley of Dawn...<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1755,8 +1755,8 @@
    "tab:187E1C"
   ],
   "jp": "シュウのパス<end>",
-  "en": "",
-  "status": "",
+  "en": "Shu's Pass<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1766,8 +1766,8 @@
    "tab:187E20"
   ],
   "jp": "シュウがおとして　　　なくしたパークのパス　これがないとたいへん！<end>",
-  "en": "",
-  "status": "",
+  "en": "The park pass Shu<br>\nlost. He's in trouble<br>\nwithout it!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1777,8 +1777,8 @@
    "tab:187E28"
   ],
   "jp": "ハンバーガー<end>",
-  "en": "",
-  "status": "",
+  "en": "Hamburger<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1788,8 +1788,8 @@
    "tab:187E2C"
   ],
   "jp": "マックからもらった　　ハンバーガー　　　　　ゴブリンもだいすき？<end>",
-  "en": "",
-  "status": "",
+  "en": "From Mac. Do<br>\ngoblins love these<br>\ntoo?<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1799,8 +1799,8 @@
    "tab:187E34"
   ],
   "jp": "サーガのあかし<end>",
-  "en": "",
-  "status": "",
+  "en": "Saga's Proof<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1810,8 +1810,8 @@
    "tab:187E38"
   ],
   "jp": "ライブRPGクリアの　あかし<end>",
-  "en": "",
-  "status": "",
+  "en": "Proof of clearing<br>\nthe Live RPG.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1821,8 +1821,8 @@
    "tab:187E40"
   ],
   "jp": "けんじゃのごふ<end>",
-  "en": "",
-  "status": "",
+  "en": "Sage's Charm<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1832,8 +1832,8 @@
    "tab:187E44"
   ],
   "jp": "だいまおうのけっかいをとっぱするのにひつよう<end>",
-  "en": "",
-  "status": "",
+  "en": "Needed to break<br>\nthe Demon King's<br>\nbarrier.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1843,8 +1843,8 @@
    "tab:187E4C"
   ],
   "jp": "ドワーフハンマー<end>",
-  "en": "",
-  "status": "",
+  "en": "Dwarf Hammer<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1854,8 +1854,8 @@
    "tab:187E50"
   ],
   "jp": "ドワーフこうぼう　　　とくせいハンマー　　　ひばいひんのレアもの<end>",
-  "en": "",
-  "status": "",
+  "en": "Rare, not-for-sale<br>\nDwarf workshop<br>\nhammer.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1865,8 +1865,8 @@
    "tab:187E58"
   ],
   "jp": "DWCカードキー<end>",
-  "en": "",
-  "status": "",
+  "en": "DWC Card Key<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1876,8 +1876,8 @@
    "tab:187E5C"
   ],
   "jp": "ジョニーのおとしもの　ヨシオというなまえが　かかれている…？　　<end>",
-  "en": "",
-  "status": "",
+  "en": "Johnny dropped<br>\nthis. It says<br>\n\"Yoshio\"...?<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1887,8 +1887,8 @@
    "tab:187E64"
   ],
   "jp": "たいまのひせき<end>",
-  "en": "",
-  "status": "",
+  "en": "Banish Stone<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1898,8 +1898,8 @@
    "tab:187E68"
   ],
   "jp": "リュウイチロウが　　　けんじゃからたくされたけっかいやぶりのいし<end>",
-  "en": "",
-  "status": "",
+  "en": "Barrier-breaking<br>\nstone the sage<br>\ngave Ryuichiro.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1909,8 +1909,8 @@
    "tab:187E70"
   ],
   "jp": "おきにいり00<end>",
-  "en": "",
-  "status": "",
+  "en": "Favorite 00<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1920,8 +1920,8 @@
    "tab:187E74"
   ],
   "jp": "0123456789A0123456789A0123456789A<end>",
-  "en": "",
-  "status": "",
+  "en": "0123456789A<br>\n0123456789A<br>\n0123456789A<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1931,8 +1931,8 @@
    "tab:187E7C"
   ],
   "jp": "あおいぼうし<end>",
-  "en": "",
-  "status": "",
+  "en": "Blue Cap<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1942,8 +1942,8 @@
    "tab:187E80"
   ],
   "jp": "サーガとおそろいとなるあおいぼうし<end>",
-  "en": "",
-  "status": "",
+  "en": "A blue cap that<br>\nmatches its Saga's.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1953,8 +1953,8 @@
    "tab:187E88"
   ],
   "jp": "かわのベスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Leather Vest<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1964,8 +1964,8 @@
    "tab:187E8C"
   ],
   "jp": "ドラゴンのからだにも　ぴったりフィットする<end>",
-  "en": "",
-  "status": "",
+  "en": "Fits a dragon's<br>\nbody just right.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1997,8 +1997,8 @@
    "tab:187EA0"
   ],
   "jp": "はがねのチェーン<end>",
-  "en": "",
-  "status": "",
+  "en": "Steel Chain<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2008,8 +2008,8 @@
    "tab:187EA4"
   ],
   "jp": "うでにまきつける　　　ぶこつなアクセサリー<end>",
-  "en": "",
-  "status": "",
+  "en": "A rugged accessory<br>\nwrapped around the<br>\narm.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2019,8 +2019,8 @@
    "tab:187EAC"
   ],
   "jp": "ゴールドリング<end>",
-  "en": "",
-  "status": "",
+  "en": "Gold Ring<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2030,8 +2030,8 @@
    "tab:187EB0"
   ],
   "jp": "ドラゴンのしっぽに　　はめるおおきなリング<end>",
-  "en": "",
-  "status": "",
+  "en": "A big ring to wear<br>\non a dragon's tail.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2041,8 +2041,8 @@
    "tab:187EB8"
   ],
   "jp": "ダブルビッグガン<end>",
-  "en": "",
-  "status": "",
+  "en": "Twin Big Guns<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2052,8 +2052,8 @@
    "tab:187EBC"
   ],
   "jp": "レジェンズがつかう　　まどうのけんじゅう<end>",
-  "en": "",
-  "status": "",
+  "en": "A magic pistol used<br>\nby Legendz.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2063,8 +2063,8 @@
    "tab:187EC4"
   ],
   "jp": "ほのおのひせき<end>",
-  "en": "",
-  "status": "",
+  "en": "Flame Gem<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2074,8 +2074,8 @@
    "tab:187EC8"
   ],
   "jp": "まるくてなかに　　　　ほのおがゆらめく　　　きれいなほうせき<end>",
-  "en": "",
-  "status": "",
+  "en": "A pretty, round gem<br>\nwith a flame<br>\nflickering inside.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2085,8 +2085,8 @@
    "tab:187ED0"
   ],
   "jp": "とげつきくびわ<end>",
-  "en": "",
-  "status": "",
+  "en": "Spiked Collar<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2096,8 +2096,8 @@
    "tab:187ED4"
   ],
   "jp": "トゲトゲがついた　　　いぬようのくびわ<end>",
-  "en": "",
-  "status": "",
+  "en": "A spiky collar for<br>\ndogs.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2107,8 +2107,8 @@
    "tab:187EDC"
   ],
   "jp": "まっかなスカーフ<end>",
-  "en": "",
-  "status": "",
+  "en": "Red Scarf<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2118,8 +2118,8 @@
    "tab:187EE0"
   ],
   "jp": "かぜになびくとはためくかっこいいスカーフ<end>",
-  "en": "",
-  "status": "",
+  "en": "A cool scarf that<br>\nflaps in the wind.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2129,8 +2129,8 @@
    "tab:187EE8"
   ],
   "jp": "トリプルリング<end>",
-  "en": "",
-  "status": "",
+  "en": "Triple Ring<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2140,8 +2140,8 @@
    "tab:187EEC"
   ],
   "jp": "3びきのまじゅうが　　たいせつにしている　　おもいでのしな<end>",
-  "en": "",
-  "status": "",
+  "en": "Keepsake treasured<br>\nby three magic<br>\nbeasts.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2151,8 +2151,8 @@
    "tab:187EF4"
   ],
   "jp": "かぜきりのけん<end>",
-  "en": "",
-  "status": "",
+  "en": "Windcutters<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2162,8 +2162,8 @@
    "tab:187EF8"
   ],
   "jp": "かぜをきりさくするどい2ほんのけん<end>",
-  "en": "",
-  "status": "",
+  "en": "Two sharp swords<br>\nthat slice the wind.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2173,8 +2173,8 @@
    "tab:187F00"
   ],
   "jp": "てつのハンマー<end>",
-  "en": "",
-  "status": "",
+  "en": "Iron Hammer<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2184,8 +2184,8 @@
    "tab:187F04"
   ],
   "jp": "にちようだいくにも　　バトルにもつかえる　　ばんのうハンマー<end>",
-  "en": "",
-  "status": "",
+  "en": "All-purpose hammer<br>\nfor DIY and for<br>\nbattle.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2195,8 +2195,8 @@
    "tab:187F0C"
   ],
   "jp": "おおきなハンマー<end>",
-  "en": "",
-  "status": "",
+  "en": "Big Hammer<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2206,8 +2206,8 @@
    "tab:187F10"
   ],
   "jp": "まるたからけずりだしたぶこつなハンマー　　　くぎにあたるといたい<end>",
-  "en": "",
-  "status": "",
+  "en": "Rugged log-carved<br>\nhammer. Hurts if it<br>\nhits a nail.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2217,8 +2217,8 @@
    "tab:187F18"
   ],
   "jp": "ぼうじんマスク<end>",
-  "en": "",
-  "status": "",
+  "en": "Dust Mask<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2228,8 +2228,8 @@
    "tab:187F1C"
   ],
   "jp": "しごとようにじょうぶなつくりになっている<end>",
-  "en": "",
-  "status": "",
+  "en": "Built tough for<br>\nwork.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2239,8 +2239,8 @@
    "tab:187F24"
   ],
   "jp": "あかいベルト<end>",
-  "en": "",
-  "status": "",
+  "en": "Red Belt<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2250,8 +2250,8 @@
    "tab:187F28"
   ],
   "jp": "かたにかけるベルト　　これをつけると　　　　きあいがはいるらしい<end>",
-  "en": "",
-  "status": "",
+  "en": "A shoulder belt.<br>\nWearing it fires you<br>\nup, they say.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2261,8 +2261,8 @@
    "tab:187F30"
   ],
   "jp": "ひこうぼう<end>",
-  "en": "",
-  "status": "",
+  "en": "Flight Cap<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2272,8 +2272,8 @@
    "tab:187F34"
   ],
   "jp": "そらをとぶのが　　　　だいすきなドラゴンの　おきにいりアイテム<end>",
-  "en": "",
-  "status": "",
+  "en": "Favorite of dragons<br>\nwho love to fly.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2305,8 +2305,8 @@
    "tab:187F48"
   ],
   "jp": "きんのむねあて<end>",
-  "en": "",
-  "status": "",
+  "en": "Gold Plate<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2316,8 +2316,8 @@
    "tab:187F4C"
   ],
   "jp": "ドラゴンようのむねあてきんでゴージャスな　　かんじに！<end>",
-  "en": "",
-  "status": "",
+  "en": "Dragon chestplate.<br>\nGold for that<br>\ngorgeous look!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2327,8 +2327,8 @@
    "tab:187F54"
   ],
   "jp": "おうごんのよろい<end>",
-  "en": "",
-  "status": "",
+  "en": "Golden Armor<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2338,8 +2338,8 @@
    "tab:187F58"
   ],
   "jp": "よりゴージャスになったドラゴンようのよろい　<end>",
-  "en": "",
-  "status": "",
+  "en": "Dragon armor, even<br>\nmore gorgeous.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2349,8 +2349,8 @@
    "tab:187F60"
   ],
   "jp": "ウイングブレイド<end>",
-  "en": "",
-  "status": "",
+  "en": "Wing Blade<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2360,8 +2360,8 @@
    "tab:187F64"
   ],
   "jp": "はねさきからまきおこすしっぷうできりさく　　まどうのつるぎ<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic sword that<br>\ncuts with gales<br>\nfrom its wing tips.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2371,8 +2371,8 @@
    "tab:187F6C"
   ],
   "jp": "ゆきのけっしょう<end>",
-  "en": "",
-  "status": "",
+  "en": "Snow Crystal<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2382,8 +2382,8 @@
    "tab:187F70"
   ],
   "jp": "りゅうおうのつかいで　とびかうレジェンズが　あつさしのぎにもつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Dragon King<br>\nmessengers hold it<br>\nto beat the heat.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2393,8 +2393,8 @@
    "tab:187F78"
   ],
   "jp": "くものショール<end>",
-  "en": "",
-  "status": "",
+  "en": "Cloud Shawl<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2404,8 +2404,8 @@
    "tab:187F7C"
   ],
   "jp": "くものようにかるく　　ここちよさがにんきの　いっぴん<end>",
-  "en": "",
-  "status": "",
+  "en": "A popular gem, light<br>\nas a cloud and so<br>\ncomfy.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2415,8 +2415,8 @@
    "tab:187F84"
   ],
   "jp": "ちえのバンダナ<end>",
-  "en": "",
-  "status": "",
+  "en": "Wise Bandana<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2426,8 +2426,8 @@
    "tab:187F88"
   ],
   "jp": "これをつけていると　　あたまのかいてんが　　はやくなるらしい…<end>",
-  "en": "",
-  "status": "",
+  "en": "They say wearing it<br>\nmakes you think<br>\nfaster...<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2437,8 +2437,8 @@
    "tab:187F90"
   ],
   "jp": "バイキングヘルム<end>",
-  "en": "",
-  "status": "",
+  "en": "Viking Helm<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2448,8 +2448,8 @@
    "tab:187F94"
   ],
   "jp": "ゆうかんなきたのうみのバイキングがもっていたつのかぶと<end>",
-  "en": "",
-  "status": "",
+  "en": "Horned helmet of a<br>\nbrave northern<br>\nViking.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2459,8 +2459,8 @@
    "tab:187F9C"
   ],
   "jp": "さんごいろのおび<end>",
-  "en": "",
-  "status": "",
+  "en": "Coral Sash<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2470,8 +2470,8 @@
    "tab:187FA0"
   ],
   "jp": "ピンクのながいおびを　リボンむすびにして　　おしゃれどアップ！<end>",
-  "en": "",
-  "status": "",
+  "en": "A long pink sash<br>\ntied in a bow. Style<br>\nup!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2481,8 +2481,8 @@
    "tab:187FA8"
   ],
   "jp": "みどりのこしまき<end>",
-  "en": "",
-  "status": "",
+  "en": "Green Wrap<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2492,8 +2492,8 @@
    "tab:187FAC"
   ],
   "jp": "ゆきやまでもこれひとつつけてれいれば　　　　さむくない…？<end>",
-  "en": "",
-  "status": "",
+  "en": "Wear just this and<br>\nsnowy peaks aren't<br>\ncold...?<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2503,8 +2503,8 @@
    "tab:187FB4"
   ],
   "jp": "スケートボード<end>",
-  "en": "",
-  "status": "",
+  "en": "Skateboard<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2514,8 +2514,8 @@
    "tab:187FB8"
   ],
   "jp": "スケボーにつかうよりもうみでサーフィンに　　つかっているらしい…<end>",
-  "en": "",
-  "status": "",
+  "en": "They say it's used<br>\nto surf more than<br>\nskate...<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2525,8 +2525,8 @@
    "tab:187FC0"
   ],
   "jp": "さんさのほこ<end>",
-  "en": "",
-  "status": "",
+  "en": "Trident<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2536,8 +2536,8 @@
    "tab:187FC4"
   ],
   "jp": "ゆうしゃにあたえられるまどうのほこやり　　　さかなとりにもべんり<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic spear given<br>\nto heroes. Handy<br>\nfor fishing.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2547,8 +2547,8 @@
    "tab:187FCC"
   ],
   "jp": "かいがらのブラシ<end>",
-  "en": "",
-  "status": "",
+  "en": "Shell Brush<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2558,8 +2558,8 @@
    "tab:187FD0"
   ],
   "jp": "みずのようになめらかなロングヘアーを　　　　とかすのにべんり<end>",
-  "en": "",
-  "status": "",
+  "en": "Handy for combing<br>\nlong, water-smooth<br>\nhair.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2569,8 +2569,8 @@
    "tab:187FD8"
   ],
   "jp": "ひみつのバンダナ<end>",
-  "en": "",
-  "status": "",
+  "en": "Hush Bandana<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2580,8 +2580,8 @@
    "tab:187FDC"
   ],
   "jp": "だいさんのひとみを　　かくすためのバンダナ<end>",
-  "en": "",
-  "status": "",
+  "en": "A bandana to hide a<br>\nthird eye.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2591,8 +2591,8 @@
    "tab:187FE4"
   ],
   "jp": "ぼろぼろのマント<end>",
-  "en": "",
-  "status": "",
+  "en": "Ragged Cape<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2602,8 +2602,8 @@
    "tab:187FE8"
   ],
   "jp": "ナイトになったときに　あたえられたたいせつなおもいでのしな<end>",
-  "en": "",
-  "status": "",
+  "en": "Keepsake dear to<br>\nits owner, given at<br>\nknighthood.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2613,8 +2613,8 @@
    "tab:187FF0"
   ],
   "jp": "あかいサングラス<end>",
-  "en": "",
-  "status": "",
+  "en": "Red Shades<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2624,8 +2624,8 @@
    "tab:187FF4"
   ],
   "jp": "いがいにひとみしりな　レジェンズもこれで　　クールにだいへんしん<end>",
-  "en": "",
-  "status": "",
+  "en": "Turns a shy<br>\nLegendz into a cool<br>\none.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2635,8 +2635,8 @@
    "tab:187FFC"
   ],
   "jp": "ほのおのつるぎ<end>",
-  "en": "",
-  "status": "",
+  "en": "Flame Sword<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2646,8 +2646,8 @@
    "tab:188000"
   ],
   "jp": "じつはじぶんのからだのいちぶなのでなくすと　たいへん！？<end>",
-  "en": "",
-  "status": "",
+  "en": "Part of its own<br>\nbody, so don't lose<br>\nit!?<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2657,8 +2657,8 @@
    "tab:188008"
   ],
   "jp": "ひかりのよろい<end>",
-  "en": "",
-  "status": "",
+  "en": "Light Armor<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2668,8 +2668,8 @@
    "tab:18800C"
   ],
   "jp": "このかっちゅうをそうびするとヒカリぞくせいのわざがつかえる<end>",
-  "en": "",
-  "status": "",
+  "en": "Wearing this armor<br>\ngrants Light skills.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2679,8 +2679,8 @@
    "tab:188014"
   ],
   "jp": "ランチボックス<end>",
-  "en": "",
-  "status": "",
+  "en": "Lunchbox<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2690,8 +2690,8 @@
    "tab:188018"
   ],
   "jp": "カレといっしょの　　　ランチボックスは　　　ゆでたまごでぎっしり<end>",
-  "en": "",
-  "status": "",
+  "en": "Shared with him,<br>\nand packed with<br>\nboiled eggs.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2701,8 +2701,8 @@
    "tab:188020"
   ],
   "jp": "しゅぎょうにっき<end>",
-  "en": "",
-  "status": "",
+  "en": "Training Log<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2712,8 +2712,8 @@
    "tab:188024"
   ],
   "jp": "サーガといっしょに　　にがてなツチぞくせいですごしたときのにっき<end>",
-  "en": "",
-  "status": "",
+  "en": "Diary of days with<br>\nits Saga in its weak<br>\nEarth type.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2723,8 +2723,8 @@
    "tab:18802C"
   ],
   "jp": "きせきのつるはし<end>",
-  "en": "",
-  "status": "",
+  "en": "Miracle Pick<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2734,8 +2734,8 @@
    "tab:188030"
   ],
   "jp": "バイトちゅうにせきゆをほりあてたアメリカン　ドリームのつるはし<end>",
-  "en": "",
-  "status": "",
+  "en": "American Dream<br>\npick that struck oil<br>\non a side job.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2745,8 +2745,8 @@
    "tab:188038"
   ],
   "jp": "レジェンズじてん<end>",
-  "en": "",
-  "status": "",
+  "en": "Legendz Guide<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2756,8 +2756,8 @@
    "tab:18803C"
   ],
   "jp": "ハルカせんせいイチオシレジェンズはかせの　　だいじてん<end>",
-  "en": "",
-  "status": "",
+  "en": "Prof. Legendz's big<br>\nbook, Halca-sensei's<br>\ntop pick.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2767,8 +2767,8 @@
    "tab:188044"
   ],
   "jp": "たましいのバラ<end>",
-  "en": "",
-  "status": "",
+  "en": "Soul Rose<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2778,8 +2778,8 @@
    "tab:188048"
   ],
   "jp": "チのようにまっかに　　そまったうつくしくも　おそろしいバラのはな<end>",
-  "en": "",
-  "status": "",
+  "en": "A lovely yet<br>\nfrightful rose, red<br>\nas blood.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2789,8 +2789,8 @@
    "tab:188050"
   ],
   "jp": "こがたせんぷうき<end>",
-  "en": "",
-  "status": "",
+  "en": "Mini Fan<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2800,8 +2800,8 @@
    "tab:188054"
   ],
   "jp": "しつないようのハイテクけいたいせんぷうき　　うるさいのがタマにキズ<end>",
-  "en": "",
-  "status": "",
+  "en": "High-tech indoor<br>\nfan. Its one flaw:<br>\nit's noisy.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2811,8 +2811,8 @@
    "tab:18805C"
   ],
   "jp": "なし<end>",
-  "en": "",
-  "status": "",
+  "en": "None<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2822,8 +2822,8 @@
    "tab:188060"
   ],
   "jp": "みてい<end>",
-  "en": "",
-  "status": "",
+  "en": "TBD<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2833,8 +2833,8 @@
    "tab:188068"
   ],
   "jp": "げきからドリンク<end>",
-  "en": "",
-  "status": "",
+  "en": "Spicy Drink<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2844,8 +2844,8 @@
    "tab:18806C"
   ],
   "jp": "これをまいにちのむと　きょうりょくなブレスがふけるようになるかも？<end>",
-  "en": "",
-  "status": "",
+  "en": "Drink it daily, and<br>\nyou may breathe<br>\nfire?<end>",
+  "status": "tl",
   "notes": ""
  }
 ]

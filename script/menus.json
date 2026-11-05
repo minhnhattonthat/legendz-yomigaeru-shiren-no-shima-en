@@ -17,8 +17,8 @@
    "tab:45AABC"
   ],
   "jp": "ぼうけんかいすう<end>",
-  "en": "",
-  "status": "",
+  "en": "Quests<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -28,8 +28,8 @@
    "tab:45AAC4"
   ],
   "jp": "ぼうけんじかん<end>",
-  "en": "",
-  "status": "",
+  "en": "Quest Time<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -39,8 +39,8 @@
    "tab:45AACC"
   ],
   "jp": "せいこうかいすう<end>",
-  "en": "",
-  "status": "",
+  "en": "Successes<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -50,8 +50,8 @@
    "tab:45AAD4"
   ],
   "jp": "こうりゃくかいすう<end>",
-  "en": "",
-  "status": "",
+  "en": "Clears<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -61,8 +61,8 @@
    "tab:45AADC"
   ],
   "jp": "さいしんぼうけんスポット<end>",
-  "en": "",
-  "status": "",
+  "en": "Latest Quest Spot<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -72,8 +72,8 @@
    "tab:45AAE4"
   ],
   "jp": "『スタート¦にっきみる』<end>",
-  "en": "",
-  "status": "",
+  "en": "\"Start: Read Diary\"<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -83,8 +83,8 @@
    "lit:0BF100"
   ],
   "jp": "くんのうちへ！　<end>",
-  "en": "",
-  "status": "",
+  "en": "'s Home!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -94,8 +94,8 @@
    "lit:0BF118"
   ],
   "jp": "ちゃんのうちへ！<end>",
-  "en": "",
-  "status": "",
+  "en": "'s Home!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    "tab:45ABB4"
   ],
   "jp": "バトルかいすう<end>",
-  "en": "",
-  "status": "",
+  "en": "Battles<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -116,8 +116,8 @@
    "tab:45ABBC"
   ],
   "jp": "たおしたかず<end>",
-  "en": "",
-  "status": "",
+  "en": "Defeated<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -127,8 +127,8 @@
    "tab:45ABC4"
   ],
   "jp": "ひんしかいすう<end>",
-  "en": "",
-  "status": "",
+  "en": "Near-Deaths<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -138,8 +138,8 @@
    "tab:45ABCC"
   ],
   "jp": "あたえたダメージ<end>",
-  "en": "",
-  "status": "",
+  "en": "Damage Dealt<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -149,8 +149,8 @@
    "tab:45ABD4"
   ],
   "jp": "うけたダメージ<end>",
-  "en": "",
-  "status": "",
+  "en": "Damage Taken<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -160,8 +160,8 @@
    "tab:45ABDC"
   ],
   "jp": "さいだいダメージ<end>",
-  "en": "",
-  "status": "",
+  "en": "Max Damage<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -171,8 +171,8 @@
    "tab:45ABE4"
   ],
   "jp": "おもなやくわり<end>",
-  "en": "",
-  "status": "",
+  "en": "Main Role<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -182,8 +182,8 @@
    "tab:45AC44"
   ],
   "jp": "サポート<end>",
-  "en": "",
-  "status": "",
+  "en": "Support<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -193,8 +193,8 @@
    "tab:45AC4C"
   ],
   "jp": "たいせい<end>",
-  "en": "",
-  "status": "",
+  "en": "Resist<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -204,8 +204,8 @@
    "tab:45AC54"
   ],
   "jp": "とくい<end>",
-  "en": "",
-  "status": "",
+  "en": "Good<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    "tab:45AC5C"
   ],
   "jp": "アイテム<end>",
-  "en": "",
-  "status": "",
+  "en": "Item<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -226,8 +226,8 @@
    "tab:45AC64"
   ],
   "jp": "ゆうこうど<end>",
-  "en": "",
-  "status": "",
+  "en": "Effect<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -237,8 +237,8 @@
    "tab:45AC6C"
   ],
   "jp": "オートぼうけん<end>",
-  "en": "",
-  "status": "",
+  "en": "Auto-Quest<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -248,8 +248,8 @@
    "tab:45AC74"
   ],
   "jp": "かい<end>",
-  "en": "",
-  "status": "",
+  "en": "x<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -259,8 +259,8 @@
    "tab:45AC7C"
   ],
   "jp": "ノーマルわざ<end>",
-  "en": "",
-  "status": "",
+  "en": "Normal Skill<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -270,8 +270,8 @@
    "tab:45AC84"
   ],
   "jp": "EXわざ<end>",
-  "en": "",
-  "status": "",
+  "en": "EX Skill<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -281,8 +281,8 @@
    "tab:45AD5C"
   ],
   "jp": "わざリスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Skill List<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -292,8 +292,8 @@
    "tab:45ADAC"
   ],
   "jp": "ソウルドールリスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Soul Doll List<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -303,8 +303,8 @@
    "tab:45ADCC"
   ],
   "jp": "ドールしょうさい<end>",
-  "en": "",
-  "status": "",
+  "en": "Doll Details<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -314,8 +314,8 @@
    "tab:45ADD4"
   ],
   "jp": "セットする　　　<end>",
-  "en": "",
-  "status": "",
+  "en": "Set<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    "tab:45ADDC"
   ],
   "jp": "よろしいですか？<end>",
-  "en": "",
-  "status": "",
+  "en": "Are you sure?<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -336,8 +336,8 @@
    "tab:45ADF4"
   ],
   "jp": "やめる　　すてる<end>",
-  "en": "",
-  "status": "",
+  "en": "Keep    Dump<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -347,8 +347,8 @@
    "tab:45ADE4"
   ],
   "jp": "ほんとにいいの？<end>",
-  "en": "",
-  "status": "",
+  "en": "Really dump it?<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -358,8 +358,8 @@
    "tab:45ADEC"
   ],
   "jp": "ほんとうに？　　<end>",
-  "en": "",
-  "status": "",
+  "en": "Really?<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -369,8 +369,8 @@
    "tab:45ADFC"
   ],
   "jp": "ドールをすてる　<end>",
-  "en": "",
-  "status": "",
+  "en": "Dump the doll<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -380,8 +380,8 @@
    "tab:45AE04"
   ],
   "jp": "・・・すてました<end>",
-  "en": "",
-  "status": "",
+  "en": "...Dumped.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -402,8 +402,8 @@
    "tab:45AE18"
   ],
   "jp": "わざつかう<end>",
-  "en": "",
-  "status": "",
+  "en": "Use Skill<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -461,8 +461,8 @@
    "lit:0BF568"
   ],
   "jp": "せんとう<end>",
-  "en": "",
-  "status": "",
+  "en": "Battle<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -472,8 +472,8 @@
    "lit:0BF584"
   ],
   "jp": "サポート<end>",
-  "en": "",
-  "status": "",
+  "en": "Support<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -483,8 +483,8 @@
    "lit:0BF5F0"
   ],
   "jp": "ほけつ　<end>",
-  "en": "",
-  "status": "",
+  "en": "Reserve<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -527,8 +527,8 @@
    "tab:7F7624"
   ],
   "jp": "むぞくせい<end>",
-  "en": "",
-  "status": "",
+  "en": "Null<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -538,8 +538,8 @@
    "tab:7F7628"
   ],
   "jp": "ようがん<end>",
-  "en": "",
-  "status": "",
+  "en": "Lava<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -549,8 +549,8 @@
    "tab:7F762C"
   ],
   "jp": "しんりん<end>",
-  "en": "",
-  "status": "",
+  "en": "Forest<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -560,8 +560,8 @@
    "tab:7F7630"
   ],
   "jp": "おか<end>",
-  "en": "",
-  "status": "",
+  "en": "Hill<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -571,8 +571,8 @@
    "tab:7F7634"
   ],
   "jp": "すいじょう<end>",
-  "en": "",
-  "status": "",
+  "en": "On Water<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -582,8 +582,8 @@
    "tab:7F7638"
   ],
   "jp": "てんかい<end>",
-  "en": "",
-  "status": "",
+  "en": "Heaven<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -593,8 +593,8 @@
    "tab:7F763C"
   ],
   "jp": "まかい<end>",
-  "en": "",
-  "status": "",
+  "en": "Demon<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -604,8 +604,8 @@
    "tab:7F7640"
   ],
   "jp": "しんえん<end>",
-  "en": "",
-  "status": "",
+  "en": "Abyss<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    "tab:7F7644"
   ],
   "jp": "さばく<end>",
-  "en": "",
-  "status": "",
+  "en": "Desert<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -626,8 +626,8 @@
    "tab:7F7648"
   ],
   "jp": "かざん<end>",
-  "en": "",
-  "status": "",
+  "en": "Volcano<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -637,8 +637,8 @@
    "tab:7F764C"
   ],
   "jp": "かんけつせん<end>",
-  "en": "",
-  "status": "",
+  "en": "Geyser<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -648,8 +648,8 @@
    "tab:7F7650"
   ],
   "jp": "やま<end>",
-  "en": "",
-  "status": "",
+  "en": "Peak<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -659,8 +659,8 @@
    "tab:7F7654"
   ],
   "jp": "こうや<end>",
-  "en": "",
-  "status": "",
+  "en": "Wastes<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -670,8 +670,8 @@
    "tab:7F7658"
   ],
   "jp": "そうげん<end>",
-  "en": "",
-  "status": "",
+  "en": "Plains<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -681,8 +681,8 @@
    "tab:7F765C"
   ],
   "jp": "みずうみ<end>",
-  "en": "",
-  "status": "",
+  "en": "Lake<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -692,8 +692,8 @@
    "tab:7F7660"
   ],
   "jp": "こうげん<end>",
-  "en": "",
-  "status": "",
+  "en": "Plateau<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -703,8 +703,8 @@
    "tab:7F7664"
   ],
   "jp": "どうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -714,8 +714,8 @@
    "tab:7F7668"
   ],
   "jp": "みずべ<end>",
-  "en": "",
-  "status": "",
+  "en": "Shore<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    "tab:7F766C"
   ],
   "jp": "れいほう<end>",
-  "en": "",
-  "status": "",
+  "en": "Summit<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -736,8 +736,8 @@
    "tab:7F7670"
   ],
   "jp": "たに<end>",
-  "en": "",
-  "status": "",
+  "en": "Valley<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -747,8 +747,8 @@
    "tab:7F7674"
   ],
   "jp": "せつげん<end>",
-  "en": "",
-  "status": "",
+  "en": "Snowfield<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -758,8 +758,8 @@
    "tab:7F7678"
   ],
   "jp": "ぬま<end>",
-  "en": "",
-  "status": "",
+  "en": "Swamp<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -769,8 +769,8 @@
    "tab:7F767C"
   ],
   "jp": "さいだん<end>",
-  "en": "",
-  "status": "",
+  "en": "Altar<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -780,8 +780,8 @@
    "tab:7F7680"
   ],
   "jp": "けつばん<end>",
-  "en": "",
-  "status": "",
+  "en": "Blank<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -791,8 +791,8 @@
    "tab:7F7684"
   ],
   "jp": "とう<end>",
-  "en": "",
-  "status": "",
+  "en": "Tower<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -802,8 +802,8 @@
    "tab:7F7688"
   ],
   "jp": "いせき<end>",
-  "en": "",
-  "status": "",
+  "en": "Ruins<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -813,8 +813,8 @@
    "tab:7F768C"
   ],
   "jp": "ひかりのとう<end>",
-  "en": "",
-  "status": "",
+  "en": "Tower of Light<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -824,8 +824,8 @@
    "tab:7F7690"
   ],
   "jp": "やみのとう<end>",
-  "en": "",
-  "status": "",
+  "en": "Dark Tower<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    "tab:7F7694"
   ],
   "jp": "しがいち<end>",
-  "en": "",
-  "status": "",
+  "en": "City<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -846,8 +846,8 @@
    "tab:7F7698"
   ],
   "jp": "リング<end>",
-  "en": "",
-  "status": "",
+  "en": "Ring<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -857,8 +857,8 @@
    "tab:7F769C"
   ],
   "jp": "カード<end>",
-  "en": "",
-  "status": "",
+  "en": "Card<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -868,8 +868,8 @@
    "tab:7F75E8"
   ],
   "jp": "なし<end>",
-  "en": "",
-  "status": "",
+  "en": "None<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -879,8 +879,8 @@
    "tab:7F75EC"
   ],
   "jp": "ねむり<end>",
-  "en": "",
-  "status": "",
+  "en": "Sleep<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -890,8 +890,8 @@
    "tab:7F75F0"
   ],
   "jp": "マヒ<end>",
-  "en": "",
-  "status": "",
+  "en": "Numb<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -901,8 +901,8 @@
    "tab:7F75F4"
   ],
   "jp": "こんらん<end>",
-  "en": "",
-  "status": "",
+  "en": "Daze<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -912,8 +912,8 @@
    "tab:7F75F8"
   ],
   "jp": "しばり<end>",
-  "en": "",
-  "status": "",
+  "en": "Bind<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -923,8 +923,8 @@
    "tab:7F75FC"
   ],
   "jp": "どく<end>",
-  "en": "",
-  "status": "",
+  "en": "Poison<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -934,8 +934,8 @@
    "tab:7F7600"
   ],
   "jp": "せきか<end>",
-  "en": "",
-  "status": "",
+  "en": "Stone<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -945,8 +945,8 @@
    "tab:7F7604"
   ],
   "jp": "だげきふういん<end>",
-  "en": "",
-  "status": "",
+  "en": "Melee Seal<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -956,8 +956,8 @@
    "tab:7F7608"
   ],
   "jp": "まほうふういん<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic Seal<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -967,8 +967,8 @@
    "tab:7F760C"
   ],
   "jp": "サポートふういん<end>",
-  "en": "",
-  "status": "",
+  "en": "Support Seal<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -978,8 +978,8 @@
    "tab:7F7610"
   ],
   "jp": "シフトEふういん<end>",
-  "en": "",
-  "status": "",
+  "en": "Shift E Seal<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -989,8 +989,8 @@
    "tab:7F7614"
   ],
   "jp": "せいしんけい<end>",
-  "en": "",
-  "status": "",
+  "en": "Mental<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1000,8 +1000,8 @@
    "tab:7F7618"
   ],
   "jp": "しんたいけい<end>",
-  "en": "",
-  "status": "",
+  "en": "Physical<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1011,8 +1011,8 @@
    "tab:7F761C"
   ],
   "jp": "ふういんけい<end>",
-  "en": "",
-  "status": "",
+  "en": "Seal<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1022,8 +1022,8 @@
    "tab:7F7620"
   ],
   "jp": "ぜんじょうたい<end>",
-  "en": "",
-  "status": "",
+  "en": "All Status<end>",
+  "status": "tl",
   "notes": ""
  }
 ]

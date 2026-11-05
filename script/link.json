@@ -6,8 +6,8 @@
    "tab:47BF94"
   ],
   "jp": "つうしんをおこないます。<br>\nつうしんケーブルをつないで<br>\nAボタンをおしてください<end>",
-  "en": "",
-  "status": "",
+  "en": "Starting link.<br>\nConnect the link cable<br>\nand press the A Button.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -17,8 +17,8 @@
    "tab:47BFA0"
   ],
   "jp": "データそうしんちゅう　　<end>",
-  "en": "",
-  "status": "",
+  "en": "Sending data...<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -28,8 +28,8 @@
    "tab:47BFAC"
   ],
   "jp": "（Bボタンでちゅうだん）<end>",
-  "en": "",
-  "status": "",
+  "en": "(B Button to cancel)<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -50,8 +50,8 @@
    "lit:0D387C"
   ],
   "jp": "ちゅうだんしました…　　<end>",
-  "en": "",
-  "status": "",
+  "en": "Cancelled...<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -61,8 +61,8 @@
    "lit:0D39D8"
   ],
   "jp": "そうしんかんりょう！　　<end>",
-  "en": "",
-  "status": "",
+  "en": "Sending complete!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -72,8 +72,8 @@
    "tab:47BFBC"
   ],
   "jp": "たいせんをかいしします。<br>\nたいせんちゅうは　ケーブル<br>\nをぬかないでください<end>",
-  "en": "",
-  "status": "",
+  "en": "Starting the battle.<br>\nDon't unplug the cable<br>\nduring the battle.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -83,8 +83,8 @@
    "tab:47BFC8"
   ],
   "jp": "たいせんかいしまちです。<br>\nたいせんちゅうは　ケーブル<br>\nをぬかないでください<end>",
-  "en": "",
-  "status": "",
+  "en": "Waiting to start battle.<br>\nDon't unplug the cable<br>\nduring the battle.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -94,8 +94,8 @@
    "tab:47BFD4"
   ],
   "jp": "つうしんエラーが<br>\nはっせいしました。<end>",
-  "en": "",
-  "status": "",
+  "en": "A link error<br>\nhas occurred.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    "tab:47BFE0"
   ],
   "jp": "もういちど、さいしょから<br>\nやりなおしてください<end>",
-  "en": "",
-  "status": "",
+  "en": "Please start over<br>\nfrom the beginning.<end>",
+  "status": "tl",
   "notes": ""
  }
 ]

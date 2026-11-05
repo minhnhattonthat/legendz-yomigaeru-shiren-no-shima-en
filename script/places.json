@@ -6,8 +6,8 @@
    "tab:7EFFC4"
   ],
   "jp": "レジェンズタウン<end>",
-  "en": "",
-  "status": "",
+  "en": "Legendz Town<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -17,8 +17,8 @@
    "tab:7EFFC8"
   ],
   "jp": "LEGENDZ　TOWN<end>",
-  "en": "",
-  "status": "",
+  "en": "LEGENDZ TOWN<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -28,8 +28,8 @@
    "tab:7EFFCC"
   ],
   "jp": "アイランド・キャンプ<end>",
-  "en": "",
-  "status": "",
+  "en": "Island Camp<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -39,8 +39,8 @@
    "tab:7EFFD0"
   ],
   "jp": "ISLAND　CAMP<end>",
-  "en": "",
-  "status": "",
+  "en": "ISLAND CAMP<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -50,8 +50,8 @@
    "tab:7EFFD4"
   ],
   "jp": "ウエスト・キャンプ<end>",
-  "en": "",
-  "status": "",
+  "en": "West Camp<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -61,8 +61,8 @@
    "tab:7EFFD8"
   ],
   "jp": "WEST　CAMP<end>",
-  "en": "",
-  "status": "",
+  "en": "WEST CAMP<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -72,8 +72,8 @@
    "tab:7EFFDC"
   ],
   "jp": "サウス・キャンプ<end>",
-  "en": "",
-  "status": "",
+  "en": "South Camp<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -83,8 +83,8 @@
    "tab:7EFFE0"
   ],
   "jp": "SOUTH　CAMP<end>",
-  "en": "",
-  "status": "",
+  "en": "SOUTH CAMP<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -94,8 +94,8 @@
    "tab:7EFFE4"
   ],
   "jp": "イースト・キャンプ<end>",
-  "en": "",
-  "status": "",
+  "en": "East Camp<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    "tab:7EFFE8"
   ],
   "jp": "EAST　CAMP<end>",
-  "en": "",
-  "status": "",
+  "en": "EAST CAMP<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -116,8 +116,8 @@
    "tab:7EFFEC"
   ],
   "jp": "ノース・キャンプ<end>",
-  "en": "",
-  "status": "",
+  "en": "North Camp<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -127,8 +127,8 @@
    "tab:7EFFF0"
   ],
   "jp": "NORTH　CAMP<end>",
-  "en": "",
-  "status": "",
+  "en": "NORTH CAMP<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -138,8 +138,8 @@
    "tab:7EFFF4"
   ],
   "jp": "DWC・キャンプ<end>",
-  "en": "",
-  "status": "",
+  "en": "DWC Camp<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -149,8 +149,8 @@
    "tab:7EFFF8"
   ],
   "jp": "DWC・CAMP<end>",
-  "en": "",
-  "status": "",
+  "en": "DWC CAMP<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -160,8 +160,8 @@
    "tab:7EFFFC"
   ],
   "jp": "ショップ<end>",
-  "en": "",
-  "status": "",
+  "en": "Shop<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -171,8 +171,8 @@
    "tab:7F0000"
   ],
   "jp": "SHOP<end>",
-  "en": "",
-  "status": "",
+  "en": "SHOP<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -182,8 +182,8 @@
    "tab:7F0004"
   ],
   "jp": "こうきゅうショップ<end>",
-  "en": "",
-  "status": "",
+  "en": "Luxury Shop<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -193,8 +193,8 @@
    "tab:7F0008"
   ],
   "jp": "EXPENSIVE　SHOP<end>",
-  "en": "",
-  "status": "",
+  "en": "LUXURY SHOP<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -204,8 +204,8 @@
    "tab:7F000C"
   ],
   "jp": "レンタルショップ<end>",
-  "en": "",
-  "status": "",
+  "en": "Rental Shop<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    "tab:7F0010"
   ],
   "jp": "RENTAL　SHOP<end>",
-  "en": "",
-  "status": "",
+  "en": "RENTAL SHOP<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -226,8 +226,8 @@
    "tab:7F0014"
   ],
   "jp": "ホテル<end>",
-  "en": "",
-  "status": "",
+  "en": "Hotel<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -237,8 +237,8 @@
    "tab:7F0018"
   ],
   "jp": "HOTEL<end>",
-  "en": "",
-  "status": "",
+  "en": "HOTEL<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -248,8 +248,8 @@
    "tab:7F001C"
   ],
   "jp": "マーメイドのすみか<end>",
-  "en": "",
-  "status": "",
+  "en": "Mermaid's Home<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -259,8 +259,8 @@
    "tab:7F0020"
   ],
   "jp": "MERMAID＇S　HOUSE<end>",
-  "en": "",
-  "status": "",
+  "en": "MERMAID'S HOME<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -270,8 +270,8 @@
    "tab:7F0024"
   ],
   "jp": "ドワーフのこうぼう<end>",
-  "en": "",
-  "status": "",
+  "en": "Dwarf's Workshop<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -281,8 +281,8 @@
    "tab:7F0028"
   ],
   "jp": "DWARF＇S　SHOP<end>",
-  "en": "",
-  "status": "",
+  "en": "DWARF'S SHOP<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -292,8 +292,8 @@
    "tab:7F002C"
   ],
   "jp": "とうだい<end>",
-  "en": "",
-  "status": "",
+  "en": "Lighthouse<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -303,8 +303,8 @@
    "tab:7F0030"
   ],
   "jp": "LIGHTHOUSE<end>",
-  "en": "",
-  "status": "",
+  "en": "LIGHTHOUSE<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -314,8 +314,8 @@
    "tab:7F0034"
   ],
   "jp": "せんない<end>",
-  "en": "",
-  "status": "",
+  "en": "Aboard Ship<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    "tab:7F0038"
   ],
   "jp": "INSIDE　THE　SHIP<end>",
-  "en": "",
-  "status": "",
+  "en": "INSIDE THE SHIP<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -336,8 +336,8 @@
    "tab:7F003C"
   ],
   "jp": "じむしつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Office<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -347,8 +347,8 @@
    "tab:7F0040"
   ],
   "jp": "OFFICE<end>",
-  "en": "",
-  "status": "",
+  "en": "OFFICE<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -358,8 +358,8 @@
    "tab:7F0044"
   ],
   "jp": "しゅくはくじょ<end>",
-  "en": "",
-  "status": "",
+  "en": "Lodge<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -369,8 +369,8 @@
    "tab:7F0048"
   ],
   "jp": "HOSPICE<end>",
-  "en": "",
-  "status": "",
+  "en": "LODGE<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -380,8 +380,8 @@
    "tab:7F004C"
   ],
   "jp": "トレーニングルーム<end>",
-  "en": "",
-  "status": "",
+  "en": "Training Room<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -391,8 +391,8 @@
    "tab:7F0050"
   ],
   "jp": "TRAINING　ROOM<end>",
-  "en": "",
-  "status": "",
+  "en": "TRAINING ROOM<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -402,8 +402,8 @@
    "tab:7F0054"
   ],
   "jp": "ゴブリンのそうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Goblin's Den<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -413,8 +413,8 @@
    "tab:7F0058"
   ],
   "jp": "GOBLIN＇S　DEN<end>",
-  "en": "",
-  "status": "",
+  "en": "GOBLIN'S DEN<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -424,8 +424,8 @@
    "tab:7F005C"
   ],
   "jp": "まじんのどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Devil's Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    "tab:7F0060"
   ],
   "jp": "DEVIL＇S　CAVE<end>",
-  "en": "",
-  "status": "",
+  "en": "DEVIL'S CAVE<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -446,8 +446,8 @@
    "tab:7F0064"
   ],
   "jp": "こていのどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Lakebed Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -457,8 +457,8 @@
    "tab:7F0068"
   ],
   "jp": "UNDER　THE　LAKE<end>",
-  "en": "",
-  "status": "",
+  "en": "UNDER THE LAKE<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -468,8 +468,8 @@
    "tab:7F006C"
   ],
   "jp": "ちかけんきゅうじょ<end>",
-  "en": "",
-  "status": "",
+  "en": "Basement Lab<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -479,8 +479,8 @@
    "tab:7F0070"
   ],
   "jp": "BASEMENT　LAB<end>",
-  "en": "",
-  "status": "",
+  "en": "BASEMENT LAB<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -490,8 +490,8 @@
    "tab:7F0074"
   ],
   "jp": "ゆきやまのどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Snow Mountain Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -501,8 +501,8 @@
    "tab:7F0078"
   ],
   "jp": "SNOW　MOUNTAIN<end>",
-  "en": "",
-  "status": "",
+  "en": "SNOW MOUNTAIN<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -512,8 +512,8 @@
    "tab:7F007C"
   ],
   "jp": "あかつきのたに<end>",
-  "en": "",
-  "status": "",
+  "en": "Valley of Dawn<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -523,8 +523,8 @@
    "tab:7F0080"
   ],
   "jp": "VALLEY　OF　DAWN<end>",
-  "en": "",
-  "status": "",
+  "en": "VALLEY OF DAWN<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -534,8 +534,8 @@
    "tab:7F0084"
   ],
   "jp": "あおきみずのどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Blue Water Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    "tab:7F0088"
   ],
   "jp": "BLUE　CAVE<end>",
-  "en": "",
-  "status": "",
+  "en": "BLUE CAVE<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -556,8 +556,8 @@
    "tab:7F008C"
   ],
   "jp": "はくぎんのふうけつ<end>",
-  "en": "",
-  "status": "",
+  "en": "White Silver Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -567,8 +567,8 @@
    "tab:7F0090"
   ],
   "jp": "WHITE　SILVER　CAVE<end>",
-  "en": "",
-  "status": "",
+  "en": "WHITE SILVER CAVE<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -578,8 +578,8 @@
    "tab:7F0094"
   ],
   "jp": "しゃくねつのどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Red Heat Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -589,8 +589,8 @@
    "tab:7F0098"
   ],
   "jp": "RED　HEAT　CAVE<end>",
-  "en": "",
-  "status": "",
+  "en": "RED HEAT CAVE<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -600,8 +600,8 @@
    "tab:7F009C"
   ],
   "jp": "はいいろのどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Grey Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -611,8 +611,8 @@
    "tab:7F00A0"
   ],
   "jp": "GREY　CAVE<end>",
-  "en": "",
-  "status": "",
+  "en": "GREY CAVE<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -622,8 +622,8 @@
    "tab:7F00A4"
   ],
   "jp": "ミズのしれんじょう<end>",
-  "en": "",
-  "status": "",
+  "en": "Trial of Water<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -633,8 +633,8 @@
    "tab:7F00A8"
   ],
   "jp": "TRIAL　OF　AQUA<end>",
-  "en": "",
-  "status": "",
+  "en": "TRIAL OF WATER<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -644,8 +644,8 @@
    "tab:7F00AC"
   ],
   "jp": "カゼのしれんじょう<end>",
-  "en": "",
-  "status": "",
+  "en": "Trial of Wind<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    "tab:7F00B0"
   ],
   "jp": "TRIAL　OF　WIND<end>",
-  "en": "",
-  "status": "",
+  "en": "TRIAL OF WIND<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -666,8 +666,8 @@
    "tab:7F00B4"
   ],
   "jp": "ヒのしれんじょう<end>",
-  "en": "",
-  "status": "",
+  "en": "Trial of Fire<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -677,8 +677,8 @@
    "tab:7F00B8"
   ],
   "jp": "TRIAL　OF　FIRE<end>",
-  "en": "",
-  "status": "",
+  "en": "TRIAL OF FIRE<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -688,8 +688,8 @@
    "tab:7F00BC"
   ],
   "jp": "ツチのしれんじょう<end>",
-  "en": "",
-  "status": "",
+  "en": "Trial of Earth<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -699,8 +699,8 @@
    "tab:7F00C0"
   ],
   "jp": "TRIAL　OF　EARTH<end>",
-  "en": "",
-  "status": "",
+  "en": "TRIAL OF EARTH<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -710,8 +710,8 @@
    "tab:7F00C4"
   ],
   "jp": "りゅうじんのいずみ<end>",
-  "en": "",
-  "status": "",
+  "en": "Dragon Fountain<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -721,8 +721,8 @@
    "tab:7F00C8"
   ],
   "jp": "DRAGON　FOUNTAIN<end>",
-  "en": "",
-  "status": "",
+  "en": "DRAGON FOUNTAIN<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -732,8 +732,8 @@
    "tab:7F00CC"
   ],
   "jp": "ダークテンプル<end>",
-  "en": "",
-  "status": "",
+  "en": "Dark Temple<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -743,8 +743,8 @@
    "tab:7F00D0"
   ],
   "jp": "DARK　TEMPLE<end>",
-  "en": "",
-  "status": "",
+  "en": "DARK TEMPLE<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -754,8 +754,8 @@
    "tab:7F00D4"
   ],
   "jp": "ならくのどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Cave of Abyss<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    "tab:7F00D8"
   ],
   "jp": "CAVE　OF　ABYSS<end>",
-  "en": "",
-  "status": "",
+  "en": "CAVE OF ABYSS<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -776,8 +776,8 @@
    "tab:7F00DC"
   ],
   "jp": "じゃりゅうのいせき<end>",
-  "en": "",
-  "status": "",
+  "en": "Evil Dragon Ruins<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -787,8 +787,8 @@
    "tab:7F00E0"
   ],
   "jp": "EVIL　DRAGON＇S　RELIC<end>",
-  "en": "",
-  "status": "",
+  "en": "EVIL DRAGON'S RUINS<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -798,8 +798,8 @@
    "tab:7F00E4"
   ],
   "jp": "たからのめいきゅう<end>",
-  "en": "",
-  "status": "",
+  "en": "Treasure Labyrinth<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -809,8 +809,8 @@
    "tab:7F00E8"
   ],
   "jp": "TREASURE　LABYRINTH<end>",
-  "en": "",
-  "status": "",
+  "en": "TREASURE LABYRINTH<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -820,8 +820,8 @@
    "tab:7F00EC"
   ],
   "jp": "ハーピーのもり<end>",
-  "en": "",
-  "status": "",
+  "en": "Harpy Forest<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -831,8 +831,8 @@
    "tab:7F00F0"
   ],
   "jp": "HARPY＇S　FOREST<end>",
-  "en": "",
-  "status": "",
+  "en": "HARPY FOREST<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -842,8 +842,8 @@
    "tab:7F00F4"
   ],
   "jp": "まじゅうのもり<end>",
-  "en": "",
-  "status": "",
+  "en": "Beast Forest<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -853,8 +853,8 @@
    "tab:7F00F8"
   ],
   "jp": "BEAST　FOREST<end>",
-  "en": "",
-  "status": "",
+  "en": "BEAST FOREST<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -864,8 +864,8 @@
    "tab:7F00FC"
   ],
   "jp": "きょうらんのもり<end>",
-  "en": "",
-  "status": "",
+  "en": "Frenzied Forest<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    "tab:7F0100"
   ],
   "jp": "FOREST　OF　MADNESS<end>",
-  "en": "",
-  "status": "",
+  "en": "FRENZIED FOREST<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -886,8 +886,8 @@
    "tab:7F0104"
   ],
   "jp": "けんじゃのとう<end>",
-  "en": "",
-  "status": "",
+  "en": "Sage's Tower<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -897,8 +897,8 @@
    "tab:7F0108"
   ],
   "jp": "TOWER　OF　SAGE<end>",
-  "en": "",
-  "status": "",
+  "en": "SAGE'S TOWER<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -908,8 +908,8 @@
    "tab:7F010C"
   ],
   "jp": "ざわめきのもり<end>",
-  "en": "",
-  "status": "",
+  "en": "Murmur Forest<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -919,8 +919,8 @@
    "tab:7F0110"
   ],
   "jp": "MURMUR　FOREST<end>",
-  "en": "",
-  "status": "",
+  "en": "MURMUR FOREST<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -930,8 +930,8 @@
    "tab:7F0114"
   ],
   "jp": "せいじゃくのもり<end>",
-  "en": "",
-  "status": "",
+  "en": "Silent Forest<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -941,8 +941,8 @@
    "tab:7F0118"
   ],
   "jp": "SILENT　FOREST<end>",
-  "en": "",
-  "status": "",
+  "en": "SILENT FOREST<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -952,8 +952,8 @@
    "tab:7F011C"
   ],
   "jp": "もりのぬけみち<end>",
-  "en": "",
-  "status": "",
+  "en": "Forest Byroad<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -963,8 +963,8 @@
    "tab:7F0120"
   ],
   "jp": "FOREST　BYROAD<end>",
-  "en": "",
-  "status": "",
+  "en": "FOREST BYROAD<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -974,8 +974,8 @@
    "tab:7F0124"
   ],
   "jp": "ひかりのとう<end>",
-  "en": "",
-  "status": "",
+  "en": "Tower of Light<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    "tab:7F0128"
   ],
   "jp": "LIGHT　TOWER<end>",
-  "en": "",
-  "status": "",
+  "en": "LIGHT TOWER<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -996,8 +996,8 @@
    "tab:7F012C"
   ],
   "jp": "やみのとう<end>",
-  "en": "",
-  "status": "",
+  "en": "Dark Tower<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1007,8 +1007,8 @@
    "tab:7F0130"
   ],
   "jp": "DARKNESS　TOWER<end>",
-  "en": "",
-  "status": "",
+  "en": "DARKNESS TOWER<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1018,8 +1018,8 @@
    "tab:7F0134"
   ],
   "jp": "こだいいせき<end>",
-  "en": "",
-  "status": "",
+  "en": "Ancient Ruins<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1029,8 +1029,8 @@
    "tab:7F0138"
   ],
   "jp": "ANCIENT　MONUMENT　<end>",
-  "en": "",
-  "status": "",
+  "en": "ANCIENT RUINS<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1040,8 +1040,8 @@
    "tab:7F013C"
   ],
   "jp": "ちいさなほこら<end>",
-  "en": "",
-  "status": "",
+  "en": "Small Shrine<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1051,8 +1051,8 @@
    "tab:7F0140"
   ],
   "jp": "SMALL　CAVE<end>",
-  "en": "",
-  "status": "",
+  "en": "SMALL SHRINE<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1062,8 +1062,8 @@
    "tab:7F0144"
   ],
   "jp": "かいがんのどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Seaside Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1073,8 +1073,8 @@
    "tab:7F0148"
   ],
   "jp": "SEASIDE　CAVE<end>",
-  "en": "",
-  "status": "",
+  "en": "SEASIDE CAVE<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1084,8 +1084,8 @@
    "tab:7F014C"
   ],
   "jp": "すなはまのどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Sand Beach Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1095,8 +1095,8 @@
    "tab:7F0150"
   ],
   "jp": "DESSERT　CAVE<end>",
-  "en": "",
-  "status": "",
+  "en": "SAND BEACH CAVE<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1106,8 +1106,8 @@
    "tab:7F0154"
   ],
   "jp": "ふぶきのどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Blizzard Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1117,8 +1117,8 @@
    "tab:7F0158"
   ],
   "jp": "BLIZZARD　CAVE<end>",
-  "en": "",
-  "status": "",
+  "en": "BLIZZARD CAVE<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1128,8 +1128,8 @@
    "tab:7F015C"
   ],
   "jp": "A－1エリア<end>",
-  "en": "",
-  "status": "",
+  "en": "Area A-1<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1139,8 +1139,8 @@
    "tab:7F0160"
   ],
   "jp": "AREA　A－1<end>",
-  "en": "",
-  "status": "",
+  "en": "AREA A-1<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1150,8 +1150,8 @@
    "tab:7F0164"
   ],
   "jp": "A－2エリア<end>",
-  "en": "",
-  "status": "",
+  "en": "Area A-2<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1161,8 +1161,8 @@
    "tab:7F0168"
   ],
   "jp": "AREA　A－2<end>",
-  "en": "",
-  "status": "",
+  "en": "AREA A-2<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1172,8 +1172,8 @@
    "tab:7F016C"
   ],
   "jp": "B－1エリア<end>",
-  "en": "",
-  "status": "",
+  "en": "Area B-1<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1183,8 +1183,8 @@
    "tab:7F0170"
   ],
   "jp": "AREA　B－1<end>",
-  "en": "",
-  "status": "",
+  "en": "AREA B-1<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1194,8 +1194,8 @@
    "tab:7F0174"
   ],
   "jp": "B－2エリア<end>",
-  "en": "",
-  "status": "",
+  "en": "Area B-2<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1205,8 +1205,8 @@
    "tab:7F0178"
   ],
   "jp": "AREA　B－2<end>",
-  "en": "",
-  "status": "",
+  "en": "AREA B-2<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1216,8 +1216,8 @@
    "tab:7F017C"
   ],
   "jp": "B－3エリア<end>",
-  "en": "",
-  "status": "",
+  "en": "Area B-3<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1227,8 +1227,8 @@
    "tab:7F0180"
   ],
   "jp": "AREA　B－3<end>",
-  "en": "",
-  "status": "",
+  "en": "AREA B-3<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1238,8 +1238,8 @@
    "tab:7F0184"
   ],
   "jp": "C－1エリア<end>",
-  "en": "",
-  "status": "",
+  "en": "Area C-1<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1249,8 +1249,8 @@
    "tab:7F0188"
   ],
   "jp": "AREA　C－1<end>",
-  "en": "",
-  "status": "",
+  "en": "AREA C-1<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1260,8 +1260,8 @@
    "tab:7F018C"
   ],
   "jp": "C－2エリア<end>",
-  "en": "",
-  "status": "",
+  "en": "Area C-2<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1271,8 +1271,8 @@
    "tab:7F0190"
   ],
   "jp": "AREA　C－2<end>",
-  "en": "",
-  "status": "",
+  "en": "AREA C-2<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1282,8 +1282,8 @@
    "tab:7F0194"
   ],
   "jp": "D－1エリア<end>",
-  "en": "",
-  "status": "",
+  "en": "Area D-1<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1293,8 +1293,8 @@
    "tab:7F0198"
   ],
   "jp": "AREA　D－1<end>",
-  "en": "",
-  "status": "",
+  "en": "AREA D-1<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1304,8 +1304,8 @@
    "tab:7F019C"
   ],
   "jp": "D－2エリア<end>",
-  "en": "",
-  "status": "",
+  "en": "Area D-2<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1315,8 +1315,8 @@
    "tab:7F01A0"
   ],
   "jp": "AREA　D－2<end>",
-  "en": "",
-  "status": "",
+  "en": "AREA D-2<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1326,8 +1326,8 @@
    "tab:7F01A4"
   ],
   "jp": "D－3エリア<end>",
-  "en": "",
-  "status": "",
+  "en": "Area D-3<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1337,8 +1337,8 @@
    "tab:7F01A8"
   ],
   "jp": "AREA　D－3<end>",
-  "en": "",
-  "status": "",
+  "en": "AREA D-3<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1348,8 +1348,8 @@
    "tab:7F01AC"
   ],
   "jp": "E－1エリア<end>",
-  "en": "",
-  "status": "",
+  "en": "Area E-1<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1359,8 +1359,8 @@
    "tab:7F01B0"
   ],
   "jp": "AREA　E－1<end>",
-  "en": "",
-  "status": "",
+  "en": "AREA E-1<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1370,8 +1370,8 @@
    "tab:7F01B4"
   ],
   "jp": "F－1エリア<end>",
-  "en": "",
-  "status": "",
+  "en": "Area F-1<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1381,8 +1381,8 @@
    "tab:7F01B8"
   ],
   "jp": "AREA　F－1<end>",
-  "en": "",
-  "status": "",
+  "en": "AREA F-1<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1392,8 +1392,8 @@
    "tab:7F01BC"
   ],
   "jp": "G－1エリア<end>",
-  "en": "",
-  "status": "",
+  "en": "Area G-1<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1403,8 +1403,8 @@
    "tab:7F01C0"
   ],
   "jp": "AREA　G－1<end>",
-  "en": "",
-  "status": "",
+  "en": "AREA G-1<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1414,8 +1414,8 @@
    "tab:7F01C4"
   ],
   "jp": "つばさのしま<end>",
-  "en": "",
-  "status": "",
+  "en": "Isle of Wings<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1425,8 +1425,8 @@
    "tab:7F01C8"
   ],
   "jp": "ISLAND　OF　WINGS<end>",
-  "en": "",
-  "status": "",
+  "en": "ISLAND OF WINGS<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1436,8 +1436,8 @@
    "tab:7F01CC"
   ],
   "jp": "おんすいのどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Warm Water Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1447,8 +1447,8 @@
    "tab:7F01D0"
   ],
   "jp": "WARM　WATER　CAVE<end>",
-  "en": "",
-  "status": "",
+  "en": "WARM WATER CAVE<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1458,8 +1458,8 @@
    "tab:7F01D4"
   ],
   "jp": "れいすいのどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Cold Water Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1469,8 +1469,8 @@
    "tab:7F01D8"
   ],
   "jp": "COLD　WATER　CAVE<end>",
-  "en": "",
-  "status": "",
+  "en": "COLD WATER CAVE<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1480,8 +1480,8 @@
    "tab:7F01DC"
   ],
   "jp": "じんろうのもり<end>",
-  "en": "",
-  "status": "",
+  "en": "Werewolf Forest<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1491,8 +1491,8 @@
    "tab:7F01E0"
   ],
   "jp": "WEREWOLF＇S　FOREST<end>",
-  "en": "",
-  "status": "",
+  "en": "WEREWOLF FOREST<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1502,8 +1502,8 @@
    "tab:7F01E4"
   ],
   "jp": "ごくかんのどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Frigid Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1513,8 +1513,8 @@
    "tab:7F01E8"
   ],
   "jp": "FRIGID　CAVE<end>",
-  "en": "",
-  "status": "",
+  "en": "FRIGID CAVE<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1524,8 +1524,8 @@
    "tab:7F01EC"
   ],
   "jp": "もりのこはん<end>",
-  "en": "",
-  "status": "",
+  "en": "Forest Lake<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1535,8 +1535,8 @@
    "tab:7F01F0"
   ],
   "jp": "LAKESIDE　IN　WOODS<end>",
-  "en": "",
-  "status": "",
+  "en": "LAKESIDE IN WOODS<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1546,8 +1546,8 @@
    "tab:7F01F4"
   ],
   "jp": "つばさのしま<end>",
-  "en": "",
-  "status": "",
+  "en": "Isle of Wings<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1557,8 +1557,8 @@
    "tab:7F01F8"
   ],
   "jp": "AREA　G－3<end>",
-  "en": "",
-  "status": "",
+  "en": "AREA G-3<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1568,8 +1568,8 @@
    "tab:7F01FC"
   ],
   "jp": "つばさのしま<end>",
-  "en": "",
-  "status": "",
+  "en": "Isle of Wings<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1579,8 +1579,8 @@
    "tab:7F0200"
   ],
   "jp": "AREA　H－2<end>",
-  "en": "",
-  "status": "",
+  "en": "AREA H-2<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1590,8 +1590,8 @@
    "tab:7F0204"
   ],
   "jp": "F－2エリア<end>",
-  "en": "",
-  "status": "",
+  "en": "Area F-2<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1601,8 +1601,8 @@
    "tab:7F0208"
   ],
   "jp": "AREA　F－2<end>",
-  "en": "",
-  "status": "",
+  "en": "AREA F-2<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1612,8 +1612,8 @@
    "tab:7F020C"
   ],
   "jp": "プレイヤー<end>",
-  "en": "",
-  "status": "",
+  "en": "Player<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1623,8 +1623,8 @@
    "tab:7F0210"
   ],
   "jp": "プレイヤー<end>",
-  "en": "",
-  "status": "",
+  "en": "Player<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1634,8 +1634,8 @@
    "tab:7F0214"
   ],
   "jp": "アリサ<end>",
-  "en": "",
-  "status": "",
+  "en": "Arisa<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1645,8 +1645,8 @@
    "tab:7F0218"
   ],
   "jp": "シュウ<end>",
-  "en": "",
-  "status": "",
+  "en": "Shu<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1656,8 +1656,8 @@
    "tab:7F021C"
   ],
   "jp": "メグ<end>",
-  "en": "",
-  "status": "",
+  "en": "Meg<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1667,8 +1667,8 @@
    "tab:7F0220"
   ],
   "jp": "マック<end>",
-  "en": "",
-  "status": "",
+  "en": "Mac<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1678,8 +1678,8 @@
    "tab:7F0224"
   ],
   "jp": "ディーノ<end>",
-  "en": "",
-  "status": "",
+  "en": "Dino<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1689,8 +1689,8 @@
    "tab:7F0228"
   ],
   "jp": "ハルカ<end>",
-  "en": "",
-  "status": "",
+  "en": "Halca<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1700,8 +1700,8 @@
    "tab:7F022C"
   ],
   "jp": "？？？<end>",
-  "en": "",
-  "status": "",
+  "en": "???<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1711,8 +1711,8 @@
    "tab:7F0230"
   ],
   "jp": "サスケ<end>",
-  "en": "",
-  "status": "",
+  "en": "Sasuke<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1722,8 +1722,8 @@
    "tab:7F0234"
   ],
   "jp": "BB<end>",
-  "en": "",
-  "status": "",
+  "en": "BB<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1733,8 +1733,8 @@
    "tab:7F0238"
   ],
   "jp": "J1<end>",
-  "en": "",
-  "status": "",
+  "en": "J1<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1744,8 +1744,8 @@
    "tab:7F023C"
   ],
   "jp": "J2<end>",
-  "en": "",
-  "status": "",
+  "en": "J2<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1755,8 +1755,8 @@
    "tab:7F0240"
   ],
   "jp": "そうむ<end>",
-  "en": "",
-  "status": "",
+  "en": "Soumu<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1766,8 +1766,8 @@
    "tab:7F0244"
   ],
   "jp": "DWCしゃちょう<end>",
-  "en": "",
-  "status": "",
+  "en": "DWC Boss<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1777,8 +1777,8 @@
    "tab:7F0248"
   ],
   "jp": "ランシーン<end>",
-  "en": "",
-  "status": "",
+  "en": "Ranshiin<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1788,8 +1788,8 @@
    "tab:7F024C"
   ],
   "jp": "おとうさん<end>",
-  "en": "",
-  "status": "",
+  "en": "Dad<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1799,8 +1799,8 @@
    "tab:7F0250"
   ],
   "jp": "おかあさん<end>",
-  "en": "",
-  "status": "",
+  "en": "Mom<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1810,8 +1810,8 @@
    "tab:7F0254"
   ],
   "jp": "くろふく<end>",
-  "en": "",
-  "status": "",
+  "en": "Black Suit<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1821,8 +1821,8 @@
    "tab:7F0258"
   ],
   "jp": "けんきゅういん<end>",
-  "en": "",
-  "status": "",
+  "en": "Researcher<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1832,8 +1832,8 @@
    "tab:7F025C"
   ],
   "jp": "おにいさん<end>",
-  "en": "",
-  "status": "",
+  "en": "Young Man<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1843,8 +1843,8 @@
    "tab:7F0260"
   ],
   "jp": "おねえさん<end>",
-  "en": "",
-  "status": "",
+  "en": "Young Lady<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1854,8 +1854,8 @@
    "tab:7F0264"
   ],
   "jp": "さぎょういん<end>",
-  "en": "",
-  "status": "",
+  "en": "Worker<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1865,8 +1865,8 @@
    "tab:7F0268"
   ],
   "jp": "てんいん<end>",
-  "en": "",
-  "status": "",
+  "en": "Clerk<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1876,8 +1876,8 @@
    "tab:7F026C"
   ],
   "jp": "わんぱくこぞう<end>",
-  "en": "",
-  "status": "",
+  "en": "Rowdy Kid<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1887,8 +1887,8 @@
    "tab:7F0270"
   ],
   "jp": "がきだいしょう<end>",
-  "en": "",
-  "status": "",
+  "en": "Kid Boss<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1898,8 +1898,8 @@
    "tab:7F0274"
   ],
   "jp": "いたずらこぞう<end>",
-  "en": "",
-  "status": "",
+  "en": "Prankster<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1909,8 +1909,8 @@
    "tab:7F0278"
   ],
   "jp": "シニカルボーイ<end>",
-  "en": "",
-  "status": "",
+  "en": "Cynical Boy<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1920,8 +1920,8 @@
    "tab:7F027C"
   ],
   "jp": "ゲーマーこぞう<end>",
-  "en": "",
-  "status": "",
+  "en": "Gamer Kid<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1931,8 +1931,8 @@
    "tab:7F0280"
   ],
   "jp": "こだわりボーイ<end>",
-  "en": "",
-  "status": "",
+  "en": "Fussy Boy<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1942,8 +1942,8 @@
    "tab:7F0284"
   ],
   "jp": "バカンスレディ<end>",
-  "en": "",
-  "status": "",
+  "en": "Beach Lady<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1953,8 +1953,8 @@
    "tab:7F0288"
   ],
   "jp": "おじょうさま<end>",
-  "en": "",
-  "status": "",
+  "en": "Rich Girl<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1964,8 +1964,8 @@
    "tab:7F028C"
   ],
   "jp": "おしゃれガール<end>",
-  "en": "",
-  "status": "",
+  "en": "Stylish Girl<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1975,8 +1975,8 @@
    "tab:7F0290"
   ],
   "jp": "はりきりレディ<end>",
-  "en": "",
-  "status": "",
+  "en": "Eager Lady<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1986,8 +1986,8 @@
    "tab:7F0294"
   ],
   "jp": "スポーツガール<end>",
-  "en": "",
-  "status": "",
+  "en": "Sporty Girl<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1997,8 +1997,8 @@
    "tab:7F0298"
   ],
   "jp": "つっこみガール<end>",
-  "en": "",
-  "status": "",
+  "en": "Snarky Girl<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2008,8 +2008,8 @@
    "tab:7F029C"
   ],
   "jp": "リュウイチロウ<end>",
-  "en": "",
-  "status": "",
+  "en": "Ryuichiro<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2019,8 +2019,8 @@
    "tab:7F02A0"
   ],
   "jp": "レイジロウ<end>",
-  "en": "",
-  "status": "",
+  "en": "Reijiro<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2030,8 +2030,8 @@
    "tab:7F02A4"
   ],
   "jp": "ジョニー<end>",
-  "en": "",
-  "status": "",
+  "en": "Johnny<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2041,8 +2041,8 @@
    "tab:7F02A8"
   ],
   "jp": "アンディー<end>",
-  "en": "",
-  "status": "",
+  "en": "Andy<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2052,8 +2052,8 @@
    "tab:7F02AC"
   ],
   "jp": "ヒカル<end>",
-  "en": "",
-  "status": "",
+  "en": "Hikaru<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2063,8 +2063,8 @@
    "tab:7F02B0"
   ],
   "jp": "ナギサ<end>",
-  "en": "",
-  "status": "",
+  "en": "Nagisa<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2074,8 +2074,8 @@
    "tab:7F02B4"
   ],
   "jp": "カンナ<end>",
-  "en": "",
-  "status": "",
+  "en": "Kanna<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2085,8 +2085,8 @@
    "tab:7F02B8"
   ],
   "jp": "キリコ<end>",
-  "en": "",
-  "status": "",
+  "en": "Kiriko<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2096,8 +2096,8 @@
    "tab:7F02BC"
   ],
   "jp": "プリンセス<end>",
-  "en": "",
-  "status": "",
+  "en": "Princess<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2107,8 +2107,8 @@
    "tab:7F02C0"
   ],
   "jp": "だいまおう<end>",
-  "en": "",
-  "status": "",
+  "en": "Demon King<end>",
+  "status": "tl",
   "notes": ""
  },
  {

@@ -6,8 +6,8 @@
    "tab:2AA0A8"
   ],
   "jp": "クロー<end>",
-  "en": "",
-  "status": "",
+  "en": "Claw<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -17,8 +17,8 @@
    "tab:2AA0AC"
   ],
   "jp": "クロー<end>",
-  "en": "",
-  "status": "",
+  "en": "Claw<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -28,8 +28,8 @@
    "tab:2AA0B0"
   ],
   "jp": "いりょく　30<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 30<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -39,8 +39,8 @@
    "tab:2AA0C4"
   ],
   "jp": "ダブルクロー<end>",
-  "en": "",
-  "status": "",
+  "en": "Double Claw<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -50,8 +50,8 @@
    "tab:2AA0C8"
   ],
   "jp": "ダブルクロー<end>",
-  "en": "",
-  "status": "",
+  "en": "Double Claw<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -61,8 +61,8 @@
    "tab:2AA0CC"
   ],
   "jp": "いりょく　30　　　2かいこうげき<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 30, 2 hits<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -72,8 +72,8 @@
    "tab:2AA0E0"
   ],
   "jp": "トリプルクロー<end>",
-  "en": "",
-  "status": "",
+  "en": "Triple Claw<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -83,8 +83,8 @@
    "tab:2AA0E4"
   ],
   "jp": "トリプルクロー<end>",
-  "en": "",
-  "status": "",
+  "en": "Triple Claw<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -94,8 +94,8 @@
    "tab:2AA0E8"
   ],
   "jp": "いりょく　30　　　3かいこうげき<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 30, 3 hits<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    "tab:2AA0FC"
   ],
   "jp": "アロー<end>",
-  "en": "",
-  "status": "",
+  "en": "Arrow<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -116,8 +116,8 @@
    "tab:2AA100"
   ],
   "jp": "アロー<end>",
-  "en": "",
-  "status": "",
+  "en": "Arrow<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -127,8 +127,8 @@
    "tab:2AA104"
   ],
   "jp": "いりょく　25　　　クリティカルしやすい<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 25, high<br>\ncritical rate<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -138,8 +138,8 @@
    "tab:2AA118"
   ],
   "jp": "ダブルアロー<end>",
-  "en": "",
-  "status": "",
+  "en": "Double Arrow<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -149,8 +149,8 @@
    "tab:2AA11C"
   ],
   "jp": "ダブルアロー<end>",
-  "en": "",
-  "status": "",
+  "en": "Double Arrow<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -160,8 +160,8 @@
    "tab:2AA120"
   ],
   "jp": "いりょく　50　　　クリティカルしやすい<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 50, high<br>\ncritical rate<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -171,8 +171,8 @@
    "tab:2AA134"
   ],
   "jp": "トリプルアロー<end>",
-  "en": "",
-  "status": "",
+  "en": "Triple Arrow<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -182,8 +182,8 @@
    "tab:2AA138"
   ],
   "jp": "トリプルアロー<end>",
-  "en": "",
-  "status": "",
+  "en": "Triple Arrow<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -193,8 +193,8 @@
    "tab:2AA13C"
   ],
   "jp": "いりょく　75　　　クリティカルしやすい<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 75, high<br>\ncritical rate<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -204,8 +204,8 @@
    "tab:2AA150"
   ],
   "jp": "ブレイド<end>",
-  "en": "",
-  "status": "",
+  "en": "Blade<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    "tab:2AA154"
   ],
   "jp": "ブレイド<end>",
-  "en": "",
-  "status": "",
+  "en": "Blade<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -226,8 +226,8 @@
    "tab:2AA158"
   ],
   "jp": "いりょく　35<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 35<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -237,8 +237,8 @@
    "tab:2AA16C"
   ],
   "jp": "ダブルブレイド<end>",
-  "en": "",
-  "status": "",
+  "en": "Double Blade<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -248,8 +248,8 @@
    "tab:2AA170"
   ],
   "jp": "ダブルブレイド<end>",
-  "en": "",
-  "status": "",
+  "en": "Double Blade<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -259,8 +259,8 @@
    "tab:2AA174"
   ],
   "jp": "いりょく　35　　　2かいこうげき<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 35, 2 hits<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -270,8 +270,8 @@
    "tab:2AA188"
   ],
   "jp": "トリプルブレイド<end>",
-  "en": "",
-  "status": "",
+  "en": "Triple Blade<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -281,8 +281,8 @@
    "tab:2AA18C"
   ],
   "jp": "トリプルブレイド<end>",
-  "en": "",
-  "status": "",
+  "en": "Triple Blade<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -292,8 +292,8 @@
    "tab:2AA190"
   ],
   "jp": "いりょく　35　　　3かいこうげき<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 35, 3 hits<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -303,8 +303,8 @@
    "tab:2AA1A4"
   ],
   "jp": "クレイ<end>",
-  "en": "",
-  "status": "",
+  "en": "Clay<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -314,8 +314,8 @@
    "tab:2AA1A8"
   ],
   "jp": "クレイ<end>",
-  "en": "",
-  "status": "",
+  "en": "Clay<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    "tab:2AA1AC"
   ],
   "jp": "いりょく　40<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 40<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -336,8 +336,8 @@
    "tab:2AA1C0"
   ],
   "jp": "クレイド<end>",
-  "en": "",
-  "status": "",
+  "en": "Clayd<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -347,8 +347,8 @@
    "tab:2AA1C4"
   ],
   "jp": "クレイド<end>",
-  "en": "",
-  "status": "",
+  "en": "Clayd<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -358,8 +358,8 @@
    "tab:2AA1C8"
   ],
   "jp": "いりょく　60<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 60<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -369,8 +369,8 @@
    "tab:2AA1DC"
   ],
   "jp": "クレイゾン<end>",
-  "en": "",
-  "status": "",
+  "en": "Clayzon<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -380,8 +380,8 @@
    "tab:2AA1E0"
   ],
   "jp": "クレイゾン<end>",
-  "en": "",
-  "status": "",
+  "en": "Clayzon<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -391,8 +391,8 @@
    "tab:2AA1E4"
   ],
   "jp": "いりょく　80<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 80<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -402,8 +402,8 @@
    "tab:2AA1F8"
   ],
   "jp": "ブロウ<end>",
-  "en": "",
-  "status": "",
+  "en": "Blow<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -413,8 +413,8 @@
    "tab:2AA1FC"
   ],
   "jp": "ブロウ<end>",
-  "en": "",
-  "status": "",
+  "en": "Blow<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -424,8 +424,8 @@
    "tab:2AA200"
   ],
   "jp": "いりょく　40<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 40<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    "tab:2AA214"
   ],
   "jp": "ブロウガ<end>",
-  "en": "",
-  "status": "",
+  "en": "Blowga<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -446,8 +446,8 @@
    "tab:2AA218"
   ],
   "jp": "ブロウガ<end>",
-  "en": "",
-  "status": "",
+  "en": "Blowga<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -457,8 +457,8 @@
    "tab:2AA21C"
   ],
   "jp": "いりょく　60<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 60<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -468,8 +468,8 @@
    "tab:2AA230"
   ],
   "jp": "ブロウザン<end>",
-  "en": "",
-  "status": "",
+  "en": "Blowzan<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -479,8 +479,8 @@
    "tab:2AA234"
   ],
   "jp": "ブロウザン<end>",
-  "en": "",
-  "status": "",
+  "en": "Blowzan<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -490,8 +490,8 @@
    "tab:2AA238"
   ],
   "jp": "いりょく　80<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 80<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -501,8 +501,8 @@
    "tab:2AA24C"
   ],
   "jp": "グランドブロウ<end>",
-  "en": "",
-  "status": "",
+  "en": "Ground Blow<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -512,8 +512,8 @@
    "tab:2AA250"
   ],
   "jp": "グランドブロウ<end>",
-  "en": "",
-  "status": "",
+  "en": "Ground Blow<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -523,8 +523,8 @@
    "tab:2AA254"
   ],
   "jp": "いりょく　50　　　せんせい　しばり<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 50, strikes<br>\nfirst, binds<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -534,8 +534,8 @@
    "tab:2AA268"
   ],
   "jp": "ハンマーブロウ<end>",
-  "en": "",
-  "status": "",
+  "en": "Hammer Blow<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    "tab:2AA26C"
   ],
   "jp": "ハンマーブロウ<end>",
-  "en": "",
-  "status": "",
+  "en": "Hammer Blow<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -556,8 +556,8 @@
    "tab:2AA270"
   ],
   "jp": "いりょく　50<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 50<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -567,8 +567,8 @@
    "tab:2AA284"
   ],
   "jp": "スタンプブロウ<end>",
-  "en": "",
-  "status": "",
+  "en": "Stamp Blow<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -578,8 +578,8 @@
    "tab:2AA288"
   ],
   "jp": "スタンプブロウ<end>",
-  "en": "",
-  "status": "",
+  "en": "Stamp Blow<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -589,8 +589,8 @@
    "tab:2AA28C"
   ],
   "jp": "いりょく　40　　　こんらんをあたえる<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 40, inflicts<br>\nconfusion<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -600,8 +600,8 @@
    "tab:2AA2A0"
   ],
   "jp": "ロックブロウガ<end>",
-  "en": "",
-  "status": "",
+  "en": "Rock Blowga<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -611,8 +611,8 @@
    "tab:2AA2A4"
   ],
   "jp": "ロックブロウガ<end>",
-  "en": "",
-  "status": "",
+  "en": "Rock Blowga<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -622,8 +622,8 @@
    "tab:2AA2A8"
   ],
   "jp": "いりょく　70　　　じぶんも10ダメージ<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 70, 10<br>\ndamage to self<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -633,8 +633,8 @@
    "tab:2AA2BC"
   ],
   "jp": "ボムブロウガ<end>",
-  "en": "",
-  "status": "",
+  "en": "Bomb Blowga<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -644,8 +644,8 @@
    "tab:2AA2C0"
   ],
   "jp": "ボムブロウガ<end>",
-  "en": "",
-  "status": "",
+  "en": "Bomb Blowga<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    "tab:2AA2C4"
   ],
   "jp": "いりょく　80　　　しっぱいしやすい<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 80, often<br>\nfails<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -666,8 +666,8 @@
    "tab:2AA2D8"
   ],
   "jp": "ブレイドブロウガ<end>",
-  "en": "",
-  "status": "",
+  "en": "Blade Blowga<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -677,8 +677,8 @@
    "tab:2AA2DC"
   ],
   "jp": "ブレイドブロウガ<end>",
-  "en": "",
-  "status": "",
+  "en": "Blade Blowga<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -688,8 +688,8 @@
    "tab:2AA2E0"
   ],
   "jp": "いりょく　30　　　1～5かいこうげき<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 30, 1-5<br>\nhits<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -699,8 +699,8 @@
    "tab:2AA2F4"
   ],
   "jp": "アーマーブロウザン<end>",
-  "en": "",
-  "status": "",
+  "en": "Armor Blowzan<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -710,8 +710,8 @@
    "tab:2AA2F8"
   ],
   "jp": "Aブロウザン<end>",
-  "en": "",
-  "status": "",
+  "en": "A.Blowzan<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -721,8 +721,8 @@
    "tab:2AA2FC"
   ],
   "jp": "いりょく　90　　　カウンターむこう<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 90, ignores<br>\ncounters<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -732,8 +732,8 @@
    "tab:2AA310"
   ],
   "jp": "クロスブロウザン<end>",
-  "en": "",
-  "status": "",
+  "en": "Cross Blowzan<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -743,8 +743,8 @@
    "tab:2AA314"
   ],
   "jp": "Cブロウザン<end>",
-  "en": "",
-  "status": "",
+  "en": "C.Blowzan<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -754,8 +754,8 @@
    "tab:2AA318"
   ],
   "jp": "いりょく　50　　　しばり<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 50, binds<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    "tab:2AA32C"
   ],
   "jp": "レイブロウザン<end>",
-  "en": "",
-  "status": "",
+  "en": "Ray Blowzan<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -776,8 +776,8 @@
    "tab:2AA330"
   ],
   "jp": "レイブロウザン<end>",
-  "en": "",
-  "status": "",
+  "en": "Ray Blowzan<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -787,8 +787,8 @@
    "tab:2AA334"
   ],
   "jp": "いりょく　80　　　クリティカルしやすい<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 80, high<br>\ncritical rate<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -798,8 +798,8 @@
    "tab:2AA348"
   ],
   "jp": "スラスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Thrust<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -809,8 +809,8 @@
    "tab:2AA34C"
   ],
   "jp": "スラスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Thrust<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -820,8 +820,8 @@
    "tab:2AA350"
   ],
   "jp": "いりょく　40<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 40<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -831,8 +831,8 @@
    "tab:2AA364"
   ],
   "jp": "スラッシュ<end>",
-  "en": "",
-  "status": "",
+  "en": "Slash<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -842,8 +842,8 @@
    "tab:2AA368"
   ],
   "jp": "スラッシュ<end>",
-  "en": "",
-  "status": "",
+  "en": "Slash<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -853,8 +853,8 @@
    "tab:2AA36C"
   ],
   "jp": "いりょく　60<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 60<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -864,8 +864,8 @@
    "tab:2AA380"
   ],
   "jp": "スラッシャー<end>",
-  "en": "",
-  "status": "",
+  "en": "Slasher<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    "tab:2AA384"
   ],
   "jp": "スラッシャー<end>",
-  "en": "",
-  "status": "",
+  "en": "Slasher<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -886,8 +886,8 @@
    "tab:2AA388"
   ],
   "jp": "いりょく　80<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 80<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -897,8 +897,8 @@
    "tab:2AA39C"
   ],
   "jp": "ソニックスラッシャー<end>",
-  "en": "",
-  "status": "",
+  "en": "Sonic Slasher<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -908,8 +908,8 @@
    "tab:2AA3A0"
   ],
   "jp": "ソニックS<end>",
-  "en": "",
-  "status": "",
+  "en": "Sonic S.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -919,8 +919,8 @@
    "tab:2AA3A4"
   ],
   "jp": "いりょく　90<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 90<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -930,8 +930,8 @@
    "tab:2AA3B8"
   ],
   "jp": "ハイドロ<end>",
-  "en": "",
-  "status": "",
+  "en": "Hydro<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -941,8 +941,8 @@
    "tab:2AA3BC"
   ],
   "jp": "ハイドロ<end>",
-  "en": "",
-  "status": "",
+  "en": "Hydro<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -952,8 +952,8 @@
    "tab:2AA3C0"
   ],
   "jp": "いりょく　40<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 40<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -963,8 +963,8 @@
    "tab:2AA3D4"
   ],
   "jp": "ハイドラ<end>",
-  "en": "",
-  "status": "",
+  "en": "Hydra<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -974,8 +974,8 @@
    "tab:2AA3D8"
   ],
   "jp": "ハイドラ<end>",
-  "en": "",
-  "status": "",
+  "en": "Hydra<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -985,8 +985,8 @@
    "tab:2AA3DC"
   ],
   "jp": "いりょく　60<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 60<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -996,8 +996,8 @@
    "tab:2AA3F0"
   ],
   "jp": "ハイドラス<end>",
-  "en": "",
-  "status": "",
+  "en": "Hydras<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1007,8 +1007,8 @@
    "tab:2AA3F4"
   ],
   "jp": "ハイドラス<end>",
-  "en": "",
-  "status": "",
+  "en": "Hydras<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1018,8 +1018,8 @@
    "tab:2AA3F8"
   ],
   "jp": "いりょく　80<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 80<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1029,8 +1029,8 @@
    "tab:2AA40C"
   ],
   "jp": "パニス<end>",
-  "en": "",
-  "status": "",
+  "en": "Punis<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1040,8 +1040,8 @@
    "tab:2AA410"
   ],
   "jp": "パニス<end>",
-  "en": "",
-  "status": "",
+  "en": "Punis<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1051,8 +1051,8 @@
    "tab:2AA414"
   ],
   "jp": "いりょく　50　　　クリティカルしやすい<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 50, high<br>\ncritical rate<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1062,8 +1062,8 @@
    "tab:2AA428"
   ],
   "jp": "パニッシュ<end>",
-  "en": "",
-  "status": "",
+  "en": "Punish<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1073,8 +1073,8 @@
    "tab:2AA42C"
   ],
   "jp": "パニッシュ<end>",
-  "en": "",
-  "status": "",
+  "en": "Punish<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1084,8 +1084,8 @@
    "tab:2AA430"
   ],
   "jp": "いりょく　70　　　クリティカルしやすい<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 70, high<br>\ncritical rate<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1095,8 +1095,8 @@
    "tab:2AA444"
   ],
   "jp": "パニッシャー<end>",
-  "en": "",
-  "status": "",
+  "en": "Punisher<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1106,8 +1106,8 @@
    "tab:2AA448"
   ],
   "jp": "パニッシャー<end>",
-  "en": "",
-  "status": "",
+  "en": "Punisher<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1117,8 +1117,8 @@
    "tab:2AA44C"
   ],
   "jp": "いりょく　90　　　クリティカルしやすい<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 90, high<br>\ncritical rate<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1128,8 +1128,8 @@
    "tab:2AA460"
   ],
   "jp": "ペイン<end>",
-  "en": "",
-  "status": "",
+  "en": "Pain<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1139,8 +1139,8 @@
    "tab:2AA464"
   ],
   "jp": "ペイン<end>",
-  "en": "",
-  "status": "",
+  "en": "Pain<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1150,8 +1150,8 @@
    "tab:2AA468"
   ],
   "jp": "いりょく　30<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 30<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1161,8 +1161,8 @@
    "tab:2AA47C"
   ],
   "jp": "ペインド<end>",
-  "en": "",
-  "status": "",
+  "en": "Paind<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1172,8 +1172,8 @@
    "tab:2AA480"
   ],
   "jp": "ペインド<end>",
-  "en": "",
-  "status": "",
+  "en": "Paind<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1183,8 +1183,8 @@
    "tab:2AA484"
   ],
   "jp": "いりょく　50<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 50<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1194,8 +1194,8 @@
    "tab:2AA498"
   ],
   "jp": "ペインゾン<end>",
-  "en": "",
-  "status": "",
+  "en": "Painzon<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1205,8 +1205,8 @@
    "tab:2AA49C"
   ],
   "jp": "ペインゾン<end>",
-  "en": "",
-  "status": "",
+  "en": "Painzon<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1216,8 +1216,8 @@
    "tab:2AA4A0"
   ],
   "jp": "いりょく　70<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 70<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1227,8 +1227,8 @@
    "tab:2AA4B4"
   ],
   "jp": "リベンジ<end>",
-  "en": "",
-  "status": "",
+  "en": "Revenge<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1238,8 +1238,8 @@
    "tab:2AA4B8"
   ],
   "jp": "リベンジ<end>",
-  "en": "",
-  "status": "",
+  "en": "Revenge<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1249,8 +1249,8 @@
    "tab:2AA4BC"
   ],
   "jp": "いりょく　40　　　まほうにはんげき<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 40, strikes<br>\nback at magic<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1260,8 +1260,8 @@
    "tab:2AA4D0"
   ],
   "jp": "ラジエート<end>",
-  "en": "",
-  "status": "",
+  "en": "Radiate<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1271,8 +1271,8 @@
    "tab:2AA4D4"
   ],
   "jp": "ラジエート<end>",
-  "en": "",
-  "status": "",
+  "en": "Radiate<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1282,8 +1282,8 @@
    "tab:2AA4D8"
   ],
   "jp": "いりょく　40　　　だげきにはんげき<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 40, strikes<br>\nback at melee<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1293,8 +1293,8 @@
    "tab:2AA4EC"
   ],
   "jp": "リライブ<end>",
-  "en": "",
-  "status": "",
+  "en": "Relive<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1304,8 +1304,8 @@
    "tab:2AA4F0"
   ],
   "jp": "リライブ<end>",
-  "en": "",
-  "status": "",
+  "en": "Relive<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1315,8 +1315,8 @@
    "tab:2AA4F4"
   ],
   "jp": "まほうダメージを　　はんぶん　60％<end>",
-  "en": "",
-  "status": "",
+  "en": "Halves magic<br>\ndamage, 60%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1326,8 +1326,8 @@
    "tab:2AA508"
   ],
   "jp": "スウェイル<end>",
-  "en": "",
-  "status": "",
+  "en": "Swale<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1337,8 +1337,8 @@
    "tab:2AA50C"
   ],
   "jp": "スウェイル<end>",
-  "en": "",
-  "status": "",
+  "en": "Swale<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1348,8 +1348,8 @@
    "tab:2AA510"
   ],
   "jp": "しばりじょうたいに　ならない<end>",
-  "en": "",
-  "status": "",
+  "en": "Prevents bind<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1359,8 +1359,8 @@
    "tab:2AA524"
   ],
   "jp": "リプルアーマー<end>",
-  "en": "",
-  "status": "",
+  "en": "Ripple Armor<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1370,8 +1370,8 @@
    "tab:2AA528"
   ],
   "jp": "リプルアーマー<end>",
-  "en": "",
-  "status": "",
+  "en": "Ripple Armor<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1381,8 +1381,8 @@
    "tab:2AA52C"
   ],
   "jp": "だげきダメージを　　はんぶん　60％<end>",
-  "en": "",
-  "status": "",
+  "en": "Halves melee<br>\ndamage, 60%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1392,8 +1392,8 @@
    "tab:2AA540"
   ],
   "jp": "アイソレイト<end>",
-  "en": "",
-  "status": "",
+  "en": "Isolate<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1403,8 +1403,8 @@
    "tab:2AA544"
   ],
   "jp": "アイソレイト<end>",
-  "en": "",
-  "status": "",
+  "en": "Isolate<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1414,8 +1414,8 @@
    "tab:2AA548"
   ],
   "jp": "ちけいこうかをふせぐ<end>",
-  "en": "",
-  "status": "",
+  "en": "Blocks terrain<br>\neffects<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1425,8 +1425,8 @@
    "tab:2AA55C"
   ],
   "jp": "ハーム<end>",
-  "en": "",
-  "status": "",
+  "en": "Harm<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1436,8 +1436,8 @@
    "tab:2AA560"
   ],
   "jp": "ハーム<end>",
-  "en": "",
-  "status": "",
+  "en": "Harm<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1447,8 +1447,8 @@
    "tab:2AA564"
   ],
   "jp": "こうげきあいてを　　じょうたいへんか<end>",
-  "en": "",
-  "status": "",
+  "en": "Afflicts whoever<br>\nattacks you<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1458,8 +1458,8 @@
    "tab:2AA578"
   ],
   "jp": "アクト<end>",
-  "en": "",
-  "status": "",
+  "en": "Act<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1469,8 +1469,8 @@
    "tab:2AA57C"
   ],
   "jp": "アクト<end>",
-  "en": "",
-  "status": "",
+  "en": "Act<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1480,8 +1480,8 @@
    "tab:2AA580"
   ],
   "jp": "かいふく　20　　　2～4ターンじぞく<end>",
-  "en": "",
-  "status": "",
+  "en": "Heal 20, lasts<br>\n2-4 turns<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1491,8 +1491,8 @@
    "tab:2AA594"
   ],
   "jp": "アクティヴ<end>",
-  "en": "",
-  "status": "",
+  "en": "Active<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1502,8 +1502,8 @@
    "tab:2AA598"
   ],
   "jp": "アクティヴ<end>",
-  "en": "",
-  "status": "",
+  "en": "Active<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1513,8 +1513,8 @@
    "tab:2AA59C"
   ],
   "jp": "かいふく　30　　　2～4ターンじぞく<end>",
-  "en": "",
-  "status": "",
+  "en": "Heal 30, lasts<br>\n2-4 turns<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1524,8 +1524,8 @@
    "tab:2AA5B0"
   ],
   "jp": "アクティヴァ<end>",
-  "en": "",
-  "status": "",
+  "en": "Activa<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1535,8 +1535,8 @@
    "tab:2AA5B4"
   ],
   "jp": "アクティヴァ<end>",
-  "en": "",
-  "status": "",
+  "en": "Activa<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1546,8 +1546,8 @@
    "tab:2AA5B8"
   ],
   "jp": "かいふく　40　　　2～4ターンじぞく<end>",
-  "en": "",
-  "status": "",
+  "en": "Heal 40, lasts<br>\n2-4 turns<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1557,8 +1557,8 @@
    "tab:2AA5CC"
   ],
   "jp": "リジェネル<end>",
-  "en": "",
-  "status": "",
+  "en": "Regenel<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1568,8 +1568,8 @@
    "tab:2AA5D0"
   ],
   "jp": "リジェネル<end>",
-  "en": "",
-  "status": "",
+  "en": "Regenel<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1579,8 +1579,8 @@
    "tab:2AA5D4"
   ],
   "jp": "かいふく　10　　　バトルちゅうじぞく<end>",
-  "en": "",
-  "status": "",
+  "en": "Heal 10, lasts all<br>\nbattle<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1590,8 +1590,8 @@
    "tab:2AA5E8"
   ],
   "jp": "リジェネラ<end>",
-  "en": "",
-  "status": "",
+  "en": "Regenera<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1601,8 +1601,8 @@
    "tab:2AA5EC"
   ],
   "jp": "リジェネラ<end>",
-  "en": "",
-  "status": "",
+  "en": "Regenera<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1612,8 +1612,8 @@
    "tab:2AA5F0"
   ],
   "jp": "かいふく　15　　　バトルちゅうじぞく<end>",
-  "en": "",
-  "status": "",
+  "en": "Heal 15, lasts all<br>\nbattle<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1623,8 +1623,8 @@
    "tab:2AA604"
   ],
   "jp": "リジェント<end>",
-  "en": "",
-  "status": "",
+  "en": "Regent<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1634,8 +1634,8 @@
    "tab:2AA608"
   ],
   "jp": "リジェント<end>",
-  "en": "",
-  "status": "",
+  "en": "Regent<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1645,8 +1645,8 @@
    "tab:2AA60C"
   ],
   "jp": "かいふく　20　　　バトルちゅうじぞく<end>",
-  "en": "",
-  "status": "",
+  "en": "Heal 20, lasts all<br>\nbattle<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1656,8 +1656,8 @@
    "tab:2AA620"
   ],
   "jp": "アブゾル<end>",
-  "en": "",
-  "status": "",
+  "en": "Absol<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1667,8 +1667,8 @@
    "tab:2AA624"
   ],
   "jp": "アブゾル<end>",
-  "en": "",
-  "status": "",
+  "en": "Absol<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1678,8 +1678,8 @@
    "tab:2AA628"
   ],
   "jp": "いりょく　20　　　あいてのHPをうばう<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 20, drains<br>\nenemy HP<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1689,8 +1689,8 @@
    "tab:2AA63C"
   ],
   "jp": "アブゾム<end>",
-  "en": "",
-  "status": "",
+  "en": "Absom<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1700,8 +1700,8 @@
    "tab:2AA640"
   ],
   "jp": "アブゾム<end>",
-  "en": "",
-  "status": "",
+  "en": "Absom<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1711,8 +1711,8 @@
    "tab:2AA644"
   ],
   "jp": "いりょく　30　　　あいてのHPをうばう<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 30, drains<br>\nenemy HP<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1722,8 +1722,8 @@
    "tab:2AA658"
   ],
   "jp": "アブゾルト<end>",
-  "en": "",
-  "status": "",
+  "en": "Absolt<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1733,8 +1733,8 @@
    "tab:2AA65C"
   ],
   "jp": "アブゾルト<end>",
-  "en": "",
-  "status": "",
+  "en": "Absolt<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1744,8 +1744,8 @@
    "tab:2AA660"
   ],
   "jp": "いりょく　40　　　あいてのHPをうばう<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 40, drains<br>\nenemy HP<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1755,8 +1755,8 @@
    "tab:2AA674"
   ],
   "jp": "グロウ<end>",
-  "en": "",
-  "status": "",
+  "en": "Grow<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1766,8 +1766,8 @@
    "tab:2AA678"
   ],
   "jp": "グロウ<end>",
-  "en": "",
-  "status": "",
+  "en": "Grow<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1777,8 +1777,8 @@
    "tab:2AA67C"
   ],
   "jp": "のうりょくぜんたいを120％にUPさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Raises all stats<br>\nto 120%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1788,8 +1788,8 @@
    "tab:2AA690"
   ],
   "jp": "アンプ<end>",
-  "en": "",
-  "status": "",
+  "en": "Amp<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1799,8 +1799,8 @@
    "tab:2AA694"
   ],
   "jp": "アンプ<end>",
-  "en": "",
-  "status": "",
+  "en": "Amp<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1810,8 +1810,8 @@
    "tab:2AA698"
   ],
   "jp": "まりょくを　　　　　120％にUPさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Raises Magic to<br>\n120%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1821,8 +1821,8 @@
    "tab:2AA6AC"
   ],
   "jp": "ストレングス<end>",
-  "en": "",
-  "status": "",
+  "en": "Strength<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1832,8 +1832,8 @@
    "tab:2AA6B0"
   ],
   "jp": "ストレングス<end>",
-  "en": "",
-  "status": "",
+  "en": "Strength<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1843,8 +1843,8 @@
    "tab:2AA6B4"
   ],
   "jp": "ちからを　　　　　　120％にUPさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Raises Power to<br>\n120%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1854,8 +1854,8 @@
    "tab:2AA6C8"
   ],
   "jp": "アクセル<end>",
-  "en": "",
-  "status": "",
+  "en": "Accel<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1865,8 +1865,8 @@
    "tab:2AA6CC"
   ],
   "jp": "アクセル<end>",
-  "en": "",
-  "status": "",
+  "en": "Accel<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1876,8 +1876,8 @@
    "tab:2AA6D0"
   ],
   "jp": "すばやさを　　　　　120％にUPさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Raises Speed to<br>\n120%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1887,8 +1887,8 @@
    "tab:2AA6E4"
   ],
   "jp": "リカバー<end>",
-  "en": "",
-  "status": "",
+  "en": "Recover<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1898,8 +1898,8 @@
    "tab:2AA6E8"
   ],
   "jp": "リカバー<end>",
-  "en": "",
-  "status": "",
+  "en": "Recover<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1909,8 +1909,8 @@
    "tab:2AA6EC"
   ],
   "jp": "HPかいふくりょうを120％にUPさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Raises HP healing<br>\nto 120%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1920,8 +1920,8 @@
    "tab:2AA700"
   ],
   "jp": "ディフェンス<end>",
-  "en": "",
-  "status": "",
+  "en": "Defense<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1931,8 +1931,8 @@
    "tab:2AA704"
   ],
   "jp": "ディフェンス<end>",
-  "en": "",
-  "status": "",
+  "en": "Defense<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1942,8 +1942,8 @@
    "tab:2AA708"
   ],
   "jp": "ぼうぎょを　　　　　120％にUPさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Raises Defense to<br>\n120%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1953,8 +1953,8 @@
    "tab:2AA71C"
   ],
   "jp": "レジスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Resist<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1964,8 +1964,8 @@
    "tab:2AA720"
   ],
   "jp": "レジスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Resist<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1975,8 +1975,8 @@
    "tab:2AA724"
   ],
   "jp": "まぼうぎょを　　　　120％にUPさせる<end>",
-  "en": "",
-  "status": "",
+  "en": "Raises Magic<br>\nDefense to 120%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1986,8 +1986,8 @@
    "tab:2AA738"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1997,8 +1997,8 @@
    "tab:2AA73C"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2008,8 +2008,8 @@
    "tab:2AA740"
   ],
   "jp": "せつめいぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Description<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2019,8 +2019,8 @@
    "tab:2AA754"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2030,8 +2030,8 @@
    "tab:2AA758"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2041,8 +2041,8 @@
    "tab:2AA75C"
   ],
   "jp": "せつめいぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Description<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2052,8 +2052,8 @@
    "tab:2AA770"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2063,8 +2063,8 @@
    "tab:2AA774"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2074,8 +2074,8 @@
    "tab:2AA778"
   ],
   "jp": "せつめいぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Description<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2085,8 +2085,8 @@
    "tab:2AA78C"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2096,8 +2096,8 @@
    "tab:2AA790"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2107,8 +2107,8 @@
    "tab:2AA794"
   ],
   "jp": "せつめいぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Description<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2118,8 +2118,8 @@
    "tab:2AA7A8"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2129,8 +2129,8 @@
    "tab:2AA7AC"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2140,8 +2140,8 @@
    "tab:2AA7B0"
   ],
   "jp": "せつめいぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Description<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2151,8 +2151,8 @@
    "tab:2AA7C4"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2162,8 +2162,8 @@
    "tab:2AA7C8"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2173,8 +2173,8 @@
    "tab:2AA7CC"
   ],
   "jp": "せつめいぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Description<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2184,8 +2184,8 @@
    "tab:2AA7E0"
   ],
   "jp": "ヴェノム<end>",
-  "en": "",
-  "status": "",
+  "en": "Venom<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2195,8 +2195,8 @@
    "tab:2AA7E4"
   ],
   "jp": "ヴェノム<end>",
-  "en": "",
-  "status": "",
+  "en": "Venom<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2206,8 +2206,8 @@
    "tab:2AA7E8"
   ],
   "jp": "いりょく　20　　　どくをあたえる<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 20, inflicts<br>\npoison<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2217,8 +2217,8 @@
    "tab:2AA7FC"
   ],
   "jp": "フレム<end>",
-  "en": "",
-  "status": "",
+  "en": "Flem<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2228,8 +2228,8 @@
    "tab:2AA800"
   ],
   "jp": "フレム<end>",
-  "en": "",
-  "status": "",
+  "en": "Flem<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2239,8 +2239,8 @@
    "tab:2AA804"
   ],
   "jp": "いりょく　40<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 40<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2250,8 +2250,8 @@
    "tab:2AA818"
   ],
   "jp": "フレイド<end>",
-  "en": "",
-  "status": "",
+  "en": "Flaid<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2261,8 +2261,8 @@
    "tab:2AA81C"
   ],
   "jp": "フレイド<end>",
-  "en": "",
-  "status": "",
+  "en": "Flaid<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2272,8 +2272,8 @@
    "tab:2AA820"
   ],
   "jp": "いりょく　60<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 60<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2283,8 +2283,8 @@
    "tab:2AA834"
   ],
   "jp": "フレイム<end>",
-  "en": "",
-  "status": "",
+  "en": "Flame<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2294,8 +2294,8 @@
    "tab:2AA838"
   ],
   "jp": "フレイム<end>",
-  "en": "",
-  "status": "",
+  "en": "Flame<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2305,8 +2305,8 @@
    "tab:2AA83C"
   ],
   "jp": "いりょく　80<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 80<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2316,8 +2316,8 @@
    "tab:2AA850"
   ],
   "jp": "バーンフレム<end>",
-  "en": "",
-  "status": "",
+  "en": "Burn Flem<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2327,8 +2327,8 @@
    "tab:2AA854"
   ],
   "jp": "バーンフレム<end>",
-  "en": "",
-  "status": "",
+  "en": "Burn Flem<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2338,8 +2338,8 @@
    "tab:2AA858"
   ],
   "jp": "いりょく　50<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 50<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2349,8 +2349,8 @@
    "tab:2AA86C"
   ],
   "jp": "ピコフレム<end>",
-  "en": "",
-  "status": "",
+  "en": "Pico Flem<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2360,8 +2360,8 @@
    "tab:2AA870"
   ],
   "jp": "ピコフレム<end>",
-  "en": "",
-  "status": "",
+  "en": "Pico Flem<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2371,8 +2371,8 @@
    "tab:2AA874"
   ],
   "jp": "いりょく　30　　　1～5かいこうげき<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 30, 1-5<br>\nhits<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2382,8 +2382,8 @@
    "tab:2AA888"
   ],
   "jp": "スピンフレイド<end>",
-  "en": "",
-  "status": "",
+  "en": "Spin Flaid<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2393,8 +2393,8 @@
    "tab:2AA88C"
   ],
   "jp": "スピンフレイド<end>",
-  "en": "",
-  "status": "",
+  "en": "Spin Flaid<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2404,8 +2404,8 @@
    "tab:2AA890"
   ],
   "jp": "いりょく　60　　　こんらんをあたえる<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 60, inflicts<br>\nconfusion<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2415,8 +2415,8 @@
    "tab:2AA8A4"
   ],
   "jp": "ファーンフレイド<end>",
-  "en": "",
-  "status": "",
+  "en": "Fern Flaid<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2426,8 +2426,8 @@
    "tab:2AA8A8"
   ],
   "jp": "ファーンフレイド<end>",
-  "en": "",
-  "status": "",
+  "en": "Fern Flaid<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2437,8 +2437,8 @@
    "tab:2AA8AC"
   ],
   "jp": "いりょく　75<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 75<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2448,8 +2448,8 @@
    "tab:2AA8C0"
   ],
   "jp": "ザンフレイド<end>",
-  "en": "",
-  "status": "",
+  "en": "Zan Flaid<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2459,8 +2459,8 @@
    "tab:2AA8C4"
   ],
   "jp": "ザンフレイド<end>",
-  "en": "",
-  "status": "",
+  "en": "Zan Flaid<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2470,8 +2470,8 @@
    "tab:2AA8C8"
   ],
   "jp": "いりょく　65<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 65<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2481,8 +2481,8 @@
    "tab:2AA8DC"
   ],
   "jp": "フォーフレイム<end>",
-  "en": "",
-  "status": "",
+  "en": "Four Flame<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2492,8 +2492,8 @@
    "tab:2AA8E0"
   ],
   "jp": "フォーフレイム<end>",
-  "en": "",
-  "status": "",
+  "en": "Four Flame<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2503,8 +2503,8 @@
    "tab:2AA8E4"
   ],
   "jp": "いりょく　40　　　1～5かいこうげき<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 40, 1-5<br>\nhits<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2514,8 +2514,8 @@
    "tab:2AA8F8"
   ],
   "jp": "デスフレイム<end>",
-  "en": "",
-  "status": "",
+  "en": "Death Flame<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2525,8 +2525,8 @@
    "tab:2AA8FC"
   ],
   "jp": "デスフレイム<end>",
-  "en": "",
-  "status": "",
+  "en": "Death Flame<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2536,8 +2536,8 @@
    "tab:2AA900"
   ],
   "jp": "いりょく　80　　　クリティカルしやすい<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 80, high<br>\ncritical rate<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2547,8 +2547,8 @@
    "tab:2AA914"
   ],
   "jp": "フレイムザン<end>",
-  "en": "",
-  "status": "",
+  "en": "Flame Zan<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2558,8 +2558,8 @@
    "tab:2AA918"
   ],
   "jp": "フレイムザン<end>",
-  "en": "",
-  "status": "",
+  "en": "Flame Zan<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2569,8 +2569,8 @@
    "tab:2AA91C"
   ],
   "jp": "いりょく　90<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 90<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2580,8 +2580,8 @@
    "tab:2AA930"
   ],
   "jp": "ヴォルグバーン<end>",
-  "en": "",
-  "status": "",
+  "en": "Volg Burn<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2591,8 +2591,8 @@
    "tab:2AA934"
   ],
   "jp": "ヴォルグバーン<end>",
-  "en": "",
-  "status": "",
+  "en": "Volg Burn<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2602,8 +2602,8 @@
    "tab:2AA938"
   ],
   "jp": "いりょく100<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 100<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2613,8 +2613,8 @@
    "tab:2AA94C"
   ],
   "jp": "ゾディアックバーン<end>",
-  "en": "",
-  "status": "",
+  "en": "Zodiac Burn<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2624,8 +2624,8 @@
    "tab:2AA950"
   ],
   "jp": "ゾディアックB<end>",
-  "en": "",
-  "status": "",
+  "en": "Zodiac B.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2635,8 +2635,8 @@
    "tab:2AA954"
   ],
   "jp": "いりょく120<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 120<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2646,8 +2646,8 @@
    "tab:2AA968"
   ],
   "jp": "クラック<end>",
-  "en": "",
-  "status": "",
+  "en": "Crack<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2657,8 +2657,8 @@
    "tab:2AA96C"
   ],
   "jp": "クラック<end>",
-  "en": "",
-  "status": "",
+  "en": "Crack<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2668,8 +2668,8 @@
    "tab:2AA970"
   ],
   "jp": "いりょく　40　　　しばり<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 40, binds<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2679,8 +2679,8 @@
    "tab:2AA984"
   ],
   "jp": "クラスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Crust<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2690,8 +2690,8 @@
    "tab:2AA988"
   ],
   "jp": "クラスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Crust<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2701,8 +2701,8 @@
    "tab:2AA98C"
   ],
   "jp": "いりょく　60　　　しばり<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 60, binds<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2712,8 +2712,8 @@
    "tab:2AA9A0"
   ],
   "jp": "クラスタ<end>",
-  "en": "",
-  "status": "",
+  "en": "Cluster<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2723,8 +2723,8 @@
    "tab:2AA9A4"
   ],
   "jp": "クラスタ<end>",
-  "en": "",
-  "status": "",
+  "en": "Cluster<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2734,8 +2734,8 @@
    "tab:2AA9A8"
   ],
   "jp": "いりょく　80　　　しばり<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 80, binds<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2745,8 +2745,8 @@
    "tab:2AA9BC"
   ],
   "jp": "ショット<end>",
-  "en": "",
-  "status": "",
+  "en": "Shot<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2756,8 +2756,8 @@
    "tab:2AA9C0"
   ],
   "jp": "ショット<end>",
-  "en": "",
-  "status": "",
+  "en": "Shot<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2767,8 +2767,8 @@
    "tab:2AA9C4"
   ],
   "jp": "いりょく　40<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 40<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2778,8 +2778,8 @@
    "tab:2AA9D8"
   ],
   "jp": "シュトル<end>",
-  "en": "",
-  "status": "",
+  "en": "Shtor<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2789,8 +2789,8 @@
    "tab:2AA9DC"
   ],
   "jp": "シュトル<end>",
-  "en": "",
-  "status": "",
+  "en": "Shtor<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2800,8 +2800,8 @@
    "tab:2AA9E0"
   ],
   "jp": "いりょく　60<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 60<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2811,8 +2811,8 @@
    "tab:2AA9F4"
   ],
   "jp": "シュトルム<end>",
-  "en": "",
-  "status": "",
+  "en": "Sturm<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2822,8 +2822,8 @@
    "tab:2AA9F8"
   ],
   "jp": "シュトルム<end>",
-  "en": "",
-  "status": "",
+  "en": "Sturm<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2833,8 +2833,8 @@
    "tab:2AA9FC"
   ],
   "jp": "いりょく　80<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 80<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2844,8 +2844,8 @@
    "tab:2AAA10"
   ],
   "jp": "フロード<end>",
-  "en": "",
-  "status": "",
+  "en": "Flode<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2855,8 +2855,8 @@
    "tab:2AAA14"
   ],
   "jp": "フロード<end>",
-  "en": "",
-  "status": "",
+  "en": "Flode<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2866,8 +2866,8 @@
    "tab:2AAA18"
   ],
   "jp": "いりょく　40<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 40<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2877,8 +2877,8 @@
    "tab:2AAA2C"
   ],
   "jp": "フロリム<end>",
-  "en": "",
-  "status": "",
+  "en": "Florim<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2888,8 +2888,8 @@
    "tab:2AAA30"
   ],
   "jp": "フロリム<end>",
-  "en": "",
-  "status": "",
+  "en": "Florim<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2899,8 +2899,8 @@
    "tab:2AAA34"
   ],
   "jp": "いりょく　60<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 60<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2910,8 +2910,8 @@
    "tab:2AAA48"
   ],
   "jp": "フロスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Frost<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2921,8 +2921,8 @@
    "tab:2AAA4C"
   ],
   "jp": "フロスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Frost<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2932,8 +2932,8 @@
    "tab:2AAA50"
   ],
   "jp": "いりょく　80<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 80<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2943,8 +2943,8 @@
    "tab:2AAA64"
   ],
   "jp": "ホーリー<end>",
-  "en": "",
-  "status": "",
+  "en": "Holy<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2954,8 +2954,8 @@
    "tab:2AAA68"
   ],
   "jp": "ホーリー<end>",
-  "en": "",
-  "status": "",
+  "en": "Holy<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2965,8 +2965,8 @@
    "tab:2AAA6C"
   ],
   "jp": "いりょく　50　　　クリティカルしやすい<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 50, high<br>\ncritical rate<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2976,8 +2976,8 @@
    "tab:2AAA80"
   ],
   "jp": "ホールド<end>",
-  "en": "",
-  "status": "",
+  "en": "Hold<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2987,8 +2987,8 @@
    "tab:2AAA84"
   ],
   "jp": "ホールド<end>",
-  "en": "",
-  "status": "",
+  "en": "Hold<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2998,8 +2998,8 @@
    "tab:2AAA88"
   ],
   "jp": "いりょく　70　　　クリティカルしやすい<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 70, high<br>\ncritical rate<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3009,8 +3009,8 @@
    "tab:2AAA9C"
   ],
   "jp": "ホールガ<end>",
-  "en": "",
-  "status": "",
+  "en": "Holga<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3020,8 +3020,8 @@
    "tab:2AAAA0"
   ],
   "jp": "ホールガ<end>",
-  "en": "",
-  "status": "",
+  "en": "Holga<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3031,8 +3031,8 @@
    "tab:2AAAA4"
   ],
   "jp": "いりょく　90　　　クリティカルしやすい<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 90, high<br>\ncritical rate<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3042,8 +3042,8 @@
    "tab:2AAAB8"
   ],
   "jp": "ライトホーリー<end>",
-  "en": "",
-  "status": "",
+  "en": "Light Holy<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3053,8 +3053,8 @@
    "tab:2AAABC"
   ],
   "jp": "ライトホーリー<end>",
-  "en": "",
-  "status": "",
+  "en": "Light Holy<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3064,8 +3064,8 @@
    "tab:2AAAC0"
   ],
   "jp": "いりょく　60　　　マヒをあたえる<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 60, inflicts<br>\nparalysis<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3075,8 +3075,8 @@
    "tab:2AAAD4"
   ],
   "jp": "アロウドホーリー<end>",
-  "en": "",
-  "status": "",
+  "en": "Arrowed Holy<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3086,8 +3086,8 @@
    "tab:2AAAD8"
   ],
   "jp": "アロウドホーリー<end>",
-  "en": "",
-  "status": "",
+  "en": "Arrowed Holy<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3097,8 +3097,8 @@
    "tab:2AAADC"
   ],
   "jp": "いりょく　60　　　しばり<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 60, binds<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3108,8 +3108,8 @@
    "tab:2AAAF0"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3119,8 +3119,8 @@
    "tab:2AAAF4"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3130,8 +3130,8 @@
    "tab:2AAAF8"
   ],
   "jp": "あめのように　　　　ひかりのやをふらす<end>",
-  "en": "",
-  "status": "",
+  "en": "Rains arrows of<br>\nlight<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3141,8 +3141,8 @@
    "tab:2AAB0C"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3152,8 +3152,8 @@
    "tab:2AAB10"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3163,8 +3163,8 @@
    "tab:2AAB14"
   ],
   "jp": "せつめいぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Description<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3174,8 +3174,8 @@
    "tab:2AAB28"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3185,8 +3185,8 @@
    "tab:2AAB2C"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3196,8 +3196,8 @@
    "tab:2AAB30"
   ],
   "jp": "せつめいぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Description<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3207,8 +3207,8 @@
    "tab:2AAB44"
   ],
   "jp": "ダルク<end>",
-  "en": "",
-  "status": "",
+  "en": "Dalk<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3218,8 +3218,8 @@
    "tab:2AAB48"
   ],
   "jp": "ダルク<end>",
-  "en": "",
-  "status": "",
+  "en": "Dalk<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3229,8 +3229,8 @@
    "tab:2AAB4C"
   ],
   "jp": "いりょく　30<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 30<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3240,8 +3240,8 @@
    "tab:2AAB60"
   ],
   "jp": "ダルドム<end>",
-  "en": "",
-  "status": "",
+  "en": "Daldom<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3251,8 +3251,8 @@
    "tab:2AAB64"
   ],
   "jp": "ダルドム<end>",
-  "en": "",
-  "status": "",
+  "en": "Daldom<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3262,8 +3262,8 @@
    "tab:2AAB68"
   ],
   "jp": "いりょく　50<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 50<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3273,8 +3273,8 @@
    "tab:2AAB7C"
   ],
   "jp": "ダルドズ<end>",
-  "en": "",
-  "status": "",
+  "en": "Daldoz<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3284,8 +3284,8 @@
    "tab:2AAB80"
   ],
   "jp": "ダルドズ<end>",
-  "en": "",
-  "status": "",
+  "en": "Daldoz<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3295,8 +3295,8 @@
    "tab:2AAB84"
   ],
   "jp": "いりょく　70<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 70<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3306,8 +3306,8 @@
    "tab:2AAB98"
   ],
   "jp": "ザンダルク<end>",
-  "en": "",
-  "status": "",
+  "en": "Zan Dalk<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3317,8 +3317,8 @@
    "tab:2AAB9C"
   ],
   "jp": "ザンダルク<end>",
-  "en": "",
-  "status": "",
+  "en": "Zan Dalk<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3328,8 +3328,8 @@
    "tab:2AABA0"
   ],
   "jp": "いりょく　40　　　クリティカルしやすい<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 40, high<br>\ncritical rate<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3339,8 +3339,8 @@
    "tab:2AABB4"
   ],
   "jp": "キャノンダルク<end>",
-  "en": "",
-  "status": "",
+  "en": "Cannon Dalk<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3350,8 +3350,8 @@
    "tab:2AABB8"
   ],
   "jp": "キャノンダルク<end>",
-  "en": "",
-  "status": "",
+  "en": "Cannon Dalk<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3361,8 +3361,8 @@
    "tab:2AABBC"
   ],
   "jp": "いりょく　50　　　よくはずれる<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 50, often<br>\nmisses<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3372,8 +3372,8 @@
    "tab:2AABD0"
   ],
   "jp": "サイダルク<end>",
-  "en": "",
-  "status": "",
+  "en": "Psy Dalk<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3383,8 +3383,8 @@
    "tab:2AABD4"
   ],
   "jp": "サイダルク<end>",
-  "en": "",
-  "status": "",
+  "en": "Psy Dalk<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3394,8 +3394,8 @@
    "tab:2AABD8"
   ],
   "jp": "いりょく　30　　　どくをあたえる<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 30, inflicts<br>\npoison<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3405,8 +3405,8 @@
    "tab:2AABEC"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3416,8 +3416,8 @@
    "tab:2AABF0"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3427,8 +3427,8 @@
    "tab:2AABF4"
   ],
   "jp": "せつめいぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Description<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3438,8 +3438,8 @@
    "tab:2AAC08"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3449,8 +3449,8 @@
    "tab:2AAC0C"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3460,8 +3460,8 @@
    "tab:2AAC10"
   ],
   "jp": "せつめいぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Description<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3471,8 +3471,8 @@
    "tab:2AAC24"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3482,8 +3482,8 @@
    "tab:2AAC28"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3493,8 +3493,8 @@
    "tab:2AAC2C"
   ],
   "jp": "せつめいぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Description<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3504,8 +3504,8 @@
    "tab:2AAC40"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3515,8 +3515,8 @@
    "tab:2AAC44"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3526,8 +3526,8 @@
    "tab:2AAC48"
   ],
   "jp": "せつめいぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Description<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3537,8 +3537,8 @@
    "tab:2AAC5C"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3548,8 +3548,8 @@
    "tab:2AAC60"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3559,8 +3559,8 @@
    "tab:2AAC64"
   ],
   "jp": "せつめいぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Description<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3570,8 +3570,8 @@
    "tab:2AAC78"
   ],
   "jp": "ディストア<end>",
-  "en": "",
-  "status": "",
+  "en": "Distor<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3581,8 +3581,8 @@
    "tab:2AAC7C"
   ],
   "jp": "ディストア<end>",
-  "en": "",
-  "status": "",
+  "en": "Distor<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3592,8 +3592,8 @@
    "tab:2AAC80"
   ],
   "jp": "ぜんふういんをふせぐ<end>",
-  "en": "",
-  "status": "",
+  "en": "Blocks all seals<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3603,8 +3603,8 @@
    "tab:2AAC94"
   ],
   "jp": "ウォール<end>",
-  "en": "",
-  "status": "",
+  "en": "Wall<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3614,8 +3614,8 @@
    "tab:2AAC98"
   ],
   "jp": "ウォール<end>",
-  "en": "",
-  "status": "",
+  "en": "Wall<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3625,8 +3625,8 @@
    "tab:2AAC9C"
   ],
   "jp": "だげきダメージを　　すこしへらす　60％<end>",
-  "en": "",
-  "status": "",
+  "en": "Cuts melee<br>\ndamage a little,<br>\n60%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3636,8 +3636,8 @@
    "tab:2AACB0"
   ],
   "jp": "ウォルト<end>",
-  "en": "",
-  "status": "",
+  "en": "Walt<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3647,8 +3647,8 @@
    "tab:2AACB4"
   ],
   "jp": "ウォルト<end>",
-  "en": "",
-  "status": "",
+  "en": "Walt<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3658,8 +3658,8 @@
    "tab:2AACB8"
   ],
   "jp": "だげきダメージを　　はんぶん　　　50％<end>",
-  "en": "",
-  "status": "",
+  "en": "Halves melee<br>\ndamage, 50%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3669,8 +3669,8 @@
    "tab:2AACCC"
   ],
   "jp": "ウォルスタ<end>",
-  "en": "",
-  "status": "",
+  "en": "Walsta<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3680,8 +3680,8 @@
    "tab:2AACD0"
   ],
   "jp": "ウォルスタ<end>",
-  "en": "",
-  "status": "",
+  "en": "Walsta<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3691,8 +3691,8 @@
    "tab:2AACD4"
   ],
   "jp": "だげきダメージを　　4ぶんの1　　40％<end>",
-  "en": "",
-  "status": "",
+  "en": "Melee damage to<br>\n1/4, 40%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3702,8 +3702,8 @@
    "tab:2AACE8"
   ],
   "jp": "ブリス<end>",
-  "en": "",
-  "status": "",
+  "en": "Bliss<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3713,8 +3713,8 @@
    "tab:2AACEC"
   ],
   "jp": "ブリス<end>",
-  "en": "",
-  "status": "",
+  "en": "Bliss<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3724,8 +3724,8 @@
    "tab:2AACF0"
   ],
   "jp": "まほうカウンター　　20％　　<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic counter<br>\n20%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3735,8 +3735,8 @@
    "tab:2AAD04"
   ],
   "jp": "ブリスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Blist<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3746,8 +3746,8 @@
    "tab:2AAD08"
   ],
   "jp": "ブリスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Blist<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3757,8 +3757,8 @@
    "tab:2AAD0C"
   ],
   "jp": "まほうカウンター　　30％　　<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic counter<br>\n30%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3768,8 +3768,8 @@
    "tab:2AAD20"
   ],
   "jp": "ブリスタ<end>",
-  "en": "",
-  "status": "",
+  "en": "Blista<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3779,8 +3779,8 @@
    "tab:2AAD24"
   ],
   "jp": "ブリスタ<end>",
-  "en": "",
-  "status": "",
+  "en": "Blista<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3790,8 +3790,8 @@
    "tab:2AAD28"
   ],
   "jp": "まほうカウンター　　40％<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic counter<br>\n40%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3801,8 +3801,8 @@
    "tab:2AAD3C"
   ],
   "jp": "スターブリス<end>",
-  "en": "",
-  "status": "",
+  "en": "Star Bliss<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3812,8 +3812,8 @@
    "tab:2AAD40"
   ],
   "jp": "スターブリス<end>",
-  "en": "",
-  "status": "",
+  "en": "Star Bliss<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3823,8 +3823,8 @@
    "tab:2AAD44"
   ],
   "jp": "まほうカウンター　　25％<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic counter<br>\n25%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3834,8 +3834,8 @@
    "tab:2AAD58"
   ],
   "jp": "ウイングトルネード<end>",
-  "en": "",
-  "status": "",
+  "en": "Wing Tornado<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3845,8 +3845,8 @@
    "tab:2AAD5C"
   ],
   "jp": "Wトルネード<end>",
-  "en": "",
-  "status": "",
+  "en": "W.Tornado<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3856,8 +3856,8 @@
    "tab:2AAD60"
   ],
   "jp": "まほうカウンター　　35％<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic counter<br>\n35%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3867,8 +3867,8 @@
    "tab:2AAD74"
   ],
   "jp": "カースブリスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Curse Blist<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3878,8 +3878,8 @@
    "tab:2AAD78"
   ],
   "jp": "カースブリスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Curse Blist<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3889,8 +3889,8 @@
    "tab:2AAD7C"
   ],
   "jp": "まほうカウンター　　30％まほうふういん　　<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic counter<br>\n30%, seals magic<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3900,8 +3900,8 @@
    "tab:2AAD90"
   ],
   "jp": "ファングブリスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Fang Blist<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3911,8 +3911,8 @@
    "tab:2AAD94"
   ],
   "jp": "ファングブリスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Fang Blist<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3922,8 +3922,8 @@
    "tab:2AAD98"
   ],
   "jp": "まほうカウンター　　30％　しばり　<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic counter<br>\n30%, binds<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3933,8 +3933,8 @@
    "tab:2AADAC"
   ],
   "jp": "ビーブリスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Bee Blist<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3944,8 +3944,8 @@
    "tab:2AADB0"
   ],
   "jp": "ビーブリスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Bee Blist<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3955,8 +3955,8 @@
    "tab:2AADB4"
   ],
   "jp": "まほうカウンター　　30％　どく<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic counter<br>\n30%, poison<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3966,8 +3966,8 @@
    "tab:2AADC8"
   ],
   "jp": "ガンブリスタ<end>",
-  "en": "",
-  "status": "",
+  "en": "Gun Blista<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3977,8 +3977,8 @@
    "tab:2AADCC"
   ],
   "jp": "ガンブリスタ<end>",
-  "en": "",
-  "status": "",
+  "en": "Gun Blista<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3988,8 +3988,8 @@
    "tab:2AADD0"
   ],
   "jp": "まほうカウンター　　50％<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic counter<br>\n50%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -3999,8 +3999,8 @@
    "tab:2AADE4"
   ],
   "jp": "サンダーブリスタ<end>",
-  "en": "",
-  "status": "",
+  "en": "Thunder Blista<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4010,8 +4010,8 @@
    "tab:2AADE8"
   ],
   "jp": "サンダーブリスタ<end>",
-  "en": "",
-  "status": "",
+  "en": "Thunder Blista<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4021,8 +4021,8 @@
    "tab:2AADEC"
   ],
   "jp": "まほうカウンター　　40％　マヒ<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic counter<br>\n40%, paralysis<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4032,8 +4032,8 @@
    "tab:2AAE00"
   ],
   "jp": "ウイングザン<end>",
-  "en": "",
-  "status": "",
+  "en": "Wing Zan<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4043,8 +4043,8 @@
    "tab:2AAE04"
   ],
   "jp": "ウイングザン<end>",
-  "en": "",
-  "status": "",
+  "en": "Wing Zan<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4054,8 +4054,8 @@
    "tab:2AAE08"
   ],
   "jp": "まほうカウンター　　45％<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic counter<br>\n45%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4065,8 +4065,8 @@
    "tab:2AAE1C"
   ],
   "jp": "コマンドトルネード<end>",
-  "en": "",
-  "status": "",
+  "en": "Command Tornado<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4076,8 +4076,8 @@
    "tab:2AAE20"
   ],
   "jp": "Cトルネード<end>",
-  "en": "",
-  "status": "",
+  "en": "C.Tornado<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4087,8 +4087,8 @@
    "tab:2AAE24"
   ],
   "jp": "まほうをきょうかしてカウンター　　35％<end>",
-  "en": "",
-  "status": "",
+  "en": "Boosted magic<br>\ncounter 35%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4098,8 +4098,8 @@
    "tab:2AAE38"
   ],
   "jp": "ストライクトルネード<end>",
-  "en": "",
-  "status": "",
+  "en": "Strike Tornado<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4109,8 +4109,8 @@
    "tab:2AAE3C"
   ],
   "jp": "Sトルネード<end>",
-  "en": "",
-  "status": "",
+  "en": "S.Tornado<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4120,8 +4120,8 @@
    "tab:2AAE40"
   ],
   "jp": "まほうをきょうかしてカウンター　　45％<end>",
-  "en": "",
-  "status": "",
+  "en": "Boosted magic<br>\ncounter 45%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4131,8 +4131,8 @@
    "tab:2AAE54"
   ],
   "jp": "バリア<end>",
-  "en": "",
-  "status": "",
+  "en": "Barrier<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4142,8 +4142,8 @@
    "tab:2AAE58"
   ],
   "jp": "バリア<end>",
-  "en": "",
-  "status": "",
+  "en": "Barrier<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4153,8 +4153,8 @@
    "tab:2AAE5C"
   ],
   "jp": "まほうのダメージを　すこしへらす　60％<end>",
-  "en": "",
-  "status": "",
+  "en": "Cuts magic<br>\ndamage a little,<br>\n60%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4164,8 +4164,8 @@
    "tab:2AAE70"
   ],
   "jp": "バリアム<end>",
-  "en": "",
-  "status": "",
+  "en": "Barriam<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4175,8 +4175,8 @@
    "tab:2AAE74"
   ],
   "jp": "バリアム<end>",
-  "en": "",
-  "status": "",
+  "en": "Barriam<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4186,8 +4186,8 @@
    "tab:2AAE78"
   ],
   "jp": "まほうのダメージを　はんぶん　　　50％<end>",
-  "en": "",
-  "status": "",
+  "en": "Halves magic<br>\ndamage, 50%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4197,8 +4197,8 @@
    "tab:2AAE8C"
   ],
   "jp": "バリスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Barrist<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4208,8 +4208,8 @@
    "tab:2AAE90"
   ],
   "jp": "バリスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Barrist<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4219,8 +4219,8 @@
    "tab:2AAE94"
   ],
   "jp": "まほうのダメージを　4ぶんの1　　40％<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic damage to<br>\n1/4, 40%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4230,8 +4230,8 @@
    "tab:2AAEA8"
   ],
   "jp": "リフター<end>",
-  "en": "",
-  "status": "",
+  "en": "Refter<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4241,8 +4241,8 @@
    "tab:2AAEAC"
   ],
   "jp": "リフター<end>",
-  "en": "",
-  "status": "",
+  "en": "Refter<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4252,8 +4252,8 @@
    "tab:2AAEB0"
   ],
   "jp": "だげきカウンター　　20％<end>",
-  "en": "",
-  "status": "",
+  "en": "Melee counter<br>\n20%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4263,8 +4263,8 @@
    "tab:2AAEC4"
   ],
   "jp": "リフレイ<end>",
-  "en": "",
-  "status": "",
+  "en": "Refray<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4274,8 +4274,8 @@
    "tab:2AAEC8"
   ],
   "jp": "リフレイ<end>",
-  "en": "",
-  "status": "",
+  "en": "Refray<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4285,8 +4285,8 @@
    "tab:2AAECC"
   ],
   "jp": "だげきカウンター　　30％<end>",
-  "en": "",
-  "status": "",
+  "en": "Melee counter<br>\n30%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4296,8 +4296,8 @@
    "tab:2AAEE0"
   ],
   "jp": "リフレクト<end>",
-  "en": "",
-  "status": "",
+  "en": "Reflect<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4307,8 +4307,8 @@
    "tab:2AAEE4"
   ],
   "jp": "リフレクト<end>",
-  "en": "",
-  "status": "",
+  "en": "Reflect<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4318,8 +4318,8 @@
    "tab:2AAEE8"
   ],
   "jp": "だげきカウンター　　40％<end>",
-  "en": "",
-  "status": "",
+  "en": "Melee counter<br>\n40%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4329,8 +4329,8 @@
    "tab:2AAEFC"
   ],
   "jp": "サクリス<end>",
-  "en": "",
-  "status": "",
+  "en": "Sacris<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4340,8 +4340,8 @@
    "tab:2AAF00"
   ],
   "jp": "サクリス<end>",
-  "en": "",
-  "status": "",
+  "en": "Sacris<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4351,8 +4351,8 @@
    "tab:2AAF04"
   ],
   "jp": "ダメージの50％　　しかえしする　50％<end>",
-  "en": "",
-  "status": "",
+  "en": "Returns 50% of<br>\ndamage, 50%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4362,8 +4362,8 @@
    "tab:2AAF18"
   ],
   "jp": "サクリル<end>",
-  "en": "",
-  "status": "",
+  "en": "Sacril<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4373,8 +4373,8 @@
    "tab:2AAF1C"
   ],
   "jp": "サクリル<end>",
-  "en": "",
-  "status": "",
+  "en": "Sacril<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4384,8 +4384,8 @@
    "tab:2AAF20"
   ],
   "jp": "ダメージの100％　しかえしする　40％<end>",
-  "en": "",
-  "status": "",
+  "en": "Returns 100% of<br>\ndamage, 40%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4395,8 +4395,8 @@
    "tab:2AAF34"
   ],
   "jp": "サクリファイ<end>",
-  "en": "",
-  "status": "",
+  "en": "Sacrify<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4406,8 +4406,8 @@
    "tab:2AAF38"
   ],
   "jp": "サクリファイ<end>",
-  "en": "",
-  "status": "",
+  "en": "Sacrify<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4417,8 +4417,8 @@
    "tab:2AAF3C"
   ],
   "jp": "ダメージの150％　しかえしする　30％<end>",
-  "en": "",
-  "status": "",
+  "en": "Returns 150% of<br>\ndamage, 30%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4428,8 +4428,8 @@
    "tab:2AAF50"
   ],
   "jp": "リムーブ<end>",
-  "en": "",
-  "status": "",
+  "en": "Remove<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4439,8 +4439,8 @@
    "tab:2AAF54"
   ],
   "jp": "リムーブ<end>",
-  "en": "",
-  "status": "",
+  "en": "Remove<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4450,8 +4450,8 @@
    "tab:2AAF58"
   ],
   "jp": "マイナスこうかを　　すべてうちけす<end>",
-  "en": "",
-  "status": "",
+  "en": "Cancels all minus<br>\neffects<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4461,8 +4461,8 @@
    "tab:2AAF6C"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4472,8 +4472,8 @@
    "tab:2AAF70"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4483,8 +4483,8 @@
    "tab:2AAF74"
   ],
   "jp": "せつめいぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Description<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4494,8 +4494,8 @@
    "tab:2AAF88"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4505,8 +4505,8 @@
    "tab:2AAF8C"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4516,8 +4516,8 @@
    "tab:2AAF90"
   ],
   "jp": "せつめいぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Description<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4527,8 +4527,8 @@
    "tab:2AAFA4"
   ],
   "jp": "キュア<end>",
-  "en": "",
-  "status": "",
+  "en": "Cure<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4538,8 +4538,8 @@
    "tab:2AAFA8"
   ],
   "jp": "キュア<end>",
-  "en": "",
-  "status": "",
+  "en": "Cure<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4549,8 +4549,8 @@
    "tab:2AAFAC"
   ],
   "jp": "かいふく　40<end>",
-  "en": "",
-  "status": "",
+  "en": "Heal 40<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4560,8 +4560,8 @@
    "tab:2AAFC0"
   ],
   "jp": "キュアリム<end>",
-  "en": "",
-  "status": "",
+  "en": "Curerim<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4571,8 +4571,8 @@
    "tab:2AAFC4"
   ],
   "jp": "キュアリム<end>",
-  "en": "",
-  "status": "",
+  "en": "Curerim<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4582,8 +4582,8 @@
    "tab:2AAFC8"
   ],
   "jp": "かいふく　60<end>",
-  "en": "",
-  "status": "",
+  "en": "Heal 60<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4593,8 +4593,8 @@
    "tab:2AAFDC"
   ],
   "jp": "キュアスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Curest<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4604,8 +4604,8 @@
    "tab:2AAFE0"
   ],
   "jp": "キュアスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Curest<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4615,8 +4615,8 @@
    "tab:2AAFE4"
   ],
   "jp": "かいふく　80<end>",
-  "en": "",
-  "status": "",
+  "en": "Heal 80<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4626,8 +4626,8 @@
    "tab:2AAFF8"
   ],
   "jp": "レインキュア<end>",
-  "en": "",
-  "status": "",
+  "en": "Rain Cure<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4637,8 +4637,8 @@
    "tab:2AAFFC"
   ],
   "jp": "レインキュア<end>",
-  "en": "",
-  "status": "",
+  "en": "Rain Cure<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4648,8 +4648,8 @@
    "tab:2AB000"
   ],
   "jp": "かいふく　50<end>",
-  "en": "",
-  "status": "",
+  "en": "Heal 50<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4659,8 +4659,8 @@
    "tab:2AB014"
   ],
   "jp": "バブルキュア<end>",
-  "en": "",
-  "status": "",
+  "en": "Bubble Cure<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4670,8 +4670,8 @@
    "tab:2AB018"
   ],
   "jp": "バブルキュア<end>",
-  "en": "",
-  "status": "",
+  "en": "Bubble Cure<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4681,8 +4681,8 @@
    "tab:2AB01C"
   ],
   "jp": "かいふく　20<end>",
-  "en": "",
-  "status": "",
+  "en": "Heal 20<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4692,8 +4692,8 @@
    "tab:2AB030"
   ],
   "jp": "ダンスキュアリム<end>",
-  "en": "",
-  "status": "",
+  "en": "Dance Curerim<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4703,8 +4703,8 @@
    "tab:2AB034"
   ],
   "jp": "ダンスキュアリム<end>",
-  "en": "",
-  "status": "",
+  "en": "Dance Curerim<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4714,8 +4714,8 @@
    "tab:2AB038"
   ],
   "jp": "かいふく　60　　　こんらんもなおす<end>",
-  "en": "",
-  "status": "",
+  "en": "Heal 60, cures<br>\nconfusion<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4725,8 +4725,8 @@
    "tab:2AB04C"
   ],
   "jp": "デヴォアキュアリム<end>",
-  "en": "",
-  "status": "",
+  "en": "Devour Curerim<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4736,8 +4736,8 @@
    "tab:2AB050"
   ],
   "jp": "Dキュアリム<end>",
-  "en": "",
-  "status": "",
+  "en": "D.Curerim<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4747,8 +4747,8 @@
    "tab:2AB054"
   ],
   "jp": "かいふく　60　　　どくもなおす<end>",
-  "en": "",
-  "status": "",
+  "en": "Heal 60, cures<br>\npoison<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4758,8 +4758,8 @@
    "tab:2AB068"
   ],
   "jp": "ミルクキュアスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Milk Curest<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4769,8 +4769,8 @@
    "tab:2AB06C"
   ],
   "jp": "ミルクキュアスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Milk Curest<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4780,8 +4780,8 @@
    "tab:2AB070"
   ],
   "jp": "かいふく100<end>",
-  "en": "",
-  "status": "",
+  "en": "Heal 100<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4791,8 +4791,8 @@
    "tab:2AB084"
   ],
   "jp": "コビックキュアスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Kobik Curest<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4802,8 +4802,8 @@
    "tab:2AB088"
   ],
   "jp": "Cキュアスト<end>",
-  "en": "",
-  "status": "",
+  "en": "C.Curest<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4813,8 +4813,8 @@
    "tab:2AB08C"
   ],
   "jp": "かいふく　80　　　ぜんふういんをなおす<end>",
-  "en": "",
-  "status": "",
+  "en": "Heal 80, cures all<br>\nseals<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4824,8 +4824,8 @@
    "tab:2AB0A0"
   ],
   "jp": "リプルキュアスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Ripple Curest<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4835,8 +4835,8 @@
    "tab:2AB0A4"
   ],
   "jp": "リプルキュアスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Ripple Curest<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4846,8 +4846,8 @@
    "tab:2AB0A8"
   ],
   "jp": "かいふく　80　　　サポートをなおす<end>",
-  "en": "",
-  "status": "",
+  "en": "Heal 80, restores<br>\nSupport<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4857,8 +4857,8 @@
    "tab:2AB0BC"
   ],
   "jp": "キュアザン<end>",
-  "en": "",
-  "status": "",
+  "en": "Curezan<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4868,8 +4868,8 @@
    "tab:2AB0C0"
   ],
   "jp": "キュアザン<end>",
-  "en": "",
-  "status": "",
+  "en": "Curezan<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4879,8 +4879,8 @@
    "tab:2AB0C4"
   ],
   "jp": "かいふく　90　　　シフトEをなおす<end>",
-  "en": "",
-  "status": "",
+  "en": "Heal 90, restores<br>\nShift E<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4890,8 +4890,8 @@
    "tab:2AB0D8"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4901,8 +4901,8 @@
    "tab:2AB0DC"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4912,8 +4912,8 @@
    "tab:2AB0E0"
   ],
   "jp": "せつめいぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Description<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4923,8 +4923,8 @@
    "tab:2AB0F4"
   ],
   "jp": "ピュリファイ<end>",
-  "en": "",
-  "status": "",
+  "en": "Purify<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4934,8 +4934,8 @@
    "tab:2AB0F8"
   ],
   "jp": "ピュリファイ<end>",
-  "en": "",
-  "status": "",
+  "en": "Purify<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4945,8 +4945,8 @@
    "tab:2AB0FC"
   ],
   "jp": "すべてのじょうたい　へんかをなおす<end>",
-  "en": "",
-  "status": "",
+  "en": "Cures all status<br>\nchanges<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4956,8 +4956,8 @@
    "tab:2AB110"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4967,8 +4967,8 @@
    "tab:2AB114"
   ],
   "jp": "みせってい<end>",
-  "en": "",
-  "status": "",
+  "en": "Unset<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4978,8 +4978,8 @@
    "tab:2AB118"
   ],
   "jp": "せつめいぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Description<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -4989,8 +4989,8 @@
    "tab:2AB12C"
   ],
   "jp": "マグニファイ<end>",
-  "en": "",
-  "status": "",
+  "en": "Magnify<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5000,8 +5000,8 @@
    "tab:2AB130"
   ],
   "jp": "マグニファイ<end>",
-  "en": "",
-  "status": "",
+  "en": "Magnify<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5011,8 +5011,8 @@
    "tab:2AB134"
   ],
   "jp": "ムぞくせいのわざを　いりょく2ばい<end>",
-  "en": "",
-  "status": "",
+  "en": "Doubles Null skill<br>\npower<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5022,8 +5022,8 @@
    "tab:2AB148"
   ],
   "jp": "リダクション<end>",
-  "en": "",
-  "status": "",
+  "en": "Reduction<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5033,8 +5033,8 @@
    "tab:2AB14C"
   ],
   "jp": "リダクション<end>",
-  "en": "",
-  "status": "",
+  "en": "Reduction<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5044,8 +5044,8 @@
    "tab:2AB150"
   ],
   "jp": "ムぞくせいのわざを　いりょくはんぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Halves Null skill<br>\npower<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5055,8 +5055,8 @@
    "tab:2AB164"
   ],
   "jp": "ヒート<end>",
-  "en": "",
-  "status": "",
+  "en": "Heat<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5066,8 +5066,8 @@
    "tab:2AB168"
   ],
   "jp": "ヒート<end>",
-  "en": "",
-  "status": "",
+  "en": "Heat<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5077,8 +5077,8 @@
    "tab:2AB16C"
   ],
   "jp": "ヒぞくせいのわざを　いりょく2ばい<end>",
-  "en": "",
-  "status": "",
+  "en": "Doubles Fire skill<br>\npower<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5088,8 +5088,8 @@
    "tab:2AB180"
   ],
   "jp": "エキスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Exting<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5099,8 +5099,8 @@
    "tab:2AB184"
   ],
   "jp": "エキスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Exting<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5110,8 +5110,8 @@
    "tab:2AB188"
   ],
   "jp": "ヒぞくせいのわざを　いりょくはんぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Halves Fire skill<br>\npower<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5121,8 +5121,8 @@
    "tab:2AB19C"
   ],
   "jp": "ライズ<end>",
-  "en": "",
-  "status": "",
+  "en": "Rise<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5132,8 +5132,8 @@
    "tab:2AB1A0"
   ],
   "jp": "ライズ<end>",
-  "en": "",
-  "status": "",
+  "en": "Rise<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5143,8 +5143,8 @@
    "tab:2AB1A4"
   ],
   "jp": "ツチぞくせいのわざをいりょく2ばい<end>",
-  "en": "",
-  "status": "",
+  "en": "Doubles Earth skill<br>\npower<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5154,8 +5154,8 @@
    "tab:2AB1B8"
   ],
   "jp": "シンク<end>",
-  "en": "",
-  "status": "",
+  "en": "Sink<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5165,8 +5165,8 @@
    "tab:2AB1BC"
   ],
   "jp": "シンク<end>",
-  "en": "",
-  "status": "",
+  "en": "Sink<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5176,8 +5176,8 @@
    "tab:2AB1C0"
   ],
   "jp": "ツチぞくせいのわざをいりょくはんぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Halves Earth skill<br>\npower<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5187,8 +5187,8 @@
    "tab:2AB1D4"
   ],
   "jp": "リボルブ<end>",
-  "en": "",
-  "status": "",
+  "en": "Revolve<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5198,8 +5198,8 @@
    "tab:2AB1D8"
   ],
   "jp": "リボルブ<end>",
-  "en": "",
-  "status": "",
+  "en": "Revolve<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5209,8 +5209,8 @@
    "tab:2AB1DC"
   ],
   "jp": "カゼぞくせいのわざをいりょく2ばい<end>",
-  "en": "",
-  "status": "",
+  "en": "Doubles Wind skill<br>\npower<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5220,8 +5220,8 @@
    "tab:2AB1F0"
   ],
   "jp": "カーム<end>",
-  "en": "",
-  "status": "",
+  "en": "Calm<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5231,8 +5231,8 @@
    "tab:2AB1F4"
   ],
   "jp": "カーム<end>",
-  "en": "",
-  "status": "",
+  "en": "Calm<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5242,8 +5242,8 @@
    "tab:2AB1F8"
   ],
   "jp": "カゼぞくせいのわざをいりょくはんぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Halves Wind skill<br>\npower<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5253,8 +5253,8 @@
    "tab:2AB20C"
   ],
   "jp": "ウェット<end>",
-  "en": "",
-  "status": "",
+  "en": "Wet<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5264,8 +5264,8 @@
    "tab:2AB210"
   ],
   "jp": "ウェット<end>",
-  "en": "",
-  "status": "",
+  "en": "Wet<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5275,8 +5275,8 @@
    "tab:2AB214"
   ],
   "jp": "ミズぞくせいのわざをいりょく2ばい<end>",
-  "en": "",
-  "status": "",
+  "en": "Doubles Water<br>\nskill power<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5286,8 +5286,8 @@
    "tab:2AB228"
   ],
   "jp": "ドライド<end>",
-  "en": "",
-  "status": "",
+  "en": "Dried<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5297,8 +5297,8 @@
    "tab:2AB22C"
   ],
   "jp": "ドライド<end>",
-  "en": "",
-  "status": "",
+  "en": "Dried<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5308,8 +5308,8 @@
    "tab:2AB230"
   ],
   "jp": "ミズぞくせいのわざをいりょくはんぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Halves Water skill<br>\npower<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5319,8 +5319,8 @@
    "tab:2AB244"
   ],
   "jp": "ディバイン<end>",
-  "en": "",
-  "status": "",
+  "en": "Divine<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5330,8 +5330,8 @@
    "tab:2AB248"
   ],
   "jp": "ディバイン<end>",
-  "en": "",
-  "status": "",
+  "en": "Divine<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5341,8 +5341,8 @@
    "tab:2AB24C"
   ],
   "jp": "ヒカリぞくせいわざをいりょく2ばいにする<end>",
-  "en": "",
-  "status": "",
+  "en": "Doubles Light skill<br>\npower<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5352,8 +5352,8 @@
    "tab:2AB260"
   ],
   "jp": "オース<end>",
-  "en": "",
-  "status": "",
+  "en": "Oath<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5363,8 +5363,8 @@
    "tab:2AB264"
   ],
   "jp": "オース<end>",
-  "en": "",
-  "status": "",
+  "en": "Oath<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5374,8 +5374,8 @@
    "tab:2AB268"
   ],
   "jp": "ヒカリぞくせいわざをいりょくはんぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Halves Light skill<br>\npower<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5385,8 +5385,8 @@
    "tab:2AB27C"
   ],
   "jp": "インクルド<end>",
-  "en": "",
-  "status": "",
+  "en": "Includ<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5396,8 +5396,8 @@
    "tab:2AB280"
   ],
   "jp": "インクルド<end>",
-  "en": "",
-  "status": "",
+  "en": "Includ<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5407,8 +5407,8 @@
    "tab:2AB284"
   ],
   "jp": "ヤミぞくせいのわざをいりょく2ばい<end>",
-  "en": "",
-  "status": "",
+  "en": "Doubles Dark skill<br>\npower<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5418,8 +5418,8 @@
    "tab:2AB298"
   ],
   "jp": "デクルド<end>",
-  "en": "",
-  "status": "",
+  "en": "Declud<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5429,8 +5429,8 @@
    "tab:2AB29C"
   ],
   "jp": "デクルド<end>",
-  "en": "",
-  "status": "",
+  "en": "Declud<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5440,8 +5440,8 @@
    "tab:2AB2A0"
   ],
   "jp": "ヤミぞくせいのわざをいりょくはんぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Halves Dark skill<br>\npower<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5451,8 +5451,8 @@
    "tab:2AB2B4"
   ],
   "jp": "ニュートラル<end>",
-  "en": "",
-  "status": "",
+  "en": "Neutral<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5462,8 +5462,8 @@
    "tab:2AB2B8"
   ],
   "jp": "ニュートラル<end>",
-  "en": "",
-  "status": "",
+  "en": "Neutral<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5473,8 +5473,8 @@
    "tab:2AB2BC"
   ],
   "jp": "6ぞくせいのわざを　いりょくはんぶん<end>",
-  "en": "",
-  "status": "",
+  "en": "Halves all 6<br>\nelements' power<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5484,8 +5484,8 @@
    "tab:2AB2D0"
   ],
   "jp": "フィーバー<end>",
-  "en": "",
-  "status": "",
+  "en": "Fever<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5495,8 +5495,8 @@
    "tab:2AB2D4"
   ],
   "jp": "フィーバー<end>",
-  "en": "",
-  "status": "",
+  "en": "Fever<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5506,8 +5506,8 @@
    "tab:2AB2D8"
   ],
   "jp": "いりょく　50　　　こんらんをあたえる<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 50, inflicts<br>\nconfusion<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5517,8 +5517,8 @@
    "tab:2AB2EC"
   ],
   "jp": "ペトリファイ<end>",
-  "en": "",
-  "status": "",
+  "en": "Petrify<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5528,8 +5528,8 @@
    "tab:2AB2F0"
   ],
   "jp": "ペトリファイ<end>",
-  "en": "",
-  "status": "",
+  "en": "Petrify<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5539,8 +5539,8 @@
    "tab:2AB2F4"
   ],
   "jp": "いりょく　50　　　せきかにする<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 50,<br>\npetrifies<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5550,8 +5550,8 @@
    "tab:2AB308"
   ],
   "jp": "サイレンス<end>",
-  "en": "",
-  "status": "",
+  "en": "Silence<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5561,8 +5561,8 @@
    "tab:2AB30C"
   ],
   "jp": "サイレンス<end>",
-  "en": "",
-  "status": "",
+  "en": "Silence<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5572,8 +5572,8 @@
    "tab:2AB310"
   ],
   "jp": "まほうわざを　　　　ふういんする<end>",
-  "en": "",
-  "status": "",
+  "en": "Seals magic skills<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5583,8 +5583,8 @@
    "tab:2AB324"
   ],
   "jp": "ララバイ<end>",
-  "en": "",
-  "status": "",
+  "en": "Lullaby<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5594,8 +5594,8 @@
    "tab:2AB328"
   ],
   "jp": "ララバイ<end>",
-  "en": "",
-  "status": "",
+  "en": "Lullaby<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5605,8 +5605,8 @@
    "tab:2AB32C"
   ],
   "jp": "ねむりをあたえる<end>",
-  "en": "",
-  "status": "",
+  "en": "Inflicts sleep<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5616,8 +5616,8 @@
    "tab:2AB340"
   ],
   "jp": "ジャッジメント<end>",
-  "en": "",
-  "status": "",
+  "en": "Judgment<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5627,8 +5627,8 @@
    "tab:2AB344"
   ],
   "jp": "ジャッジメント<end>",
-  "en": "",
-  "status": "",
+  "en": "Judgment<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5638,8 +5638,8 @@
    "tab:2AB348"
   ],
   "jp": "2～4ターンのあいだめいちゅうりつUP<end>",
-  "en": "",
-  "status": "",
+  "en": "Accuracy up for<br>\n2-4 turns<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5649,8 +5649,8 @@
    "tab:2AB35C"
   ],
   "jp": "レイジ<end>",
-  "en": "",
-  "status": "",
+  "en": "Rage<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5660,8 +5660,8 @@
    "tab:2AB360"
   ],
   "jp": "レイジ<end>",
-  "en": "",
-  "status": "",
+  "en": "Rage<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5671,8 +5671,8 @@
    "tab:2AB364"
   ],
   "jp": "2～4ターンのあいだクリティカルりつUP<end>",
-  "en": "",
-  "status": "",
+  "en": "Critical rate up<br>\nfor 2-4 turns<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5682,8 +5682,8 @@
    "tab:2AB378"
   ],
   "jp": "メテオダルドズ<end>",
-  "en": "",
-  "status": "",
+  "en": "Meteo Daldoz<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5693,8 +5693,8 @@
    "tab:2AB37C"
   ],
   "jp": "メテオダルドズ<end>",
-  "en": "",
-  "status": "",
+  "en": "Meteo Daldoz<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5704,8 +5704,8 @@
    "tab:2AB380"
   ],
   "jp": "いりょく100<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 100<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5715,8 +5715,8 @@
    "tab:2AB394"
   ],
   "jp": "トライデントキュルド<end>",
-  "en": "",
-  "status": "",
+  "en": "Trident Cureld<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5726,8 +5726,8 @@
    "tab:2AB398"
   ],
   "jp": "Tキュルド<end>",
-  "en": "",
-  "status": "",
+  "en": "T.Cureld<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5737,8 +5737,8 @@
    "tab:2AB39C"
   ],
   "jp": "かいふく100　　　マイナスもなおす<end>",
-  "en": "",
-  "status": "",
+  "en": "Heal 100, cures<br>\nminus effects<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5748,8 +5748,8 @@
    "tab:2AB3B0"
   ],
   "jp": "Lトルネード<end>",
-  "en": "",
-  "status": "",
+  "en": "L.Tornado<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5759,8 +5759,8 @@
    "tab:2AB3B4"
   ],
   "jp": "Lトルネード<end>",
-  "en": "",
-  "status": "",
+  "en": "L.Tornado<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5770,8 +5770,8 @@
    "tab:2AB3B8"
   ],
   "jp": "まほうをきょうかしてカウンター　　30％<end>",
-  "en": "",
-  "status": "",
+  "en": "Boosted magic<br>\ncounter 30%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5781,8 +5781,8 @@
    "tab:2AB3CC"
   ],
   "jp": "Nウイングトルネード<end>",
-  "en": "",
-  "status": "",
+  "en": "N.Wing Tornado<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5792,8 +5792,8 @@
    "tab:2AB3D0"
   ],
   "jp": "NWトルネード<end>",
-  "en": "",
-  "status": "",
+  "en": "N.W.Tornado<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5803,8 +5803,8 @@
    "tab:2AB3D4"
   ],
   "jp": "まほうをきょうかしてカウンター　　35％　　<end>",
-  "en": "",
-  "status": "",
+  "en": "Boosted magic<br>\ncounter 35%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5814,8 +5814,8 @@
    "tab:2AB3E8"
   ],
   "jp": "トルネードブレイク<end>",
-  "en": "",
-  "status": "",
+  "en": "Tornado Break<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5825,8 +5825,8 @@
    "tab:2AB3EC"
   ],
   "jp": "Tブレイク<end>",
-  "en": "",
-  "status": "",
+  "en": "T.Break<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5836,8 +5836,8 @@
    "tab:2AB3F0"
   ],
   "jp": "まほうカウンター　　50％<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic counter<br>\n50%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5847,8 +5847,8 @@
    "tab:2AB404"
   ],
   "jp": "ダークバーンフレム<end>",
-  "en": "",
-  "status": "",
+  "en": "Dark Burn Flem<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5858,8 +5858,8 @@
    "tab:2AB408"
   ],
   "jp": "Dバーンフレム<end>",
-  "en": "",
-  "status": "",
+  "en": "D.Burn Flem<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5869,8 +5869,8 @@
    "tab:2AB40C"
   ],
   "jp": "いりょく　60<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 60<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5880,8 +5880,8 @@
    "tab:2AB420"
   ],
   "jp": "ヴォルクヴァイパー<end>",
-  "en": "",
-  "status": "",
+  "en": "Volk Viper<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5891,8 +5891,8 @@
    "tab:2AB424"
   ],
   "jp": "ヴォルクバイパー<end>",
-  "en": "",
-  "status": "",
+  "en": "Volk Bipar<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5902,8 +5902,8 @@
    "tab:2AB428"
   ],
   "jp": "いりょく　70　　　2かいこうげき<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 70, 2 hits<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5913,8 +5913,8 @@
    "tab:2AB43C"
   ],
   "jp": "シャイニングS<end>",
-  "en": "",
-  "status": "",
+  "en": "Shining S.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5924,8 +5924,8 @@
    "tab:2AB440"
   ],
   "jp": "シャイニングS<end>",
-  "en": "",
-  "status": "",
+  "en": "Shining S.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5935,8 +5935,8 @@
    "tab:2AB444"
   ],
   "jp": "いりょく100　　　クリティカルしやすい<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 100, high<br>\ncritical rate<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5946,8 +5946,8 @@
    "tab:2AB458"
   ],
   "jp": "トルネードハイロゥ<end>",
-  "en": "",
-  "status": "",
+  "en": "Tornado Halo<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5957,8 +5957,8 @@
    "tab:2AB45C"
   ],
   "jp": "トルネードH<end>",
-  "en": "",
-  "status": "",
+  "en": "Tornado H.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5968,8 +5968,8 @@
    "tab:2AB460"
   ],
   "jp": "まほうをきょうかしてカウンター　　40％<end>",
-  "en": "",
-  "status": "",
+  "en": "Boosted magic<br>\ncounter 40%<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5979,8 +5979,8 @@
    "tab:2AB474"
   ],
   "jp": "オーラレイ<end>",
-  "en": "",
-  "status": "",
+  "en": "Aura Ray<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -5990,8 +5990,8 @@
    "tab:2AB478"
   ],
   "jp": "オーラレイ<end>",
-  "en": "",
-  "status": "",
+  "en": "Aura Ray<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -6001,8 +6001,8 @@
    "tab:2AB47C"
   ],
   "jp": "いりょく150　　　クリティカルしやすい<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 150, high<br>\ncritical rate<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -6012,8 +6012,8 @@
    "tab:2AB490"
   ],
   "jp": "ローズダルドム<end>",
-  "en": "",
-  "status": "",
+  "en": "Rose Daldom<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -6023,8 +6023,8 @@
    "tab:2AB494"
   ],
   "jp": "ローズダルドム<end>",
-  "en": "",
-  "status": "",
+  "en": "Rose Daldom<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -6034,8 +6034,8 @@
    "tab:2AB498"
   ],
   "jp": "いりょく　80　　　あいてのHPをうばう<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 80, drains<br>\nenemy HP<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -6045,8 +6045,8 @@
    "tab:2AB4AC"
   ],
   "jp": "エレメントバースト<end>",
-  "en": "",
-  "status": "",
+  "en": "Element Burst<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -6056,8 +6056,8 @@
    "tab:2AB4B0"
   ],
   "jp": "Eバースト<end>",
-  "en": "",
-  "status": "",
+  "en": "E.Burst<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -6067,8 +6067,8 @@
    "tab:2AB4B4"
   ],
   "jp": "いりょく150<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 150<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -6078,8 +6078,8 @@
    "tab:2AB4C8"
   ],
   "jp": "ブレイドストライク<end>",
-  "en": "",
-  "status": "",
+  "en": "Blade Strike<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -6089,8 +6089,8 @@
    "tab:2AB4CC"
   ],
   "jp": "Bストライク<end>",
-  "en": "",
-  "status": "",
+  "en": "B.Strike<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -6100,8 +6100,8 @@
    "tab:2AB4D0"
   ],
   "jp": "いりょく100<end>",
-  "en": "",
-  "status": "",
+  "en": "Power 100<end>",
+  "status": "tl",
   "notes": ""
  }
 ]

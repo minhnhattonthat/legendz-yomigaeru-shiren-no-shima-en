@@ -1122,8 +1122,8 @@
    "tab:7F6B84"
   ],
   "jp": "なし<end>",
-  "en": "",
-  "status": "",
+  "en": "None<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1134,8 +1134,8 @@
    "tab:7F6B88"
   ],
   "jp": "なし<end>",
-  "en": "",
-  "status": "",
+  "en": "None<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1158,8 +1158,8 @@
    "tab:7F6B90"
   ],
   "jp": "なし<end>",
-  "en": "",
-  "status": "",
+  "en": "None<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1182,8 +1182,8 @@
    "tab:7F6B98"
   ],
   "jp": "なし<end>",
-  "en": "",
-  "status": "",
+  "en": "None<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1470,8 +1470,8 @@
    "tab:7F6BA8"
   ],
   "jp": "まぼうぎょUP<end>",
-  "en": "",
-  "status": "",
+  "en": "M.Def Up<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2718,8 +2718,8 @@
    "tab:7F6D98"
   ],
   "jp": "なし<end>",
-  "en": "",
-  "status": "",
+  "en": "None<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2730,8 +2730,8 @@
    "tab:7F6D9C"
   ],
   "jp": "なし<end>",
-  "en": "",
-  "status": "",
+  "en": "None<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2754,8 +2754,8 @@
    "tab:7F6DA4"
   ],
   "jp": "なし<end>",
-  "en": "",
-  "status": "",
+  "en": "None<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2778,8 +2778,8 @@
    "tab:7F6DAC"
   ],
   "jp": "なし<end>",
-  "en": "",
-  "status": "",
+  "en": "None<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3066,8 +3066,8 @@
    "tab:7F6DBC"
   ],
   "jp": "まぼうぎょUP<end>",
-  "en": "",
-  "status": "",
+  "en": "M.Def Up<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4314,8 +4314,8 @@
    "tab:7F6FAC"
   ],
   "jp": "なし<end>",
-  "en": "",
-  "status": "",
+  "en": "None<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4326,8 +4326,8 @@
    "tab:7F6FB0"
   ],
   "jp": "なし<end>",
-  "en": "",
-  "status": "",
+  "en": "None<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4350,8 +4350,8 @@
    "tab:7F6FB8"
   ],
   "jp": "なし<end>",
-  "en": "",
-  "status": "",
+  "en": "None<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4374,8 +4374,8 @@
    "tab:7F6FC0"
   ],
   "jp": "なし<end>",
-  "en": "",
-  "status": "",
+  "en": "None<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4662,8 +4662,8 @@
    "tab:7F6FD0"
   ],
   "jp": "まぼうぎょUP<end>",
-  "en": "",
-  "status": "",
+  "en": "M.Def Up<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5910,8 +5910,8 @@
    "tab:7F73D4"
   ],
   "jp": "なし<end>",
-  "en": "",
-  "status": "",
+  "en": "None<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5922,8 +5922,8 @@
    "tab:7F73D8"
   ],
   "jp": "なし<end>",
-  "en": "",
-  "status": "",
+  "en": "None<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5946,8 +5946,8 @@
    "tab:7F73E0"
   ],
   "jp": "なし<end>",
-  "en": "",
-  "status": "",
+  "en": "None<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5970,8 +5970,8 @@
    "tab:7F73E8"
   ],
   "jp": "なし<end>",
-  "en": "",
-  "status": "",
+  "en": "None<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6258,8 +6258,8 @@
    "tab:7F73F8"
   ],
   "jp": "まぼうぎょUP<end>",
-  "en": "",
-  "status": "",
+  "en": "M.Def Up<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },

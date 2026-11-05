@@ -1,0 +1,11 @@
+2AFF48	96	long form, status page w=12 (0x0C00EF)
+2AFF74	96	long form, status page w=12 (0x0C00EF)
+2AFF9C	96	long form, status page w=12 (0x0C00EF)
+2B00DA	96	long form, status page w=12 (0x0C00EF)
+2B0104	96	long form, status page w=12 (0x0C00EF)
+2B01F0	96	long form, status page w=12 (0x0C00EF)
+2B07FE	96	long form, status page w=12 (0x0C00EF)
+2B094A	96	no short form in the game: name fields need 10 cells, phase 7
+2B04C8	96	no short form in the game: name fields need 10 cells, phase 7
+45A914	40	layout table 0x45AADC width: phase 7
+45A95C	56	layout table 0x45AADC width: phase 7

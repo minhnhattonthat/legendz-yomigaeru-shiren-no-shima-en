@@ -39,12 +39,14 @@ def by_class(block, e):
         return (64, 1, "class", "item list, w=8 (0x0A7919, 0x0B7E5D)") if table_field(e, ITEMS, 12) == 0 else (88, 3, "class", "item info, 11x3 (0x0A7A01, 0x0B7F15)")
     if block == "legendz":
         return 64, 1, "class", "name fields, w=8 (0x0A58CF, 0x0B98F9)"
-    if block == "skills":
-        return (80, 1, "class", "skill list, w=10 (0x0BFCA5)") if owner(e, "tab:2AA") else (88, 3, "guess", "skill info: assumed like item info")
-    if block in ("skills2", "skills3"):
-        return 80, 1, "guess", "skill names: assumed like the skill list"
+    if block in ("skills", "skills2", "skills3"):
+        # records of 0x1C from 0x2AA0A8 (and on, same stride): long name, short name, description; the Japanese descriptions wrap at 10 cells
+        if table_field(e, 0x2AA0A8, 0x1C) == 8:
+            return 80, 2, "guess", "skill info: 10 cells a row in the Japanese"
+        return 80, 1, "class", "skill list, w=10 (0x0BFCA5)"
     if block == "places":
-        return (TAG, 1, "class", "speaker tag") if owner(e, "tab:7F0") else (LINE_PX, 1, "class", "location card, sprite line")
+        # 0x7EFFC4's table holds both: locations and their English subtitles first, speaker names from the player's own tag on
+        return (TAG, 1, "class", "speaker tag") if int(e["id"], 16) >= 0x188C56 else (LINE_PX, 1, "class", "location card, sprite line")
     if block == "battle":
         return LINE_PX, 1, "class", "battle line, sprite"
     if block == "quips":

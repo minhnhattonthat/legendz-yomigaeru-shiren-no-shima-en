@@ -6,8 +6,8 @@
    "lit:0B986C"
   ],
   "jp": "レンタルドール<end>",
-  "en": "",
-  "status": "",
+  "en": "Rental Doll<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -17,8 +17,8 @@
    "lit:0B9FA8"
   ],
   "jp": "●レンタル！<end>",
-  "en": "",
-  "status": "",
+  "en": "●Rent!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -28,8 +28,8 @@
    "lit:0B9FAC"
   ],
   "jp": "●やめる<end>",
-  "en": "",
-  "status": "",
+  "en": "●Cancel<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -39,8 +39,8 @@
    "lit:0B993C"
   ],
   "jp": "レンタルちゅう<end>",
-  "en": "",
-  "status": "",
+  "en": "Rented<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -50,8 +50,8 @@
    "tab:7F74F4"
   ],
   "jp": "レンタルじかん　そろそろおわりだよ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Rental time's almost over!!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -61,8 +61,8 @@
    "tab:7F74F8"
   ],
   "jp": "レンタルじかん　おわりーーー‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Rental time's uuuup!!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -72,8 +72,8 @@
    "tab:7F74CC"
   ],
   "jp": "ねえねえ　ボクを　レンタルしてよ！<br>\nきっと　やくにたつとおもうよ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Hey, hey, rent me!<br>\nI bet I can really help out!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -83,8 +83,8 @@
    "tab:7F74D0"
   ],
   "jp": "わーい　ありがとう！<br>\nボク　がんばるよ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Yay, thank you!<br>\nI'll do my best!!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -94,8 +94,8 @@
    "tab:7F74D4"
   ],
   "jp": "ソウルドールが　ひつようなのか？<br>\nだったら　オレをレンタルしな！<end>",
-  "en": "",
-  "status": "",
+  "en": "So you need a Soul Doll?<br>\nThen rent me, pal!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    "tab:7F74D8"
   ],
   "jp": "フ…　そうこなくっちゃな<br>\nこうかいは　させないぜ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Heh... That's more like it.<br>\nYou won't regret this!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -116,8 +116,8 @@
    "tab:7F74DC"
   ],
   "jp": "あ～ら　アタシをえらぶだなんて<br>\nおきゃくさん　めがたかいわね♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh my, choosing little old me?<br>\nYou've got good taste, dear♪<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -127,8 +127,8 @@
    "tab:7F74E0"
   ],
   "jp": "いやん　レンタルされちゃったわ♪<br>\nらんぼうに　あつかわないでね♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Ooh, I've been rented♪<br>\nDon't be too rough with me♪<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -138,8 +138,8 @@
    "tab:7F74EC"
   ],
   "jp": "うおおおーーー‼<br>\nオレを　レンタルするきかーーー‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Raaaaah!!<br>\nYou wanna rent me?!!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -149,8 +149,8 @@
    "tab:7F74F0"
   ],
   "jp": "うおおおーーー‼<br>\nオレ　がんばるぞーーー‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Raaaaah!!<br>\nI'll give it my aaaall!!<end>",
+  "status": "tl",
   "notes": ""
  }
 ]
