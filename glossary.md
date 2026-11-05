@@ -77,6 +77,13 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | かくしイベント | - | | "hidden event" | |
 | オートぼうけん | - | | "Auto-Quest"; ぼうけんスポット "Quest Spot" | |
 | ライブRPG | Live RPG | | | |
+| マヒ | - | | "Paralysis Cure", "Paralysis" (label), "is paralyzed", "paralysis wore off" | Numb |
+| こんらん | - | | "Confuse Cure" (64 px item slot; Confusion Cure is 66), "Confusion" (label), "is confused", "inflicts confusion" | Daze |
+| せきか | - | | "Petrify Cure", "Petrify" (label), "is petrified", "is no longer petrified" | |
+| ぞくせい | - | | Fire, Earth, Wind, Water, Light, Dark; むぞくせい Null | |
+| しゃちょう | - | | "Boss", DWC's president, every line | Mr. President |
+| ぶちょう | - | | "Chief", BB's title | |
+| オサ | - | | オサさま "Elder" | |
 
 ## Decisions from earlier batches
 - b024 Quest Spot names: free-form short names, 64 px at most: see `script/adventure.json`.

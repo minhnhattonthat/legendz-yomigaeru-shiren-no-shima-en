@@ -325,7 +325,7 @@
    "tab:187B10"
   ],
   "jp": "せきかなおし<end>",
-  "en": "Stone Cure<end>",
+  "en": "Petrify Cure<end>",
   "status": "tl",
   "notes": ""
  },
@@ -347,7 +347,7 @@
    "tab:187B1C"
   ],
   "jp": "マヒなおし<end>",
-  "en": "Numb Cure<end>",
+  "en": "Paralysis Cure<end>",
   "status": "tl",
   "notes": ""
  },
@@ -391,7 +391,7 @@
    "tab:187B34"
   ],
   "jp": "こんらんなおし<end>",
-  "en": "Daze Cure<end>",
+  "en": "Confuse Cure<end>",
   "status": "tl",
   "notes": ""
  },

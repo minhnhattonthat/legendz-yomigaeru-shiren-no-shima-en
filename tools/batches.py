@@ -4,7 +4,8 @@
     python -X utf8 tools/batches.py check b001 [b002]  # 0 errors prints OK; exit 1 otherwise
     python -X utf8 tools/batches.py merge b001 [b002]  # refuses a batch that fails check
     python -X utf8 tools/batches.py status             # per block: translated, left; multi-page lines for phase 7
-    python -X utf8 tools/batches.py lint               # check every merged string (run after glossary changes)
+    python -X utf8 tools/batches.py lint [--overs]     # check every merged string (run after glossary changes); --overs rewrites script/overs.tsv, lines past a guess
+    python -X utf8 tools/batches.py fix FILE           # id<TAB>English lines, written by hand: into their out.tsv, then check and merge
     python -X utf8 tools/batches.py fit "text / text" [--px 156]
     python -X utf8 tools/batches.py credits            # work/tl/credits.out.txt -> script/credits.json
 
@@ -213,11 +214,28 @@ def problems(en, copies, bud, w):
         cap = max(len(jpcodec._token.findall(jp.replace("<end>", "").replace("<page>\n", ""))), 6 if "places" in blocks and int(copies[0][1]["id"], 16) >= 0x188C56 else 8)
         if words(en) > cap:
             out.append("%d words, name slot holds %d" % (words(en), cap))
-    return out + ([] if copies[0][1]["id"] in TERM_IN_NEIGHBOUR else glossary_problems(jp, en))
+    if copies[0][1]["id"] in TERM_IN_NEIGHBOUR:
+        return out
+    return out + glossary_problems(jp, en) + honorific_problems(jp, en)
 
 
 # A sentence split over two strings: English word order puts the glossary term in the neighbouring string (checked by hand, phase 6).
 TERM_IN_NEIGHBOUR = set("16296A 1662C0 16B2A2 16BAB2 16CFF8 16F646 170CDC 1717CA 1785C8 17B2A2 17B600 17B7E6 17BE86 17C194 17CD26 181AF6 1838E6".split())
+HONORIFICS = {"さん": "-san", "さーん": "-san", "くん": "-kun", "クン": "-kun", "ちゃん": "-chan", "さま": "-sama", "サマ": "-sama", "せんせい": "-sensei"}
+# Only after a name or the player's variable: a bare search hits さんざん and ちゃんと. Names: the character table (D1). Stretched spellings count (Shu-kuuun).
+NAMES = "シュウ|メグ|マック|ディーノ|ハルカ|サスケ|シロン|ランシーン|アリサ|ヒカル|リュウイチロウ|レイジロウ|ジョニー|アンディー|ナギサ|カンナ|キリコ|グリフィン"
+HONORIFIC = re.compile(r"(?:%s|\[FFEE\])\s*(%s)" % (NAMES, "|".join(sorted(HONORIFICS, key=len, reverse=True))))
+
+
+def honorific_problems(jp, en):
+    out = []
+    flat = en.replace(" / ", " ").replace(" // ", " ")
+    for h in HONORIFIC.findall(jp.replace("<br>\n", "").replace("<br>", "")):
+        want = HONORIFICS[h]
+        stem = want[1:]
+        if not re.search(r"-%s" % "".join(c + "+" for c in stem), flat):
+            out.append("%s: no %s" % (h, want))
+    return out
 
 
 def glossary():
@@ -321,6 +339,56 @@ def lint(blocks, bud, w):
     return errs
 
 
+def overs(blocks, bud, w):
+    """Lines past a guessed budget, which lint lets through: [(id, block, why)], for phase 7 to measure on screen, not to shorten blind."""
+    out = []
+    for jp, copies in groups(blocks).items():
+        en = copies[0][1]["en"]
+        px, rows, known = limit(copies, bud)
+        if not en or known:
+            continue
+        sprite = bool({b for b, _ in copies} & insert.SPRITE_BLOCKS)
+        text = wrap(show(en), px, w, sprite) if rows > 1 else show(en)
+        for page in text.split(" // "):
+            rs = page.split(" / ")
+            why = ["%d rows, guess %d" % (len(rs), rows)] if len(rs) > rows else []
+            why += ["%dpx > %dpx: %s" % (row_px(r, w, sprite), px, r) for r in rs if row_px(r, w, sprite) > px]
+            if why:
+                out.append((copies[0][1]["id"], copies[0][0], "; ".join(why)))
+    return out
+
+
+def fix(path, blocks):
+    """A file of `id<TAB>English`, written line by line by hand: each goes into its batch's out.tsv (any copy's id will do), then those batches check and merge."""
+    head = {e["id"]: copies[0][1]["id"] for copies in groups(blocks).values() for _, e in copies}
+    batch = {line.split("\t")[0]: p.stem for p in sorted(TL.glob("b*.tsv")) if not p.stem.endswith(".out") for line in p.read_text(encoding="utf-8").splitlines()}
+    new = {}
+    for n, line in enumerate(Path(path).read_text(encoding="utf-8").splitlines(), 1):
+        if line.strip():
+            i, en = line.split("\t", 1)
+            if i not in head:
+                raise SystemExit("%s line %d: no string %s" % (path, n, i))
+            new.setdefault(batch[head[i]], {})[head[i]] = en
+    bud, w = budgets(), widths()
+    bad = 0
+    for b, lines in new.items():
+        p = TL / (b + ".out.tsv")
+        old = p.read_text(encoding="utf-8").splitlines()
+        rows = [(i + "\t" + lines.pop(i)) if (i := row.split("\t")[0]) in lines else row for row in old]
+        if lines:
+            raise SystemExit("%s: not in %s" % (sorted(lines), p.name))
+        p.write_text("\n".join(rows) + "\n", encoding="utf-8", newline="\n")
+        errs = check(b, blocks, bud, w)
+        for e in errs:
+            print(b, e)
+        bad += len(errs)
+        if not errs:
+            merge(b, blocks)
+    save(blocks)
+    print("OK" if not bad else "%d errors: those batches weren't merged" % bad)
+    return bad
+
+
 CREDIT_CELLS = 15  # one 8 px glyph a cell, from x = 120 to the screen's edge
 
 
@@ -400,9 +468,17 @@ def main():
     elif a[0] == "status":
         status(load_blocks())
     elif a[0] == "lint":
-        errs = lint(load_blocks(), budgets(), widths())
+        blocks, bud, w = load_blocks(), budgets(), widths()
+        errs = lint(blocks, bud, w)
         print("\n".join(errs) or "OK")
+        if "--overs" in a:
+            (ROOT / "script/overs.tsv").write_text("".join("%s\t%s\t%s\n" % o for o in overs(blocks, bud, w)), encoding="utf-8", newline="\n")
+        n = len(overs(blocks, bud, w))
+        if n:
+            print("%d lines past a guessed budget: script/overs.tsv, measure on screen" % n)
         sys.exit(1 if errs else 0)
+    elif a[0] == "fix":
+        sys.exit(1 if fix(a[1], load_blocks()) else 0)
     else:
         raise SystemExit(__doc__)
 

@@ -890,7 +890,7 @@
    "tab:7F75F0"
   ],
   "jp": "マヒ<end>",
-  "en": "Numb<end>",
+  "en": "Paralysis<end>",
   "status": "tl",
   "notes": ""
  },
@@ -901,7 +901,7 @@
    "tab:7F75F4"
   ],
   "jp": "こんらん<end>",
-  "en": "Daze<end>",
+  "en": "Confusion<end>",
   "status": "tl",
   "notes": ""
  },
@@ -934,7 +934,7 @@
    "tab:7F7600"
   ],
   "jp": "せきか<end>",
-  "en": "Stone<end>",
+  "en": "Petrify<end>",
   "status": "tl",
   "notes": ""
  },

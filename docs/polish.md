@@ -54,7 +54,7 @@ Minor findings from the phase 6 review (`work/qa/review/bNNN.md`, read-only revi
 - [ ] 45AE9C / 45AEDA - やま / れいほう (mountain / sacred peak) - Peak/Summit are near-synonyms and lose the distinction - "Mountain" / "Holy Peak"
 - [ ] 45AE6C - まかい (demon realm) - "Demon" is truncated and unbalanced against "Heaven" - "Netherworld"
 - [ ] 45AE30 - むぞくせい (no element) - "Null" - "Neutral" or "No Element", per the element ruling
-- [ ] 45AF5E / 45AF6E - マヒ / こんらん - "Numb" / "Daze" are non-standard status names - "Paralysis" / "Confusion" if width allows
+- [x] 45AF5E / 45AF6E - マヒ / こんらん - "Numb" / "Daze" are non-standard status names - "Paralysis" / "Confusion" if width allows **fixed: phase 6 review**
 - [ ] 44FD96 - えいえんりゅうさ (eternal quicksand) - "Eternal Sands" drops the flowing quality - "Eternal Quicksand"
 
 ## b005
@@ -77,7 +77,7 @@ Minor findings from the phase 6 review (`work/qa/review/bNNN.md`, read-only revi
 - [ ] 165E76 - がきだいしょう "あのさー" - "Y'know" is Mac's tic, and a random kid takes it up - "Hey, what's that Talisdam the / guy just talked about?"
 - [ ] 1654D2 - Croc "オレさまの　オヤツ" - the "Oresama" swagger is flattened to "my snack"; a tone nit, optional - "you're my snack, y'know, / 'cause I'm great!" or leave as is.
 - [ ] 164E86 - "もってきて　くれたら　おれいを / するから　よろしくたのむよ" - "so please!" is stilted - "I'll reward you for them, so / I'm counting on you!"
-- [ ] 165228 - Mermaid "アラララッ！？" - the stretched-vowel voice is lost - "Ohhh my!?"
+- [x] 165228 - Mermaid "アラララッ！？" - the stretched-vowel voice is lost - "Ohhh my!?" **fixed: phase 6 review**
 - [ ] 16588A - Player "ワニくん" - "Mr. Croc" is the worker's ダンナ; the player's くん is friendlier - "Croc, is it okay if I look at the / door in back?"
 
 ## b007
@@ -95,17 +95,17 @@ Minor findings from the phase 6 review (`work/qa/review/bNNN.md`, read-only revi
 
 - [ ] 16985A, 16A242 - パークのイベント - lowercase "park event", but the synopsis and glossary treat Legendz Park as a proper noun - "Is this really a Park event?"
 - [ ] 16B9AE - おかししている (shop clerk) - "looooaning" reads oddly; the stretch lands on the wrong sound - "Umm, we're only loaaaning that out / as a rental doll, though..."
-- [ ] 1698FE-169AB8 - the mermaid's run of lines (のよ, カレったら, ダーリン) - flirty and girlish but fairly flat; there is no stretched-vowel or "Oh my~" device, as the style reference's Mermaid and flirt rows call for - optional, e.g. 1698FE "Listen to this! He's soooo awful!"
+- [x] 1698FE-169AB8 - the mermaid's run of lines (のよ, カレったら, ダーリン) - flirty and girlish but fairly flat; there is no stretched-vowel or "Oh my~" device, as the style reference's Mermaid and flirt rows call for - optional, e.g. 1698FE "Listen to this! He's soooo awful!" **fixed: phase 6 review**
 - [ ] 16A0B6 - ぶじ みとめられた (Arisa) - "safely" is dropped; the line is fine otherwise - optional "The Wind Messenger accepted you, safe and sound."
 
 ## b009
 
 - [ ] Many ids - サーガバトル - the glossary term is "Saga Battle", but the batch uses lowercase "Saga battle" throughout (16BD02, 16BE1C, 16BF2A, 16D808, 16DB26, 16DB66, 16E096). The lowercase form is internally consistent, so decide once. Same for "rental doll" versus "Rental Doll".
-- [ ] 16C254 - シュウ, イイヤツだな - "really good guy" is wrong when the player is a girl. Suggest "really a great person, [FFEE]♪".
+- [x] 16C254 - シュウ, イイヤツだな - "really good guy" is wrong when the player is a girl. Suggest "really a great person, [FFEE]♪". **fixed: phase 6 review**
 - [ ] 16D6B4 - シニカルボーイ, かたしてもらうよん - "clean you out" suggests taking money. Suggest "wipe you out".
 - [ ] 16DFEA - the tablet fragment 「な めいきゅう その」 is partial (letters missing), but the EN is a complete line from the glossary sentence. If the game deliberately shows a partial reading, the gap is lost. Suggest "and a new labyrin..." or "...a new laby..." if it fits.
 - [ ] 16CA3C - 「ホントはいいやつゴブ」 - "actually a nice one" is slightly stiff. Suggest "actually a good human, gob".
-- [ ] 16DEF6, 16DF30 - おじょうさま - the refined register (〜のよね, 〜かしら) comes out neutral. Suggest "Cure All is handy, but rather pricey, isn't it...".
+- [x] 16DEF6, 16DF30 - おじょうさま - the refined register (〜のよね, 〜かしら) comes out neutral. Suggest "Cure All is handy, but rather pricey, isn't it...". **fixed: phase 6 review**
 
 ## b010
 
@@ -113,37 +113,37 @@ Minor findings from the phase 6 review (`work/qa/review/bNNN.md`, read-only revi
 - [ ] 16E6B0 - Arisa's "めざわりだわ" - "You disgust me" is too strong; the JP means "you're an eyesore/in my way" - "You're in my way!!"
 - [ ] 16E8D4 - Arisa's "でなおして" - this is "come back again later", not "start over" - "I have to go regroup, so..."
 - [ ] 16EBDA - Player's "キミは もしかして…" - "もしかして" (could it be you) is lost - "Could you be...?"
-- [ ] 16F03A - 14A0's "かんりにんです" - a contraction in a formal servant's voice that otherwise has none ("I have been awaiting") - "I am the caretaker of this cave. I will / now tell you about..."
+- [x] 16F03A - 14A0's "かんりにんです" - a contraction in a formal servant's voice that otherwise has none ("I have been awaiting") - "I am the caretaker of this cave. I will / now tell you about..." **fixed: phase 6 review**
 - [ ] 16F0B6, 16F0F8 - 14A0's "しかくのあるもの" - "the right" reads oddly; しかく means qualification - "Only those qualified can walk on the water here." / "if one without qualification enters"
 - [ ] 16F2E4 - 1522's "シシツはありそうだわ" - "it seems to have the makings" has an unclear "it" - "this one seems to have the makings."
-- [ ] 16F320 - 1522's "みせてもらうとしましょ…？" - "shall you...?" is ungrammatical - "Now then, let's see your strength as a / Saga, shall we...?"
+- [x] 16F320 - 1522's "みせてもらうとしましょ…？" - "shall you...?" is ungrammatical - "Now then, let's see your strength as a / Saga, shall we...?" **fixed: phase 6 review**
 - [ ] 16F396 - Chimera's "いざ しょうぶっ！" - "Have at thee!" breaks the style reference, which avoids "thou/thee" - "Have at you!"
 - [ ] 16F3E4 - 14A0's "あのかたの ちをひかれる おかた" - "that one's blood" is clumsy - "Just what I'd expect of one who carries / that person's blood..."
 - [ ] 16FA8E - Player's "ドラゴンのもよう" - もよう is a pattern or design, and "crest" collides with the glossary term Crest (もんしょう) - "This door has a dragon design on / it..."
-- [ ] 170896 - Kanna's "カンナちゃん ですわよん" - "cute little Kanna" adds words and drops -chan; the glossary keeps honorifics - "Kanna-chan here♪"
-- [ ] 16EF66 - Clerk's "けんじゃのおみせへー" - the stretched vowel is lost, though the next line keeps it ("elsewheeere") - "Welcoooome to the Sage's Shop."
+- [x] 170896 - Kanna's "カンナちゃん ですわよん" - "cute little Kanna" adds words and drops -chan; the glossary keeps honorifics - "Kanna-chan here♪" **fixed: phase 6 review**
+- [x] 16EF66 - Clerk's "けんじゃのおみせへー" - the stretched vowel is lost, though the next line keeps it ("elsewheeere") - "Welcoooome to the Sage's Shop." **fixed: phase 6 review**
 
 ## b011
 
 - [ ] 172816 - ドワーフ "コケーーーーーッ！！", an angry squawk (the player answers "やっぱりおこった"). "Cock-a-doooodle" is a rooster crow, not an angry waking-up shriek - "Bwaaawk!!" or "Cluuuuck!!"
-- [ ] 171A74 - おじょうさま "でしたわ", ladylike ending lost - "...talking even more strangely than usual, I must say."
+- [x] 171A74 - おじょうさま "でしたわ", ladylike ending lost - "...talking even more strangely than usual, I must say." **fixed: phase 6 review**
 - [ ] 1721F6 - おじょうさま "さっそくですけど… ワタシとショウブいたしませんか！" - "shall we have a match!" is an awkward question ending in "!", and the "with me" is lost - "Pardon me, but... would you care to match with me!"
-- [ ] 1710A0 - キリコ "いっきに…って アララ！？" - "wipe you all..." is awkward and アララ is flattened - "I'll finish you off in one... eep!?"
+- [x] 1710A0 - キリコ "いっきに…って アララ！？" - "wipe you all..." is awkward and アララ is flattened - "I'll finish you off in one... eep!?" **fixed: phase 6 review**
 - [ ] 171F98 - おにいさん "たにのおくに すすめるな！" (we can go deeper into the valley) - "open up the valley" is vague - "All right, this hammer smashes the rock, so we can go deeper into the valley!"
 - [ ] 172642 - "すごそうなの" (looks formidable) - "looks amazing" is off in a scary-sleeping-monster context - "Whoa... There it is, and it looks tough..."
 - [ ] 172AE0 - ツチのはどう (Earth's pulse/energy) - "Earth's waves" reads like ocean waves - "Earth's energy"
 - [ ] 170CAC - おっと…いけない！ (Oops, almost forgot!) - "That's right!" loses the "forgot" sense - "Oops... Almost forgot! One more Saga / Commander is..."
-- [ ] 1713CE - 「サーガのチ」のチカラ (the power of Saga blood) - "Saga blood" drops チカラ - "Is that the power of "Saga blood" too...?"
+- [x] 1713CE - 「サーガのチ」のチカラ (the power of Saga blood) - "Saga blood" drops チカラ - "Is that the power of "Saga blood" too...?" **fixed: phase 6 review**
 - [ ] 171940/17197C - つっこみガール "デレデレしてたの～！" (was totally goo-goo) - the excited tilde and the split sentence are muddled by the ellipsis on row 2 - "...He was all dopey about it~!" / "It was kinda gross to watch."
-- [ ] 1713CE, 171490, 171412 etc. - sage #1464 uses contractions ("aren't", "I'll", "I'd") while ワシ/おヌシ/〜だぞ is an elderly archaic voice. Consider one pass of de-contracting if it fits, e.g. "Quick on the uptake, are you not."
-- [ ] 172C46 and 172C8C - #1414 sage "まちかねたぞ… みごとにはばたいてみせよ！" is archaic (〜せよ), but the EN has "I've" - "I have waited long, Saga chick..." if it fits.
+- [x] 1713CE, 171490, 171412 etc. - sage #1464 uses contractions ("aren't", "I'll", "I'd") while ワシ/おヌシ/〜だぞ is an elderly archaic voice. Consider one pass of de-contracting if it fits, e.g. "Quick on the uptake, are you not." **fixed: phase 6 review**
+- [x] 172C46 and 172C8C - #1414 sage "まちかねたぞ… みごとにはばたいてみせよ！" is archaic (〜せよ), but the EN has "I've" - "I have waited long, Saga chick..." if it fits. **fixed: phase 6 review**
 
 ## b012
 
 - [ ] 1732E4/173368 chain, 173390/1733CC - 1733CC "…むかったらしい！" - らしい hedge (apparently) lost; the Cool Doll fragment dangles as its own box - "...the Dragon Fountain, apparently, / to summon..." (optional)
 - [ ] 173882 - ナギサ "でもザンネンね～ ここでいちばんさいしょに まけてしまうんだもの" - subject ambiguous in JP; "You're the very first to lose here" is a guess, check whether this is pre-battle taunt (OK) or her own loss line (then "I'm the first to lose here!")
 - [ ] 173844 - "あなたがいちばんノリよ" - "most fun yet" misses "you've got the best vibe/groove so far" - "You've got the best groove yet♪"
-- [ ] 1739C6 - アンディー "なんてこったーい" - style ref gives "Good grief"; "What a bummer" is fine but drops the stock line - "OH~ Good grief♪"
+- [x] 1739C6 - アンディー "なんてこったーい" - style ref gives "Good grief"; "What a bummer" is fine but drops the stock line - "OH~ Good grief♪" **fixed: phase 6 review**
 - [ ] 17374C/173784 - バカンスレディ - "cheer hard" then "cheer my hardest for him" repeats; "for him" is filler - "To have Dino-sama avenge me, / I've got to cheer my hardest!"
 - [ ] 174066/1740A8 - かの りゅうおう (singular, "that famed Dragon King") - rendered plural "Dragon Kings" - "...to rival even the / legendary Dragon King!!"
 - [ ] 174354 - "このいりぐちの おくから" - "from deep past this entrance" awkward - "from deep inside this entrance...!"
@@ -165,7 +165,7 @@ Minor findings from the phase 6 review (`work/qa/review/bNNN.md`, read-only revi
 - [ ] 176A44 - Tiamat: そのセイギのココロ - "That just heart" is awkward. Suggested EN: "That heart of justice is a bother."
 - [ ] 1776F4 - Johnny's catchphrase リ・ボーン - "Re-Born" departs from the glossary's "Reborn". Fine if the stylization is deliberate; otherwise "Come back and Reborn!"
 - [ ] 1774BC - Player: ど～りで なまえも にてるとおもった - "No wonder" is lost. Suggested EN: "I see...! No wonder your names are so alike."
-- [ ] 176BA8 - いいよなー ひょうしょうしきに でれるやつは - "Lucky for those who get to be in the ceremony" has the wrong sense. Suggested EN: "Must be nice for those who get to / go to the ceremony..."
+- [x] 176BA8 - いいよなー ひょうしょうしきに でれるやつは - "Lucky for those who get to be in the ceremony" has the wrong sense. Suggested EN: "Must be nice for those who get to / go to the ceremony..." **fixed: phase 6 review**
 - [ ] 178148 - かいぞうして - "remodeling bugs and plants" is odd. Suggested EN: "DWC is modifying bugs and plants..."
 - [ ] 175CB4 - DWC Boss: いまから…けっしょうせんを おこないたいと おもいます - "...Final...!" drops "hold". Suggested EN: "...hold the Final...!"
 - [ ] 175D8C/175DC6 - "Who will win..." / "Which Saga will it be!?" repeat each other. Suggested EN: "...Which Saga will take the title / of this memorable 1st Tournament!?"
@@ -181,10 +181,10 @@ Minor findings from the phase 6 review (`work/qa/review/bNNN.md`, read-only revi
 - [ ] 179846 - Hexadragon chose you as the heir - "as its heir" suggests the heir is Hexadragon's - "chose you as the Hero's heir..." (if it fits).
 - [ ] 1792FC - Dino "ちょっと いいかい？" - "Got a moment?" is clipped and casual against his polite, full-sentence style - "Do you have a moment?"
 - [ ] 17903A - Ryuichiro, courtly - "Anyway, you all leave here right away too" is blunt, and the "too" is awkward - "Anyway, all of you must leave at once, too."
-- [ ] 17A858 - Ryuichiro - "You've got good instincts" is contracted and casual for the courtly voice - "You have fine instincts..."
+- [x] 17A858 - Ryuichiro - "You've got good instincts" is contracted and casual for the courtly voice - "You have fine instincts..." **fixed: phase 6 review**
 - [ ] 178916 - Player: "ここには もう いかないほうが" - "I'd better not go there anymore" may read oddly after a scene change - "Maybe I shouldn't come here anymore..."
 - [ ] 178B8E - Meg: "ワルいけど よろしく！" - "you take this!" is vague - "Sorry, but it's up to you!"
-- [ ] 178A50 - Hikaru "シュウくんだぁ" - the drawn-out vowel is lost, so the line is flatter than her style row - "It's Shuu-kun! Why are you here?"
+- [x] 178A50 - Hikaru "シュウくんだぁ" - the drawn-out vowel is lost, so the line is flatter than her style row - "It's Shuu-kun! Why are you here?" **fixed: phase 6 review**
 - [ ] 1798C8/1798FC - Arisa: "to steal Hexadragon... that was my aim..." - fragmented, and "aim" lands oddly - "So I... wanted to steal Hexadragon... / That's why I got close to you..."
 - [ ] 1795FC/17962A - Player relays Dino's guess ("ないか だって" = "he said maybe you...") - the hedge is dropped, so it reads as a flat claim - "...and maybe got close to me to keep an eye on me..."
 
@@ -216,20 +216,20 @@ Minor findings from the phase 6 review (`work/qa/review/bNNN.md`, read-only revi
 - [ ] 1801DA - DWC Boss: わがDWCの Legendz Park - "our / DWC's" stacks two possessives and reads clumsy - "Ahem, everyone! Welcome to / DWC's very own Legendz Park!"
 - [ ] 181062 - Meg: きいてるほうがうんざりする (fed up) - "sickening" is too strong - "...Anyway! I'm sick of hearing / it, so give it a rest."
 - [ ] 181482 - Shu: べつにさわいでないじゃんなぁ - ", y'know" is Mac's tic, and this line sits right beside Mac's; the style reference says Shu uses it sparingly. It blurs the two voices - "We're not being noisy, geez."
-- [ ] 181796 - Mac: ボクは… - "Me..." reads like the brute doll's dropped pronoun; Mac says "I" - "I... like kind ones, y'know..."
+- [x] 181796 - Mac: ボクは… - "Me..." reads like the brute doll's dropped pronoun; Mac says "I" - "I... like kind ones, y'know..." **fixed: phase 6 review**
 - [ ] 18127A - Halca: そんざいじたいがでんせつ - "are legend itself" is slightly off - "Legendz, true to their name, / are legends in themselves!"
-- [ ] 180AA4 - Sports Girl: ナチュラルなボケかまさない (don't make a dumb remark so naturally) - "Don't play dumb" misses that the remark was unintentional - "Hey, you! / Don't say that so casually!" (or "Quit deadpanning like that!")
+- [x] 180AA4 - Sports Girl: ナチュラルなボケかまさない (don't make a dumb remark so naturally) - "Don't play dumb" misses that the remark was unintentional - "Hey, you! / Don't say that so casually!" (or "Quit deadpanning like that!") **fixed: phase 6 review**
 - [ ] 180672 - Princess: ストーリーをかんたんにおはなしする - "tell you the story simply" is stiff - "Hello, everyone! I'll give you / a quick rundown of the story,"
 - [ ] 180E9A / 180EDA - Clerk: かいてんのおしらせ (opening notice) - "there'll be an opening notice" is stiff - "there'll be an announcement / when we open. Look forward to it!"
 - [ ] 17F926 - Dad: ちょうレアがつく - "a Legendz that counts as super rare" is clunky - "That one's a Legendz so rare / it's called 'super rare'!"
 - [ ] 181DD4 - Shu: いっくぜー - "I'm going to be the first one off" is flat for Shu's swagger - "I'm gonna be the first one off!!"
-- [ ] 1805CE (unmarked, context only) - Girl host: しゃちょう is "Mr. President" here but "Boss" in 18015A and 1801A0. Make it "Thank you very much, Boss!"
+- [x] 1805CE (unmarked, context only) - Girl host: しゃちょう is "Mr. President" here but "Boss" in 18015A and 1801A0. Make it "Thank you very much, Boss!" **fixed: phase 6 review**
 
 ## b018
 
 - [ ] 182106 - Player: "クールなカンジが ちょっとカッコいいかも" - "cool, in a cool way" is a clumsy repeat - "So that's Arisa. She's got a cool / vibe that's kind of neat♪"
 - [ ] 1838E6 / 183926 - Arisa: "…こうけいしゃに なれないワタシなんか" - "A me who can't become heir" is stiff, and the row break lands mid-phrase - "But I didn't want to admit it... Without / being the Saga heroes' heir, I have no reason to exist..." (re-split 1838E6 and 183926 as needed)
-- [ ] 18444C - Shiron: "（まったくだぜ！）" - the rude, cocky gloss is flattened to "Exactly!" - "Gagagaga (You said it!)"
+- [x] 18444C - Shiron: "（まったくだぜ！）" - the rude, cocky gloss is flattened to "Exactly!" - "Gagagaga (You said it!)" **fixed: phase 6 review**
 - [ ] 182658 - cool doll: "フッ…" - the style reference uses "Heh..." for this cool doll, not "Hmph." - "Heh. Inside was... I see. / It seems to be [FFEF]."
 - [ ] 1827A0 - old-man doll: "こんかいのえもの" - "This time's prize" reads oddly - "This time's catch was [FFEF], it seems."
 - [ ] 1836A0 - Player: "ティアマットが…　きえていく…" - "Tiamat's... vanishing..." can read as a possessive - "Tiamat... is vanishing... / Arisa! Don't go!!"
@@ -269,7 +269,7 @@ Minor findings from the phase 6 review (`work/qa/review/bNNN.md`, read-only revi
 
 ## b021
 
-- [ ] 461A6A - brute: オレの パンチは つよいぞ - "My punch is strong!" is neutral, where the other brute lines use "Me" or drop words - "Me punch strong! / Wanna take one?"
+- [x] 461A6A - brute: オレの パンチは つよいぞ - "My punch is strong!" is neutral, where the other brute lines use "Me" or drop words - "Me punch strong! / Wanna take one?" **fixed: phase 6 review**
 - [ ] 460A56 - "[FFEE]って たんじゅんだね" - "You're so easy" reads as gullible or loose; the sense is "simple-minded" - "You're so simple, [FFEE]♪"
 - [ ] 460DBE - "かんじの おおいのは ニガテ" - "tho" is a casual abbreviation - "Too much kanji's not for me, though..." if it fits.
 - [ ] 461338 - "カワイイだけの オンナだとは" - "a girl who's cute" is clumsy - "Don't think I'm just a / cute girl!"
@@ -282,7 +282,7 @@ Minor findings from the phase 6 review (`work/qa/review/bNNN.md`, read-only revi
 
 ## b022
 
-- [ ] 463232 - "Lots of friends! You're sloppy/pathetic!" (だらしない) - "You weak" changes the meaning to weak - "Lots of friends! / You pathetic!!"
+- [x] 463232 - "Lots of friends! You're sloppy/pathetic!" (だらしない) - "You weak" changes the meaning to weak - "Lots of friends! / You pathetic!!" **fixed: phase 6 review**
 - [ ] 4647B2 - "found as many as [FFE8] spots" - the emphatic も is lost - "They've found as many as / [FFE8] Quest Spots!"
 - [ ] 4647E6 - "so I'll secretly tell you [FFE7]" - [FFE7] is a spot name and "tell you [FFE7]" reads bare - "So I'll secretly tell you / about [FFE7]♪"
 - [ ] 46304A - "Despite appearances, they have friends! Fight on!" - "More friends than they look!" is awkward - "Friends, despite their looks! / Fight on, [FFEE]-chan!"
@@ -295,12 +295,12 @@ Minor findings from the phase 6 review (`work/qa/review/bNNN.md`, read-only revi
 
 ## b023
 
-- [ ] 4665E2, 466622, 466650 - Flirt doll (あのひとったら, わ): the lines are neutral and carry none of the flirt voice ("Oh my~", "Tee-hee") - suggest "Oh my~, that person has a doll you / don't have, [FFEE]-chan!" in 4665E2.
+- [x] 4665E2, 466622, 466650 - Flirt doll (あのひとったら, わ): the lines are neutral and carry none of the flirt voice ("Oh my~", "Tee-hee") - suggest "Oh my~, that person has a doll you / don't have, [FFEE]-chan!" in 4665E2. **fixed: phase 6 review**
 - [ ] 466850 - ヘキサドラゴンが いないんだよ - "There's no Hexadragon!!" could be read as the doll not existing - suggest "They don't even have a Hexadragon!! / Can you believe it!?"
 - [ ] 4667EE - おぼえさせてるワザ - "skills" is dropped - suggest "These are the skills they've / taught their Hexadragon!"
 - [ ] 23D098 - ひらめいたみたい / おぼえなきゃ - "New skill! / Reborn to learn it!" drops the speaker's "looks like / I've got to" - suggest "Got a new skill idea! / I'll Reborn to learn it!"
 - [ ] 23C658, 23C66E - 攻撃手段がない - "has no attack!" - suggest "can't attack!"
-- [ ] 23C9B2, 23CF9A - 石化が解けた - "is no longer stone!" doesn't match "is petrified" elsewhere - suggest "is no longer petrified!"
+- [x] 23C9B2, 23CF9A - 石化が解けた - "is no longer stone!" doesn't match "is petrified" elsewhere - suggest "is no longer petrified!" **fixed: phase 6 review**
 - [ ] 23CA5E - 瀕死から回復 - 瀕死 is "near death", and "revived" implies a KO - suggest "pulled through!"
 - [ ] 23CD1E, 23CD7A vs 23CCD2 - 防御 is rendered "Guard" in Focus and Master but "Defense" in Up and in the stat lines - pick one.
 - [ ] 23CA72 - 敵レジェンズ "The enemy Legendz" vs "Foe" elsewhere - suggest "Foe fled!" if it fits.
@@ -308,7 +308,7 @@ Minor findings from the phase 6 review (`work/qa/review/bNNN.md`, read-only revi
 
 ## b024
 
-- [ ] 4412CA - ぼうけんちゅう あと ふん = "on quest, X min left" - あと (remaining) is dropped, so the number reads as elapsed time - "On quest: In   min" or "On quest:   min left", if width allows.
+- [x] 4412CA - ぼうけんちゅう あと ふん = "on quest, X min left" - あと (remaining) is dropped, so the number reads as elapsed time - "On quest: In   min" or "On quest:   min left", if width allows. **fixed: phase 6 review**
 - [ ] 44171A - やみのしんでん - "Temple of Dark" breaks the pattern of its siblings "Light Temple", "White Temple", "Black Temple" - "Dark Shrine" or "Shadow Temple". Not "Dark Temple", which is a glossary place.
 - [ ] 4413C0 - やまのふうけつ - "Peak Wind Hole" is clumsy (ふうけつ = wind cave) - "Windy Hollow" or "Wind Cave Peak".
 - [ ] 441270 - …くらい = "about / or so" after the clock time - "...ish" is slangy but works. Optionally "About...".
@@ -331,7 +331,7 @@ Minor findings from the phase 6 review (`work/qa/review/bNNN.md`, read-only revi
 - [ ] 445236 - なんでここ⁉ / キャンセルできないのかしら - かしら marks a question, so "!" ends it wrongly. - `Can't I cancel this?!`
 - [ ] 4452EC - あたしがはじめてクリアする - "be first" is missing the article. - `I'll be the first to clear this place~`
 - [ ] 443F88 - ようやくおわりにできそうだぜ - "finish" has no object. - `Looks like I can finally wrap this up.`
-- [ ] 445098, 4450D4, 445142, 4451BE - flirt doll (あたし, わ endings) - Only the "Tee-hee" lines carry the flirt voice. The rest read as neutral. Optional: add "Oh my~" or "Hee~" to a few.
+- [x] 445098, 4450D4, 445142, 4451BE - flirt doll (あたし, わ endings) - Only the "Tee-hee" lines carry the flirt voice. The rest read as neutral. Optional: add "Oh my~" or "Hee~" to a few. **fixed: phase 6 review**
 
 ## b026
 
@@ -360,3 +360,14 @@ Minor findings from the phase 6 review (`work/qa/review/bNNN.md`, read-only revi
 - [ ] 184766 - カゼのヌシさん - "Lord of Wind-san" is a stumble because the honorific sits on a title phrase, and "they saved her" gives Griffin a plural subject - "Didn't Lord of Wind-san say he saved her?"
 - [ ] 45F916, 45F93A - おきにいり as the item - lowercase "a favorite" while the menus (440CAC, 440EAE) say "Favorites" - "a Favorite".
 - [ ] 17A7CC, 17A810 - "is it not against ordinary kids... but against you Saga Commanders that I fight?" - stiff and tangled across the two ids - "Why, in this Saga Battle, am I not facing ordinary kids... but you Saga Commanders?"
+
+## phase 6 review, Minor (H:\translation\.harness\reviews, e0c8728)
+
+- [ ] stub rows - 27 dialogue pages end on a stub row of 3 letters or fewer (`16258E 163AA0 16414E 165D36 1678C6 168474 1684A4 16A3E8 16A482 16BEFA 16CAF0 16EB00 16EC2C 16EF2E 16F592 16FCB0 170FCC 171CDE 173784 173844 175654 1763CC 17668C 177656 178586 17A24A`, `165228` fixed): rebalance, add the check to `problems()`, or correct `docs/reviewer-brief.md`'s claim.
+- [ ] 16C3E8, 1772DE, 17A556 - Mac's tic: `16C3E8` lacks it, the other two have it mid-string. Drop "y'know" from Shu's row in `style-reference.md`.
+- [ ] 168636, 168664, 17D06A - オサさま: "Elder" twice, "Chief" in `17D06A` (Chief is BB's title). Use Elder.
+- [ ] 46F75C - credits have had no reviewer: レジェンズせいさくいいんかい lost "Production"; DIV./DEV. could take a second row.
+- [ ] glossary - the game's own English labels changed with no record: TRIAL OF AQUA -> WATER, HOSPICE -> LODGE, EXPENSIVE SHOP -> LUXURY SHOP, MERMAID'S HOUSE -> HOME, EVIL DRAGON'S RELIC -> RUINS. D2 prefers official names: record why, or restore.
+- [ ] decisions - the skipped pilot isn't in `docs/decisions.md`.
+- [ ] 2A85F0 and family - "Flem" reads as phlegm: Flemm or Flam.
+- [ ] 47BDFE - "Cancelled" -> "Canceled". Grey Cave stays: the game's own label says GREY.
