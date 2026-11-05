@@ -242,6 +242,15 @@ class EnglishBuild(MarkerBuild):
     def _string(self, e):
         return self.r.out[self._at(e):self.r.out.index(b"\xff\xff", self._at(e)) + 2]
 
+    def test_g2_sheet_is_english_and_keeps_its_marks(self):
+        import lz77
+        at = struct.unpack_from("<I", self.r.out, insert.G2_PTR)[0] - 0x08000000
+        new, old = lz77.decompress(self.r.out, at)[0], lz77.decompress(ROM, insert.G2_SHEET)[0]
+        self.assertEqual(len(new), len(old))
+        for t in (22, 27, 22 + 28, 27 + 28):  # the orange corner marks
+            self.assertEqual(new[t * 32:t * 32 + 32], old[t * 32:t * 32 + 32])
+        self.assertNotEqual(new[:5 * 32], old[:5 * 32])
+
     def test_every_string_has_english_or_keeps_its_bytes(self):
         for _, entries in insert.strings():
             for e in entries:

@@ -265,11 +265,63 @@ def doll(rom):
 def allowed():
     """Every span below BASE the build may write, built from the tables, not the log: (start, end) pairs. A write outside them is a stray."""
     spans = [(site, site + len(old) // 2) for _, site, old, _ in HOOKS] + [(site, site + len(old) // 2) for _, site, old in DOLL_HOOKS]
-    spans += [(PEN_RESET, PEN_RESET + 2), (FONT_TABLE, FONT_TABLE + 8), (SPRITE_TABLE, SPRITE_TABLE + 64)]
+    spans += [(PEN_RESET, PEN_RESET + 2), (FONT_TABLE, FONT_TABLE + 8), (SPRITE_TABLE, SPRITE_TABLE + 64), (G2_PTR, G2_PTR + 4)]
     spans += [(site, site + 2) for site, _ in BOX_WIDTH_SITES] + [(at + 4, at + 6) for at, _, _ in LAYOUT]
     entries = [e for _, es in strings() for e in es] + json.loads((ROOT / "script" / "credits.json").read_text(encoding="utf-8"))
     spans += [(int(o.split(":")[1], 16), int(o.split(":")[1], 16) + 4) for e in entries for o in e["owners"]]
     return sorted(set(spans))
+
+
+# Graphics text (D5, docs/re/graphics.md). G2: the battle command sheet, LZ, 28x2 tiles 4bpp, BG palette 15 (2 white, 1 outline, 0 clear).
+# Labels by top-row tile column: start, tiles, English. Tile 22 and 27 are the menu's orange corner marks and stay.
+G2_SHEET, G2_PTR = 0x47FE24, 0x0D6728
+G2_LABELS = [(0, 5, "Fight"), (5, 4, "Shift E"), (9, 4, "Items"), (13, 4, "Run"), (17, 5, "Talisdam"), (23, 4, "Give Up")]
+
+
+def draw_labels(tiles, cols, labels, fill=2, edge=1, top=4):
+    """Redraw labels on a 2-row strip of 4bpp tiles (row 0 tiles, then row 1): the English font's art, 1 px outline. Returns new tile bytes."""
+    w = cols * 8
+    px = [[0] * w for _ in range(16)]
+    for t in range(cols * 2):
+        for y in range(8):
+            for x in range(8):
+                b = tiles[t * 32 + y * 4 + x // 2]
+                px[(t // cols) * 8 + y][(t % cols) * 8 + x] = b >> 4 * (x & 1) & 15
+    for start, n, text in labels:
+        x0, x1 = start * 8, (start + n) * 8
+        for y in range(16):
+            px[y][x0:x1] = [0] * (x1 - x0)
+        adv = [font_en.art_width(c) + 1 if c != " " else 2 for c in text]  # a 3 px word gap: `Give Up` fills its 4 tiles
+        width = sum(adv) - 1 if text else 0
+        if width > x1 - x0 - 2:
+            raise ValueError("label %r is %d px, room %d" % (text, width, x1 - x0 - 2))
+        pen = x0 + 1  # flush after the bead, as the kana sit
+        for c, a in zip(text, adv):
+            for y, row in enumerate(font_en.ART[c]):
+                for x, ch in enumerate(row):
+                    if ch == "#":
+                        px[top + y][pen + x] = fill
+            pen += a
+        for y in range(16):
+            for x in range(x0, x1):
+                if px[y][x] == 0 and any(px[y + dy][x + dx] == fill for dy in (-1, 0, 1) for dx in (-1, 0, 1) if 0 <= y + dy < 16 and x0 <= x + dx < x1):
+                    px[y][x] = edge
+    out = bytearray(len(tiles))
+    for t in range(cols * 2):
+        for y in range(8):
+            for x in range(0, 8, 2):
+                r = px[(t // cols) * 8 + y]
+                out[t * 32 + y * 4 + x // 2] = r[(t % cols) * 8 + x] | r[(t % cols) * 8 + x + 1] << 4
+    return bytes(out)
+
+
+def graphics(rom):
+    """Tile-drawn Japanese replaced: a new LZ block past the dump, its pointer moved."""
+    import lz77
+    tiles = lz77.decompress(rom.orig, G2_SHEET)[0]
+    data = lz77.compress(draw_labels(tiles, 28, G2_LABELS), 2)
+    expect(rom, G2_PTR, struct.pack("<I", CPU + G2_SHEET).hex())
+    rom.put(G2_PTR, struct.pack("<I", CPU + rom.append(data, "gfx G2", 4)), "gfx ptr G2")
 
 
 def credits_en(text):
@@ -296,6 +348,7 @@ def insert_en(rom):
     engine(rom, pairs)
     layout(rom)
     doll(rom)
+    graphics(rom)
     for e, data in encoded:
         repoint(rom, e, rom.append(data, "text " + e["id"]))
     for e in json.loads((ROOT / "script" / "credits.json").read_text(encoding="utf-8")):
