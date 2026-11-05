@@ -274,6 +274,15 @@ class EnglishBuild(MarkerBuild):
             self.assertEqual(self.r.out[new:new + 2], ROM[at:at + 2], name)
             self.assertNotEqual(self.r.out[new + 2:new + 2 + size], ROM[at + 2:at + 2 + size], name)
 
+    def test_field_banners_lose_only_their_kanji_frame(self):
+        for n in range(insert.FIELD_COUNT):
+            fa, fb, _, old = (struct.unpack_from("<I", ROM, insert.FIELD_BANNERS + n * 16 + k * 4)[0] - 0x08000000 for k in range(4))
+            new = struct.unpack_from("<I", self.r.out, insert.FIELD_BANNERS + n * 16 + 12)[0] - 0x08000000
+            for t in insert.frame_tiles(ROM, fa):
+                self.assertEqual(self.r.out[new + 2 + t * 32:new + 34 + t * 32], ROM[old + 2 + t * 32:old + 34 + t * 32], n)
+            for t in insert.frame_tiles(ROM, fb) - insert.frame_tiles(ROM, fa):
+                self.assertFalse(any(self.r.out[new + 2 + t * 32:new + 34 + t * 32]), n)
+
     def test_every_string_has_english_or_keeps_its_bytes(self):
         for _, entries in insert.strings():
             for e in entries:

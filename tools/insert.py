@@ -267,7 +267,8 @@ def allowed():
     spans = [(site, site + len(old) // 2) for _, site, old, _ in HOOKS] + [(site, site + len(old) // 2) for _, site, old in DOLL_HOOKS]
     spans += [(PEN_RESET, PEN_RESET + 2), (FONT_TABLE, FONT_TABLE + 8), (SPRITE_TABLE, SPRITE_TABLE + 64), (G2_PTR, G2_PTR + 4)]
     spans += [(p, p + 4) for v in MAP_LABELS.values() for p in v[1]] + [(m[1], m[1] + 4) for v in MAP_LABELS.values() for m in v[2]]
-    spans += [(v[0], v[0] + 4) for v in BANNERS.values()]
+    spans += [(v[0], v[0] + 4) for v in BANNERS.values()] + [(s, s + len(old) // 2) for s, old, _ in CODE_KANA]
+    spans += [(v[0], v[0] + 4) for v in BLANK_SHEETS.values()] + [(FIELD_BANNERS + n * 16 + 12, FIELD_BANNERS + n * 16 + 16) for n in range(FIELD_COUNT)]
     spans += [(site, site + 2) for site, _ in BOX_WIDTH_SITES] + [(at + 4, at + 6) for at, _, _ in LAYOUT]
     entries = [e for _, es in strings() for e in es] + json.loads((ROOT / "script" / "credits.json").read_text(encoding="utf-8"))
     spans += [(int(o.split(":")[1], 16), int(o.split(":")[1], 16) + 4) for e in entries for o in e["owners"]]
@@ -386,6 +387,23 @@ def relabel_map(sheet, cells, w, labels, style):
     return bytes(tiles), cells
 
 
+# Japanese captions beside English art that already says it: (pointer, sheet: u16 byte size then tiles), sheet made clear.
+BLANK_SHEETS = {"G12": (0x0A382C, 0x1ECC04)}  # 敵が出現!! over the battle start's ENEMY APPEARED
+# Battlefield name banners (G16): 31 groups of 4 pointers (name frame, kanji frame, palette, tiles), gfx_frames.py. The kanji
+# frame's tiles go clear in a copy of the tile data; the English name above it stays.
+FIELD_BANNERS, FIELD_COUNT = 0x7F360C, 31
+
+
+def frame_tiles(rom, at):
+    """Tile indexes a sprite frame uses: u16 sprite list size, u16 tile list size, sprites, then u16 tile indexes."""
+    end, size = struct.unpack_from("<HH", rom, at)
+    return set(struct.unpack_from("<%dH" % (size // 2), rom, at + 4 + end))
+
+
+# Kana the code puts in a string buffer itself: site, old, new Thumb. Code 0 is the game's blank number pad.
+CODE_KANA = [(0x0C1792, "5b20", "0020")]  # Soul Doll List's count `1コ`: `movs r0, #0x5b` (コ) before the buffer's <end>
+
+
 # Raw OBJ sheets drawn on a shaded banner: (pointer, sheet: u16 byte size then 4bpp tiles in rows of `cols`), cols, rows,
 # fill, outline, the banner's text span in px, English (centred there). Kana pixels take the nearest banner colour in their row.
 BANNERS = {
@@ -445,6 +463,21 @@ def graphics(rom):
         for p in sheet_ptrs:
             expect(rom, p, struct.pack("<I", CPU + sheet).hex())
             rom.put(p, struct.pack("<I", CPU + new), "gfx ptr " + name)
+    for site, old, new in CODE_KANA:
+        expect(rom, site, old)
+        rom.put(site, bytes.fromhex(new), "code kana")
+    for name, (ptr, at) in BLANK_SHEETS.items():
+        expect(rom, ptr, struct.pack("<I", CPU + at).hex())
+        size = struct.unpack_from("<H", rom.orig, at)[0]
+        rom.put(ptr, struct.pack("<I", CPU + rom.append(rom.orig[at:at + 2] + bytes(size), "gfx " + name, 4)), "gfx ptr " + name)
+    for n in range(FIELD_COUNT):
+        fa, fb, _, tiles = (struct.unpack_from("<I", rom.orig, FIELD_BANNERS + n * 16 + k * 4)[0] - CPU for k in range(4))
+        kanji = frame_tiles(rom.orig, fb) - frame_tiles(rom.orig, fa)
+        size = struct.unpack_from("<H", rom.orig, tiles)[0]
+        data = bytearray(rom.orig[tiles:tiles + 2 + size])
+        for t in kanji:
+            data[2 + t * 32:2 + t * 32 + 32] = bytes(32)
+        rom.put(FIELD_BANNERS + n * 16 + 12, struct.pack("<I", CPU + rom.append(bytes(data), "gfx G16 %d" % n, 4)), "gfx ptr G16")
     for name, (ptr, at, cols, rows, fill, edge, span, text) in BANNERS.items():
         size = struct.unpack_from("<H", rom.orig, at)[0]
         expect(rom, ptr, struct.pack("<I", CPU + at).hex())
