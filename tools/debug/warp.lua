@@ -85,6 +85,16 @@ L.on_frame(function(n)
     emu.write32(0x03002780 + 0x98 + 4, scene.jump[1] | 0x08000000, MEM)
     L.log(string.format("JUMP %08X f%d", scene.jump[1] | 0x08000000, n))
   end
+  -- run = {frames, ram addr, hex}: VM bytecode no room holds (a native call to dead code), written to unused RAM; the room's task jumps to it
+  if scene.run and n - start_keys == scene.run[1] then
+    local at, hex = scene.run[2], scene.run[3]
+    for i = 0, #hex // 2 - 1 do
+      assert(emu.read(at + i, MEM) == 0, string.format("run: RAM %08X in use", at + i))
+      emu.write(at + i, tonumber(hex:sub(i * 2 + 1, i * 2 + 2), 16), MEM)
+    end
+    emu.write32(0x03002780 + 0x98 + 4, at, MEM)
+    L.log(string.format("RUN %08X f%d", at, n))
+  end
   local pre = scene.premash or 0
   if n - start_keys < pre then
     if n % 40 == 0 then L.press("a", 6) end  -- click through the room's opening lines

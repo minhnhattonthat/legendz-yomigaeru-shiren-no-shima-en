@@ -64,7 +64,7 @@ def budgets():
     for line in (ROOT / "script/windows.tsv").read_text(encoding="utf-8").splitlines()[1:]:
         i, px, rows, source, _ = line.split("\t")
         out[i] = int(px), int(rows), source
-    # boxes English needs wider than the Japanese had: phase 7 raises them in the engine (D4). id, px, where.
+    # boxes wider than the class default (D4): an existing wider box (the w=12 status page, 0x0C00EF) or one phase 7 grows (insert.LAYOUT). id, px, where.
     for line in (ROOT / "script/widen.tsv").read_text(encoding="utf-8").splitlines():
         i, px, _ = line.split("\t", 2)
         out[i] = int(px), out[i][1], "widen"
@@ -357,6 +357,11 @@ def lint(blocks, bud, w):
         en = copies[0][1]["en"]
         if en:
             errs += ["%s: %s" % (copies[0][1]["id"], p) for p in problems(show(en), copies, bud, w)]
+            # insert_en encodes en as stored: a hand edit must keep the Japanese terminator and at least its pages
+            if terminator(en) != terminator(jp) or (en.endswith("<page>") and not jp.endswith("<page>")):
+                errs.append("%s: terminator differs from the Japanese" % copies[0][1]["id"])
+            if en.count("<page>") < jp.count("<page>"):
+                errs.append("%s: fewer pages than the Japanese" % copies[0][1]["id"])
     return errs
 
 

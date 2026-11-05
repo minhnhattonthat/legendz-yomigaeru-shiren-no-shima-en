@@ -4,6 +4,7 @@
 --   premash = press A for this many frames first, keys = {{frames after premash, "buttons"}}, frames = run length,
 --   mash = press A every N frames after keys, every = frames between shots (default frames/12),
 --   free = true (clear the flags that lock the field menu and Save), jump = {script line, frames after the warp} (move the room's task there),
+--   run = {frames after the warp, RAM addr, bytecode hex} (the room's task runs VM code written to unused RAM),
 --   stop_at_title = true (no warp: stay on the title menu and let keys drive it), save = true (writes the battery; regen.py runs it alone
 --   and keeps work/saves/<name>.sav), sav = "name" (regen.py boots with that save), note }
 -- Room offsets: tools/scene_scan.py (work/re/scenes.tsv). How the values were found: docs/re/debug.md.
@@ -36,6 +37,9 @@ return {
   talispod = { target = 0x023C4E, frames = 5400, premash = 2800, keys = { { 0, "start" }, { 250, "a" } }, note = "field menu > Talispod" },
   field_menu_party = { target = TOWN, partner = true, free = true, frames = 3200, every = 150, premash = 1200, keys = { { 0, "start" } }, note = "field menu with a partner, in town" },
   menu_talispod = { target = TOWN, partner = true, free = true, frames = 4600, every = 100, premash = 1200, keys = { { 0, "start" }, { 300, "a" }, { 700, "a" }, { 1100, "a" } }, note = "field menu > Talispod with a partner, two levels in" },
+  -- SAKURAI DEBUG MENU (0x080BC149 starts its task; nothing calls it): 14 doll pages. Item 3, tatakai no kiroku, is the battle record (0x0BF3E0).
+  debug_battle_record = { target = TOWN, partner = true, frames = 3200, every = 100, run = { 600, 0x0203FF00, "190049c10b08" .. "0700ff7f" .. "050006ff0302" },
+    keys = { { 1000, "down" }, { 1150, "down" }, { 1300, "down" }, { 1500, "a" } }, note = "debug menu > battle record: Battles, Main Role (the grown value box)" },
   menu_status_scroll = { target = TOWN, partner = true, free = true, frames = 8000, every = 100, premash = 1200, keys = { { 0, "start" }, { 300, "a" }, { 700, "a" }, { 1100, "a" }, { 1500, "down" }, { 1800, "down" }, { 2100, "down" }, { 2400, "down" }, { 2700, "down" }, { 3000, "down" }, { 3300, "down" }, { 3600, "down" }, { 3900, "right" }, { 4300, "right" }, { 4700, "left" } }, note = "field menu > Talispod with a partner, then its status page's lower rows and next tabs" },
   menu_check_doll = { target = TOWN, partner = true, free = true, frames = 6500, every = 100, premash = 1200, keys = { { 0, "start" }, { 300, "a" }, { 700, "down" }, { 900, "down" }, { 1100, "a" }, { 1700, "a" }, { 2200, "a" }, { 2700, "down" }, { 3000, "a" }, { 3500, "down" }, { 3800, "a" } }, note = "field menu > Talispod with a partner, third entry: Soul Doll List, into the doll" },
   menu_items = { target = TOWN, partner = true, free = true, mem = BAG, frames = 3800, every = 100, premash = 1200, keys = { { 0, "start" }, { 300, "down" }, { 400, "a" }, { 800, "right" }, { 1100, "right" }, { 1400, "right" } }, note = "field menu > items, with the bag seeded, through its tabs" },

@@ -38,6 +38,12 @@ A warp with `partner = true` copies the writes the real Reborn made (`tools/debu
 - **`mem`:** RAM writes at warp time. `BAG` in `scenes.lua` seeds the bag: id byte + count byte, `0x02036B18` tools (0x3B slots), `0x02036B94` the second tab (0x40 slots, id = item - `0x3E8`), from `0x080D9588`.
 - **`save`, `sav`:** `menu_save` really writes the battery. All runs on one ROM name share `tools/mesen/Saves/<rom>.sav`, so `regen.py` runs that scene alone, moves the file to `work/saves/` and boots `continue_save`, `new_game_overwrite` from it.
 
+## Leftover debug menu (phase 7 review)
+
+`SAKURAI DEBUG MENU`: `0x080BC148` starts its task (`0x080BC17C`, priority `0x15`, id at `0x0201C1A8`); nothing in the ROM calls it. Its state table is at `0x0BC198`; state `0x15` reads the keys, cursor at `0x03000070` (mod 14), A sets state `0x1E + cursor`. Items, ASCII at `0x44D134` (stride `0x19`): bouken no kiroku, houmon no kiroku, waza no syuutoku, tatakai no kiroku (battle record, `0x0BF3E0`), doll syousai, waza list, waza kumikae, soul doll, waza tukau, save test, load test, backup erase, connect test, waza copy. Its menu text is a debug font that doesn't show; the pages draw on BG2 at the field camera's scroll, so read them from a VRAM dump (`ppudump.lua`, then `tiles.py map ... --map-at 0xf000 --tiles-at 0 --fmt gba4`).
+
+Scene option `run = {frames, RAM, hex}` writes VM bytecode to unused RAM (`0x0203FF00`, asserted zero) and points the room's task there: `0019 0x080BC149` (native call), then a wait loop. `debug_battle_record` uses it. Other items: change the Down count.
+
 ## Known limits
 
 - **What `REACHED` proves:** the warp fired. It doesn't prove the room is right; read `work/qa/scenes/proof*.png`. A room entered this way shows no story state: flags are unset unless the scene lists them, so people and events may differ from a real playthrough.

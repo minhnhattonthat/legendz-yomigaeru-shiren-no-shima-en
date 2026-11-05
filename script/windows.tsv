@@ -3620,9 +3620,9 @@ id	px	rows	source	where
 45AA42	48	1	measured	080A58CF
 45AA78	80	1	measured	080C0075
 45AA8E	8	1	measured	080BF819
-45AA92	40	1	class	main role value, w=5 (table 0x45ABF8, record 8, grown in insert.LAYOUT)
-45AA9C	40	1	class	main role value, w=5 (table 0x45ABF8, record 8, grown in insert.LAYOUT)
-45AAA6	32	1	guess	menu label, not reached: its Japanese cells
+45AA92	32	1	measured	main role value, w=4 (record 0x45AC38, debug_battle_record)
+45AA9C	32	1	measured	main role value, w=4 (record 0x45AC38, debug_battle_record)
+45AAA6	32	1	measured	main role value, w=4 (record 0x45AC38, debug_battle_record)
 45AAB0	8	1	measured	080BF819
 45AAB4	8	1	measured	080BF819
 45AAB8	8	1	guess	menu label, not reached: its Japanese cells

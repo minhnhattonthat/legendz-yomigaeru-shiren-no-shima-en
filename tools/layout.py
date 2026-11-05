@@ -16,8 +16,8 @@ CPU = 0x08000000
 
 
 def rows(rom, start, end):
-    """(table offset, pointer, tiles, x, y) where a word points into ROM text."""
-    for at in range(start, end, 8):
+    """(table offset, pointer, tiles, x, y) where a word points into ROM text. Records sit at either 4-byte alignment (0x45AE18 is 4 mod 8)."""
+    for at in range(start, end, 4):
         p, t, x, y = struct.unpack_from("<IHBB", rom, at)
         if CPU <= p < CPU + len(rom):
             yield at, p - CPU, t, x, y

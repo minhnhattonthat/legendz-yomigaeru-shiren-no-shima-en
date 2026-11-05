@@ -271,8 +271,6 @@ class EnglishBuild(MarkerBuild):
     def test_layout_tables_keep_their_sums(self):
         by = {}
         for at, old, new in insert.LAYOUT:
-            if at == 0x45AC38:  # the last box 0x0BF3E0 draws: there's no next label to move
-                continue
             table = 0x45ABB4 if at < 0x45AC00 else 0x45AC44
             by[table] = by.get(table, 0) + new - old
         self.assertEqual(set(by.values()), {0})

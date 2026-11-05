@@ -91,7 +91,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 - b019 `45BDEA`, `45BDF0`, `45BDFE`: drawn by length (table `0x7F7F30`), so padded with spaces to exactly 3, 7 and 7 words.
 - b024 `440CF8` いくつ？ -> Qty? (32 px measured).
 - b016 ライブRPG `Live RPG`: one word order, never "RPG Live".
-- Phase 7 fit: やめる is `Back` (24 px box on the auto-quest menu, `Cancel` is 28), ●やめる `●Back` (32 px rental menu). サポート stays `Support`, a game term: the Main Role value's box was grown for it instead.
+- Phase 7 fit: やめる is `Back` (24 px box on the auto-quest menu, `Cancel` is 28), ●やめる `●Back` (32 px rental menu). サポート as the Main Role value is `Assist` (32 px box): growing the box to fit `Support` drew over the Main Role label (seen in `debug_battle_record`). The skill term サポート stays `Support` elsewhere.
 - Flagged abbreviation (D9): まぼうぎょ is `M.Def` in the 64 px slots only (`M.Def Up`, `M.Def Focus`, `M.Def Tonic`: `Magic Def Tonic` is 69 px). Everywhere with room: `Magic Defense`.
 - Review: ぼうぎょUP is `Defense Up` (the stat, as in the item text); ～ぼうぎょ resists and とっか/マスター are `Guard` (Earth Guard, Guard Focus, Guard Master).
 - グランドデスサイズ `GrandDeathscythe` (80 px; with the space it's 83, the slot is measured), Gデスサイズ `G.Deathscythe`. Nothing cut, no abbreviation beyond the game's own G.

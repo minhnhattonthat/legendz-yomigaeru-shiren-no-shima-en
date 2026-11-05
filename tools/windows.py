@@ -24,8 +24,10 @@ FROM_CODE = {
     "440D3A": (88, 3, "class", "auto-quest spot info, 11x3 (0x0B1DCC): values draw over cells 4-5, 9-10; 5-6, 8-9; 5-10"),
     "440DAE": (88, 2, "class", "auto-quest spot too high, 11x2 (0x0B1F04)"),
     "440D32": (24, 1, "class", "auto-quest cancel, w=3 (0x0B15E6)"),
-    "45AA92": (40, 1, "class", "main role value, w=5 (table 0x45ABF8, record 8, grown in insert.LAYOUT)"),
-    "45AA9C": (40, 1, "class", "main role value, w=5 (table 0x45ABF8, record 8, grown in insert.LAYOUT)"),
+    # main role value, w=4 (record 0x45AC38): seen in debug_battle_record; at w=5 it took the first tile of the Main Role label
+    "45AA92": (32, 1, "measured", "main role value, w=4 (record 0x45AC38, debug_battle_record)"),
+    "45AA9C": (32, 1, "measured", "main role value, w=4 (record 0x45AC38, debug_battle_record)"),
+    "45AAA6": (32, 1, "measured", "main role value, w=4 (record 0x45AC38, debug_battle_record)"),
     "434C0C": (48, 1, "class", "rental menu, w=6 (0x0B9F60)"),
     "434C1A": (32, 1, "class", "rental menu, w=4 (0x0B9F84)"),
 }

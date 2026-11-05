@@ -30,7 +30,7 @@ _token = re.compile(r"\[[0-9A-F]{4}\]|<[a-z0-9]+>\n?|.", re.S)
 CTRL = {"<end>": 0xFFFF, "<page>\n": 0xFFFE, "<page>": 0xFFFE, "<br>\n": 0xFFFD, "<br>": 0xFFFD}
 PAIR_BASE = 0x400  # a word from here to FFBF is two letters: past every font's cells (0x160), below the controls
 # the game's own symbols, kept at their code and 8 px cell: English has no twin for them
-KEEP = {c: jpcodec.REV[c] for c in "●◎♪☺♥✓★◆♨✖♫🐰🐱《》¦•"}
+KEEP = {c: jpcodec.REV[c] for c in "●◎♪☺♥✓★◆♨✖♫🐰🐱《》¦•『』"}
 
 
 def art():

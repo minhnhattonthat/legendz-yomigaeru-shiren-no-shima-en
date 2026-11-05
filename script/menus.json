@@ -182,7 +182,7 @@
    "tab:45AC44"
   ],
   "jp": "サポート<end>",
-  "en": "Support<end>",
+  "en": "Assist<end>",
   "status": "tl",
   "notes": ""
  },
@@ -439,8 +439,8 @@
    "tab:45AD3C"
   ],
   "jp": "『　　　　　　　　』<end>",
-  "en": "",
-  "status": "",
+  "en": "『                』<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -472,7 +472,7 @@
    "lit:0BF584"
   ],
   "jp": "サポート<end>",
-  "en": "Support<end>",
+  "en": "Assist<end>",
   "status": "tl",
   "notes": ""
  },

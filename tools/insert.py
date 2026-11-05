@@ -29,7 +29,8 @@ TYPEWRITER = {"dialogue", "system", "link", "rental"}  # mostly the 2-row dialog
 NAME_SLOTS = {"places", "legendz"}
 # Name entry grid: its cursor picks a cell by index. 45BD*: table 0x7F7F30 draws 3, 7, 7 words of each by length, not to a terminator (phase 6), so spaces pad them to that count.
 SINGLE_WORDS = {"441066", "4410A4", "4410E2", "441120", "44115E", "44119C", "45BDEA", "45BDF0", "45BDFE"}
-NON_TEXT = re.compile(r"(?:<end>|<page>\n?|<br>\n?|[　●¦：－『』％＇＂／\d]|\[FF[0-9A-F]{2}\])*")
+# Not 『』: 45AA78's bracket pair frames an 8-cell name box drawn over cells 1-8, so English pads it to put 』 in cell 9 (debug_battle_record).
+NON_TEXT = re.compile(r"(?:<end>|<page>\n?|<br>\n?|[　●¦：－％＇＂／\d]|\[FF[0-9A-F]{2}\])*")
 
 
 class Rom:
@@ -238,8 +239,8 @@ def insert_marker(rom, overrides=None):
 LAYOUT = [(0x45ABB4, 14, 12), (0x45ABD4, 14, 16),  # Battles, Damage Taken
           (0x45AC44, 8, 10), (0x45AC5C, 8, 6),  # Support, Item
           (0x45AC64, 10, 8), (0x45AC7C, 12, 14),  # Effect, Normal Skill
-          (0x45AC74, 4, 2), (0x45AC84, 8, 10),  # the x sign, EX Skill
-          (0x45AC38, 8, 10)]  # Main Role's value, "Support": the last box 0x0BF3E0 draws, so nothing moves; no box in the tour logs uses the 2 tiles it takes. Page not reached in a tour yet.
+          (0x45AC74, 4, 2), (0x45AC84, 8, 10)]  # the x sign, EX Skill
+# Not grown: Main Role's value (0x45AC38, 8 tiles). At 10 it drew over the Main Role label's first tile (debug_battle_record), so サポート is `Assist`.
 
 
 def layout(rom):

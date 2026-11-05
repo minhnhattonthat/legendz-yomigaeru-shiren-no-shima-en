@@ -371,3 +371,7 @@ Minor findings from the phase 6 review (`work/qa/review/bNNN.md`, read-only revi
 - [ ] decisions - the skipped pilot isn't in `docs/decisions.md`.
 - [ ] 2A85F0 and family - "Flem" reads as phlegm: Flemm or Flam.
 - [ ] 47BDFE - "Cancelled" -> "Canceled". Grey Cave stays: the game's own label says GREY.
+
+## phase 7 review
+
+- [ ] battle record page (`debug_battle_record`) - number values sit 2 px left in the 5-cell boxes (Damage Dealt, Damage Taken) of the 4-cell ones: the game pads numbers with code 0, 6 px in English, 8 in Japanese, so right edges differ by box size. Fix in the renderer (right-align digit runs) or leave; JP has them in one column.
