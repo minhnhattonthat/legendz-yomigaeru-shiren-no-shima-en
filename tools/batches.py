@@ -16,6 +16,7 @@ import json
 import re
 import struct
 import sys
+from itertools import combinations
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -157,20 +158,36 @@ def row_px(row, w, sprite):
 
 
 def wrap(en, px, w, sprite):
-    """Author sentences, generate rows: a page with no ` / ` of its own wraps greedily at spaces to px. The typewriter can't wrap by itself (vwf.md)."""
+    """Author sentences, generate rows: a page with no ` / ` of its own wraps at spaces to px, balanced: the fewest rows greedy needs, then the
+    breaks that make the widest row narrowest (a greedy wrap left one-word last rows). The typewriter can't wrap by itself (vwf.md)."""
     pages = []
     for page in en.split(" // "):
         if " / " not in page and row_px(page, w, sprite) > px:
-            rows, cur = [], ""
-            for word in page.split(" "):
+            words_ = page.split(" ")
+            n, cur = 1, ""
+            for word in words_:
                 if cur and row_px(cur + " " + word, w, sprite) > px:
-                    rows.append(cur)
-                    cur = word
+                    n, cur = n + 1, word
                 else:
                     cur = cur + " " + word if cur else word
-            page = " / ".join(rows + [cur])
+            best = None
+            for cuts in combinations(range(1, len(words_)), n - 1):
+                rows = [" ".join(words_[a:b]) for a, b in zip((0,) + cuts, cuts + (len(words_),))]
+                ws = [row_px(r, w, sprite) for r in rows]
+                key = (max(ws), -min(ws))
+                if best is None or key < best[0]:
+                    best = key, rows
+            page = " / ".join(best[1])
         pages.append(page)
     return " // ".join(pages)
+
+
+STUB = 6  # a last row under this many characters is an orphan: pipeline.md, Checks
+
+
+def stub(page):
+    rows = page.split(" / ")
+    return len(rows) > 1 and len(rows[-1].strip()) < STUB
 
 
 def problems(en, copies, bud, w):
@@ -202,6 +219,8 @@ def problems(en, copies, bud, w):
         for r in rs:
             if row_px(r, w, sprite) > px and known:  # over a guess means measure it, not shorten it: vwf.md, Width gate
                 out.append("%dpx > %dpx: %s" % (row_px(r, w, sprite), px, r))
+        if stub(page) and copies[0][1]["id"] not in STUB_OK:
+            out.append("stub last row: %s" % rs[-1])
         n = words(page.replace(" / ", "<br>"))
         if sprite and "battle" in blocks and n > SPRITE_WORDS:
             out.append("%d words, sprite ring holds %d" % (n, SPRITE_WORDS))
@@ -219,6 +238,8 @@ def problems(en, copies, bud, w):
     return out + glossary_problems(jp, en) + honorific_problems(jp, en)
 
 
+# Short last rows that are meant (phase 7 stub sweep): a choice row (16CC46), menu item lists (44101A, 44103A), a 3-row cheer (4435CC, 446C64).
+STUB_OK = set("16CC46 44101A 44103A 4435CC 446C64".split())
 # A sentence split over two strings: English word order puts the glossary term in the neighbouring string (checked by hand, phase 6).
 TERM_IN_NEIGHBOUR = set("16296A 1662C0 16B2A2 16BAB2 16CFF8 16F646 170CDC 1717CA 1785C8 17B2A2 17B600 17B7E6 17BE86 17C194 17CD26 181AF6 1838E6".split())
 HONORIFICS = {"さん": "-san", "さーん": "-san", "くん": "-kun", "クン": "-kun", "ちゃん": "-chan", "さま": "-sama", "サマ": "-sama", "せんせい": "-sensei"}

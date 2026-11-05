@@ -30,5 +30,21 @@ class Overs(unittest.TestCase):
         self.assertEqual([o[0] for o in out], ["X"])
 
 
+class Wrap(unittest.TestCase):
+    def test_balanced_leaves_no_stub(self):
+        w = batches.widths()
+        en = "Now I can get down to the lower path."
+        px = batches.row_px("Now I can get down to the lower", w, False)  # greedy would leave "path." alone
+        out = batches.wrap(en, px, w, False)
+        self.assertEqual(out.count(" / "), 1)
+        self.assertFalse(batches.stub(out), out)
+        self.assertEqual(out.replace(" / ", " "), en)
+
+    def test_stub_rule(self):
+        self.assertTrue(batches.stub("Grows the Power / stat."))
+        self.assertFalse(batches.stub("Grows the / Power stat."))
+        self.assertFalse(batches.stub("Yes."))
+
+
 if __name__ == "__main__":
     unittest.main()

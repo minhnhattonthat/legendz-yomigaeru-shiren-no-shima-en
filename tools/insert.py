@@ -19,6 +19,10 @@ ENTRY = {"open": 0, "static": 2, "type": 4, "br": 6, "tag": 8}  # asm/vwf.s, its
 DIALOGUE_W = 20  # cells: the box's text column count, 0x11 in the original (docs/re/vwf.md)
 FILLER = "The quick brown fox jumps over the lazy dog. "
 # site, register of `movs rX, #0x11; strb rX, [rY, #7]`: every opener of the box at x = 9. 0x0B5F80 has the same bytes but isn't a text window.
+# name in ENTRY, site, the whole span far_jump overwrites (8 bytes, 10 at a 2 mod 4 site), register
+HOOKS = [("open", 0x0A5786, "68794b464343181c2979", 3), ("type", 0x0A5590, "1c4a207b01210140", 2), ("br", 0x0A5572, "04490448007808700449", 0),
+         ("static", 0x0A594C, "6a892c690020297a", 2), ("tag", 0x0A311C, "f0b557464e464546", 3)]
+PEN_RESET = 0x0A570E
 BOX_WIDTH_SITES = [(0x08D2CA, 1), (0x0A9522, 0), (0x0B2B8A, 0), (0x0B9E7A, 0), (0x0C553A, 0), (0x0C815A, 0), (0x0C825C, 0), (0x0CF7D0, 0)]
 SPRITE_BLOCKS = {"battle", "quips"}
 TYPEWRITER = {"dialogue", "system", "link", "rental"}  # mostly the 2-row dialogue box; marker lines fill it
@@ -75,20 +79,12 @@ def engine(rom, pairs):
     code_at = (len(rom.out) + 3) & ~3
     code = assemble(ROOT / "asm" / "vwf.s", CPU + code_at, {"WIDTHS": CPU + w_at, "PAIRS": CPU + pairs_at - font_en.PAIR_BASE * 4, "TAGFRAMES": CPU + tag_at})
     rom.put(code_at, code, "vwf code")
-    entry = {k: CPU + code_at + v for k, v in ENTRY.items()}
-    expect(rom, 0x0A5786, "6879")
-    far_jump(rom, 0x0A5786, entry["open"], 3, "hook open")
-    expect(rom, 0x0A5590, "1C4A")
-    far_jump(rom, 0x0A5590, entry["type"], 2, "hook type")
-    expect(rom, 0x0A5572, "0449")
-    far_jump(rom, 0x0A5572, entry["br"], 0, "hook br")
-    expect(rom, 0x0A594C, "6A89")
-    far_jump(rom, 0x0A594C, entry["static"], 2, "hook static")
-    expect(rom, 0x0A311C, "F0B557464E46")
-    far_jump(rom, 0x0A311C, entry["tag"], 3, "hook tag")
+    for name, site, old, reg in HOOKS:
+        expect(rom, site, old)
+        far_jump(rom, site, CPU + code_at + ENTRY[name], reg, "hook " + name)
     # `orrs r0, r4` with r4 = 0 -> `strh r4, [r7, #0xe]`: the open zeroes the window's pen
-    expect(rom, 0x0A570E, "2043")
-    rom.put(0x0A570E, struct.pack("<H", 0x81FC), "pen reset")
+    expect(rom, PEN_RESET, "2043")
+    rom.put(PEN_RESET, struct.pack("<H", 0x81FC), "pen reset")
     # the dialogue box's column count, in each of its openers: `movs rX, #0x11`
     for site, reg in BOX_WIDTH_SITES:
         expect(rom, site, "11%02X" % (0x20 | reg))
@@ -253,15 +249,26 @@ def layout(rom):
 
 
 DOLL_ENTRY = {"test": 0, "read": 2, "write": 4, "tick": 6}  # asm/doll.s, its first lines
+DOLL_HOOKS = [("test", 0x0BADA8, "00b50006054a0649"), ("read", 0x0E4948, "30b5104d2c88104b"), ("write", 0x0E488C, "30b5104d2c88104b"), ("tick", 0x0BADD4, "10b5041ce0883328")]
 
 
 def doll(rom):
     """The virtual Soul Doll (D8, docs/re/doll.md). The debug tool's Lua hook stands aside when it sees these jumps."""
     at = (len(rom.out) + 3) & ~3
     rom.put(at, assemble(ROOT / "asm" / "doll.s", CPU + at), "doll code")
-    for name, site, old in (("test", 0x0BADA8, "00B50006"), ("read", 0x0E4948, "30B5104D"), ("write", 0x0E488C, "30B5104D"), ("tick", 0x0BADD4, "10B5041C")):
+    for name, site, old in DOLL_HOOKS:
         expect(rom, site, old)
         far_jump(rom, site, CPU + at + DOLL_ENTRY[name], 3, "hook doll " + name)
+
+
+def allowed():
+    """Every span below BASE the build may write, built from the tables, not the log: (start, end) pairs. A write outside them is a stray."""
+    spans = [(site, site + len(old) // 2) for _, site, old, _ in HOOKS] + [(site, site + len(old) // 2) for _, site, old in DOLL_HOOKS]
+    spans += [(PEN_RESET, PEN_RESET + 2), (FONT_TABLE, FONT_TABLE + 8), (SPRITE_TABLE, SPRITE_TABLE + 64)]
+    spans += [(site, site + 2) for site, _ in BOX_WIDTH_SITES] + [(at + 4, at + 6) for at, _, _ in LAYOUT]
+    entries = [e for _, es in strings() for e in es] + json.loads((ROOT / "script" / "credits.json").read_text(encoding="utf-8"))
+    spans += [(int(o.split(":")[1], 16), int(o.split(":")[1], 16) + 4) for e in entries for o in e["owners"]]
+    return sorted(set(spans))
 
 
 def credits_en(text):

@@ -903,7 +903,7 @@
    "tab:7F7F78"
   ],
   "jp": "しょきかしないと　つかえなくなるのちゃーんと　おぼえておくのよ<page>\n",
-  "en": "can't be used until they're reset.<br>\nBe sure to remember that.<page>\n",
+  "en": "can't be used until they're<br>\nreset. Be sure to remember that.<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1002,7 +1002,7 @@
    "tab:467E68"
   ],
   "jp": "あら？　このソウルドールはゲームにタイオウしてない　ものじゃない！？<page>\n",
-  "en": "Oh? This Soul Doll isn't compatible<br>\nwith this game, is it!?<page>\n",
+  "en": "Oh? This Soul Doll isn't<br>\ncompatible with this game, is it!?<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1035,7 +1035,7 @@
    "tab:467E98"
   ],
   "jp": "ワルイが　オレは　オマエのなかまになってやるほど　ヒマではない…<page>\n",
-  "en": "Sorry, but I've no time to spare<br>\nfor joining you...<page>\n",
+  "en": "Sorry, but I've no time<br>\nto spare for joining you...<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1057,7 +1057,7 @@
    "tab:467EA8"
   ],
   "jp": "オマエが　わがけんぞくの　しれんにたえうるか　みせてもらうとしよう…<page>\n",
-  "en": "I will see if you can withstand my<br>\nclan's trials...<page>\n",
+  "en": "I will see if you can<br>\nwithstand my clan's trials...<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1101,7 +1101,7 @@
    "tab:467ED0"
   ],
   "jp": "ワシのかわりに　ここうのゆうしゃがおさなきサーガを　むかえるであろう<page>\n",
-  "en": "In my place, a lone hero will greet<br>\nyou, young Saga.<page>\n",
+  "en": "In my place, a lone hero<br>\nwill greet you, young Saga.<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1112,7 +1112,7 @@
    "tab:467EE0"
   ],
   "jp": "ワレは　カゼをすべる　りゅうのおうワレをよんだのは　そなたか…<page>\n",
-  "en": "I am the dragon king who rules<br>\nWind. Did you call me...?<page>\n",
+  "en": "I am the dragon king who<br>\nrules Wind. Did you call me...?<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1123,7 +1123,7 @@
    "tab:467EE8"
   ],
   "jp": "スマンがこれでも　いそがしいのでないっしょに　ぼうけんはできぬ…<page>\n",
-  "en": "Forgive me, but I am busy. I cannot<br>\ngo on a quest with you...<page>\n",
+  "en": "Forgive me, but I am busy. I<br>\ncannot go on a quest with you...<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1167,7 +1167,7 @@
    "tab:467F10"
   ],
   "jp": "なかまにはなってやれぬ　このみだがぼうけんさきなら　おしえられよう…<page>\n",
-  "en": "I cannot join you, but I can tell<br>\nyou where to quest...<page>\n",
+  "en": "I cannot join you, but I can<br>\ntell you where to quest...<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1211,7 +1211,7 @@
    "tab:467F38"
   ],
   "jp": "まさか　ワレをなかまに　できるとはおもっては　いまいな…？<page>\n",
-  "en": "Surely you don't think you could<br>\nmake me your ally...?<page>\n",
+  "en": "Surely you don't think you<br>\ncould make me your ally...?<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1233,7 +1233,7 @@
    "tab:467F48"
   ],
   "jp": "ヤミへのいりぐちは　つばさのしまにある…　たどりつけると　よいがな…<page>\n",
-  "en": "The way into Dark is on the Isle of<br>\nWings... If you can get there...<page>\n",
+  "en": "The way into Dark is on the Isle<br>\nof Wings... If you can get there...<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1255,7 +1255,7 @@
    "tab:467F60"
   ],
   "jp": "やっとソウルドールから　だしてもらえたよ！　ありがとう！<page>\n",
-  "en": "I finally got out of the Soul Doll!<br>\nThank you!<page>\n",
+  "en": "I finally got out of the<br>\nSoul Doll! Thank you!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1288,7 +1288,7 @@
    "tab:467F78"
   ],
   "jp": "ねぇねぇ、ボクになまえをつけてよ‼はやくはやくー！<page>\n",
-  "en": "Hey, hey, give me a name!! Hurry,<br>\nhurry!<page>\n",
+  "en": "Hey, hey, give me a<br>\nname!! Hurry, hurry!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1332,7 +1332,7 @@
    "tab:467FA0"
   ],
   "jp": "キミに　なまえをつけてもらいたい。よろしくたのむ<page>\n",
-  "en": "I'd like you to give me a name. If<br>\nyou please.<page>\n",
+  "en": "I'd like you to give me<br>\na name. If you please.<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1376,7 +1376,7 @@
    "tab:467FC8"
   ],
   "jp": "で、あなたがわたしのパートナーね？うふっ。ヨロシクね♪<page>\n",
-  "en": "And you're my partner? Tee-hee.<br>\nBe nice to me♪<page>\n",
+  "en": "And you're my partner?<br>\nTee-hee. Be nice to me♪<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1420,7 +1420,7 @@
    "tab:467FF0"
   ],
   "jp": "やっとソウルドールから　でれたぞ‼わはははははっ‼<page>\n",
-  "en": "Finally got out of the Soul Doll!!<br>\nWahahahaha!!<page>\n",
+  "en": "Finally got out of the<br>\nSoul Doll!! Wahahahaha!!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1576,7 +1576,7 @@
    "tab:468088"
   ],
   "jp": "これで　スポットがひとつふえたね！えへへ。ボクえらい？<page>\n",
-  "en": "This adds one more spot! Ehehe.<br>\nAm I good?<page>\n",
+  "en": "This adds one more<br>\nspot! Ehehe. Am I good?<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1719,7 +1719,7 @@
    "tab:468108"
   ],
   "jp": "うおおおーーー‼　おまえのわらったカオきもちわるいぞーーー‼<page>\n",
-  "en": "Rraaaaah!! Your smiling face is<br>\ncreepy!!<page>\n",
+  "en": "Rraaaaah!! Your<br>\nsmiling face is creepy!!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -1741,7 +1741,7 @@
    "tab:468128"
   ],
   "jp": "やっほー！　なかなか　よんでくれないから　ちょっとアセっちゃったよ！<page>\n",
-  "en": "Hiya! You took so long to call me, I<br>\ngot a little worried!<page>\n",
+  "en": "Hiya! You took so long to<br>\ncall me, I got a little worried!<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -3368,7 +3368,7 @@
    "tab:46A7D8"
   ],
   "jp": "メッセージは　ちゃんとおぼえたからあんしんしてね♪<page>\n",
-  "en": "I've memorized the message just<br>\nfine, so don't worry♪<page>\n",
+  "en": "I've memorized the message<br>\njust fine, so don't worry♪<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -3885,7 +3885,7 @@
    "tab:46A7E8"
   ],
   "jp": "じつは　さいきん　ねぶそくなんだ～<page>\n",
-  "en": "Actually, I haven't been sleeping<br>\nlately~<page>\n",
+  "en": "Actually, I haven't<br>\nbeen sleeping lately~<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -4237,7 +4237,7 @@
    "tab:46A968"
   ],
   "jp": "おい　[FFED]ってのがいるだろ？<page>\n",
-  "en": "Hey, you know [FFED],<br>\nright?<page>\n",
+  "en": "Hey, you know<br>\n[FFED], right?<page>\n",
   "status": "tl",
   "notes": ""
  },
@@ -5128,7 +5128,7 @@
    "tab:46AD30"
   ],
   "jp": "オ、オレ　カーバンクル♪<br>\nカワイイぞー<page>\n",
-  "en": "M-me like Carbuncle♪<br>\nCute!<page>\n",
+  "en": "M-me like Carbuncle♪ Cute!<page>\n",
   "status": "tl",
   "notes": ""
  },

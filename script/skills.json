@@ -589,7 +589,7 @@
    "tab:2AA28C"
   ],
   "jp": "いりょく　40　　　こんらんをあたえる<end>",
-  "en": "Power 40, inflicts<br>\nconfusion<end>",
+  "en": "Power 40,<br>\ninflicts confusion<end>",
   "status": "tl",
   "notes": ""
  },
@@ -655,7 +655,7 @@
    "tab:2AA2C4"
   ],
   "jp": "いりょく　80　　　しっぱいしやすい<end>",
-  "en": "Power 80, often<br>\nfails<end>",
+  "en": "Power 80,<br>\noften fails<end>",
   "status": "tl",
   "notes": ""
  },
@@ -688,7 +688,7 @@
    "tab:2AA2E0"
   ],
   "jp": "いりょく　30　　　1～5かいこうげき<end>",
-  "en": "Power 30, 1-5<br>\nhits<end>",
+  "en": "Power 30,<br>\n1-5 hits<end>",
   "status": "tl",
   "notes": ""
  },
@@ -721,7 +721,7 @@
    "tab:2AA2FC"
   ],
   "jp": "いりょく　90　　　カウンターむこう<end>",
-  "en": "Power 90, ignores<br>\ncounters<end>",
+  "en": "Power 90,<br>\nignores counters<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1579,7 +1579,7 @@
    "tab:2AA5D4"
   ],
   "jp": "かいふく　10　　　バトルちゅうじぞく<end>",
-  "en": "Heal 10, lasts all<br>\nbattle<end>",
+  "en": "Heal 10, lasts<br>\nall battle<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1612,7 +1612,7 @@
    "tab:2AA5F0"
   ],
   "jp": "かいふく　15　　　バトルちゅうじぞく<end>",
-  "en": "Heal 15, lasts all<br>\nbattle<end>",
+  "en": "Heal 15, lasts<br>\nall battle<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1645,7 +1645,7 @@
    "tab:2AA60C"
   ],
   "jp": "かいふく　20　　　バトルちゅうじぞく<end>",
-  "en": "Heal 20, lasts all<br>\nbattle<end>",
+  "en": "Heal 20, lasts<br>\nall battle<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1678,7 +1678,7 @@
    "tab:2AA628"
   ],
   "jp": "いりょく　20　　　あいてのHPをうばう<end>",
-  "en": "Power 20, drains<br>\nenemy HP<end>",
+  "en": "Power 20,<br>\ndrains enemy HP<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1711,7 +1711,7 @@
    "tab:2AA644"
   ],
   "jp": "いりょく　30　　　あいてのHPをうばう<end>",
-  "en": "Power 30, drains<br>\nenemy HP<end>",
+  "en": "Power 30,<br>\ndrains enemy HP<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1744,7 +1744,7 @@
    "tab:2AA660"
   ],
   "jp": "いりょく　40　　　あいてのHPをうばう<end>",
-  "en": "Power 40, drains<br>\nenemy HP<end>",
+  "en": "Power 40,<br>\ndrains enemy HP<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1777,7 +1777,7 @@
    "tab:2AA67C"
   ],
   "jp": "のうりょくぜんたいを120％にUPさせる<end>",
-  "en": "Raises all stats<br>\nto 120%<end>",
+  "en": "Raises all<br>\nstats to 120%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1810,7 +1810,7 @@
    "tab:2AA698"
   ],
   "jp": "まりょくを　　　　　120％にUPさせる<end>",
-  "en": "Raises Magic to<br>\n120%<end>",
+  "en": "Raises Magic<br>\nto 120%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1843,7 +1843,7 @@
    "tab:2AA6B4"
   ],
   "jp": "ちからを　　　　　　120％にUPさせる<end>",
-  "en": "Raises Power to<br>\n120%<end>",
+  "en": "Raises Power<br>\nto 120%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1876,7 +1876,7 @@
    "tab:2AA6D0"
   ],
   "jp": "すばやさを　　　　　120％にUPさせる<end>",
-  "en": "Raises Speed to<br>\n120%<end>",
+  "en": "Raises Speed<br>\nto 120%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1909,7 +1909,7 @@
    "tab:2AA6EC"
   ],
   "jp": "HPかいふくりょうを120％にUPさせる<end>",
-  "en": "Raises HP healing<br>\nto 120%<end>",
+  "en": "Raises HP<br>\nhealing to 120%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -1942,7 +1942,7 @@
    "tab:2AA708"
   ],
   "jp": "ぼうぎょを　　　　　120％にUPさせる<end>",
-  "en": "Raises Defense to<br>\n120%<end>",
+  "en": "Raises Defense<br>\nto 120%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2206,7 +2206,7 @@
    "tab:2AA7E8"
   ],
   "jp": "いりょく　20　　　どくをあたえる<end>",
-  "en": "Power 20, inflicts<br>\npoison<end>",
+  "en": "Power 20,<br>\ninflicts poison<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2371,7 +2371,7 @@
    "tab:2AA874"
   ],
   "jp": "いりょく　30　　　1～5かいこうげき<end>",
-  "en": "Power 30, 1-5<br>\nhits<end>",
+  "en": "Power 30,<br>\n1-5 hits<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2404,7 +2404,7 @@
    "tab:2AA890"
   ],
   "jp": "いりょく　60　　　こんらんをあたえる<end>",
-  "en": "Power 60, inflicts<br>\nconfusion<end>",
+  "en": "Power 60,<br>\ninflicts confusion<end>",
   "status": "tl",
   "notes": ""
  },
@@ -2503,7 +2503,7 @@
    "tab:2AA8E4"
   ],
   "jp": "いりょく　40　　　1～5かいこうげき<end>",
-  "en": "Power 40, 1-5<br>\nhits<end>",
+  "en": "Power 40,<br>\n1-5 hits<end>",
   "status": "tl",
   "notes": ""
  },
@@ -3064,7 +3064,7 @@
    "tab:2AAAC0"
   ],
   "jp": "いりょく　60　　　マヒをあたえる<end>",
-  "en": "Power 60, inflicts<br>\nparalysis<end>",
+  "en": "Power 60,<br>\ninflicts paralysis<end>",
   "status": "tl",
   "notes": ""
  },
@@ -3130,7 +3130,7 @@
    "tab:2AAAF8"
   ],
   "jp": "あめのように　　　　ひかりのやをふらす<end>",
-  "en": "Rains arrows of<br>\nlight<end>",
+  "en": "Rains arrows<br>\nof light<end>",
   "status": "tl",
   "notes": ""
  },
@@ -3361,7 +3361,7 @@
    "tab:2AABBC"
   ],
   "jp": "いりょく　50　　　よくはずれる<end>",
-  "en": "Power 50, often<br>\nmisses<end>",
+  "en": "Power 50,<br>\noften misses<end>",
   "status": "tl",
   "notes": ""
  },
@@ -3394,7 +3394,7 @@
    "tab:2AABD8"
   ],
   "jp": "いりょく　30　　　どくをあたえる<end>",
-  "en": "Power 30, inflicts<br>\npoison<end>",
+  "en": "Power 30,<br>\ninflicts poison<end>",
   "status": "tl",
   "notes": ""
  },
@@ -3691,7 +3691,7 @@
    "tab:2AACD4"
   ],
   "jp": "だげきダメージを　　4ぶんの1　　40％<end>",
-  "en": "Melee damage to<br>\n1/4, 40%<end>",
+  "en": "Melee damage<br>\nto 1/4, 40%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -3724,7 +3724,7 @@
    "tab:2AACF0"
   ],
   "jp": "まほうカウンター　　20％　　<end>",
-  "en": "Magic counter<br>\n20%<end>",
+  "en": "Magic<br>\ncounter 20%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -3757,7 +3757,7 @@
    "tab:2AAD0C"
   ],
   "jp": "まほうカウンター　　30％　　<end>",
-  "en": "Magic counter<br>\n30%<end>",
+  "en": "Magic<br>\ncounter 30%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -3790,7 +3790,7 @@
    "tab:2AAD28"
   ],
   "jp": "まほうカウンター　　40％<end>",
-  "en": "Magic counter<br>\n40%<end>",
+  "en": "Magic<br>\ncounter 40%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -3823,7 +3823,7 @@
    "tab:2AAD44"
   ],
   "jp": "まほうカウンター　　25％<end>",
-  "en": "Magic counter<br>\n25%<end>",
+  "en": "Magic<br>\ncounter 25%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -3856,7 +3856,7 @@
    "tab:2AAD60"
   ],
   "jp": "まほうカウンター　　35％<end>",
-  "en": "Magic counter<br>\n35%<end>",
+  "en": "Magic<br>\ncounter 35%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -3988,7 +3988,7 @@
    "tab:2AADD0"
   ],
   "jp": "まほうカウンター　　50％<end>",
-  "en": "Magic counter<br>\n50%<end>",
+  "en": "Magic<br>\ncounter 50%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -4054,7 +4054,7 @@
    "tab:2AAE08"
   ],
   "jp": "まほうカウンター　　45％<end>",
-  "en": "Magic counter<br>\n45%<end>",
+  "en": "Magic<br>\ncounter 45%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -4219,7 +4219,7 @@
    "tab:2AAE94"
   ],
   "jp": "まほうのダメージを　4ぶんの1　　40％<end>",
-  "en": "Magic damage to<br>\n1/4, 40%<end>",
+  "en": "Magic damage<br>\nto 1/4, 40%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -4252,7 +4252,7 @@
    "tab:2AAEB0"
   ],
   "jp": "だげきカウンター　　20％<end>",
-  "en": "Melee counter<br>\n20%<end>",
+  "en": "Melee<br>\ncounter 20%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -4285,7 +4285,7 @@
    "tab:2AAECC"
   ],
   "jp": "だげきカウンター　　30％<end>",
-  "en": "Melee counter<br>\n30%<end>",
+  "en": "Melee<br>\ncounter 30%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -4318,7 +4318,7 @@
    "tab:2AAEE8"
   ],
   "jp": "だげきカウンター　　40％<end>",
-  "en": "Melee counter<br>\n40%<end>",
+  "en": "Melee<br>\ncounter 40%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -4351,7 +4351,7 @@
    "tab:2AAF04"
   ],
   "jp": "ダメージの50％　　しかえしする　50％<end>",
-  "en": "Returns 50% of<br>\ndamage, 50%<end>",
+  "en": "Returns 50%<br>\nof damage, 50%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -4384,7 +4384,7 @@
    "tab:2AAF20"
   ],
   "jp": "ダメージの100％　しかえしする　40％<end>",
-  "en": "Returns 100% of<br>\ndamage, 40%<end>",
+  "en": "Returns 100%<br>\nof damage, 40%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -4417,7 +4417,7 @@
    "tab:2AAF3C"
   ],
   "jp": "ダメージの150％　しかえしする　30％<end>",
-  "en": "Returns 150% of<br>\ndamage, 30%<end>",
+  "en": "Returns 150%<br>\nof damage, 30%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -4450,7 +4450,7 @@
    "tab:2AAF58"
   ],
   "jp": "マイナスこうかを　　すべてうちけす<end>",
-  "en": "Cancels all minus<br>\neffects<end>",
+  "en": "Cancels all<br>\nminus effects<end>",
   "status": "tl",
   "notes": ""
  },
@@ -4747,7 +4747,7 @@
    "tab:2AB054"
   ],
   "jp": "かいふく　60　　　どくもなおす<end>",
-  "en": "Heal 60, cures<br>\npoison<end>",
+  "en": "Heal 60,<br>\ncures poison<end>",
   "status": "tl",
   "notes": ""
  },
@@ -4813,7 +4813,7 @@
    "tab:2AB08C"
   ],
   "jp": "かいふく　80　　　ぜんふういんをなおす<end>",
-  "en": "Heal 80, cures all<br>\nseals<end>",
+  "en": "Heal 80,<br>\ncures all seals<end>",
   "status": "tl",
   "notes": ""
  },
@@ -4846,7 +4846,7 @@
    "tab:2AB0A8"
   ],
   "jp": "かいふく　80　　　サポートをなおす<end>",
-  "en": "Heal 80, restores<br>\nSupport<end>",
+  "en": "Heal 80,<br>\nrestores Support<end>",
   "status": "tl",
   "notes": ""
  },
@@ -4879,7 +4879,7 @@
    "tab:2AB0C4"
   ],
   "jp": "かいふく　90　　　シフトEをなおす<end>",
-  "en": "Heal 90, restores<br>\nShift E<end>",
+  "en": "Heal 90,<br>\nrestores Shift E<end>",
   "status": "tl",
   "notes": ""
  },
@@ -4945,7 +4945,7 @@
    "tab:2AB0FC"
   ],
   "jp": "すべてのじょうたい　へんかをなおす<end>",
-  "en": "Cures all status<br>\nchanges<end>",
+  "en": "Cures all<br>\nstatus changes<end>",
   "status": "tl",
   "notes": ""
  },
@@ -5011,7 +5011,7 @@
    "tab:2AB134"
   ],
   "jp": "ムぞくせいのわざを　いりょく2ばい<end>",
-  "en": "Doubles Null skill<br>\npower<end>",
+  "en": "Doubles Null<br>\nskill power<end>",
   "status": "tl",
   "notes": ""
  },
@@ -5044,7 +5044,7 @@
    "tab:2AB150"
   ],
   "jp": "ムぞくせいのわざを　いりょくはんぶん<end>",
-  "en": "Halves Null skill<br>\npower<end>",
+  "en": "Halves Null<br>\nskill power<end>",
   "status": "tl",
   "notes": ""
  },
@@ -5077,7 +5077,7 @@
    "tab:2AB16C"
   ],
   "jp": "ヒぞくせいのわざを　いりょく2ばい<end>",
-  "en": "Doubles Fire skill<br>\npower<end>",
+  "en": "Doubles Fire<br>\nskill power<end>",
   "status": "tl",
   "notes": ""
  },
@@ -5110,7 +5110,7 @@
    "tab:2AB188"
   ],
   "jp": "ヒぞくせいのわざを　いりょくはんぶん<end>",
-  "en": "Halves Fire skill<br>\npower<end>",
+  "en": "Halves Fire<br>\nskill power<end>",
   "status": "tl",
   "notes": ""
  },
@@ -5143,7 +5143,7 @@
    "tab:2AB1A4"
   ],
   "jp": "ツチぞくせいのわざをいりょく2ばい<end>",
-  "en": "Doubles Earth skill<br>\npower<end>",
+  "en": "Doubles Earth<br>\nskill power<end>",
   "status": "tl",
   "notes": ""
  },
@@ -5176,7 +5176,7 @@
    "tab:2AB1C0"
   ],
   "jp": "ツチぞくせいのわざをいりょくはんぶん<end>",
-  "en": "Halves Earth skill<br>\npower<end>",
+  "en": "Halves Earth<br>\nskill power<end>",
   "status": "tl",
   "notes": ""
  },
@@ -5209,7 +5209,7 @@
    "tab:2AB1DC"
   ],
   "jp": "カゼぞくせいのわざをいりょく2ばい<end>",
-  "en": "Doubles Wind skill<br>\npower<end>",
+  "en": "Doubles Wind<br>\nskill power<end>",
   "status": "tl",
   "notes": ""
  },
@@ -5242,7 +5242,7 @@
    "tab:2AB1F8"
   ],
   "jp": "カゼぞくせいのわざをいりょくはんぶん<end>",
-  "en": "Halves Wind skill<br>\npower<end>",
+  "en": "Halves Wind<br>\nskill power<end>",
   "status": "tl",
   "notes": ""
  },
@@ -5308,7 +5308,7 @@
    "tab:2AB230"
   ],
   "jp": "ミズぞくせいのわざをいりょくはんぶん<end>",
-  "en": "Halves Water skill<br>\npower<end>",
+  "en": "Halves Water<br>\nskill power<end>",
   "status": "tl",
   "notes": ""
  },
@@ -5341,7 +5341,7 @@
    "tab:2AB24C"
   ],
   "jp": "ヒカリぞくせいわざをいりょく2ばいにする<end>",
-  "en": "Doubles Light skill<br>\npower<end>",
+  "en": "Doubles Light<br>\nskill power<end>",
   "status": "tl",
   "notes": ""
  },
@@ -5374,7 +5374,7 @@
    "tab:2AB268"
   ],
   "jp": "ヒカリぞくせいわざをいりょくはんぶん<end>",
-  "en": "Halves Light skill<br>\npower<end>",
+  "en": "Halves Light<br>\nskill power<end>",
   "status": "tl",
   "notes": ""
  },
@@ -5407,7 +5407,7 @@
    "tab:2AB284"
   ],
   "jp": "ヤミぞくせいのわざをいりょく2ばい<end>",
-  "en": "Doubles Dark skill<br>\npower<end>",
+  "en": "Doubles Dark<br>\nskill power<end>",
   "status": "tl",
   "notes": ""
  },
@@ -5440,7 +5440,7 @@
    "tab:2AB2A0"
   ],
   "jp": "ヤミぞくせいのわざをいりょくはんぶん<end>",
-  "en": "Halves Dark skill<br>\npower<end>",
+  "en": "Halves Dark<br>\nskill power<end>",
   "status": "tl",
   "notes": ""
  },
@@ -5506,7 +5506,7 @@
    "tab:2AB2D8"
   ],
   "jp": "いりょく　50　　　こんらんをあたえる<end>",
-  "en": "Power 50, inflicts<br>\nconfusion<end>",
+  "en": "Power 50,<br>\ninflicts confusion<end>",
   "status": "tl",
   "notes": ""
  },
@@ -5638,7 +5638,7 @@
    "tab:2AB348"
   ],
   "jp": "2～4ターンのあいだめいちゅうりつUP<end>",
-  "en": "Accuracy up for<br>\n2-4 turns<end>",
+  "en": "Accuracy up<br>\nfor 2-4 turns<end>",
   "status": "tl",
   "notes": ""
  },
@@ -5836,7 +5836,7 @@
    "tab:2AB3F0"
   ],
   "jp": "まほうカウンター　　50％<end>",
-  "en": "Magic counter<br>\n50%<end>",
+  "en": "Magic<br>\ncounter 50%<end>",
   "status": "tl",
   "notes": ""
  },
@@ -6034,7 +6034,7 @@
    "tab:2AB498"
   ],
   "jp": "いりょく　80　　　あいてのHPをうばう<end>",
-  "en": "Power 80, drains<br>\nenemy HP<end>",
+  "en": "Power 80,<br>\ndrains enemy HP<end>",
   "status": "tl",
   "notes": ""
  },

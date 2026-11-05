@@ -165,6 +165,19 @@ class MarkerBuild(unittest.TestCase):
             res = subprocess.run([sys.executable, "-X", "utf8", str(ROOT / "tools/romdiff.py"), str(orig), str(new), "--writes", str(log)], capture_output=True, text=True)
             self.assertEqual(res.returncode, 0, res.stdout[-800:] + res.stderr[-800:])
 
+    def test_every_write_is_in_an_allowed_span(self):
+        # romdiff counts any logged write as covered, so the allowed list is checked here: a write to flag bytes or graphics fails
+        import bisect
+        spans = insert.allowed()
+        starts = [a for a, _ in spans]
+        for line in self.r.log:
+            p = line.split(" ")
+            at, end = int(p[0], 16), int(p[0], 16) + len(p[1]) // 2
+            if at >= insert.BASE:
+                continue
+            i = bisect.bisect_right(starts, at) - 1
+            self.assertTrue(i >= 0 and spans[i][0] <= at and end <= spans[i][1], "stray write %s" % line[:60])
+
     def test_every_owner_points_at_its_new_string(self):
         placed = {}
         for line in self.r.log:

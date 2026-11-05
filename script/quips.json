@@ -2514,7 +2514,7 @@
    "tab:7F6D54"
   ],
   "jp": "ダレがたいたかしらないが<br>\nからだじゅうのチがたぎって<br>\nくるぜ！<end>",
-  "en": "Don't know who lit it, but<br>\nit's making my blood<br>\nboil!<end>",
+  "en": "Don't know who lit<br>\nit, but it's making<br>\nmy blood boil!<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -2826,7 +2826,7 @@
    "tab:7F6DDC"
   ],
   "jp": "いいしょうぶ<br>\nだったぜ…<br>\nオレがあいて<br>\nだったのが<br>\nおまえの<br>\nはいいんだ<end>",
-  "en": "That was a<br>\ngood match...<br>\nYour only<br>\nmistake was<br>\nfighting<br>\nme.<end>",
+  "en": "That was<br>\na good<br>\nmatch...<br>\nYour only<br>\nmistake was<br>\nfighting me.<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -3342,7 +3342,7 @@
    "tab:7F6E68"
   ],
   "jp": "ちょっとぉ…<br>\nどうして<br>\nあたしがやまをのぼらなきゃ<br>\nならないの？<br>\nなっとく<br>\nいかないわね！<end>",
-  "en": "Come on...<br>\nWhy do I<br>\nhave to climb a mountain?<br>\nI just<br>\ndon't get<br>\nit!<end>",
+  "en": "Come on...<br>\nWhy do I<br>\nhave to climb<br>\na mountain?<br>\nI just don't<br>\nget it!<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -3462,7 +3462,7 @@
    "tab:7F6E90"
   ],
   "jp": "あ～んおハダがかわいてきた<br>\nみたいだわ～<end>",
-  "en": "Oh, nooo~ My skin's drying<br>\nout~<end>",
+  "en": "Oh, nooo~ My<br>\nskin's drying out~<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -5094,7 +5094,7 @@
    "tab:7F72C4"
   ],
   "jp": "うおおおーー‼ココ、こえが<br>\nひびいて<br>\nたのしいぞ♪<end>",
-  "en": "Rraaaah!! Here, my voice<br>\nechoes!<br>\nFun♪<end>",
+  "en": "Rraaaah!!<br>\nHere, my voice<br>\nechoes! Fun♪<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
@@ -6198,7 +6198,7 @@
    "tab:7F7454"
   ],
   "jp": "うおおおーー‼クリアしたからばんメシは<br>\nたべほうだい<br>\nだぞーーー‼<end>",
-  "en": "Rraaaah!! Me cleared it, so dinner is<br>\nall you can<br>\neat!!<end>",
+  "en": "Rraaaah!! Me<br>\ncleared it, so dinner<br>\nis all you can eat!!<end>",
   "status": "tl",
   "notes": "",
   "font": "sprite1"
