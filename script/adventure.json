@@ -6,8 +6,8 @@
    "tab:7F665C"
   ],
   "jp": "　　どうぐ　　<end>",
-  "en": "",
-  "status": "",
+  "en": "  Items<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -17,8 +17,8 @@
    "tab:7F6660"
   ],
   "jp": "　おきにいり　<end>",
-  "en": "",
-  "status": "",
+  "en": " Favourites<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -28,8 +28,8 @@
    "tab:7F6664"
   ],
   "jp": "たいせつなもの<end>",
-  "en": "",
-  "status": "",
+  "en": "Key Items<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -39,8 +39,8 @@
    "tab:433FFC"
   ],
   "jp": "つかう<end>",
-  "en": "",
-  "status": "",
+  "en": "Use<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -50,8 +50,8 @@
    "tab:434008"
   ],
   "jp": "ならびかえ<end>",
-  "en": "",
-  "status": "",
+  "en": "Sort<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -61,8 +61,8 @@
    "tab:434014"
   ],
   "jp": "すてる<end>",
-  "en": "",
-  "status": "",
+  "en": "Drop<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -72,8 +72,8 @@
    "lit:0B7CB8"
   ],
   "jp": "か　う<end>",
-  "en": "",
-  "status": "",
+  "en": "Buy<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -83,8 +83,8 @@
    "lit:0B7C84"
   ],
   "jp": "う　る<end>",
-  "en": "",
-  "status": "",
+  "en": "Sell<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -94,8 +94,8 @@
    "lit:0B8260"
   ],
   "jp": "いくつ？<end>",
-  "en": "",
-  "status": "",
+  "en": "Qty?<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    "lit:0B2C14"
   ],
   "jp": "ぼうけんスポット<end>",
-  "en": "",
-  "status": "",
+  "en": "Quest Spots<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -128,8 +128,8 @@
    "lit:0B1634"
   ],
   "jp": "ぼうけんする<end>",
-  "en": "",
-  "status": "",
+  "en": "Go on quest<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -139,8 +139,8 @@
    "lit:0B1638"
   ],
   "jp": "やめる<end>",
-  "en": "",
-  "status": "",
+  "en": "Cancel<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -150,8 +150,8 @@
    "lit:0B1EF0"
   ],
   "jp": "ぞくせい　　レベル　　じかん　　　　H　　Mなんいど　　　　　　　<end>",
-  "en": "",
-  "status": "",
+  "en": "Attr.       Level     Time         H     M<br>\nDifficulty<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -161,8 +161,8 @@
    "tab:7F69E4"
   ],
   "jp": "らくしょう<end>",
-  "en": "",
-  "status": "",
+  "en": "Easy<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -172,8 +172,8 @@
    "tab:7F69E8"
   ],
   "jp": "よゆう<end>",
-  "en": "",
-  "status": "",
+  "en": "Fair<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -183,8 +183,8 @@
    "tab:7F69EC"
   ],
   "jp": "てきせい<end>",
-  "en": "",
-  "status": "",
+  "en": "Even<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -194,8 +194,8 @@
    "tab:7F69F0"
   ],
   "jp": "くせん<end>",
-  "en": "",
-  "status": "",
+  "en": "Hard<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    "tab:7F69F4"
   ],
   "jp": "ぜつぼう<end>",
-  "en": "",
-  "status": "",
+  "en": "Dire<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -216,8 +216,8 @@
    "lit:0B1F48"
   ],
   "jp": "スポットレベルがたかくチャレンジできません…<end>",
-  "en": "",
-  "status": "",
+  "en": "Spot level is too high to try...<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -227,8 +227,8 @@
    "tab:433FCC"
   ],
   "jp": "タリスダム　<end>",
-  "en": "",
-  "status": "",
+  "en": "Talisdam<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -249,8 +249,8 @@
    "tab:433FDC"
   ],
   "jp": "もちもの　　<end>",
-  "en": "",
-  "status": "",
+  "en": "Items<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -260,8 +260,8 @@
    "tab:433FE4"
   ],
   "jp": "セーブ　　　<end>",
-  "en": "",
-  "status": "",
+  "en": "Save<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -271,8 +271,8 @@
    "tab:433FEC"
   ],
   "jp": "おていれ　　<end>",
-  "en": "",
-  "status": "",
+  "en": "Polish<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -282,8 +282,8 @@
    "lit:0A94FC"
   ],
   "jp": "やめる　　<end>",
-  "en": "",
-  "status": "",
+  "en": "Cancel<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -293,8 +293,8 @@
    "lit:0A9500"
   ],
   "jp": "セーブする<end>",
-  "en": "",
-  "status": "",
+  "en": "Save<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -304,8 +304,8 @@
    "lit:0A8E10"
   ],
   "jp": "いくつもたせる？<end>",
-  "en": "",
-  "status": "",
+  "en": "How many to hold?<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    "lit:0B43CC"
   ],
   "jp": "けいけん<end>",
-  "en": "",
-  "status": "",
+  "en": "EXP<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -326,8 +326,8 @@
    "lit:0B43D8"
   ],
   "jp": "かくとく！<end>",
-  "en": "",
-  "status": "",
+  "en": "Gained!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -337,8 +337,8 @@
    "tab:7F745C"
   ],
   "jp": "アイテム　<end>",
-  "en": "",
-  "status": "",
+  "en": "Items<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -348,8 +348,8 @@
    "tab:7F7460"
   ],
   "jp": "おきにいり<end>",
-  "en": "",
-  "status": "",
+  "en": "Favourites<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -359,8 +359,8 @@
    "tab:7F7464"
   ],
   "jp": "わざ　　　<end>",
-  "en": "",
-  "status": "",
+  "en": "Skills<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -370,8 +370,8 @@
    "lit:0B4554"
   ],
   "jp": "GET！<end>",
-  "en": "",
-  "status": "",
+  "en": "GET!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -381,8 +381,8 @@
    "tab:7F746C"
   ],
   "jp": "こうりゃく‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Cleared!!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -392,8 +392,8 @@
    "tab:7F7470"
   ],
   "jp": "クリア！！　<end>",
-  "en": "",
-  "status": "",
+  "en": "CLEAR!!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -403,8 +403,8 @@
    "tab:7F7474"
   ],
   "jp": "しっぱい・・<end>",
-  "en": "",
-  "status": "",
+  "en": "Failed...<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -414,8 +414,8 @@
    "tab:7F7468"
   ],
   "jp": "おたからは　なにもみつからなかった・・・・<end>",
-  "en": "",
-  "status": "",
+  "en": "No treasure was found...<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    "tab:4340D0"
   ],
   "jp": "ドールしょうさい<br>\nドールのいれかえ<br>\nドールのかくにん<br>\nわざ<br>\nリボーン<end>",
-  "en": "",
-  "status": "",
+  "en": "Doll Info<br>\nSwap Dolls<br>\nCheck Doll<br>\nSkills<br>\nReborn<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -436,8 +436,8 @@
    "tab:4340D8"
   ],
   "jp": "ドールしょうさい<br>\nドールのいれかえ<br>\nドールのかくにん<br>\nわざ<br>\nリボーン<br>\nつうしんたいせん<end>",
-  "en": "",
-  "status": "",
+  "en": "Doll Info<br>\nSwap Dolls<br>\nCheck Doll<br>\nSkills<br>\nReborn<br>\nLink Battle<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -447,8 +447,8 @@
    "tab:4340F0"
   ],
   "jp": "・・・・・・・・<br>\n・・・・・・・・<br>\n・・・・・・・・<br>\n・・・・・・・・<br>\nリボーン<end>",
-  "en": "",
-  "status": "",
+  "en": "........<br>\n........<br>\n........<br>\n........<br>\nReborn<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -458,8 +458,8 @@
    "tab:4340E0"
   ],
   "jp": "ならびかえ<br>\nはずす<br>\nセットする<end>",
-  "en": "",
-  "status": "",
+  "en": "Sort<br>\nRemove<br>\nSet<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -469,8 +469,8 @@
    "tab:4340E8"
   ],
   "jp": "セット<br>\nくみかえ<br>\nリスト<end>",
-  "en": "",
-  "status": "",
+  "en": "Set<br>\nSwap<br>\nList<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -480,8 +480,8 @@
    "tab:7F7F48"
   ],
   "jp": "あいうえおはひふへほ01234アイウエオハヒフヘホABCDE<end>",
-  "en": "",
-  "status": "",
+  "en": "abcdefghij01234          ABCDE<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -491,8 +491,8 @@
    "tab:7F7F4C"
   ],
   "jp": "かきくけこまみむめも56789カキクケコマミムメモFGHIJ<end>",
-  "en": "",
-  "status": "",
+  "en": "klmnopqrst56789          FGHIJ<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -502,8 +502,8 @@
    "tab:7F7F50"
   ],
   "jp": "さしすせそや　ゆ　よ…！‼？♪サシスセソヤ　ユ　ヨKLMNO<end>",
-  "en": "",
-  "status": "",
+  "en": "uvwxyz-'.,…!?♪.          KLMNO<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -513,8 +513,8 @@
    "tab:7F7F54"
   ],
   "jp": "たちつてとらりるれろ☺♥✓★◆タチツテトラリルレロPQRST<end>",
-  "en": "",
-  "status": "",
+  "en": "          ☺♥✓★◆          PQRST<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -524,8 +524,8 @@
    "tab:7F7F58"
   ],
   "jp": "なにぬねのわ　を　ん♨✖♫🐰🐱ナニヌネノワ　ヲ　ンUVWXY<end>",
-  "en": "",
-  "status": "",
+  "en": "          ♨✖♫🐰🐱          UVWXY<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    "tab:7F7F5C"
   ],
   "jp": "ぁぃぅぇぉっゃゅょー\"•－＋～ァィゥェォッャュョー\"•$％Z<end>",
-  "en": "",
-  "status": "",
+  "en": "          \"•-+~          \"•$%Z<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -547,8 +547,8 @@
    "tab:46B2A0"
   ],
   "jp": "けってい<end>",
-  "en": "",
-  "status": "",
+  "en": "OK<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -559,8 +559,8 @@
    "tab:46B2A8"
   ],
   "jp": "やめる<end>",
-  "en": "",
-  "status": "",
+  "en": "Cancel<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -570,8 +570,8 @@
    "tab:7F7F60"
   ],
   "jp": "ニックネーム…<end>",
-  "en": "",
-  "status": "",
+  "en": "Nickname...<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -581,8 +581,8 @@
    "tab:7F7F64"
   ],
   "jp": "でんごん…<end>",
-  "en": "",
-  "status": "",
+  "en": "Message...<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -592,8 +592,8 @@
    "tab:7F7F68"
   ],
   "jp": "キミのなまえ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Your name...<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -603,8 +603,8 @@
    "tab:46B260"
   ],
   "jp": "きょうのひづけ<end>",
-  "en": "",
-  "status": "",
+  "en": "Today's date<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -614,8 +614,8 @@
    "tab:46B268"
   ],
   "jp": "20　　ねん<end>",
-  "en": "",
-  "status": "",
+  "en": "20     Yr<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    "tab:46B270"
   ],
   "jp": "　　がつ<end>",
-  "en": "",
-  "status": "",
+  "en": "    Mo<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -636,8 +636,8 @@
    "tab:46B278"
   ],
   "jp": "　　にち<end>",
-  "en": "",
-  "status": "",
+  "en": "    Dy<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -647,8 +647,8 @@
    "tab:46B280"
   ],
   "jp": "いまのじかん<end>",
-  "en": "",
-  "status": "",
+  "en": "Current time<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -658,8 +658,8 @@
    "tab:46B288"
   ],
   "jp": "　　　　　じ<end>",
-  "en": "",
-  "status": "",
+  "en": "          Hr<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -669,8 +669,8 @@
    "tab:46B290"
   ],
   "jp": "　　ふん<end>",
-  "en": "",
-  "status": "",
+  "en": "    Mn<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -680,8 +680,8 @@
    "tab:46B298"
   ],
   "jp": "…くらい<end>",
-  "en": "",
-  "status": "",
+  "en": "...ish<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -691,8 +691,8 @@
    "lit:0CD9E0"
   ],
   "jp": "ごぜん<end>",
-  "en": "",
-  "status": "",
+  "en": "AM<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -702,8 +702,8 @@
    "lit:0CDA08"
   ],
   "jp": "　ごご<end>",
-  "en": "",
-  "status": "",
+  "en": " PM<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -713,8 +713,8 @@
    "tab:46B418"
   ],
   "jp": "●つづきから<end>",
-  "en": "",
-  "status": "",
+  "en": "●Continue<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -724,8 +724,8 @@
    "tab:46B420"
   ],
   "jp": "●カードモード<end>",
-  "en": "",
-  "status": "",
+  "en": "●Card Mode<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    "tab:46B428"
   ],
   "jp": "●さいしょから<end>",
-  "en": "",
-  "status": "",
+  "en": "●New Game<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -746,8 +746,8 @@
    "tab:46B430"
   ],
   "jp": "●ドールしょきか<end>",
-  "en": "",
-  "status": "",
+  "en": "●Reset Doll<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -757,8 +757,8 @@
    "tab:46B438"
   ],
   "jp": "ぼうけんちゅう　あと　　　ふん<end>",
-  "en": "",
-  "status": "",
+  "en": "On quest:                min<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -768,8 +768,8 @@
    "lit:0CF7B0"
   ],
   "jp": "しゅうりょう‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Finished!!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -802,8 +802,8 @@
    "tab:7F66CC"
   ],
   "jp": "ほのおのほこら<end>",
-  "en": "",
-  "status": "",
+  "en": "Flame Shrine<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -814,8 +814,8 @@
    "tab:7F66D0"
   ],
   "jp": "こおにのもり<end>",
-  "en": "",
-  "status": "",
+  "en": "Imp Forest<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -826,8 +826,8 @@
    "tab:7F66D4"
   ],
   "jp": "しずかなこうげん<end>",
-  "en": "",
-  "status": "",
+  "en": "Quiet Plateau<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -838,8 +838,8 @@
    "tab:7F66D8"
   ],
   "jp": "にんぎょのたき<end>",
-  "en": "",
-  "status": "",
+  "en": "Mermaid Falls<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -850,8 +850,8 @@
    "tab:7F66DC"
   ],
   "jp": "ふしぎないずみ<end>",
-  "en": "",
-  "status": "",
+  "en": "Odd Fountain<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -862,8 +862,8 @@
    "tab:7F66E0"
   ],
   "jp": "くらきぬま<end>",
-  "en": "",
-  "status": "",
+  "en": "Dim Swamp<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -874,8 +874,8 @@
    "tab:7F66E4"
   ],
   "jp": "ようがんどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Lava Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -886,8 +886,8 @@
    "tab:7F66E8"
   ],
   "jp": "もえさかるやま<end>",
-  "en": "",
-  "status": "",
+  "en": "Blazing Peak<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -898,8 +898,8 @@
    "tab:7F66EC"
   ],
   "jp": "かわいたこうや<end>",
-  "en": "",
-  "status": "",
+  "en": "Dry Wastes<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -910,8 +910,8 @@
    "tab:7F66F0"
   ],
   "jp": "ふるびたはいこう<end>",
-  "en": "",
-  "status": "",
+  "en": "Old Mine<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -922,8 +922,8 @@
    "tab:7F66F4"
   ],
   "jp": "まどわしのもり<end>",
-  "en": "",
-  "status": "",
+  "en": "Lost Forest<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -934,8 +934,8 @@
    "tab:7F66F8"
   ],
   "jp": "ここうのやま<end>",
-  "en": "",
-  "status": "",
+  "en": "Lone Peak<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -946,8 +946,8 @@
    "tab:7F66FC"
   ],
   "jp": "やまのふうけつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Peak Wind Hole<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -958,8 +958,8 @@
    "tab:7F6700"
   ],
   "jp": "てんくうのとう<end>",
-  "en": "",
-  "status": "",
+  "en": "Sky Tower<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -970,8 +970,8 @@
    "tab:7F6704"
   ],
   "jp": "せいじゃくのおか<end>",
-  "en": "",
-  "status": "",
+  "en": "Still Hill<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -982,8 +982,8 @@
    "tab:7F6708"
   ],
   "jp": "こごえるどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Frozen Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -994,8 +994,8 @@
    "tab:7F670C"
   ],
   "jp": "うみべのみずうみ<end>",
-  "en": "",
-  "status": "",
+  "en": "Seaside Lake<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1006,8 +1006,8 @@
    "tab:7F6710"
   ],
   "jp": "にじのたき<end>",
-  "en": "",
-  "status": "",
+  "en": "Rainbow Falls<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1018,8 +1018,8 @@
    "tab:7F6714"
   ],
   "jp": "かがやくしんでん<end>",
-  "en": "",
-  "status": "",
+  "en": "Shining Temple<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1030,8 +1030,8 @@
    "tab:7F6718"
   ],
   "jp": "かなでるいずみ<end>",
-  "en": "",
-  "status": "",
+  "en": "Song Fountain<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1042,8 +1042,8 @@
    "tab:7F671C"
   ],
   "jp": "くずれたしんでん<end>",
-  "en": "",
-  "status": "",
+  "en": "Ruined Temple<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1054,8 +1054,8 @@
    "tab:7F6720"
   ],
   "jp": "あやしげなぬま<end>",
-  "en": "",
-  "status": "",
+  "en": "Eerie Swamp<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1066,8 +1066,8 @@
    "tab:7F6724"
   ],
   "jp": "さびれたどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Bleak Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1078,8 +1078,8 @@
    "tab:7F6728"
   ],
   "jp": "ぶきみなどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Creepy Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1090,8 +1090,8 @@
    "tab:7F672C"
   ],
   "jp": "かざんのどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Volcano Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1102,8 +1102,8 @@
    "tab:7F6730"
   ],
   "jp": "もえつきたやま<end>",
-  "en": "",
-  "status": "",
+  "en": "Burnt Peak<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1114,8 +1114,8 @@
    "tab:7F6734"
   ],
   "jp": "うみべのさきゅう<end>",
-  "en": "",
-  "status": "",
+  "en": "Beach Dunes<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1126,8 +1126,8 @@
    "tab:7F6738"
   ],
   "jp": "くずれたはいこう<end>",
-  "en": "",
-  "status": "",
+  "en": "Caved-in Mine<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1138,8 +1138,8 @@
    "tab:7F673C"
   ],
   "jp": "いしくれのもり<end>",
-  "en": "",
-  "status": "",
+  "en": "Stone Forest<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1150,8 +1150,8 @@
    "tab:7F6740"
   ],
   "jp": "おたけびのやま<end>",
-  "en": "",
-  "status": "",
+  "en": "Howling Peak<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1162,8 +1162,8 @@
    "tab:7F6744"
   ],
   "jp": "ゆきのどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Snow Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1174,8 +1174,8 @@
    "tab:7F6748"
   ],
   "jp": "くずれたとう<end>",
-  "en": "",
-  "status": "",
+  "en": "Fallen Tower<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1186,8 +1186,8 @@
    "tab:7F674C"
   ],
   "jp": "さついのくさむら<end>",
-  "en": "",
-  "status": "",
+  "en": "Deadly Grass<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1198,8 +1198,8 @@
    "tab:7F6750"
   ],
   "jp": "うみべのどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Shore Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1210,8 +1210,8 @@
    "tab:7F6754"
   ],
   "jp": "きりのみずうみ<end>",
-  "en": "",
-  "status": "",
+  "en": "Foggy Lake<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1222,8 +1222,8 @@
    "tab:7F6758"
   ],
   "jp": "せいりゅうのたき<end>",
-  "en": "",
-  "status": "",
+  "en": "Clear Falls<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1234,8 +1234,8 @@
    "tab:7F675C"
   ],
   "jp": "ようせいのいずみ<end>",
-  "en": "",
-  "status": "",
+  "en": "Fairy Fountain<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1246,8 +1246,8 @@
    "tab:7F6760"
   ],
   "jp": "しりょうのぬま<end>",
-  "en": "",
-  "status": "",
+  "en": "Ghost Swamp<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1258,8 +1258,8 @@
    "tab:7F6764"
   ],
   "jp": "ちいさなしんでん<end>",
-  "en": "",
-  "status": "",
+  "en": "Small Temple<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1270,8 +1270,8 @@
    "tab:7F6768"
   ],
   "jp": "しろのしんでん<end>",
-  "en": "",
-  "status": "",
+  "en": "White Temple<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1282,8 +1282,8 @@
    "tab:7F676C"
   ],
   "jp": "くろのしんでん<end>",
-  "en": "",
-  "status": "",
+  "en": "Black Temple<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1294,8 +1294,8 @@
    "tab:7F6770"
   ],
   "jp": "あらしのおか<end>",
-  "en": "",
-  "status": "",
+  "en": "Storm Hill<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1306,8 +1306,8 @@
    "tab:7F6774"
   ],
   "jp": "しおのさばく<end>",
-  "en": "",
-  "status": "",
+  "en": "Salt Desert<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1318,8 +1318,8 @@
    "tab:7F6778"
   ],
   "jp": "おにのすむやま<end>",
-  "en": "",
-  "status": "",
+  "en": "Ogre Peak<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1330,8 +1330,8 @@
    "tab:7F677C"
   ],
   "jp": "かいていどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Seabed Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1342,8 +1342,8 @@
    "tab:7F6780"
   ],
   "jp": "ひかりのしんでん<end>",
-  "en": "",
-  "status": "",
+  "en": "Light Temple<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1354,8 +1354,8 @@
    "tab:7F6784"
   ],
   "jp": "くすぶるかざん<end>",
-  "en": "",
-  "status": "",
+  "en": "Ash Volcano<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1366,8 +1366,8 @@
    "tab:7F6788"
   ],
   "jp": "くらいみつりん<end>",
-  "en": "",
-  "status": "",
+  "en": "Dark Jungle<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1378,8 +1378,8 @@
    "tab:7F678C"
   ],
   "jp": "きたかぜのほこら<end>",
-  "en": "",
-  "status": "",
+  "en": "North Shrine<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1390,8 +1390,8 @@
    "tab:7F6790"
   ],
   "jp": "こおりのたき<end>",
-  "en": "",
-  "status": "",
+  "en": "Ice Falls<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1402,8 +1402,8 @@
    "tab:7F6794"
   ],
   "jp": "こがねのしんでん<end>",
-  "en": "",
-  "status": "",
+  "en": "Gold Temple<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1414,8 +1414,8 @@
    "tab:7F6798"
   ],
   "jp": "あくむのしんでん<end>",
-  "en": "",
-  "status": "",
+  "en": "Dread Temple<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1426,8 +1426,8 @@
    "tab:7F679C"
   ],
   "jp": "ぐれんのどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Crimson Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1438,8 +1438,8 @@
    "tab:7F67A0"
   ],
   "jp": "かせきのどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Fossil Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1450,8 +1450,8 @@
    "tab:7F67A4"
   ],
   "jp": "いかずちのとう<end>",
-  "en": "",
-  "status": "",
+  "en": "Thunder Tower<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1462,8 +1462,8 @@
    "tab:7F67A8"
   ],
   "jp": "しんぴのみずうみ<end>",
-  "en": "",
-  "status": "",
+  "en": "Mystic Lake<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1474,8 +1474,8 @@
    "tab:7F67AC"
   ],
   "jp": "いやしのいずみ<end>",
-  "en": "",
-  "status": "",
+  "en": "Healing Spring<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1486,8 +1486,8 @@
    "tab:7F67B0"
   ],
   "jp": "ふもうのどうくつ<end>",
-  "en": "",
-  "status": "",
+  "en": "Barren Cave<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1498,8 +1498,8 @@
    "tab:7F67B4"
   ],
   "jp": "ぎんのへいげん<end>",
-  "en": "",
-  "status": "",
+  "en": "Silver Plain<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1510,8 +1510,8 @@
    "tab:7F67B8"
   ],
   "jp": "とどろくかざん<end>",
-  "en": "",
-  "status": "",
+  "en": "Roaring Volcano<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1522,8 +1522,8 @@
    "tab:7F67BC"
   ],
   "jp": "きょむのしんでん<end>",
-  "en": "",
-  "status": "",
+  "en": "Void Temple<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1534,8 +1534,8 @@
    "tab:7F67C0"
   ],
   "jp": "こおりのみずうみ<end>",
-  "en": "",
-  "status": "",
+  "en": "Ice Lake<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1546,8 +1546,8 @@
    "tab:7F67C4"
   ],
   "jp": "こくうのれいほう<end>",
-  "en": "",
-  "status": "",
+  "en": "Sky Summit<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1558,8 +1558,8 @@
    "tab:7F67C8"
   ],
   "jp": "やみのしんでん<end>",
-  "en": "",
-  "status": "",
+  "en": "Temple of Dark<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1569,8 +1569,8 @@
    "tab:7F69F8"
   ],
   "jp": "さあ<br>\nぼうけんに<br>\nしゅっぱつだ♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Okay,<br>\nlet's head out<br>\non a quest♪<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1580,8 +1580,8 @@
    "tab:7F69FC"
   ],
   "jp": "あいしょうも<br>\nバッチリだし<br>\nレベルひくいしらくしょうだ6<end>",
-  "en": "",
-  "status": "",
+  "en": "Affinity's<br>\nperfect, level's low.<br>\nIt's a breeze!!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1591,8 +1591,8 @@
    "tab:7F6A00"
   ],
   "jp": "あいしょうが<br>\nいいトコだし<br>\nけっこう<br>\nラクちんかな4<end>",
-  "en": "",
-  "status": "",
+  "en": "Affinity's<br>\ngood here,<br>\nso it should be<br>\npretty easy!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1602,8 +1602,8 @@
    "tab:7F6A04"
   ],
   "jp": "レベルはたかいんだけど<br>\nあいしょうが<br>\nいいから<br>\nなんとかなるんじゃないかな6<end>",
-  "en": "",
-  "status": "",
+  "en": "The level's high,<br>\nbut affinity<br>\nis good,<br>\nso we'll manage somehow!!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1613,8 +1613,8 @@
    "tab:7F6A08"
   ],
   "jp": "ここはレベルがひくいから<br>\nカンタンに<br>\nクリアできるとおもうよ6<end>",
-  "en": "",
-  "status": "",
+  "en": "The level's low here,<br>\nso we should<br>\nclear it easily!!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1624,8 +1624,8 @@
    "tab:7F6A0C"
   ],
   "jp": "ボクにピッタリのトコだから<br>\nぼうけんの<br>\nしがいあるよ4<end>",
-  "en": "",
-  "status": "",
+  "en": "This place suits me<br>\nperfectly, so it's<br>\nworth the quest!<end>",
+  "status": "tl",
   "notes": ""
  }
 ]

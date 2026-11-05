@@ -6,8 +6,8 @@
    "tab:7F32F0"
   ],
   "jp": "[FFEC]の攻撃‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] attacks!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -17,8 +17,8 @@
    "tab:7F32F4"
   ],
   "jp": "[FFEE]は道具を使った‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEE] used an item!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -28,8 +28,8 @@
    "tab:7F32F8"
   ],
   "jp": "敵は[FFEF]を使った‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Foe used [FFEF]!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -39,8 +39,8 @@
    "tab:7F32FC"
   ],
   "jp": "[FFEC]は眠っている‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] is asleep!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -50,8 +50,8 @@
    "tab:7F3300"
   ],
   "jp": "[FFEC]は動けない‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] can't move!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -61,8 +61,8 @@
    "tab:7F3304"
   ],
   "jp": "[FFEC]は混乱している‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] is confused!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -72,8 +72,8 @@
    "tab:7F3308"
   ],
   "jp": "[FFEC]は石化している‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] is petrified!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -83,8 +83,8 @@
    "tab:7F330C"
   ],
   "jp": "バトル勝利‼‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Battle won!!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -94,8 +94,8 @@
    "tab:7F3310"
   ],
   "jp": "火のシフトエレメント‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Fire Shift Element!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    "tab:7F3314"
   ],
   "jp": "風のシフトエレメント‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Wind Shift Element!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -116,8 +116,8 @@
    "tab:7F3318"
   ],
   "jp": "水のシフトエレメント‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Water Shift Element!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -127,8 +127,8 @@
    "tab:7F331C"
   ],
   "jp": "土のシフトエレメント‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Earth Shift Element!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -138,8 +138,8 @@
    "tab:7F3320"
   ],
   "jp": "光のシフトエレメント‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Light Shift Element!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -149,8 +149,8 @@
    "tab:7F3324"
   ],
   "jp": "闇のシフトエレメント‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Dark Shift Element!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -160,8 +160,8 @@
    "tab:7F3328"
   ],
   "jp": "無のシフトエレメント‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Null Shift Element!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -171,8 +171,8 @@
    "tab:7F332C"
   ],
   "jp": "火の追加効果‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Fire Bonus Effect!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -182,8 +182,8 @@
    "tab:7F3330"
   ],
   "jp": "火の追加効果‼‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Fire Bonus Effect!!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -193,8 +193,8 @@
    "tab:7F3334"
   ],
   "jp": "風の追加効果‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Wind Bonus Effect!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -204,8 +204,8 @@
    "tab:7F3338"
   ],
   "jp": "風の追加効果‼‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Wind Bonus Effect!!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    "tab:7F333C"
   ],
   "jp": "水の追加効果‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Water Bonus Effect!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -226,8 +226,8 @@
    "tab:7F3340"
   ],
   "jp": "水の追加効果‼‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Water Bonus Effect!!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -237,8 +237,8 @@
    "tab:7F3344"
   ],
   "jp": "土の追加効果‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Earth Bonus Effect!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -248,8 +248,8 @@
    "tab:7F3348"
   ],
   "jp": "土の追加効果‼‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Earth Bonus Effect!!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -259,8 +259,8 @@
    "tab:7F334C"
   ],
   "jp": "光の追加効果‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Light Bonus Effect!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -270,8 +270,8 @@
    "tab:7F3350"
   ],
   "jp": "光の追加効果‼‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Light Bonus Effect!!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -281,8 +281,8 @@
    "tab:7F3354"
   ],
   "jp": "闇の追加効果‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Dark Bonus Effect!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -292,8 +292,8 @@
    "tab:7F3358"
   ],
   "jp": "闇の追加効果‼‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Dark Bonus Effect!!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -303,8 +303,8 @@
    "tab:7F335C"
   ],
   "jp": "サポート効果‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Support Effect!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -314,8 +314,8 @@
    "tab:7F3360"
   ],
   "jp": "[FFEB]の攻撃‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] attacks!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    "tab:7F3364"
   ],
   "jp": "レベルアップ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Level up!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -338,8 +338,8 @@
    "tab:7F3368"
   ],
   "jp": "つうしんエラー‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Link error!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -349,8 +349,8 @@
    "tab:7F336C"
   ],
   "jp": "いけ‼[FFEC]‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Go! [FFEC]!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -360,8 +360,8 @@
    "tab:7F3370"
   ],
   "jp": "カウンター‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Counter!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -371,8 +371,8 @@
    "tab:7F3374"
   ],
   "jp": "敵の攻撃しっぱい‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Foe's attack failed!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -382,8 +382,8 @@
    "tab:7F3378"
   ],
   "jp": "[FFEC]の攻撃ミス‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] missed!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -393,8 +393,8 @@
    "tab:7F337C"
   ],
   "jp": "防御技がはつ動‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Defense skill activated!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -404,8 +404,8 @@
    "tab:7F3380"
   ],
   "jp": "[FFEB]は混乱している‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] is confused!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    "tab:7F3384"
   ],
   "jp": "敵のいれかわり‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Foe switched!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -426,8 +426,8 @@
    "tab:7F3388"
   ],
   "jp": "EXP　[FFC4]かくとく‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Gained [FFC4] EXP!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -438,8 +438,8 @@
    "tab:7F338C"
   ],
   "jp": "バトルにやぶれた・・・<end>",
-  "en": "",
-  "status": "",
+  "en": "You lost the battle...<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -449,8 +449,8 @@
    "tab:7F3390"
   ],
   "jp": "しかえし‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Payback!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -460,8 +460,8 @@
    "tab:7F3394"
   ],
   "jp": "[FFEC]は攻撃手段がない‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] has no attack!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -471,8 +471,8 @@
    "tab:7F3398"
   ],
   "jp": "[FFEB]は攻撃手段がない‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] has no attack!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -482,8 +482,8 @@
    "tab:7F339C"
   ],
   "jp": "[FFEC]は防御のかまえ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] is guarding!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -493,8 +493,8 @@
    "tab:7F33A0"
   ],
   "jp": "[FFEB]は防御のかまえ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] is guarding!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -504,8 +504,8 @@
    "tab:7F33A4"
   ],
   "jp": "[FFEC]は動けない<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] can't move.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    "tab:7F33A8"
   ],
   "jp": "[FFEB]は動けない<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] can't move.<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -526,8 +526,8 @@
    "tab:7F33AC"
   ],
   "jp": "[FFEC]は眠っている‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] is asleep!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -537,8 +537,8 @@
    "tab:7F33B0"
   ],
   "jp": "[FFEB]は眠っている‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] is asleep!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -548,8 +548,8 @@
    "tab:7F33B4"
   ],
   "jp": "[FFEC]はマヒしている‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] is paralyzed!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -559,8 +559,8 @@
    "tab:7F33B8"
   ],
   "jp": "[FFEB]はマヒしている‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] is paralyzed!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -570,8 +570,8 @@
    "tab:7F33BC"
   ],
   "jp": "[FFEC]は石化している‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] is petrified!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -581,8 +581,8 @@
    "tab:7F33C0"
   ],
   "jp": "[FFEB]は石化している‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] is petrified!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -592,8 +592,8 @@
    "tab:7F33C4"
   ],
   "jp": "[FFEC]は混乱している‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] is confused!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -603,8 +603,8 @@
    "tab:7F33C8"
   ],
   "jp": "[FFEC]はにげきれた・・・<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] got away...<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -614,8 +614,8 @@
    "tab:7F33CC"
   ],
   "jp": "[FFEC]は混乱している‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] is confused!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    "tab:7F33D0"
   ],
   "jp": "[FFEB]は混乱している‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] is confused!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -636,8 +636,8 @@
    "tab:7F33D4"
   ],
   "jp": "[FFEB]の攻撃ミス‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] missed!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -647,8 +647,8 @@
    "tab:7F33D8"
   ],
   "jp": "[FFED]はヨワそうだぞ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFED] looks weak!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -658,8 +658,8 @@
    "tab:7F33DC"
   ],
   "jp": "いいしょうぶになりそうだぞ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Looks like a close match!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -669,8 +669,8 @@
    "tab:7F33E0"
   ],
   "jp": "[FFED]は手ごわいぞ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFED] looks tough!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -680,8 +680,8 @@
    "tab:7F33E4"
   ],
   "jp": "キミの勝利‼<end>",
-  "en": "",
-  "status": "",
+  "en": "You won!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -692,8 +692,8 @@
    "tab:7F33E8"
   ],
   "jp": "キミのまけだ…<end>",
-  "en": "",
-  "status": "",
+  "en": "You lost...<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -703,8 +703,8 @@
    "tab:7F33EC"
   ],
   "jp": "[FFED]はこうさんしてきた‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFED] gave up!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    "tab:7F33F0"
   ],
   "jp": "キミはこうさんした…<end>",
-  "en": "",
-  "status": "",
+  "en": "You gave up...<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -770,8 +770,8 @@
    "tab:7F3404"
   ],
   "jp": "[FFEB]出現‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] appeared!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -781,8 +781,8 @@
    "tab:7F3408"
   ],
   "jp": "ダメージ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Damage!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -792,8 +792,8 @@
    "tab:7F340C"
   ],
   "jp": "回復‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Recovered!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -803,8 +803,8 @@
    "tab:7F3410"
   ],
   "jp": "MP　[FFE9]回復‼<end>",
-  "en": "",
-  "status": "",
+  "en": "MP +[FFE9]!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -814,8 +814,8 @@
    "tab:7F3414"
   ],
   "jp": "シフトE　[FFE9]回復‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Shift E +[FFE9]!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    "tab:7F3418"
   ],
   "jp": "自爆‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Self-destruct!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -836,8 +836,8 @@
    "tab:7F341C"
   ],
   "jp": "カウンター‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Counter!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -847,8 +847,8 @@
    "tab:7F3420"
   ],
   "jp": "属性効果バッチリ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Perfect attribute match!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -858,8 +858,8 @@
    "tab:7F3424"
   ],
   "jp": "属性効果イマイチ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Poor attribute match!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -869,8 +869,8 @@
    "tab:7F3428"
   ],
   "jp": "クリティカル‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Critical!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -880,8 +880,8 @@
    "tab:7F342C"
   ],
   "jp": "[FFEC]は眠っている‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] is asleep!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -891,8 +891,8 @@
    "tab:7F3430"
   ],
   "jp": "[FFEC]はめざめた‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] woke up!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -902,8 +902,8 @@
    "tab:7F3434"
   ],
   "jp": "[FFEC]はマヒしている‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] is paralyzed!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -913,8 +913,8 @@
    "tab:7F3438"
   ],
   "jp": "[FFEC]のマヒが解けた‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC]'s paralysis wore off!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -924,8 +924,8 @@
    "tab:7F343C"
   ],
   "jp": "[FFEC]は混乱している‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] is confused!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    "tab:7F3440"
   ],
   "jp": "[FFEC]の混乱が治まった‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] snapped out of it!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -946,8 +946,8 @@
    "tab:7F3444"
   ],
   "jp": "[FFEC]は毒を受けている‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] is poisoned!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -957,8 +957,8 @@
    "tab:7F3448"
   ],
   "jp": "[FFEC]の毒が抜けた‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] shook off poison!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -968,8 +968,8 @@
    "tab:7F344C"
   ],
   "jp": "[FFEC]は石化している‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] is petrified!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -979,8 +979,8 @@
    "tab:7F3450"
   ],
   "jp": "[FFEC]の石化が解けた‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] is no longer stone!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -990,8 +990,8 @@
    "tab:7F3454"
   ],
   "jp": "[FFEC]の封印が解けた‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC]'s seal wore off!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1001,8 +1001,8 @@
    "tab:7F3458"
   ],
   "jp": "打撃技を封印されている‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Strike skills are sealed!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1012,8 +1012,8 @@
    "tab:7F345C"
   ],
   "jp": "魔法技を封印されている‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic skills are sealed!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1023,8 +1023,8 @@
    "tab:7F3460"
   ],
   "jp": "サポート効果を封印されている‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Support effects are sealed!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1034,8 +1034,8 @@
    "tab:7F3464"
   ],
   "jp": "シフトEを封印されている‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Shift E is sealed!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1045,8 +1045,8 @@
    "tab:7F3468"
   ],
   "jp": "[FFEC]の状態異常回復‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC]'s status healed!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1056,8 +1056,8 @@
    "tab:7F346C"
   ],
   "jp": "[FFEC]は瀕死から回復‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] revived!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1067,8 +1067,8 @@
    "tab:7F3470"
   ],
   "jp": "敵レジェンズは逃げた‼<end>",
-  "en": "",
-  "status": "",
+  "en": "The enemy Legendz fled!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1078,8 +1078,8 @@
    "tab:7F3474"
   ],
   "jp": "[FFEE]は逃げた‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEE] fled!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1089,8 +1089,8 @@
    "tab:7F3478"
   ],
   "jp": "逃げられなかった‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Couldn't get away!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1100,8 +1100,8 @@
    "tab:7F347C"
   ],
   "jp": "[FFEB]は倒れた‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] fell!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1111,8 +1111,8 @@
    "tab:7F3480"
   ],
   "jp": "[FFEE]達は全減した…<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEE]'s team was wiped out...<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1122,8 +1122,8 @@
    "tab:7F3484"
   ],
   "jp": "レベルアップ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Level up!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1133,8 +1133,8 @@
    "tab:7F3488"
   ],
   "jp": "新しい技をひらめいた‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Thought up a new skill!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1144,8 +1144,8 @@
    "tab:7F348C"
   ],
   "jp": "[FFEF]を入手‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Got [FFEF]!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1155,8 +1155,8 @@
    "tab:7F3490"
   ],
   "jp": "フィールドが変化‼<end>",
-  "en": "",
-  "status": "",
+  "en": "The field changed!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1166,8 +1166,8 @@
    "tab:7F3494"
   ],
   "jp": "火のエレメントパワーMAX‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Fire Element Power MAX!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1177,8 +1177,8 @@
    "tab:7F3498"
   ],
   "jp": "風のエレメントパワーMAX‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Wind Element Power MAX!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1188,8 +1188,8 @@
    "tab:7F349C"
   ],
   "jp": "水のエレメントパワーMAX‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Water Element Power MAX!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1199,8 +1199,8 @@
    "tab:7F34A0"
   ],
   "jp": "土のエレメントパワーMAX‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Earth Element Power MAX!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1210,8 +1210,8 @@
    "tab:7F34A4"
   ],
   "jp": "光のエレメントパワーMAX‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Light Element Power MAX!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1221,8 +1221,8 @@
    "tab:7F34A8"
   ],
   "jp": "闇のエレメントパワーMAX‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Dark Element Power MAX!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1232,8 +1232,8 @@
    "tab:7F34AC"
   ],
   "jp": "サポート効果‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Support Effect!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1243,8 +1243,8 @@
    "tab:7F34B0"
   ],
   "jp": "火の力‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Fire Power!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1254,8 +1254,8 @@
    "tab:7F34B4"
   ],
   "jp": "土の力‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Earth Power!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1265,8 +1265,8 @@
    "tab:7F34B8"
   ],
   "jp": "風の力‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Wind Power!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1276,8 +1276,8 @@
    "tab:7F34BC"
   ],
   "jp": "水の力‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Water Power!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1287,8 +1287,8 @@
    "tab:7F34C0"
   ],
   "jp": "光の力‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Light Power!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1298,8 +1298,8 @@
    "tab:7F34C4"
   ],
   "jp": "闇の力‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Dark Power!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1309,8 +1309,8 @@
    "tab:7F34C8"
   ],
   "jp": "土防御‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Earth Guard!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1320,8 +1320,8 @@
    "tab:7F34CC"
   ],
   "jp": "風防御‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Wind Guard!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1331,8 +1331,8 @@
    "tab:7F34D0"
   ],
   "jp": "水防御‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Water Guard!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1342,8 +1342,8 @@
    "tab:7F34D4"
   ],
   "jp": "火防御‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Fire Guard!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1353,8 +1353,8 @@
    "tab:7F34D8"
   ],
   "jp": "闇防御‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Dark Guard!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1364,8 +1364,8 @@
    "tab:7F34DC"
   ],
   "jp": "至高の防御‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Best Guard!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1375,8 +1375,8 @@
    "tab:7F34E0"
   ],
   "jp": "火の恵み‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Fire Boon!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1386,8 +1386,8 @@
    "tab:7F34E4"
   ],
   "jp": "土の恵み‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Earth Boon!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1397,8 +1397,8 @@
    "tab:7F34E8"
   ],
   "jp": "風の恵み‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Wind Boon!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1408,8 +1408,8 @@
    "tab:7F34EC"
   ],
   "jp": "水の恵み‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Water Boon!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1419,8 +1419,8 @@
    "tab:7F34F0"
   ],
   "jp": "光の恵み‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Light Boon!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1430,8 +1430,8 @@
    "tab:7F34F4"
   ],
   "jp": "闇の恵み‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Dark Boon!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1441,8 +1441,8 @@
    "tab:7F34F8"
   ],
   "jp": "魔力UP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic Up!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1452,8 +1452,8 @@
    "tab:7F34FC"
   ],
   "jp": "ちからUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Power Up!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1463,8 +1463,8 @@
    "tab:7F3500"
   ],
   "jp": "素早さUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Speed Up!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1474,8 +1474,8 @@
    "tab:7F3504"
   ],
   "jp": "魔防御UP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "M.Def Up!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1485,8 +1485,8 @@
    "tab:7F3508"
   ],
   "jp": "防御UP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Defense Up!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1496,8 +1496,8 @@
    "tab:7F350C"
   ],
   "jp": "攻撃UP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Attack Up!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1507,8 +1507,8 @@
    "tab:7F3510"
   ],
   "jp": "魔法特化‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic Focus!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1518,8 +1518,8 @@
    "tab:7F3514"
   ],
   "jp": "打撃特化‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Strike Focus!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1529,8 +1529,8 @@
    "tab:7F3518"
   ],
   "jp": "素早さ特化‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Speed Focus!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1540,8 +1540,8 @@
    "tab:7F351C"
   ],
   "jp": "魔防御特化‼<end>",
-  "en": "",
-  "status": "",
+  "en": "M.Def Focus!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1551,8 +1551,8 @@
    "tab:7F3520"
   ],
   "jp": "防御特化‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Guard Focus!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1562,8 +1562,8 @@
    "tab:7F3524"
   ],
   "jp": "攻撃特化‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Attack Focus!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1573,8 +1573,8 @@
    "tab:7F3528"
   ],
   "jp": "魔法マスター‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic Master!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1584,8 +1584,8 @@
    "tab:7F352C"
   ],
   "jp": "ちからマスター‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Power Master!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1595,8 +1595,8 @@
    "tab:7F3530"
   ],
   "jp": "素早さマスター‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Speed Master!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1606,8 +1606,8 @@
    "tab:7F3534"
   ],
   "jp": "回復マスター‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Heal Master!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1617,8 +1617,8 @@
    "tab:7F3538"
   ],
   "jp": "防御マスター‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Guard Master!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1628,8 +1628,8 @@
    "tab:7F353C"
   ],
   "jp": "攻撃マスター‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Attack Master!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1639,8 +1639,8 @@
    "tab:7F3540"
   ],
   "jp": "毒無効‼<end>",
-  "en": "",
-  "status": "",
+  "en": "No Poison!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1650,8 +1650,8 @@
    "tab:7F3544"
   ],
   "jp": "マヒ無効‼<end>",
-  "en": "",
-  "status": "",
+  "en": "No Paralyze!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1661,8 +1661,8 @@
    "tab:7F3548"
   ],
   "jp": "混乱無効‼<end>",
-  "en": "",
-  "status": "",
+  "en": "No Confuse!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1672,8 +1672,8 @@
    "tab:7F354C"
   ],
   "jp": "眠り無効‼<end>",
-  "en": "",
-  "status": "",
+  "en": "No Sleep!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1683,8 +1683,8 @@
    "tab:7F3550"
   ],
   "jp": "封印無効‼<end>",
-  "en": "",
-  "status": "",
+  "en": "No Seal!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1694,8 +1694,8 @@
    "tab:7F3554"
   ],
   "jp": "石化無効‼<end>",
-  "en": "",
-  "status": "",
+  "en": "No Petrify!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1707,8 +1707,8 @@
    "tab:7F3558"
   ],
   "jp": "スタートボタンをおしてください<end>",
-  "en": "",
-  "status": "",
+  "en": "Please press the Start Button<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1718,8 +1718,8 @@
    "tab:7F355C"
   ],
   "jp": "MP回復‼<end>",
-  "en": "",
-  "status": "",
+  "en": "MP recovered!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1729,8 +1729,8 @@
    "tab:7F3560"
   ],
   "jp": "シフトE回復‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Shift E recovered!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1751,8 +1751,8 @@
    "tab:7F3568"
   ],
   "jp": "HP　[FFE9]UP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "HP +[FFE9]!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1762,8 +1762,8 @@
    "tab:7F356C"
   ],
   "jp": "シフトE　[FFE9]UP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Shift E +[FFE9]!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1773,8 +1773,8 @@
    "tab:7F3570"
   ],
   "jp": "ちから　[FFE9]UP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Power +[FFE9]!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1784,8 +1784,8 @@
    "tab:7F3574"
   ],
   "jp": "防御力　[FFE9]UP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Defense +[FFE9]!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1795,8 +1795,8 @@
    "tab:7F3578"
   ],
   "jp": "魔力　[FFE9]UP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic +[FFE9]!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1806,8 +1806,8 @@
    "tab:7F357C"
   ],
   "jp": "魔防御　[FFE9]UP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "M.Def +[FFE9]!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1817,8 +1817,8 @@
    "tab:7F3580"
   ],
   "jp": "すばやさ　[FFE9]UP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Speed +[FFE9]!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1828,8 +1828,8 @@
    "tab:7F3584"
   ],
   "jp": "つうしんエラー‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Link error!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1839,8 +1839,8 @@
    "tab:7F3588"
   ],
   "jp": "攻撃しっぱい‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Attack failed!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1850,8 +1850,8 @@
    "tab:7F358C"
   ],
   "jp": "技をはねかえした‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Skill reflected!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1861,8 +1861,8 @@
    "tab:7F3590"
   ],
   "jp": "[FFEA]‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEA]!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1872,8 +1872,8 @@
    "tab:7F3594"
   ],
   "jp": "いりょくダウン‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Power down!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1883,8 +1883,8 @@
    "tab:7F3598"
   ],
   "jp": "[FFEB]は眠っている‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] is asleep!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1894,8 +1894,8 @@
    "tab:7F359C"
   ],
   "jp": "[FFEB]はめざめた‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] woke up!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1905,8 +1905,8 @@
    "tab:7F35A0"
   ],
   "jp": "[FFEB]はマヒしている‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] is paralyzed!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1916,8 +1916,8 @@
    "tab:7F35A4"
   ],
   "jp": "[FFEB]のマヒが解けた‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB]'s paralysis wore off!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1927,8 +1927,8 @@
    "tab:7F35A8"
   ],
   "jp": "[FFEB]は混乱している‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] is confused!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1938,8 +1938,8 @@
    "tab:7F35AC"
   ],
   "jp": "[FFEB]の混乱が治まった‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] snapped out of it!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1949,8 +1949,8 @@
    "tab:7F35B0"
   ],
   "jp": "[FFEB]は毒を受けている‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] is poisoned!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1960,8 +1960,8 @@
    "tab:7F35B4"
   ],
   "jp": "[FFEB]の毒が抜けた‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] shook off poison!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1971,8 +1971,8 @@
    "tab:7F35B8"
   ],
   "jp": "[FFEB]は石化している‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] is petrified!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1982,8 +1982,8 @@
    "tab:7F35BC"
   ],
   "jp": "[FFEB]の石化が解けた‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] is no longer stone!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -1993,8 +1993,8 @@
    "tab:7F35C0"
   ],
   "jp": "[FFEB]の封印が解けた‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB]'s seal wore off!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2004,8 +2004,8 @@
    "tab:7F35C4"
   ],
   "jp": "[FFEC]は動けない‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] can't move!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2015,8 +2015,8 @@
    "tab:7F35C8"
   ],
   "jp": "[FFEB]は動けない‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] can't move!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2026,8 +2026,8 @@
    "tab:7F35CC"
   ],
   "jp": "[FFEC]は動けるようになった‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC] can move again!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2037,8 +2037,8 @@
    "tab:7F35D0"
   ],
   "jp": "[FFEB]は動けるようになった‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEB] can move again!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2048,8 +2048,8 @@
    "tab:7F35D4"
   ],
   "jp": "回復効果のじぞく‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Healing effect lasts!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2059,8 +2059,8 @@
    "tab:7F35D8"
   ],
   "jp": "オールエレメントパワーMAX‼<end>",
-  "en": "",
-  "status": "",
+  "en": "All Element Power MAX!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2070,8 +2070,8 @@
    "tab:7F35DC"
   ],
   "jp": "クリティカル率UP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Critical rate up!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2081,8 +2081,8 @@
    "tab:7F35E0"
   ],
   "jp": "命中率UP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Accuracy up!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2092,8 +2092,8 @@
    "tab:7F35E4"
   ],
   "jp": "[FFEC]たちは回復した‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC]'s team recovered!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2103,8 +2103,8 @@
    "tab:7F35E8"
   ],
   "jp": "[FFEC]たちは全回復した‼<end>",
-  "en": "",
-  "status": "",
+  "en": "[FFEC]'s team fully healed!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2117,8 +2117,8 @@
    "tab:7F35EC"
   ],
   "jp": "あたらしいワザを　ひらめいたみたい<br>\nリボーンして　ワザをおぼえなきゃ！<page>\n",
-  "en": "",
-  "status": "",
+  "en": "New skill!<br>\nReborn to learn it!<page>\n",
+  "status": "tl",
   "notes": "",
   "speaker": [
    "プレイヤー"
@@ -2131,8 +2131,8 @@
    "tab:7F35F0"
   ],
   "jp": "敵はにげられなかった‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Foe couldn't get away!<end>",
+  "status": "tl",
   "notes": ""
  },
  {
@@ -2144,8 +2144,8 @@
    "tab:7F35F4"
   ],
   "jp": "ROUND　[FFE9]　<end>",
-  "en": "",
-  "status": "",
+  "en": "ROUND [FFE9]<end>",
+  "status": "tl",
   "notes": ""
  },
  {

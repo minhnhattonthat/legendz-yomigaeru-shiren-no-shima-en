@@ -186,7 +186,7 @@ def problems(en, copies, bud, w):
         out.append("suffix or article on a variable")
     if jp.startswith("●") != en.startswith("●"):
         out.append("label bead")
-    if "  " in en and "　　" not in jp:
+    if "  " in en and "　　" not in jp and not re.search(r"(^|\n)　", jp) and copies[0][1]["id"] not in insert.SINGLE_WORDS:  # a Japanese row that starts on a blank is a choice row, spaced on purpose; the name grid's blanks are cells
         out.append("double space")
     px, rows, known = limit(copies, bud)
     blocks = {b for b, _ in copies}

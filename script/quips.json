@@ -6,8 +6,8 @@
    "tab:7F6A10"
   ],
   "jp": "ここはレベルがたかいから<br>\nチョットだけ<br>\nピンチって<br>\nカンジかな！<end>",
-  "en": "",
-  "status": "",
+  "en": "The level's high here,<br>\nso it could<br>\nbe a little<br>\nbit of a pinch!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -18,8 +18,8 @@
    "tab:7F6A14"
   ],
   "jp": "ここ…ホントはあいしょうが<br>\nわるいけど…<br>\nまぁ、いいか！レベルもわりとひくめだし！<end>",
-  "en": "",
-  "status": "",
+  "en": "Actually... affinity's<br>\nbad here...<br>\nOh well! The level's fairly low!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -30,8 +30,8 @@
    "tab:7F6A18"
   ],
   "jp": "でも…<br>\nなんでボクが<br>\nこんなキケンなトコをぼうけんしなきゃなんないの～<end>",
-  "en": "",
-  "status": "",
+  "en": "But...<br>\nwhy do I have to<br>\ngo on such a dangerous quest~<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -42,8 +42,8 @@
    "tab:7F6A1C"
   ],
   "jp": "…って<br>\nウキウキしてるばあいじゃないよ～さいあくのトコだよ～<end>",
-  "en": "",
-  "status": "",
+  "en": "...Wait,<br>\nthis is no time for fun~ This is the worst place~<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -54,8 +54,8 @@
    "tab:7F6A20"
   ],
   "jp": "ここって<br>\nもうダレかが<br>\nクリアしてる<br>\nトコだから<br>\nそういったイミではあんしん♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Someone has<br>\nalready<br>\ncleared this<br>\nplace,<br>\nso in that way, it's safe♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -66,8 +66,8 @@
    "tab:7F6A24"
   ],
   "jp": "そういえば<br>\nここってまだ<br>\nダレもクリア<br>\nしてないんだよね…<end>",
-  "en": "",
-  "status": "",
+  "en": "Come to think of it,<br>\nnobody's cleared<br>\nthis place<br>\nyet...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -78,8 +78,8 @@
    "tab:7F6A28"
   ],
   "jp": "あ～あ<br>\nなんかくらくてせまくてイヤなカンジ…<br>\nはやくおわらせちゃいたいなぁ<end>",
-  "en": "",
-  "status": "",
+  "en": "Ahh...<br>\nit's dark and cramped and creepy...<br>\nI want to get this over with.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -90,8 +90,8 @@
    "tab:7F6A2C"
   ],
   "jp": "…ん？<br>\nそろそろ<br>\nこのどうくつもおわりかな？<br>\nいきどまりが<br>\nみえてきたよ！<end>",
-  "en": "",
-  "status": "",
+  "en": "...Huh?<br>\nIs this the end<br>\nof the cave now?<br>\nI can see<br>\na dead end!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -102,8 +102,8 @@
    "tab:7F6A30"
   ],
   "jp": "うわ～やっぱりなんかいたよ‼たたかうしかないの～？<end>",
-  "en": "",
-  "status": "",
+  "en": "Whoa~ I knew something was here!! Do we have to fight~?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -114,8 +114,8 @@
    "tab:7F6A34"
   ],
   "jp": "ん～<br>\nもりのニオイがいいカンジ♪<br>\nなんとなく<br>\nいやされるなぁ<end>",
-  "en": "",
-  "status": "",
+  "en": "Mmm~<br>\nThe forest smells nice♪<br>\nSomehow<br>\nit's so relaxing.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -126,8 +126,8 @@
    "tab:7F6A38"
   ],
   "jp": "あ！<br>\nむこうにナニかいるみたい！<end>",
-  "en": "",
-  "status": "",
+  "en": "Ah!<br>\nSomething's over there!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -138,8 +138,8 @@
    "tab:7F6A3C"
   ],
   "jp": "でたな～！<br>\nよ～しボクが<br>\nアイテだよ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "There you are~!<br>\nAll right,<br>\nI'm your opponent!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -150,8 +150,8 @@
    "tab:7F6A40"
   ],
   "jp": "わ～い♪<br>\nやまのぼりってたのしいかも♪あ…<br>\nおべんとうを<br>\nもってくるの<br>\nわすれちゃった<end>",
-  "en": "",
-  "status": "",
+  "en": "Yay♪<br>\nMountain climbing might be fun♪ Oh...<br>\nmy lunch...<br>\nI forgot<br>\nto bring it.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -162,8 +162,8 @@
    "tab:7F6A44"
   ],
   "jp": "ふぅ～<br>\nようやく<br>\nてっぺんが<br>\nみえてきたよ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Phew~<br>\nAt last<br>\nthe summit<br>\nis in sight!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -174,8 +174,8 @@
    "tab:7F6A48"
   ],
   "jp": "いるとおもってたよ！<br>\nキミがココの<br>\nボスだね‼<end>",
-  "en": "",
-  "status": "",
+  "en": "I knew you'd be here!<br>\nYou're this place's<br>\nboss, right!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -186,8 +186,8 @@
    "tab:7F6A4C"
   ],
   "jp": "うわ～<br>\nここってすごくムシムシする～これがサウナってやつ？<end>",
-  "en": "",
-  "status": "",
+  "en": "Whoa~<br>\nit's so muggy here~ Is this what they call a sauna?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -198,8 +198,8 @@
    "tab:7F6A50"
   ],
   "jp": "なんかフンイキかわってきた<br>\nみたいだけど…<end>",
-  "en": "",
-  "status": "",
+  "en": "Seems like the mood<br>\nis changing...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -210,8 +210,8 @@
    "tab:7F6A54"
   ],
   "jp": "でた～！<br>\nキミをたおせばクリアだね‼<end>",
-  "en": "",
-  "status": "",
+  "en": "There you are~!<br>\nBeat you and it's clear, right!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -222,8 +222,8 @@
    "tab:7F6A58"
   ],
   "jp": "う～ん<br>\nあたりいちめんまっかっかだ！なんだか<br>\nもえてきたよ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Mmmm<br>\nit's all bright red around here! Somehow<br>\nI'm fired up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -234,8 +234,8 @@
    "tab:7F6A5C"
   ],
   "jp": "そろそろボスがでてきそうな<br>\nカンジだよ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Feels like a boss<br>\nis about to show up...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -246,8 +246,8 @@
    "tab:7F6A60"
   ],
   "jp": "…ておもったらやっぱりだよ！いくぞ～‼<end>",
-  "en": "",
-  "status": "",
+  "en": "...And I knew it! Here I go~!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -258,8 +258,8 @@
    "tab:7F6A64"
   ],
   "jp": "あたりいちめんすなだらけで<br>\nホコリっぽいよマスクをもってくればよかったかも…<end>",
-  "en": "",
-  "status": "",
+  "en": "Sand everywhere,<br>\nand so dusty. I should've brought a mask...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -270,8 +270,8 @@
    "tab:7F6A68"
   ],
   "jp": "そろそろ<br>\nつかれてきた…はやくでてきてくれないかなぁ<end>",
-  "en": "",
-  "status": "",
+  "en": "Getting<br>\ntired now... Couldn't you come out soon?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -282,8 +282,8 @@
    "tab:7F6A6C"
   ],
   "jp": "きたー！<br>\nまってました♪サクッと<br>\nおわらせちゃおうかな‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Here we go!<br>\nI was waiting♪ Let's wrap<br>\nthis up fast!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -294,8 +294,8 @@
    "tab:7F6A70"
   ],
   "jp": "このどうくつ<br>\nジメジメした<br>\nカンジだね…<br>\nうひゃあ！<br>\nボクのせなかにすいてきが！<end>",
-  "en": "",
-  "status": "",
+  "en": "This cave<br>\nfeels<br>\ndamp...<br>\nYikes!<br>\nA water drop on my back!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -306,8 +306,8 @@
    "tab:7F6A74"
   ],
   "jp": "このばしょも<br>\nそろそろおわりがちかづいてきたかな？<end>",
-  "en": "",
-  "status": "",
+  "en": "This place<br>\nshould be ending soon, right?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -318,8 +318,8 @@
    "tab:7F6A78"
   ],
   "jp": "うわ～<br>\nこんなのと<br>\nたたかわなきゃならないの～<end>",
-  "en": "",
-  "status": "",
+  "en": "Whoa~<br>\nI have to fight<br>\nsomething like this~<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -330,8 +330,8 @@
    "tab:7F6A7C"
   ],
   "jp": "う～ん…ここはすがすがしくてキレイだね♪<br>\nイヤなこととかわすれちゃいそうだよ♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Mmm... it's so fresh and pretty here♪<br>\nI could forget all my troubles♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -342,8 +342,8 @@
    "tab:7F6A80"
   ],
   "jp": "こんなにキモチいいトコなのにまたヘンなのがいるんでしょ？<end>",
-  "en": "",
-  "status": "",
+  "en": "Such a nice place, and I bet another weirdo's here, right?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -354,8 +354,8 @@
    "tab:7F6A84"
   ],
   "jp": "キミはここにはふさわしくないよ！<br>\nかくごして‼<end>",
-  "en": "",
-  "status": "",
+  "en": "You don't belong here!<br>\nGet ready!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -366,8 +366,8 @@
    "tab:7F6A88"
   ],
   "jp": "ん～<br>\nさわやかな<br>\nキブンだなぁ♪おもわず<br>\nぼうけんちゅうということを<br>\nわすれそう♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Mmm~<br>\nSuch a<br>\nfresh feeling♪ I could<br>\nalmost forget I'm<br>\non a quest♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -378,8 +378,8 @@
    "tab:7F6A8C"
   ],
   "jp": "…あ！<br>\nあそこにいるのここのボス？<br>\nよ～し…<end>",
-  "en": "",
-  "status": "",
+  "en": "...Ah!<br>\nIs that this place's boss over there?<br>\nAll right...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -390,8 +390,8 @@
    "tab:7F6A90"
   ],
   "jp": "キミ！<br>\nひとりじめは<br>\nダメだよ！<br>\nでていってもらうからね‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Hey, you!<br>\nNo hogging<br>\nallowed!<br>\nYou're out of here!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -402,8 +402,8 @@
    "tab:7F6A94"
   ],
   "jp": "ここって<br>\nカゼぞくせい<br>\nだけあって<br>\nすごくカゼが<br>\nつよいよ！<br>\nとばされないようにきをつけなきゃ！<end>",
-  "en": "",
-  "status": "",
+  "en": "This place<br>\nis Wind<br>\nattribute,<br>\nso the wind<br>\nis really strong!<br>\nCareful not to get blown away!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -414,8 +414,8 @@
    "tab:7F6A98"
   ],
   "jp": "さっきから<br>\nあるきどうしでつかれちゃったよ～<end>",
-  "en": "",
-  "status": "",
+  "en": "I've been<br>\nwalking all this time and I'm tired~<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -426,8 +426,8 @@
    "tab:7F6A9C"
   ],
   "jp": "キミがさいごのボス？<br>\nよかった～<br>\nここでおしまいだね！<end>",
-  "en": "",
-  "status": "",
+  "en": "You're the last boss?<br>\nGreat~<br>\nThis is the end!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -438,8 +438,8 @@
    "tab:7F6AA0"
   ],
   "jp": "う～んなんだか「とう」って<br>\nカンジしないねそとのけしきがみえないから？<end>",
-  "en": "",
-  "status": "",
+  "en": "Hmm, this doesn't feel<br>\nlike a \"tower\" at all. Because I can't see outside?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -450,8 +450,8 @@
    "tab:7F6AA4"
   ],
   "jp": "あ…<br>\nいきどまりの<br>\nトビラがある！あそこが<br>\nさいじょうかいだね！<end>",
-  "en": "",
-  "status": "",
+  "en": "Ah...<br>\nThere's a door<br>\nat the dead end! That must<br>\nbe the top floor!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -462,8 +462,8 @@
    "tab:7F6AA8"
   ],
   "jp": "キミをたおせばぼうけんは<br>\nクリアだよ！<br>\nがんばるぞ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Beat you and the quest<br>\nis cleared!<br>\nHere I go!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -474,8 +474,8 @@
    "tab:7F6AAC"
   ],
   "jp": "ん～～～<br>\nみどりの<br>\nやさしいニオイがするね♪<br>\nおひるねしたいキブンだよ♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Mmmm~<br>\nA gentle,<br>\ngreen smell♪<br>\nI feel like taking a nap♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -486,8 +486,8 @@
    "tab:7F6AB0"
   ],
   "jp": "こういうトコはボスのいるへやとかがないからとまどうよね…<end>",
-  "en": "",
-  "status": "",
+  "en": "Places like this have no boss room, so it's confusing...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -498,8 +498,8 @@
    "tab:7F6AB4"
   ],
   "jp": "…っていってるそばから<br>\nいきなりボスのとうじょう⁉<end>",
-  "en": "",
-  "status": "",
+  "en": "...And the moment I say that,<br>\na boss shows up!?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -510,8 +510,8 @@
    "tab:7F6AB8"
   ],
   "jp": "ここは<br>\nヒカリぞくせいのばしょだね…ふ～<br>\nなんだか<br>\nきんちょう<br>\nしちゃうよ…<end>",
-  "en": "",
-  "status": "",
+  "en": "This is a<br>\nLight attribute place... Phew~<br>\nSomehow<br>\nI'm getting<br>\nnervous...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -522,8 +522,8 @@
    "tab:7F6ABC"
   ],
   "jp": "ヒカリぞくせいのボスって<br>\nどんなヒトなのかなぁ…<br>\nいいヒトだと<br>\nいいなぁ…<end>",
-  "en": "",
-  "status": "",
+  "en": "I wonder what a Light<br>\nattribute boss is like...<br>\nI hope they're<br>\nnice...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -534,8 +534,8 @@
    "tab:7F6AC0"
   ],
   "jp": "え～⁉<br>\nやっぱり<br>\nたたかうの⁉<br>\nしれんなの⁉<end>",
-  "en": "",
-  "status": "",
+  "en": "Whaaat!?<br>\nWe have to<br>\nfight after all!?<br>\nIs this a trial!?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -546,8 +546,8 @@
    "tab:7F6AC4"
   ],
   "jp": "う～ん<br>\nふつうっぽい<br>\nトコだけど…<br>\nヒカリぞくせいだけあって<br>\nフシギなフンイキがするよね…<end>",
-  "en": "",
-  "status": "",
+  "en": "Hmm,<br>\nseems like an<br>\nordinary spot...<br>\nBut, Light attribute<br>\ngives it a mysterious feel...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -558,8 +558,8 @@
    "tab:7F6AC8"
   ],
   "jp": "かならずさいごボスがいるけどあれって<br>\nあそこでずっとまってるの⁉<end>",
-  "en": "",
-  "status": "",
+  "en": "There's always a boss at the end, but<br>\ndo they just wait there all day!?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -570,8 +570,8 @@
    "tab:7F6ACC"
   ],
   "jp": "おまたせ！<br>\nさあ<br>\nちょうせんしゃとうじょうだよ<end>",
-  "en": "",
-  "status": "",
+  "en": "Sorry to keep you!<br>\nNow,<br>\nhere comes the challenger!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -582,8 +582,8 @@
    "tab:7F6AD0"
   ],
   "jp": "う～んいかにもヤミってニオイプンプンだね～ビビッちゃう…<end>",
-  "en": "",
-  "status": "",
+  "en": "Hmm, this place reeks of Dark~ It's freaking me out...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -594,8 +594,8 @@
    "tab:7F6AD4"
   ],
   "jp": "ヤミのボス…<br>\nきっとすごく<br>\nおそろしいヤツなんだろうな…<end>",
-  "en": "",
-  "status": "",
+  "en": "The boss of Dark...<br>\nmust be really<br>\nhorrible...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -606,8 +606,8 @@
    "tab:7F6AD8"
   ],
   "jp": "あれ？<br>\nそうぞうよりはマシかも！<br>\nよかった～♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Huh?<br>\nIt's better than I imagined!<br>\nPhew~♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -618,8 +618,8 @@
    "tab:7F6ADC"
   ],
   "jp": "う…<br>\nここってなんかイヤなカンジ…ヘンなニオイもするし…<br>\nかえりたいよ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Ugh...<br>\nthis place feels bad... There's a weird smell too...<br>\nI want to go home...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -630,8 +630,8 @@
    "tab:7F6AE0"
   ],
   "jp": "ボスにあうの<br>\nイヤだなぁ～<br>\nバトルじゃなくちがうイミで…<end>",
-  "en": "",
-  "status": "",
+  "en": "I don't want to<br>\nmeet the boss~<br>\nNot for the battle, in another way...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -642,8 +642,8 @@
    "tab:7F6AE4"
   ],
   "jp": "うわ～<br>\nとうとうでた‼かえっていい⁉<end>",
-  "en": "",
-  "status": "",
+  "en": "Whoa~<br>\nIt finally showed up!! Can I go home!?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -654,8 +654,8 @@
    "tab:7F6AE8"
   ],
   "jp": "へぇ…<br>\nこんなトコが<br>\nあるんだね～<br>\nここからは<br>\nぞくせいの<br>\nチカラをなにもかんじないよ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Huh...<br>\nSo there are<br>\nplaces like this~<br>\nI can't feel<br>\nany attribute<br>\npower at all from here!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -666,8 +666,8 @@
    "tab:7F6AEC"
   ],
   "jp": "こんなトコにいるボスだから<br>\nコセイのない<br>\nヤツなんじゃ<br>\nないかな？<end>",
-  "en": "",
-  "status": "",
+  "en": "With a boss in a place like this,<br>\nit might have<br>\nno personality<br>\nat all?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -678,8 +678,8 @@
    "tab:7F6AF0"
   ],
   "jp": "うわっ<br>\nそんなこと<br>\nなかったよ！<br>\nじゅうぶん<br>\nコセイてき‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Whoa,<br>\nI was<br>\nwrong!<br>\nThat's plenty<br>\nof personality!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -690,8 +690,8 @@
    "tab:7F6AF4"
   ],
   "jp": "う～んいかにもどうくつって<br>\nカンジだね！<br>\nどうくついがいのなにものでもないね！<end>",
-  "en": "",
-  "status": "",
+  "en": "Hmm, this really feels<br>\nlike a cave!<br>\nIt couldn't be anything but a cave!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -702,8 +702,8 @@
    "tab:7F6AF8"
   ],
   "jp": "いつまでも<br>\nかわりばえしないふうけいだね<end>",
-  "en": "",
-  "status": "",
+  "en": "The scenery just<br>\nnever changes.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -714,8 +714,8 @@
    "tab:7F6AFC"
   ],
   "jp": "あ～あ<br>\nさいごまで<br>\nおなじふうけいだったよ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Ahh...<br>\nIt was the same<br>\nscenery to the end...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -726,8 +726,8 @@
    "tab:7F6B00"
   ],
   "jp": "いいカンジでぼうけんしてたらいきなりテキがおそってきたよそういう<br>\nヒドイやつは<br>\nかえりうちに<br>\nしたけどね‼<end>",
-  "en": "",
-  "status": "",
+  "en": "The quest was going great, then a foe jumped me. I<br>\nsent that nasty<br>\nguy packing<br>\nright away!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -738,8 +738,8 @@
    "tab:7F6B04"
   ],
   "jp": "いいカンジでぼうけんしてたらテキがあらわれたよ！<br>\nバトルけっかはもちろんボクのかちだよ♪<end>",
-  "en": "",
-  "status": "",
+  "en": "The quest was going great, then a foe appeared!<br>\nNaturally, I won the battle♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -750,8 +750,8 @@
    "tab:7F6B08"
   ],
   "jp": "いいカンジでぼうけんしてたらテキはっけん‼うぷぷ♪<br>\nうしろから<br>\nキツ～イいちげきをおみまいしてやったよ♪<end>",
-  "en": "",
-  "status": "",
+  "en": "The quest was going great, then I spotted a foe!! Heh♪<br>\nI hit it from<br>\nbehind with a hard blow♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -762,8 +762,8 @@
    "tab:7F6B0C"
   ],
   "jp": "いいカンジでぼうけんしてたらテキとであったよ！<br>\nアイサツして<br>\nわかれたけど<br>\nなかなかいい<br>\nヤツだったな♪<end>",
-  "en": "",
-  "status": "",
+  "en": "The quest was going great, then I met a foe!<br>\nWe said hello<br>\nand parted.<br>\nSeemed like a<br>\nnice guy♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -774,8 +774,8 @@
    "tab:7F6B10"
   ],
   "jp": "いいカンジでぼうけんしてたらテキがあらわれたんだ！<br>\nヤバかったね！もんどうむようてカンジだったよ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "The quest was going great, then a foe appeared!<br>\nIt was bad! No talking my way out of it!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -786,8 +786,8 @@
    "tab:7F6B14"
   ],
   "jp": "いいカンジでぼうけんしてたらテキとであったよ！<br>\nジッとみてたらにげちゃったよヘンなやつ！<end>",
-  "en": "",
-  "status": "",
+  "en": "The quest was going great, then I met a foe!<br>\nI stared at it and it ran off. Weirdo!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -798,8 +798,8 @@
    "tab:7F6B18"
   ],
   "jp": "いいカンジでぼうけんしてたらテキがあらわれたよ！<br>\n…とおもったらにげちゃった！それなら<br>\nでてこないで<br>\nほしいよね！<end>",
-  "en": "",
-  "status": "",
+  "en": "The quest was going great, then a foe appeared!<br>\n...And it ran off! Then<br>\nI wish it<br>\nwouldn't show up!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -810,8 +810,8 @@
    "tab:7F6B1C"
   ],
   "jp": "すすんでたら<br>\nイズミをはっけんしたよ！<end>",
-  "en": "",
-  "status": "",
+  "en": "As I went on,<br>\nI found a spring!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -822,8 +822,8 @@
    "tab:7F6B20"
   ],
   "jp": "ボク、おミズがダイスキなんだよね～♪<br>\nゴクゴク<br>\nのんじゃった♪<end>",
-  "en": "",
-  "status": "",
+  "en": "I just love water~♪<br>\nI drank up<br>\nbig gulps♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -834,8 +834,8 @@
    "tab:7F6B24"
   ],
   "jp": "ボク、おミズはちょっとニガテなんだよね～<br>\nそのままとおりすぎちゃった★<end>",
-  "en": "",
-  "status": "",
+  "en": "I'm not so great with water~<br>\nI just walked on by★<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -846,8 +846,8 @@
    "tab:7F6B28"
   ],
   "jp": "ちょっとノドがかわいてたからヒトクチのんでひとやすみ…<end>",
-  "en": "",
-  "status": "",
+  "en": "I was a bit thirsty, so I took a sip and a break...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -858,8 +858,8 @@
    "tab:7F6B2C"
   ],
   "jp": "すすんでたら<br>\nおおきなきを<br>\nはっけん！<end>",
-  "en": "",
-  "status": "",
+  "en": "As I went on,<br>\nI found a<br>\nbig tree!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -870,8 +870,8 @@
    "tab:7F6B30"
   ],
   "jp": "ボク、きのカゲダイスキなんだよね～♪<br>\nモチロン<br>\nひとやすみさ♪<end>",
-  "en": "",
-  "status": "",
+  "en": "I just love tree shade~♪<br>\nOf course,<br>\nI took a break♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -882,8 +882,8 @@
    "tab:7F6B34"
   ],
   "jp": "ボク、ハッパのニオイはニガテなんだよね～<br>\nそのままとおりすぎちゃった★<end>",
-  "en": "",
-  "status": "",
+  "en": "I'm not so great with the leaf smell~<br>\nI just walked on by★<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -894,8 +894,8 @@
    "tab:7F6B38"
   ],
   "jp": "つかれてたからきのカゲで<br>\nきゅうけい<br>\nしちゃった★<end>",
-  "en": "",
-  "status": "",
+  "en": "I was tired, so I took<br>\na break in the<br>\nshade★<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -906,8 +906,8 @@
    "tab:7F6B3C"
   ],
   "jp": "すすんでたら<br>\nパチパチとヒがもえてるトコをはっけん！<end>",
-  "en": "",
-  "status": "",
+  "en": "As I went on,<br>\nI found a fire crackling away!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -918,8 +918,8 @@
    "tab:7F6B40"
   ],
   "jp": "ボク、あついのダイスキなんだよね～♪<br>\nなんかゲンキがわいてきたよ♪<end>",
-  "en": "",
-  "status": "",
+  "en": "I just love the heat~♪<br>\nI feel full of energy♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -930,8 +930,8 @@
    "tab:7F6B44"
   ],
   "jp": "ボク、あついのニガテなんだよね～<br>\nそのままとおりすぎちゃった★<end>",
-  "en": "",
-  "status": "",
+  "en": "I'm not so great with heat~<br>\nI just walked on by★<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -942,8 +942,8 @@
    "tab:7F6B48"
   ],
   "jp": "みてたらなんかもえてきたぞ！なんちゃって★<end>",
-  "en": "",
-  "status": "",
+  "en": "Watching it fired me up! Just kidding★<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -954,8 +954,8 @@
    "tab:7F6B4C"
   ],
   "jp": "すすんでたら<br>\nカゼのふくトコをはっけん！<end>",
-  "en": "",
-  "status": "",
+  "en": "As I went on,<br>\nI found a windy spot!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -966,8 +966,8 @@
    "tab:7F6B50"
   ],
   "jp": "ボク、カゼってダイスキなんだよね～♪<br>\nなんかゲンキがわいてきたよ♪<end>",
-  "en": "",
-  "status": "",
+  "en": "I just love the wind~♪<br>\nI feel full of energy♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -978,8 +978,8 @@
    "tab:7F6B54"
   ],
   "jp": "ボク、カゼってニガテなんだよね～<br>\nそのままとおりすぎちゃった★<end>",
-  "en": "",
-  "status": "",
+  "en": "I'm not so great with wind~<br>\nI just walked on by★<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -990,8 +990,8 @@
    "tab:7F6B58"
   ],
   "jp": "ちょっとだけ<br>\nサワヤカな<br>\nキブンかな★<end>",
-  "en": "",
-  "status": "",
+  "en": "I feel just<br>\na little<br>\nrefreshed★<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1002,8 +1002,8 @@
    "tab:7F6B5C"
   ],
   "jp": "すすんでたら<br>\nチョウコクを<br>\nはっけん！<end>",
-  "en": "",
-  "status": "",
+  "en": "As I went on,<br>\nI found a<br>\nstatue!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1014,8 +1014,8 @@
    "tab:7F6B60"
   ],
   "jp": "ボクこういうのダイスキなんだよね～♪<br>\nなんかユウキがわいてきたよ♪<end>",
-  "en": "",
-  "status": "",
+  "en": "I just love stuff like this~♪<br>\nI feel full of courage♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1026,8 +1026,8 @@
    "tab:7F6B64"
   ],
   "jp": "ボクまぶしいのニガテなんだよね～<br>\nそのままとおりすぎちゃった★<end>",
-  "en": "",
-  "status": "",
+  "en": "I'm not so great with bright things~<br>\nI just walked on by★<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1038,8 +1038,8 @@
    "tab:7F6B68"
   ],
   "jp": "そのチョウコクみてたら<br>\nすこしキブンがやすらいだよ★<end>",
-  "en": "",
-  "status": "",
+  "en": "Looking at that statue<br>\ncalmed me a little★<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1050,8 +1050,8 @@
    "tab:7F6B6C"
   ],
   "jp": "すすんでたら<br>\nブキミなモノをはっけん！<end>",
-  "en": "",
-  "status": "",
+  "en": "As I went on,<br>\nI found something eerie!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1062,8 +1062,8 @@
    "tab:7F6B70"
   ],
   "jp": "ボク、こわいのダイスキなんだよね～♪<br>\nなんかこうふんしてきたよ♪<end>",
-  "en": "",
-  "status": "",
+  "en": "I just love scary stuff~♪<br>\nIt's getting me excited♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1074,8 +1074,8 @@
    "tab:7F6B74"
   ],
   "jp": "ボクこういうのニガテなんだよね～<br>\nそのままとおりすぎちゃった…<end>",
-  "en": "",
-  "status": "",
+  "en": "I'm not so great with stuff like this~<br>\nI just walked on by...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1086,8 +1086,8 @@
    "tab:7F6B78"
   ],
   "jp": "なんでこんなのかざってあるのかな～<br>\nま、いっか★<end>",
-  "en": "",
-  "status": "",
+  "en": "Why is this on display~?<br>\nOh well★<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1098,8 +1098,8 @@
    "tab:7F6B7C"
   ],
   "jp": "すすんでたら<br>\n6つのタマを<br>\nはっけん！<end>",
-  "en": "",
-  "status": "",
+  "en": "As I went on,<br>\nI found<br>\n6 orbs!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1110,8 +1110,8 @@
    "tab:7F6B80"
   ],
   "jp": "フシギなキブンがしてきて<br>\nチカラがわいてきたよ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "I got a strange feeling<br>\nand power welled up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1146,8 +1146,8 @@
    "tab:7F6B8C"
   ],
   "jp": "すすんでたら<br>\nこわれたハシラはっけん！<end>",
-  "en": "",
-  "status": "",
+  "en": "As I went on,<br>\nI found a broken pillar!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1170,8 +1170,8 @@
    "tab:7F6B94"
   ],
   "jp": "きっとボクにはかんけいないねそのままとおりすぎちゃったよ<end>",
-  "en": "",
-  "status": "",
+  "en": "Surely this has nothing to do with me. I walked on by.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1194,8 +1194,8 @@
    "tab:7F6BBC"
   ],
   "jp": "やった！<br>\nやっつけたよ‼ボクなら<br>\nらくしょう‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Yay!<br>\nI beat it!! For me,<br>\nit was a breeze!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1206,8 +1206,8 @@
    "tab:7F6BC0"
   ],
   "jp": "やった！<br>\nやっつけたよ‼なかなかてごわかったけどね★<end>",
-  "en": "",
-  "status": "",
+  "en": "Yay!<br>\nI beat it!! It was pretty tough, though★<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1218,8 +1218,8 @@
    "tab:7F6BC4"
   ],
   "jp": "やった！<br>\nやっつけたよ‼あいしょうが<br>\nよかったから<br>\nたすかったかもしれないね★<end>",
-  "en": "",
-  "status": "",
+  "en": "Yay!<br>\nI beat it!! Lucky<br>\nthe affinity<br>\nwas good★<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1230,8 +1230,8 @@
    "tab:7F6BC8"
   ],
   "jp": "ふぅ～<br>\nなんとか<br>\nやっつけたよ！けいけんのさ…てカンジかな♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Phew~<br>\nSomehow<br>\nI beat it! I guess that's experience for you♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1242,8 +1242,8 @@
    "tab:7F6BCC"
   ],
   "jp": "ふぅ～<br>\nなんとか<br>\nやっつけたよ！いいライバルになれそうなヤツだったな★<end>",
-  "en": "",
-  "status": "",
+  "en": "Phew~<br>\nSomehow<br>\nI beat it! That one could be a good rival★<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1254,8 +1254,8 @@
    "tab:7F6BD0"
   ],
   "jp": "ふぅ～<br>\nなんとか<br>\nやっつけたよ！でも…つぎは<br>\nどうなるか<br>\nわかんない<br>\nカンジだよ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Phew~<br>\nSomehow<br>\nI beat it! But... next<br>\ntime, I<br>\ncan't say<br>\nhow it'd go...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1266,8 +1266,8 @@
    "tab:7F6BD4"
   ],
   "jp": "はぁはぁ…<br>\nなんとかやっつけたみたい…<br>\nレベルさの<br>\nしょうりだね…<end>",
-  "en": "",
-  "status": "",
+  "en": "Pant, pant...<br>\nSomehow I seem to have won...<br>\nThanks to my<br>\nlevel...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1278,8 +1278,8 @@
    "tab:7F6BD8"
   ],
   "jp": "はぁはぁ…<br>\nなんとかやっつけたみたい…<br>\nこわかったな～もう…<end>",
-  "en": "",
-  "status": "",
+  "en": "Pant, pant...<br>\nSomehow I seem to have won...<br>\nThat was so scary...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1290,8 +1290,8 @@
    "tab:7F6BDC"
   ],
   "jp": "はぁはぁ…<br>\nなんとかやっつけたみたい…<br>\nかてたのが<br>\nしんじられないかも…<end>",
-  "en": "",
-  "status": "",
+  "en": "Pant, pant...<br>\nSomehow I seem to have won...<br>\nI can't believe<br>\nI won...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1302,8 +1302,8 @@
    "tab:7F6BE0"
   ],
   "jp": "うそー‼<br>\nボクまけたの⁉まけるハズは<br>\nなかったんだけどなぁ…<br>\nゴメン！<end>",
-  "en": "",
-  "status": "",
+  "en": "No way!!<br>\nI lost!? I shouldn't<br>\nhave lost...<br>\nSorry!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1314,8 +1314,8 @@
    "tab:7F6BE4"
   ],
   "jp": "うそー‼<br>\nボクまけたの⁉ゆだんしてたのかもしれない～ゴメンなさ～い<end>",
-  "en": "",
-  "status": "",
+  "en": "No way!!<br>\nI lost!? Maybe I let my guard down~ So sorry~<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1326,8 +1326,8 @@
    "tab:7F6BE8"
   ],
   "jp": "うそー‼<br>\nボクまけたの⁉けいけんぶそくだったのかも…<end>",
-  "en": "",
-  "status": "",
+  "en": "No way!!<br>\nI lost!? Maybe I need more experience...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1338,8 +1338,8 @@
    "tab:7F6BEC"
   ],
   "jp": "うう…<br>\nまけちゃった…でもでも<br>\nつぎはぜったいまけないよ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Ugh...<br>\nI lost... But still,<br>\nnext time I won't lose!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1350,8 +1350,8 @@
    "tab:7F6BF0"
   ],
   "jp": "うう…<br>\nまけちゃった…でもでも<br>\nいいしょうぶ<br>\nだったよ！<br>\nいいライバルになれそうかも！<end>",
-  "en": "",
-  "status": "",
+  "en": "Ugh...<br>\nI lost... But still,<br>\nthat was a<br>\ngood match!<br>\nWe could be good rivals!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1362,8 +1362,8 @@
    "tab:7F6BF4"
   ],
   "jp": "うう…<br>\nまけちゃった…けいけんのさがでちゃったな…<end>",
-  "en": "",
-  "status": "",
+  "en": "Ugh...<br>\nI lost... Experience made the difference...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1374,8 +1374,8 @@
    "tab:7F6BF8"
   ],
   "jp": "ゴメン…<br>\nやっぱり<br>\nかてなかった…けいけんのさでなんとかなるとおもったけど…<end>",
-  "en": "",
-  "status": "",
+  "en": "Sorry...<br>\nI couldn't<br>\nwin after all... I thought experience would help...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1386,8 +1386,8 @@
    "tab:7F6BFC"
   ],
   "jp": "ゴメン…<br>\nやっぱり<br>\nかてなかった…あいしょうがわるかったからしかたないよね<end>",
-  "en": "",
-  "status": "",
+  "en": "Sorry...<br>\nI couldn't<br>\nwin after all... Bad affinity, so it can't be helped.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1398,8 +1398,8 @@
    "tab:7F6C00"
   ],
   "jp": "ゴメン…<br>\nやっぱり<br>\nかてなかった…そもそもムリなたたかいだったんだよ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Sorry...<br>\nI couldn't<br>\nwin after all... That fight was impossible anyway...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1410,8 +1410,8 @@
    "tab:7F6C04"
   ],
   "jp": "ふぅ～<br>\nこんかいの<br>\nぼうけんは<br>\nせいこうだね！へへへ‼<br>\nはやくかえってあそびたいな♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Phew~<br>\nThis time's<br>\nquest<br>\nwas a success! Hehehe!!<br>\nI want to get home and play♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1422,8 +1422,8 @@
    "tab:7F6C08"
   ],
   "jp": "あ～ぁ…<br>\nこんかいの<br>\nぼうけんは<br>\nしっぱいだよ…このつぎは<br>\nガンバルから<br>\nまたボクを<br>\nぼうけんさせてほしいな！<end>",
-  "en": "",
-  "status": "",
+  "en": "Ahh...<br>\nThis time's<br>\nquest<br>\nwas a failure... Next<br>\ntime I'll try hard,<br>\nso please send me<br>\non a quest again!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1434,8 +1434,8 @@
    "tab:7F6B9C"
   ],
   "jp": "ちからUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Power Up!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1446,8 +1446,8 @@
    "tab:7F6BA0"
   ],
   "jp": "ぼうぎょUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Defense Up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1458,8 +1458,8 @@
    "tab:7F6BA4"
   ],
   "jp": "まりょくUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic Up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1482,8 +1482,8 @@
    "tab:7F6BAC"
   ],
   "jp": "すばやさUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Speed Up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1494,8 +1494,8 @@
    "tab:7F6BB0"
   ],
   "jp": "シフトEUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Shift E Up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1506,8 +1506,8 @@
    "tab:7F6BB4"
   ],
   "jp": "HPがUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "HP Up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1518,8 +1518,8 @@
    "tab:7F6BB8"
   ],
   "jp": "すべての<br>\nのうりょくが<br>\nUP‼‼<end>",
-  "en": "",
-  "status": "",
+  "en": "All<br>\nabilities<br>\nUp!!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1530,8 +1530,8 @@
    "tab:7F6C0C"
   ],
   "jp": "よし<br>\nぼうけんに<br>\nでかけるか…<end>",
-  "en": "",
-  "status": "",
+  "en": "Well then,<br>\ntime to head<br>\nout on a quest...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1542,8 +1542,8 @@
    "tab:7F6C10"
   ],
   "jp": "あいしょうも<br>\nレベルも<br>\nもんだいなしだらくしょうだぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Affinity and<br>\nlevel are<br>\nno problem. It's a breeze.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1554,8 +1554,8 @@
    "tab:7F6C14"
   ],
   "jp": "フン…レベルはともかく<br>\nあいしょうは<br>\nゆうりだな<end>",
-  "en": "",
-  "status": "",
+  "en": "Hmph... The level aside,<br>\naffinity's<br>\non my side.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1566,8 +1566,8 @@
    "tab:7F6C18"
   ],
   "jp": "レベルさは<br>\nあいしょうで<br>\nカバーすれば<br>\nなんとかなるぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Level gaps can<br>\nbe covered<br>\nby affinity.<br>\nI'll manage.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1578,8 +1578,8 @@
    "tab:7F6C1C"
   ],
   "jp": "レベルはすこしゆうりだな…<br>\nもんだいなしだ<end>",
-  "en": "",
-  "status": "",
+  "en": "The level's a little in my favour...<br>\nNo problem.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1590,8 +1590,8 @@
    "tab:7F6C20"
   ],
   "jp": "じょうけんは<br>\nイーブンか…<br>\nということは<br>\nうんしだいってトコだな<end>",
-  "en": "",
-  "status": "",
+  "en": "Conditions are<br>\neven...<br>\nWhich means<br>\nit's up to luck.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1602,8 +1602,8 @@
    "tab:7F6C24"
   ],
   "jp": "ま、たしょうのふりはハンデとおもえば<br>\nきにならないぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Well, a small handicap<br>\ndoesn't bother me.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1614,8 +1614,8 @@
    "tab:7F6C28"
   ],
   "jp": "あいしょうが<br>\nわるいぶん<br>\nレベルがひくいというわけか…チャラだな<end>",
-  "en": "",
-  "status": "",
+  "en": "Bad affinity,<br>\nbut the level's<br>\nlow... So it evens out.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1626,8 +1626,8 @@
    "tab:7F6C2C"
   ],
   "jp": "あいしょうを<br>\nムシして<br>\nぼうけんに<br>\nだされちゃあ<br>\nこっちは<br>\nたまらねぇぜ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Sending me on<br>\na quest while<br>\nignoring<br>\naffinity...<br>\nThat's<br>\nrough on me...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1638,8 +1638,8 @@
    "tab:7F6C30"
   ],
   "jp": "さいあくの<br>\nじょうけんだぜどうやらオレのことはどうでもいいらしいな<end>",
-  "en": "",
-  "status": "",
+  "en": "The worst<br>\nconditions. Seems you don't care about me.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1650,8 +1650,8 @@
    "tab:7F6C34"
   ],
   "jp": "ここはすでに<br>\nダレかがクリアしてるのか…<br>\nぼうけんする<br>\nひつようなんてないんじゃねえのか？<end>",
-  "en": "",
-  "status": "",
+  "en": "Somebody's already<br>\ncleared this place...<br>\nIs there even<br>\nany need for this quest?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1662,8 +1662,8 @@
    "tab:7F6C38"
   ],
   "jp": "まだダレも<br>\nクリアしてないばしょか…<br>\nきたいされちゃこまるぜ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Nobody's cleared<br>\nthis place yet...<br>\nDon't expect too much of me...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1674,8 +1674,8 @@
    "tab:7F6C3C"
   ],
   "jp": "どうくつって<br>\nヤツは<br>\nどうもスキに<br>\nなれないぜ…<br>\nもっとも<br>\nスキなばしょ<br>\nなんてないがな<end>",
-  "en": "",
-  "status": "",
+  "en": "Caves are<br>\nsomething<br>\nI just can't<br>\nlike...<br>\nNot that<br>\nthere's any place<br>\nI do like.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1686,8 +1686,8 @@
    "tab:7F6C40"
   ],
   "jp": "フン<br>\nいきどまりってことは<br>\nそろそろボスのおでましか？<end>",
-  "en": "",
-  "status": "",
+  "en": "Hmph.<br>\nA dead end means<br>\nthe boss is about to show up?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1698,8 +1698,8 @@
    "tab:7F6C44"
   ],
   "jp": "やっと<br>\nたいしょうの<br>\nおでましか…<br>\nとっとと<br>\nすまそうぜ！<end>",
-  "en": "",
-  "status": "",
+  "en": "So the big shot<br>\nis finally<br>\nhere...<br>\nLet's get<br>\nthis over with!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1710,8 +1710,8 @@
    "tab:7F6C48"
   ],
   "jp": "もりってのは<br>\nテキのばしょがわからないからゆだんできんな<end>",
-  "en": "",
-  "status": "",
+  "en": "In a forest<br>\nyou can't tell where foes are. Stay alert.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1722,8 +1722,8 @@
    "tab:7F6C4C"
   ],
   "jp": "ん？<br>\nおいおいアイツまるみえだぜ…かくれるつもりないのかよ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Huh?<br>\nHey, I can see that one... Not even trying to hide?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1734,8 +1734,8 @@
    "tab:7F6C50"
   ],
   "jp": "よう！<br>\nどうどうとしてごリッパだね！おてあわせ<br>\nねがおうか！<end>",
-  "en": "",
-  "status": "",
+  "en": "Yo!<br>\nBold as brass, aren't you! Care for<br>\na match?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1746,8 +1746,8 @@
    "tab:7F6C54"
   ],
   "jp": "やまみちか…<br>\nあしばがわるくにげばもない<br>\nさけたいばしょのひとつだな…<end>",
-  "en": "",
-  "status": "",
+  "en": "A mountain path...<br>\nBad footing and nowhere to run.<br>\nA place to avoid...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1758,8 +1758,8 @@
    "tab:7F6C58"
   ],
   "jp": "ちょうじょうがみえてきたぜ<br>\nこんかいは<br>\nどんなヤツが<br>\nいるんだ？<end>",
-  "en": "",
-  "status": "",
+  "en": "The summit's in sight.<br>\nWhat sort of<br>\none is up<br>\nthere this time?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1770,8 +1770,8 @@
    "tab:7F6C5C"
   ],
   "jp": "おまえがボスかわるいが<br>\nきえてもらうぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "So you're the boss. Sorry,<br>\nbut you're going away.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1782,8 +1782,8 @@
    "tab:7F6C60"
   ],
   "jp": "ここはやけに<br>\nムスぜ…<br>\nアセでブキを<br>\nとりおとすこともある…<br>\nきをつけよう<end>",
-  "en": "",
-  "status": "",
+  "en": "It's really<br>\nmuggy here...<br>\nSweat can<br>\nmake you drop your weapon...<br>\nCareful.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1794,8 +1794,8 @@
    "tab:7F6C64"
   ],
   "jp": "なんとなく<br>\nフンイキが<br>\nかわって<br>\nきやがったぜ…<end>",
-  "en": "",
-  "status": "",
+  "en": "The mood's<br>\nchanging,<br>\nsomehow<br>\naround here...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1806,8 +1806,8 @@
    "tab:7F6C68"
   ],
   "jp": "おでましか！<br>\nもんどうむよういくぜ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Here you are!<br>\nNo more talk. Let's go!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1818,8 +1818,8 @@
    "tab:7F6C6C"
   ],
   "jp": "ひゅ～♪<br>\nなかなかステキなばしょだな！あしを<br>\nふみはずしたらアウトだな♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Whew~♪<br>\nWhat a lovely place! One<br>\nmisstep and you're out♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1830,8 +1830,8 @@
    "tab:7F6C70"
   ],
   "jp": "フン…<br>\nなんとなく<br>\nもりあがって<br>\nきたカンジだぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Hmph...<br>\nThings are<br>\ngetting<br>\nlively somehow.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1842,8 +1842,8 @@
    "tab:7F6C74"
   ],
   "jp": "よう！<br>\nベストな<br>\nタイミングで<br>\nとうじょうか？ニクイね♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Yo!<br>\nShowing up<br>\nat the best<br>\nmoment? How cool♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1854,8 +1854,8 @@
    "tab:7F6C78"
   ],
   "jp": "チッ…<br>\nなんてトコだ…すなだらけだわホコリがまうわさいあくだぜ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Tch...<br>\nWhat a place... Sand everywhere, dust flying. The worst...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1866,8 +1866,8 @@
    "tab:7F6C7C"
   ],
   "jp": "さすがに<br>\nつかれてきたぜはやいとこ<br>\nでてきやがれ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Even I'm<br>\ngetting tired now. Hurry<br>\nup and show yourself...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1878,8 +1878,8 @@
    "tab:7F6C80"
   ],
   "jp": "ふぅ…まちくたびれたぜ！<br>\nさあて<br>\nおっぱじめるか<end>",
-  "en": "",
-  "status": "",
+  "en": "Phew... I'm sick of waiting!<br>\nAll right,<br>\nlet's get going.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1890,8 +1890,8 @@
    "tab:7F6C84"
   ],
   "jp": "フン<br>\nしめっぽくて<br>\nきにいらねえなようきなボスはきたいできそうにないぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Hmph.<br>\nSo damp,<br>\nI hate it. Don't expect a cheerful boss here.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1902,8 +1902,8 @@
    "tab:7F6C88"
   ],
   "jp": "そろそろ<br>\nおわりにしたいもんだぜ…<br>\nどうせたいしたボスじゃねえんだろ？<end>",
-  "en": "",
-  "status": "",
+  "en": "I'd like to<br>\nwrap this up soon...<br>\nBet it's not much of a boss anyway.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1914,8 +1914,8 @@
    "tab:7F6C8C"
   ],
   "jp": "…‼…ぜんげんてっかいだ！<br>\nよそうしたよりやりそうだぜ！<end>",
-  "en": "",
-  "status": "",
+  "en": "...!! ...Full retreat!<br>\nStronger than I figured!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1926,8 +1926,8 @@
    "tab:7F6C90"
   ],
   "jp": "なかなか<br>\nフンイキのいいばしょだな…<br>\nたまには<br>\nこんなキブンもわるくないぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Pretty nice<br>\natmosphere here...<br>\nOnce in a while<br>\nthis mood's not bad.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1938,8 +1938,8 @@
    "tab:7F6C94"
   ],
   "jp": "ま、どこにでもイヤなヤツってのはいるもんだ<end>",
-  "en": "",
-  "status": "",
+  "en": "Well, there are jerks everywhere you go.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1950,8 +1950,8 @@
    "tab:7F6C98"
   ],
   "jp": "フン…おまえのことだよ！<br>\nいくぜ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Hmph... I mean you!<br>\nHere I come!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1962,8 +1962,8 @@
    "tab:7F6C9C"
   ],
   "jp": "オレはいま<br>\nぼうけんちゅうだったよな…<br>\nいっしゅん<br>\nわすれそうに<br>\nなったぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "I'm on a<br>\nquest right now, right...<br>\nFor a moment<br>\nthere I nearly<br>\nforgot.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1974,8 +1974,8 @@
    "tab:7F6CA0"
   ],
   "jp": "お…<br>\nあそこで<br>\nエラそうに<br>\nしてるヤツが<br>\nボスってわけか<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh...<br>\nThat one over<br>\nthere, acting<br>\nso high and<br>\nmighty, is the boss.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1986,8 +1986,8 @@
    "tab:7F6CA4"
   ],
   "jp": "わるいが<br>\nここはおまえのものじゃないんでな…きえな‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Sorry,<br>\nbut this place isn't yours... Get lost!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -1998,8 +1998,8 @@
    "tab:7F6CA8"
   ],
   "jp": "ここはカゼが<br>\nつよいな…<br>\nむかいカゼは<br>\nあるきにくくてイヤになるぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "The wind's<br>\nstrong here...<br>\nWalking into<br>\na headwind's a real pain.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2010,8 +2010,8 @@
    "tab:7F6CAC"
   ],
   "jp": "ん？<br>\nようやく<br>\nかざむきが<br>\nかわったぜ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Huh?<br>\nAt last<br>\nthe wind<br>\nhas changed...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2022,8 +2022,8 @@
    "tab:7F6CB0"
   ],
   "jp": "おまえがボスかようやくおわりにできそうだぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "So you're the boss. Looks like I can finally finish.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2034,8 +2034,8 @@
    "tab:7F6CB4"
   ],
   "jp": "おいおい…<br>\n「とう」って<br>\nいわれてもマドひとつなくちゃじっかんないぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Hey now...<br>\nThey call it<br>\na \"tower\", but with no window it doesn't feel like it.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2046,8 +2046,8 @@
    "tab:7F6CB8"
   ],
   "jp": "ん？<br>\nトビラがあるってことは<br>\nさいじょうかいというわけか？<end>",
-  "en": "",
-  "status": "",
+  "en": "Huh?<br>\nA door means<br>\nthis must be the top floor?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2058,8 +2058,8 @@
    "tab:7F6CBC"
   ],
   "jp": "おまえには<br>\nウラミはないがクリアしなきゃならないんでな<end>",
-  "en": "",
-  "status": "",
+  "en": "I've got no<br>\ngrudge against you, but I've got to clear this.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2070,8 +2070,8 @@
    "tab:7F6CC0"
   ],
   "jp": "こうものどかなフンイキじゃ<br>\nオレもさすがにねたくなるぜ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Such a peaceful atmosphere...<br>\nEven I'm getting sleepy...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2082,8 +2082,8 @@
    "tab:7F6CC4"
   ],
   "jp": "さ～て<br>\nどこからオレをねらってやがるのかな？<end>",
-  "en": "",
-  "status": "",
+  "en": "Now then,<br>\nwhere are they aiming at me from?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2094,8 +2094,8 @@
    "tab:7F6CC8"
   ],
   "jp": "さっさと<br>\nおわらせて<br>\nひとねむり<br>\nさせてもらうぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Let's finish<br>\nthis fast,<br>\nso I can<br>\nget some sleep.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2106,8 +2106,8 @@
    "tab:7F6CCC"
   ],
   "jp": "ヒカリぞくせいのばしょか…<br>\nガラにもなく<br>\nきんちょう<br>\nしちまったぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "A Light attribute place...<br>\nIt's not like me,<br>\nbut I'm<br>\na bit tense.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2118,8 +2118,8 @@
    "tab:7F6CD0"
   ],
   "jp": "さ～て<br>\nボスのカオを<br>\nおがませて<br>\nいただくか！<end>",
-  "en": "",
-  "status": "",
+  "en": "Now then,<br>\nlet's get a<br>\nlook at the<br>\nboss's face!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2130,8 +2130,8 @@
    "tab:7F6CD4"
   ],
   "jp": "おいおい<br>\nガッカリさせるなって！<br>\nぜんぜんふつうじゃねえか！<end>",
-  "en": "",
-  "status": "",
+  "en": "Hey now,<br>\ndon't let me down!<br>\nThat's totally ordinary!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2142,8 +2142,8 @@
    "tab:7F6CD8"
   ],
   "jp": "さすがにヒカリぞくせいだな…ハダにかんじるフンイキが<br>\nちがうぜ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Light attribute, all right... The air<br>\nfeels different...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2154,8 +2154,8 @@
    "tab:7F6CDC"
   ],
   "jp": "あまりまたせるのもわるいからいそぐとするか<end>",
-  "en": "",
-  "status": "",
+  "en": "I shouldn't keep them waiting too long. Let's hurry.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2166,8 +2166,8 @@
    "tab:7F6CE0"
   ],
   "jp": "よう！<br>\nまったかい？<br>\nとっとと<br>\nはじめるか！<end>",
-  "en": "",
-  "status": "",
+  "en": "Yo!<br>\nBeen waiting?<br>\nLet's get<br>\nstarted!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2178,8 +2178,8 @@
    "tab:7F6CE4"
   ],
   "jp": "わりとあやしいフンイキだな…さすがのオレもビビりそうだぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Pretty shady atmosphere... Even I might get spooked.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2190,8 +2190,8 @@
    "tab:7F6CE8"
   ],
   "jp": "こんどのボスはけっこうホネがありそうな<br>\nよかんがするぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "I've got a hunch this boss<br>\nhas some backbone.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2202,8 +2202,8 @@
    "tab:7F6CEC"
   ],
   "jp": "おいおい…<br>\nあんなにキタイさせといて<br>\nおまえがボスか<end>",
-  "en": "",
-  "status": "",
+  "en": "Hey now...<br>\nAfter getting my hopes up,<br>\nyou're the boss?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2214,8 +2214,8 @@
    "tab:7F6CF0"
   ],
   "jp": "いちいち<br>\nスキキライを<br>\nいうきはないがさすがに<br>\nこのニオイは<br>\nカンベンして<br>\nほしいぜ…<end>",
-  "en": "",
-  "status": "",
+  "en": "I don't usually<br>\ncomplain about<br>\nthings, but<br>\nthis smell<br>\nis too<br>\nmuch...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2226,8 +2226,8 @@
    "tab:7F6CF4"
   ],
   "jp": "そろそろボスとごたいめんか…きがすすまんな<end>",
-  "en": "",
-  "status": "",
+  "en": "Time to meet the boss... I'm not keen.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2238,8 +2238,8 @@
    "tab:7F6CF8"
   ],
   "jp": "ながいするきはないんでな！<br>\nそっこうで<br>\nおわらせるぜ！<end>",
-  "en": "",
-  "status": "",
+  "en": "I don't plan to stay long!<br>\nI'll finish<br>\nthis fast!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2250,8 +2250,8 @@
    "tab:7F6CFC"
   ],
   "jp": "ぞくせいの<br>\nないばしょか…ゆうりも<br>\nふりもない<br>\nチカラだけが<br>\nしょうぶを<br>\nきめるばしょだ<end>",
-  "en": "",
-  "status": "",
+  "en": "A place with<br>\nno attribute... No edge,<br>\nno handicap.<br>\nOnly power<br>\ndecides<br>\nthe match.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2262,8 +2262,8 @@
    "tab:7F6D00"
   ],
   "jp": "いよいよだな…しょうぶは<br>\nいっしゅんだ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Here it is... It'll be<br>\nover in a moment!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2274,8 +2274,8 @@
    "tab:7F6D04"
   ],
   "jp": "わるいが<br>\nさいしょから<br>\nとばすぜ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Sorry,<br>\ngoing all out<br>\nfrom the start!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2286,8 +2286,8 @@
    "tab:7F6D08"
   ],
   "jp": "ちっ…<br>\nかわりばえの<br>\nしないインキなばしょだぜ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Tch...<br>\nA gloomy place<br>\nthat never changes...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2298,8 +2298,8 @@
    "tab:7F6D0C"
   ],
   "jp": "しかし…こんなトコにすんでてたのしいのかね<end>",
-  "en": "",
-  "status": "",
+  "en": "Still... is it any fun living in a place like this?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2310,8 +2310,8 @@
    "tab:7F6D10"
   ],
   "jp": "そこんとこ<br>\nどうなんだ？<br>\nたおすまえに<br>\nきいといてやる<end>",
-  "en": "",
-  "status": "",
+  "en": "How about it?<br>\nI'll ask you<br>\nbefore<br>\nI beat you.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2322,8 +2322,8 @@
    "tab:7F6D14"
   ],
   "jp": "チィ…<br>\nふいうちとは<br>\nユダンしたぜ…ガラにもなく<br>\nムキになって<br>\nはんげき<br>\nしちまった…<end>",
-  "en": "",
-  "status": "",
+  "en": "Tch...<br>\nA sneak attack,<br>\nI got careless... Not like me<br>\nto lose my cool<br>\nand strike<br>\nback like that...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2334,8 +2334,8 @@
    "tab:7F6D18"
   ],
   "jp": "しょうめんからくるとは<br>\nげいがないな…オレにかてるとおもったのか？<end>",
-  "en": "",
-  "status": "",
+  "en": "Coming straight at me,<br>\nhow dull... You thought you could beat me?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2346,8 +2346,8 @@
    "tab:7F6D1C"
   ],
   "jp": "オレにせなかをむけるとは<br>\nバカなヤツだ…いちげきで<br>\nしとめたぜ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Turning your back on me,<br>\nwhat a fool... Took it<br>\ndown in one blow!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2358,8 +2358,8 @@
    "tab:7F6D20"
   ],
   "jp": "ホゥ…<br>\nかわったヤツもいるもんだな<br>\nあいつからは<br>\nサッキをかんじなかったぜ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Hoh...<br>\nStrange ones out there.<br>\nI felt no killing<br>\nintent from that one...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2370,8 +2370,8 @@
    "tab:7F6D24"
   ],
   "jp": "できれば<br>\nムダなバトルはしたくないが…はなしの<br>\nつうじるヤツがすくなくて<br>\nまいっちまうぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "I'd rather<br>\navoid pointless battles if I can... But so few<br>\nwill listen to<br>\nreason, it's a pain.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2382,8 +2382,8 @@
    "tab:7F6D28"
   ],
   "jp": "フン…<br>\nせいいっぱい<br>\nつよがってた<br>\nみたいだが<br>\nオレをみるなりにげやがったぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Hmph...<br>\nIt was acting<br>\nas tough as<br>\nit could, but<br>\nit ran the moment it saw me.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2394,8 +2394,8 @@
    "tab:7F6D2C"
   ],
   "jp": "ん？<br>\nなにかいたか？いっしゅんで<br>\nにげてったんでよくみえなかったぜ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Huh?<br>\nWas something there? It ran off<br>\nin a flash, I didn't get a good look...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2406,8 +2406,8 @@
    "tab:7F6D30"
   ],
   "jp": "ん？イズミか…<end>",
-  "en": "",
-  "status": "",
+  "en": "Huh? A spring...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2418,8 +2418,8 @@
    "tab:7F6D34"
   ],
   "jp": "こんなところにイズミとはな…ありがたく<br>\nノドを<br>\nうるおしたぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "A spring in a place like this... I gratefully<br>\nwet my<br>\nthroat.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2430,8 +2430,8 @@
    "tab:7F6D38"
   ],
   "jp": "チッ…<br>\nイズミなんかにきょうみないぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Tch...<br>\nI've got no interest in springs.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2442,8 +2442,8 @@
    "tab:7F6D3C"
   ],
   "jp": "まあ、ついでだヒトクチのんでいくか…<end>",
-  "en": "",
-  "status": "",
+  "en": "Well, while I'm here, I'll have a sip...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2454,8 +2454,8 @@
    "tab:7F6D40"
   ],
   "jp": "ん？どうして<br>\nこんなところにたいぼくが…<end>",
-  "en": "",
-  "status": "",
+  "en": "Huh? Why is a<br>\nbig tree in a place like this...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2466,8 +2466,8 @@
    "tab:7F6D44"
   ],
   "jp": "ちょうどいい<br>\nやすんでいくかふぅ…キモチがやすらぐぜ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Just right.<br>\nI'll rest here. Phew... That's relaxing...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2478,8 +2478,8 @@
    "tab:7F6D48"
   ],
   "jp": "チッ…<br>\nこんなきに<br>\nきょうみないぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Tch...<br>\nI've got no<br>\ninterest in trees.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2490,8 +2490,8 @@
    "tab:7F6D4C"
   ],
   "jp": "ま、たしょうはキブンも<br>\nやわらいだかな<end>",
-  "en": "",
-  "status": "",
+  "en": "Well, that eased my<br>\nmood a little.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2502,8 +2502,8 @@
    "tab:7F6D50"
   ],
   "jp": "ん？<br>\nかがりびか…<end>",
-  "en": "",
-  "status": "",
+  "en": "Huh?<br>\nA bonfire...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2514,8 +2514,8 @@
    "tab:7F6D54"
   ],
   "jp": "ダレがたいたかしらないが<br>\nからだじゅうのチがたぎって<br>\nくるぜ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Don't know who lit it, but<br>\nit's making my blood<br>\nboil!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2526,8 +2526,8 @@
    "tab:7F6D58"
   ],
   "jp": "チッ…<br>\nこんなものに<br>\nきょうみないぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Tch...<br>\nI've got no<br>\ninterest in this.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2538,8 +2538,8 @@
    "tab:7F6D5C"
   ],
   "jp": "ま、たしょうはからだが<br>\nあったまったぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Well, it warmed me<br>\nup a little.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2550,8 +2550,8 @@
    "tab:7F6D60"
   ],
   "jp": "ん？カゼか…？<end>",
-  "en": "",
-  "status": "",
+  "en": "Huh? A breeze...?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2562,8 +2562,8 @@
    "tab:7F6D64"
   ],
   "jp": "ふぅ…<br>\nイヤなくうきがながれていく<br>\nカンジがするぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Phew...<br>\nIt feels like the bad air<br>\nis flowing away.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2574,8 +2574,8 @@
    "tab:7F6D68"
   ],
   "jp": "チッ…<br>\nさっさと<br>\nとおりすぎるにかぎるぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Tch...<br>\nBest to just<br>\nkeep moving.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2586,8 +2586,8 @@
    "tab:7F6D6C"
   ],
   "jp": "ま、すこしは<br>\nキブンが<br>\nスッキリしたか<end>",
-  "en": "",
-  "status": "",
+  "en": "Well, I feel<br>\na little<br>\nrefreshed.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2598,8 +2598,8 @@
    "tab:7F6D70"
   ],
   "jp": "ん？<br>\nなんだこの<br>\nチョウゾウは…<end>",
-  "en": "",
-  "status": "",
+  "en": "Huh?<br>\nWhat's this<br>\nstatue...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2610,8 +2610,8 @@
    "tab:7F6D74"
   ],
   "jp": "フシギとオレとおなじはちょうをかんじるぜ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Strangely, I sense it's on my wavelength...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2622,8 +2622,8 @@
    "tab:7F6D78"
   ],
   "jp": "チッ…<br>\nこんなものに<br>\nきょうみないぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Tch...<br>\nI've got no<br>\ninterest in this.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2634,8 +2634,8 @@
    "tab:7F6D7C"
   ],
   "jp": "フシギなキブンがする…<br>\nわるくないぜ！<end>",
-  "en": "",
-  "status": "",
+  "en": "A strange feeling...<br>\nNot bad!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2646,8 +2646,8 @@
    "tab:7F6D80"
   ],
   "jp": "ん？ドクロか…<end>",
-  "en": "",
-  "status": "",
+  "en": "Huh? A skull...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2658,8 +2658,8 @@
    "tab:7F6D84"
   ],
   "jp": "フシギとオレとおなじはちょうをかんじるぜ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Strangely, I sense it's on my wavelength...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2670,8 +2670,8 @@
    "tab:7F6D88"
   ],
   "jp": "チッ…<br>\nこんなものに<br>\nきょうみないぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Tch...<br>\nI've got no<br>\ninterest in this.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2682,8 +2682,8 @@
    "tab:7F6D8C"
   ],
   "jp": "フシギなキブンがする…<br>\nわるくないぜ！<end>",
-  "en": "",
-  "status": "",
+  "en": "A strange feeling...<br>\nNot bad!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2694,8 +2694,8 @@
    "tab:7F6D90"
   ],
   "jp": "ん？<br>\nなんだコレは…<end>",
-  "en": "",
-  "status": "",
+  "en": "Huh?<br>\nWhat's this...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2706,8 +2706,8 @@
    "tab:7F6D94"
   ],
   "jp": "<br>\n……‼‼<br>\nフシギだ…<br>\nチカラが…<br>\nわいてきたぜ…<end>",
-  "en": "",
-  "status": "",
+  "en": "<br>\n.....!!<br>\nStrange...<br>\nPower...<br>\nis welling up...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2742,8 +2742,8 @@
    "tab:7F6DA0"
   ],
   "jp": "ん？<br>\nなんだコレは…<end>",
-  "en": "",
-  "status": "",
+  "en": "Huh?<br>\nWhat's this...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2766,8 +2766,8 @@
    "tab:7F6DA8"
   ],
   "jp": "チッ…<br>\nこんなものに<br>\nきょうみないぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Tch...<br>\nI've got no<br>\ninterest in this.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2790,8 +2790,8 @@
    "tab:7F6DD0"
   ],
   "jp": "フン…<br>\nかってとうぜんだからな…<br>\nとくにうれしくもないぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Hmph...<br>\nOf course I won...<br>\nNothing to be happy about.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2802,8 +2802,8 @@
    "tab:7F6DD4"
   ],
   "jp": "フン…<br>\nかってとうぜんだからな…<br>\nどうってことないぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Hmph...<br>\nOf course I won...<br>\nNo big deal.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2814,8 +2814,8 @@
    "tab:7F6DD8"
   ],
   "jp": "フン…<br>\nかってとうぜんだからな…<br>\nあまくみるなよ<end>",
-  "en": "",
-  "status": "",
+  "en": "Hmph...<br>\nOf course I won...<br>\nDon't take me lightly.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2826,8 +2826,8 @@
    "tab:7F6DDC"
   ],
   "jp": "いいしょうぶ<br>\nだったぜ…<br>\nオレがあいて<br>\nだったのが<br>\nおまえの<br>\nはいいんだ<end>",
-  "en": "",
-  "status": "",
+  "en": "That was a<br>\ngood match...<br>\nYour only<br>\nmistake was<br>\nfighting<br>\nme.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2838,8 +2838,8 @@
    "tab:7F6DE0"
   ],
   "jp": "かみひとえ<br>\nだったな…<br>\nつぎがあったらはたしてどうなるか…<end>",
-  "en": "",
-  "status": "",
+  "en": "That was<br>\nrazor-close...<br>\nNext time, who knows how it'd go...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2850,8 +2850,8 @@
    "tab:7F6DE4"
   ],
   "jp": "おしかったな…キリフダは<br>\nさいごまで<br>\nとっておくもんだぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Too bad... Always save<br>\nyour trump card<br>\ntill last.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2862,8 +2862,8 @@
    "tab:7F6DE8"
   ],
   "jp": "ふぅ…なんとかたおせたな…<br>\nけいけんのさがしょうはいを<br>\nわけたな<end>",
-  "en": "",
-  "status": "",
+  "en": "Phew... I managed to beat it...<br>\nExperience made<br>\nthe difference.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2874,8 +2874,8 @@
    "tab:7F6DEC"
   ],
   "jp": "ふぅ…なんとかたおせたな…<br>\nひさびさに<br>\nヒヤリとしたぜ<end>",
-  "en": "",
-  "status": "",
+  "en": "Phew... I managed to beat it...<br>\nThat's the first<br>\nscare in a while.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2886,8 +2886,8 @@
    "tab:7F6DF0"
   ],
   "jp": "ふぅ…なんとかたおせたな…<br>\nじゅみょうが<br>\nちぢんだぜ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Phew... I managed to beat it...<br>\nThat took years<br>\noff my life...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2898,8 +2898,8 @@
    "tab:7F6DF4"
   ],
   "jp": "な…なんだと⁉オレが…<br>\nまけたのか…⁉な、なぜ…だ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Wh...what!? I...<br>\nlost...!? B-but why...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2910,8 +2910,8 @@
    "tab:7F6DF8"
   ],
   "jp": "な…なんだと⁉オレが…<br>\nまけたのか…⁉わらえないぜ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Wh...what!? I...<br>\nlost...!? This is no joke...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2922,8 +2922,8 @@
    "tab:7F6DFC"
   ],
   "jp": "な…なんだと⁉オレが…<br>\nまけたのか…⁉ゆだんしたか…<end>",
-  "en": "",
-  "status": "",
+  "en": "Wh...what!? I...<br>\nlost...!? Did I get careless...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2934,8 +2934,8 @@
    "tab:7F6E00"
   ],
   "jp": "オレのまけだ…さいごに…<br>\nゆだんが…<br>\nでたようだ…<end>",
-  "en": "",
-  "status": "",
+  "en": "I lost... At the end...<br>\nI got<br>\ncareless...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2946,8 +2946,8 @@
    "tab:7F6E04"
   ],
   "jp": "オレのまけだ…だが…<br>\nいいしょうぶ…だったぜ…<end>",
-  "en": "",
-  "status": "",
+  "en": "I lost... But...<br>\nit was a good... match...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2958,8 +2958,8 @@
    "tab:7F6E08"
   ],
   "jp": "オレのまけだ…ヤツのなまえはわすれないぜ…<end>",
-  "en": "",
-  "status": "",
+  "en": "I lost... I won't forget that one's name...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2970,8 +2970,8 @@
    "tab:7F6E0C"
   ],
   "jp": "グッ…<br>\nやはりダメか…だが…<br>\nつぎは…こうはいかないぜ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Ngh...<br>\nNo good after all... But...<br>\nnext time... it won't go like this...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2982,8 +2982,8 @@
    "tab:7F6E10"
   ],
   "jp": "グッ…<br>\nやはりダメか…だが…<br>\nこうかいは…<br>\nしてないぜ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Ngh...<br>\nNo good after all... But...<br>\nI have<br>\nno regrets...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -2994,8 +2994,8 @@
    "tab:7F6E14"
   ],
   "jp": "グッ…<br>\nやはりダメか…だが…<br>\nいつか…<br>\nかならず…<end>",
-  "en": "",
-  "status": "",
+  "en": "Ngh...<br>\nNo good after all... But...<br>\nsomeday...<br>\nfor sure...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3006,8 +3006,8 @@
    "tab:7F6E18"
   ],
   "jp": "こんかいも<br>\nなんとか<br>\nいきのびられたようだ…<br>\nかえったら<br>\nあついコーヒーでもいれると<br>\nするか…<end>",
-  "en": "",
-  "status": "",
+  "en": "Looks like<br>\nI managed<br>\nto survive this time too...<br>\nWhen I get<br>\nhome, I think I'll<br>\nhave a hot coffee...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3018,8 +3018,8 @@
    "tab:7F6E1C"
   ],
   "jp": "オレはまだまだちからぶそく…もっともっと…つよくなるぜ！<end>",
-  "en": "",
-  "status": "",
+  "en": "I'm still not strong enough... I'll get stronger and stronger!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3030,8 +3030,8 @@
    "tab:7F6DB0"
   ],
   "jp": "ちからUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Power Up!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3042,8 +3042,8 @@
    "tab:7F6DB4"
   ],
   "jp": "ぼうぎょUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Defense Up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3054,8 +3054,8 @@
    "tab:7F6DB8"
   ],
   "jp": "まりょくUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic Up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3078,8 +3078,8 @@
    "tab:7F6DC0"
   ],
   "jp": "すばやさUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Speed Up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3090,8 +3090,8 @@
    "tab:7F6DC4"
   ],
   "jp": "シフトEUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Shift E Up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3102,8 +3102,8 @@
    "tab:7F6DC8"
   ],
   "jp": "HPがUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "HP Up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3114,8 +3114,8 @@
    "tab:7F6DCC"
   ],
   "jp": "すべての<br>\nのうりょくが<br>\nUP‼‼<end>",
-  "en": "",
-  "status": "",
+  "en": "All<br>\nabilities<br>\nUp!!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3126,8 +3126,8 @@
    "tab:7F6E20"
   ],
   "jp": "さ～て<br>\nぼうけんに<br>\nしゅっぱつね♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Now then,<br>\noff on<br>\na quest♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3138,8 +3138,8 @@
    "tab:7F6E24"
   ],
   "jp": "うふっ★<br>\nこれいじょう<br>\nないくらい<br>\nらくしょうな<br>\nトコね！<end>",
-  "en": "",
-  "status": "",
+  "en": "Tee-hee★<br>\nIt couldn't<br>\nbe any more<br>\nof a breeze<br>\nhere!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3150,8 +3150,8 @@
    "tab:7F6E28"
   ],
   "jp": "うふっ★<br>\nこんかいは<br>\nきらくに<br>\nぼうけんできそうだわ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Tee-hee★<br>\nThis time<br>\nI can quest<br>\nwithout a worry!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3162,8 +3162,8 @@
    "tab:7F6E2C"
   ],
   "jp": "うふっ★<br>\nあたしのとくいなトコだから<br>\nきがラクだわぁ<end>",
-  "en": "",
-  "status": "",
+  "en": "Tee-hee★<br>\nThis is my kind of place,<br>\nso I'm relaxed.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3174,8 +3174,8 @@
    "tab:7F6E30"
   ],
   "jp": "ここって<br>\nレベルひくいしなんとかなりそうだわ！<end>",
-  "en": "",
-  "status": "",
+  "en": "The level's low<br>\nhere, so I should manage!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3186,8 +3186,8 @@
    "tab:7F6E34"
   ],
   "jp": "な～んか<br>\nあいしょうも<br>\nレベルも<br>\nふつうっぽくてあたしには<br>\nにあわないわ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Somehow<br>\nthe affinity<br>\nand level<br>\nfeel ordinary. It<br>\ndoesn't suit me...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3198,8 +3198,8 @@
    "tab:7F6E38"
   ],
   "jp": "ちょっとぉ…<br>\nもうすこし<br>\nラクなトコに<br>\nしてほしかったわねえ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Come on...<br>\nI wish you'd<br>\npicked a little<br>\neasier place...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3210,8 +3210,8 @@
    "tab:7F6E3C"
   ],
   "jp": "ちょっとぉ！<br>\nなんでここ⁉<br>\nかえったら<br>\nおしおきだわ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Come on!<br>\nWhy here!?<br>\nWhen we get<br>\nhome, you'll pay!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3222,8 +3222,8 @@
    "tab:7F6E40"
   ],
   "jp": "ちょっとぉ！<br>\nなんでここ⁉<br>\nキャンセルできないのかしら！<end>",
-  "en": "",
-  "status": "",
+  "en": "Come on!<br>\nWhy here!?<br>\nCan't I cancel this!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3234,8 +3234,8 @@
    "tab:7F6E44"
   ],
   "jp": "ちょっとぉ！<br>\nなんでここ⁉<br>\nも～サイアクなトコじゃない！<end>",
-  "en": "",
-  "status": "",
+  "en": "Come on!<br>\nWhy here!?<br>\nThis place is the worst!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3246,8 +3246,8 @@
    "tab:7F6E48"
   ],
   "jp": "そういえばここまえにダレか<br>\nクリアしてるのよねえ…<br>\nふまんだわ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh yes, somebody already<br>\ncleared this place...<br>\nI'm not happy...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3258,8 +3258,8 @@
    "tab:7F6E4C"
   ],
   "jp": "そういえばここあたしが<br>\nはじめてクリアすることになるのね～きっと★<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh yes, it seems I'll<br>\nbe first to clear this place~ For sure★<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3270,8 +3270,8 @@
    "tab:7F6E50"
   ],
   "jp": "いや～ん<br>\nツチのニオイ<br>\nキラ～イ<br>\nイキをとめて<br>\nすすもうかしら<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh, nooo~<br>\nHate the smell<br>\nof earth~<br>\nShould I hold<br>\nmy breath...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3282,8 +3282,8 @@
    "tab:7F6E54"
   ],
   "jp": "あら？<br>\nもうおくまで<br>\nたどりついた<br>\nみたいね…<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh?<br>\nLooks like I've<br>\nreached the<br>\nback already...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3294,8 +3294,8 @@
    "tab:7F6E58"
   ],
   "jp": "やっぱり…<br>\n<br>\nみのがしてくれないかしら♪<end>",
-  "en": "",
-  "status": "",
+  "en": "I knew it...<br>\nWon't you let me go♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3306,8 +3306,8 @@
    "tab:7F6E5C"
   ],
   "jp": "ん～★<br>\nもりのニオイはいいわぁ♪<br>\nいやしけいの<br>\nあたしが<br>\nぎゃくにいやされちゃうわ♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Mmm~★<br>\nThe forest smells so nice♪<br>\nI'm the healing<br>\ntype, but even<br>\nI feel healed♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3318,8 +3318,8 @@
    "tab:7F6E60"
   ],
   "jp": "あら？<br>\nむこうになにかいるみたいね？<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh?<br>\nSeems something's over there?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3330,8 +3330,8 @@
    "tab:7F6E64"
   ],
   "jp": "み～つけた♪<br>\nさっそく<br>\nおあいてして<br>\nちょうだい♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Found youuu♪<br>\nPlease be<br>\nmy opponent<br>\nright away♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3342,8 +3342,8 @@
    "tab:7F6E68"
   ],
   "jp": "ちょっとぉ…<br>\nどうして<br>\nあたしがやまをのぼらなきゃ<br>\nならないの？<br>\nなっとく<br>\nいかないわね！<end>",
-  "en": "",
-  "status": "",
+  "en": "Come on...<br>\nWhy do I<br>\nhave to climb a mountain?<br>\nI just<br>\ndon't get<br>\nit!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3354,8 +3354,8 @@
    "tab:7F6E6C"
   ],
   "jp": "いや～ん<br>\nあしがむくんできちゃったじゃないの～<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh, nooo~<br>\nMy legs are getting all swollen~<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3366,8 +3366,8 @@
    "tab:7F6E70"
   ],
   "jp": "アナタのせいよわかってるの！かくごなさい‼<end>",
-  "en": "",
-  "status": "",
+  "en": "It's your fault, you know! Get ready!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3378,8 +3378,8 @@
    "tab:7F6E74"
   ],
   "jp": "なによ～ここ！あついわね！<br>\nまさかあたしをうすぎにするのがねらいじゃないでしょうね？<end>",
-  "en": "",
-  "status": "",
+  "en": "What is this place! It's hot!<br>\nYou're not trying to get me into something skimpy, are you?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3390,8 +3390,8 @@
    "tab:7F6E78"
   ],
   "jp": "あら？<br>\nなんかフンイキかわったかしら<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh?<br>\nThe mood seems different.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3402,8 +3402,8 @@
    "tab:7F6E7C"
   ],
   "jp": "え～<br>\nアナタがボス？らくしょうってカンジ♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Eh~<br>\nYou're the boss? Sounds like a breeze♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3414,8 +3414,8 @@
    "tab:7F6E80"
   ],
   "jp": "サイアクな<br>\nばしょだわ…<br>\nもはや、ヒトのすむトコじゃ<br>\nないわね…<end>",
-  "en": "",
-  "status": "",
+  "en": "This place<br>\nis the worst...<br>\nNo one could<br>\nlive here...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3426,8 +3426,8 @@
    "tab:7F6E84"
   ],
   "jp": "もう、ボスでもなんでもいいからさっさとでてらっしゃい！<end>",
-  "en": "",
-  "status": "",
+  "en": "Boss or whatever, just hurry up and show yourself!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3438,8 +3438,8 @@
    "tab:7F6E88"
   ],
   "jp": "でたわね！<br>\nアナタよく<br>\nこんなトコに<br>\nすんでるわね！<end>",
-  "en": "",
-  "status": "",
+  "en": "There you are!<br>\nHow can you<br>\nlive in a<br>\nplace like this!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3450,8 +3450,8 @@
    "tab:7F6E8C"
   ],
   "jp": "あ～あ<br>\nすなだらけ…<br>\nもっとステキなスポットは<br>\nないのかしらね<end>",
-  "en": "",
-  "status": "",
+  "en": "Ahh~<br>\nSo much sand...<br>\nIsn't there a nicer<br>\nspot somewhere?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3462,8 +3462,8 @@
    "tab:7F6E90"
   ],
   "jp": "あ～んおハダがかわいてきた<br>\nみたいだわ～<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh, nooo~ My skin's drying<br>\nout~<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3474,8 +3474,8 @@
    "tab:7F6E94"
   ],
   "jp": "これまた<br>\nうるおいの<br>\nなさそうなヒトだわね…<br>\nそのままラクにしてあげるわ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Another person<br>\nwith no<br>\nmoisture in their life...<br>\nI'll put you out of your misery!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3486,8 +3486,8 @@
    "tab:7F6E98"
   ],
   "jp": "あ～ん★<br>\nヒンヤリして<br>\nいいキモチ～♪でもあしもとがちょっと<br>\nひえすぎかしら<end>",
-  "en": "",
-  "status": "",
+  "en": "Ahh~★<br>\nSo cool and<br>\nnice~♪ But my feet are a little<br>\ntoo cold, maybe.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3498,8 +3498,8 @@
    "tab:7F6E9C"
   ],
   "jp": "…そろそろ<br>\nおわりっぽい<br>\nフンイキね！<end>",
-  "en": "",
-  "status": "",
+  "en": "...Seems we're<br>\nalmost<br>\ndone here!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3510,8 +3510,8 @@
    "tab:7F6EA0"
   ],
   "jp": "いや～ん！<br>\nこのヒトのカオコワ～イ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh, nooo!<br>\nThis one's face is so scaaary!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3522,8 +3522,8 @@
    "tab:7F6EA4"
   ],
   "jp": "ココよココ！<br>\nあたしがまってたスポットは<br>\nココなのよ♪<br>\nステキなばしょじゃないの♪<end>",
-  "en": "",
-  "status": "",
+  "en": "This is it, here!<br>\nThe spot I've been waiting<br>\nfor is here♪<br>\nWhat a lovely place♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3534,8 +3534,8 @@
    "tab:7F6EA8"
   ],
   "jp": "あたしの<br>\nおきにいりの<br>\nばしょをあらすのはダレ…⁉<end>",
-  "en": "",
-  "status": "",
+  "en": "Who's trashing<br>\nmy favourite<br>\nplace...!?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3546,8 +3546,8 @@
    "tab:7F6EAC"
   ],
   "jp": "ちょっと！<br>\nアナタここからすぐにでていきなさい‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Hey!<br>\nYou get out of here this minute!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3558,8 +3558,8 @@
    "tab:7F6EB0"
   ],
   "jp": "さわやかだわ…ぼうけんなんてヤメちゃおっかな～んてね！<br>\nやっぱダメよね<end>",
-  "en": "",
-  "status": "",
+  "en": "So refreshing... Maybe I'll quit questing... Just kidding!<br>\nGuess not.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3570,8 +3570,8 @@
    "tab:7F6EB4"
   ],
   "jp": "なんかむこうにこのばしょに<br>\nにあわないヒトいるじゃない…<end>",
-  "en": "",
-  "status": "",
+  "en": "Someone over there<br>\ndoesn't suit this place...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3582,8 +3582,8 @@
    "tab:7F6EB8"
   ],
   "jp": "ちょっと！<br>\nアナタのせいでフンイキ<br>\nぶちこわしよ！きえなさい‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Hey!<br>\nYou've ruined the<br>\nmood! Get lost!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3594,8 +3594,8 @@
    "tab:7F6EBC"
   ],
   "jp": "いや～ん<br>\nカゼがつよくてすすめないわ～あん…<br>\nメにゴミが…<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh, nooo~<br>\nThe wind's too strong to walk~ Ah...<br>\ndust in my eye...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3606,8 +3606,8 @@
    "tab:7F6EC0"
   ],
   "jp": "げんかいだわ！さっきから<br>\nあるきっぱなしじゃないのよ！<end>",
-  "en": "",
-  "status": "",
+  "en": "That's my limit! I've been<br>\nwalking this whole time!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3618,8 +3618,8 @@
    "tab:7F6EC4"
   ],
   "jp": "ねえ…アナタがボスなの？<br>\nきゃ～うれし～いよいよここでおわりなのね♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Say... are you the boss?<br>\nKyaa~ I'm so happy~ It ends here at last♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3630,8 +3630,8 @@
    "tab:7F6EC8"
   ],
   "jp": "あたしはべつにたかいトコが<br>\nスキなわけじゃないのよ？<br>\nごかいしないでほしいわね！<end>",
-  "en": "",
-  "status": "",
+  "en": "It's not that I like<br>\nhigh places, you know?<br>\nPlease don't get me wrong!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3642,8 +3642,8 @@
    "tab:7F6ECC"
   ],
   "jp": "あら？<br>\nげひんなトビラがみえてきたわ<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh?<br>\nI can see a vulgar door.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3654,8 +3654,8 @@
    "tab:7F6ED0"
   ],
   "jp": "やっぱアナタもげひんなカンジだわね…<br>\nべつにキタイはしてなかったけど<end>",
-  "en": "",
-  "status": "",
+  "en": "You look vulgar too...<br>\nI wasn't expecting much anyway.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3666,8 +3666,8 @@
    "tab:7F6ED4"
   ],
   "jp": "とてもやさしいフンイキがするわぁ♪いやしパワーがじゅうでんできそうね♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Such a gentle atmosphere♪ I could recharge my healing power♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3678,8 +3678,8 @@
    "tab:7F6ED8"
   ],
   "jp": "さて…<br>\nそろそろみたいなカンジね？<br>\nどこからでも<br>\nいらっしゃい♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Now then...<br>\nIt's about that time, huh?<br>\nCome at me<br>\nfrom anywhere♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3690,8 +3690,8 @@
    "tab:7F6EDC"
   ],
   "jp": "アナタも<br>\nいやしパワーをひつようとしてるようね！<end>",
-  "en": "",
-  "status": "",
+  "en": "You seem to need<br>\nhealing power too!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3702,8 +3702,8 @@
    "tab:7F6EE0"
   ],
   "jp": "なんかくうきがピリピリしてるわね…<br>\nこのあたしを<br>\nきんちょう<br>\nさせるなんて<br>\nやるじゃない！<end>",
-  "en": "",
-  "status": "",
+  "en": "The air's all tingly...<br>\nTo make<br>\nlittle me<br>\nnervous,<br>\nyou're pretty good!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3714,8 +3714,8 @@
    "tab:7F6EE4"
   ],
   "jp": "ヒカリぞくせいがなによ！<br>\nボスもどうせ<br>\nたいしたこと…<end>",
-  "en": "",
-  "status": "",
+  "en": "So what if it's Light attribute!<br>\nThe boss must be<br>\nnothing much...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3726,8 +3726,8 @@
    "tab:7F6EE8"
   ],
   "jp": "きゃ～！いまのウソで～す！<br>\nごめんなさい！<end>",
-  "en": "",
-  "status": "",
+  "en": "Kyaa! I take that back!<br>\nI'm sorry!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3738,8 +3738,8 @@
    "tab:7F6EEC"
   ],
   "jp": "ここもたしか<br>\nヒカリぞくせいだったわよね…なんかふつうっぽいトコね…<end>",
-  "en": "",
-  "status": "",
+  "en": "This one's Light attribute<br>\ntoo... It seems kind of ordinary...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3750,8 +3750,8 @@
    "tab:7F6EF0"
   ],
   "jp": "さ～てそろそろおやくそくの<br>\nパターンの<br>\nじかんだわ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Now, it's about time for<br>\nthe usual<br>\nroutine!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3762,8 +3762,8 @@
    "tab:7F6EF4"
   ],
   "jp": "はぁ…<br>\nたまには<br>\nたたかわずに<br>\nクリアできないかしらね…<end>",
-  "en": "",
-  "status": "",
+  "en": "Sigh...<br>\nCan't I clear<br>\none without<br>\na fight for once...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3774,8 +3774,8 @@
    "tab:7F6EF8"
   ],
   "jp": "ヤミぞくせいがなんだっての！ぎゃくにひらきなおっちゃう<br>\nわね！<end>",
-  "en": "",
-  "status": "",
+  "en": "So what if it's Dark attribute! I'll just get over<br>\nit!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3786,8 +3786,8 @@
    "tab:7F6EFC"
   ],
   "jp": "ボスでもなんでもいいから<br>\nさっさとでて<br>\nらっしゃい！<end>",
-  "en": "",
-  "status": "",
+  "en": "Boss or whatever,<br>\nhurry up and<br>\nshow yourself!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3798,8 +3798,8 @@
    "tab:7F6F00"
   ],
   "jp": "あ～ら★<br>\nわりとカワイイボウヤだこと★かわいがって<br>\nあげるわん♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh my★<br>\nWhat a fairly cute boy★ I'll give you<br>\nsome love♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3810,8 +3810,8 @@
    "tab:7F6F04"
   ],
   "jp": "ちょっと<br>\nちょっと<br>\nちょっとぉ～！なんなのこの<br>\nニオイ！<br>\nきいてないわ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Hey,<br>\nhey,<br>\nheyyy! What is this<br>\nsmell!<br>\nNobody told me!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3822,8 +3822,8 @@
    "tab:7F6F08"
   ],
   "jp": "ボスちゃ～ん<br>\nはやくきて～<br>\nおねが～い★<end>",
-  "en": "",
-  "status": "",
+  "en": "Boss-chan~<br>\nHurry up~<br>\nPretty please★<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3834,8 +3834,8 @@
    "tab:7F6F0C"
   ],
   "jp": "アナタよりも<br>\nまわりのほうがきょうてきってカンジだわ…<end>",
-  "en": "",
-  "status": "",
+  "en": "The surroundings are<br>\ntougher than you are...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3846,8 +3846,8 @@
    "tab:7F6F10"
   ],
   "jp": "なんだか<br>\nさっぷうけいなトコね～<br>\nまあ、そのぶんあたしがひきたつからいっか♪<end>",
-  "en": "",
-  "status": "",
+  "en": "What a bleak<br>\nplace~<br>\nWell, it makes me stand out, so that's fine♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3858,8 +3858,8 @@
    "tab:7F6F14"
   ],
   "jp": "さあじかんよ！かくれてないででてきなさい‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Time's up! Stop hiding and come out!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3870,8 +3870,8 @@
    "tab:7F6F18"
   ],
   "jp": "うふふ★<br>\nあたしのうつくしさにひかれてノコノコとでてきちゃったわね<end>",
-  "en": "",
-  "status": "",
+  "en": "Tee-hee★<br>\nDrawn by my beauty, you came right out.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3882,8 +3882,8 @@
    "tab:7F6F1C"
   ],
   "jp": "やっぱり<br>\nキホンといえばどうくつね！<br>\nキホンって<br>\nだいじよね！<end>",
-  "en": "",
-  "status": "",
+  "en": "Caves are<br>\nthe real basics!<br>\nBasics are<br>\nimportant!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3894,8 +3894,8 @@
    "tab:7F6F20"
   ],
   "jp": "キホンのとおりならそろそろ<br>\nこのへんで…<end>",
-  "en": "",
-  "status": "",
+  "en": "If the basics hold, then<br>\nright about here...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3906,8 +3906,8 @@
    "tab:7F6F24"
   ],
   "jp": "でたわね！<br>\nキホンどおり！アナタもわりとキホンをだいじにしてるのね！<end>",
-  "en": "",
-  "status": "",
+  "en": "There you are!<br>\nJust like the basics! You value the basics too!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3918,8 +3918,8 @@
    "tab:7F6F28"
   ],
   "jp": "きゃ～～～！<br>\nきゅうにおそってくるなんて<br>\nサイテーだわ！うったえてやるわよ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Kyaaa!<br>\nA surprise attack is<br>\nthe lowest! I'll sue you!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3930,8 +3930,8 @@
    "tab:7F6F2C"
   ],
   "jp": "あら…<br>\nしょうめんからいどんでくる<br>\nしんしなザコもいるのね…<br>\nたおしたケド★<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh...<br>\nSo there are gentlemanly<br>\nsmall fry who come straight at me...<br>\nI beat you, though★<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3942,8 +3942,8 @@
    "tab:7F6F30"
   ],
   "jp": "あ～ら<br>\nおバカさんね～あたしにうしろみせるなんて♪イッパツで<br>\nのびちゃったわ<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh my,<br>\nwhat a fool~ Showing me your back♪ One hit<br>\nand it's out cold.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3954,8 +3954,8 @@
    "tab:7F6F34"
   ],
   "jp": "なんかブキミにわらってたわ…<br>\nおもわず<br>\nこうげきするのためらったわ…<end>",
-  "en": "",
-  "status": "",
+  "en": "It was smiling creepily...<br>\nI couldn't help<br>\nhesitating to attack...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3966,8 +3966,8 @@
    "tab:7F6F38"
   ],
   "jp": "あぶなかった…このあたしの<br>\nおイロケが<br>\nきかないなんてきょうてき<br>\nだったわね…<end>",
-  "en": "",
-  "status": "",
+  "en": "That was close... It didn't<br>\nfall for my<br>\ncharm, so it was<br>\na tough one...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3978,8 +3978,8 @@
    "tab:7F6F3C"
   ],
   "jp": "ふふん★<br>\nあたしをビビらせようなんて<br>\nそうはいかないわよ！<br>\nニラんだら<br>\nにげだしたわ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Hmph★<br>\nTrying to scare me<br>\nwon't work!<br>\nOne glare<br>\nand it ran!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -3990,8 +3990,8 @@
    "tab:7F6F40"
   ],
   "jp": "ちょっとぉ～<br>\nあたしのカオをみたとたんに<br>\nにげだすなんてどういうこと⁉しつれいだわ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Hey~<br>\nWhat's the idea, running away<br>\nthe moment you see my face!? How rude!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4002,8 +4002,8 @@
    "tab:7F6F44"
   ],
   "jp": "あら…<br>\nイズミが<br>\nわいてるわね…<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh...<br>\nA spring's<br>\nwelling up...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4014,8 +4014,8 @@
    "tab:7F6F48"
   ],
   "jp": "なかなか<br>\nきがきいてる<br>\nじゃない♪<br>\nおかげで<br>\nリフレッシュ<br>\nできたわ♪<end>",
-  "en": "",
-  "status": "",
+  "en": "How very<br>\nthoughtful♪<br>\nNow<br>\nI feel<br>\nall<br>\nrefreshed♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4026,8 +4026,8 @@
    "tab:7F6F4C"
   ],
   "jp": "イヤなカンジ…さきにすすみましょう！<end>",
-  "en": "",
-  "status": "",
+  "en": "Bad feeling... Let's move on!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4038,8 +4038,8 @@
    "tab:7F6F50"
   ],
   "jp": "ちょうどいいわひといきいれ<br>\nちゃいましょ♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Just right. Let's take<br>\na break♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4050,8 +4050,8 @@
    "tab:7F6F54"
   ],
   "jp": "あら…<br>\nどうしてこんなところに…<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh...<br>\nWhat's this doing here...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4062,8 +4062,8 @@
    "tab:7F6F58"
   ],
   "jp": "なかなか<br>\nきがきいてる<br>\nじゃない♪<br>\nおかげで<br>\nリフレッシュ<br>\nできたわ！<end>",
-  "en": "",
-  "status": "",
+  "en": "How very<br>\nthoughtful♪<br>\nNow<br>\nI feel<br>\nall<br>\nrefreshed!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4074,8 +4074,8 @@
    "tab:7F6F5C"
   ],
   "jp": "イヤなカンジ…さきにすすみましょう！<end>",
-  "en": "",
-  "status": "",
+  "en": "Bad feeling... Let's move on!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4086,8 +4086,8 @@
    "tab:7F6F60"
   ],
   "jp": "つかれてたからきゅうけい<br>\nしとこうかな…<end>",
-  "en": "",
-  "status": "",
+  "en": "I'm tired, so maybe I'll<br>\ntake a break...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4098,8 +4098,8 @@
    "tab:7F6F64"
   ],
   "jp": "あら…<br>\nヒがたいてあるわねえ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh...<br>\nA fire's been lit...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4110,8 +4110,8 @@
    "tab:7F6F68"
   ],
   "jp": "なかなか<br>\nきがきいてる<br>\nじゃない♪<br>\nおかげで<br>\nリフレッシュ<br>\nできたわ！<end>",
-  "en": "",
-  "status": "",
+  "en": "How very<br>\nthoughtful♪<br>\nNow<br>\nI feel<br>\nall<br>\nrefreshed!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4122,8 +4122,8 @@
    "tab:7F6F6C"
   ],
   "jp": "イヤなカンジ…さきにすすみましょう！<end>",
-  "en": "",
-  "status": "",
+  "en": "Bad feeling... Let's move on!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4134,8 +4134,8 @@
    "tab:7F6F70"
   ],
   "jp": "なんかキブンがたかまってきたみたいだわ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Seems like my spirits are rising!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4146,8 +4146,8 @@
    "tab:7F6F74"
   ],
   "jp": "あら…<br>\nここはカゼが<br>\nふいてるのね…<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh...<br>\nThe wind<br>\nis blowing here...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4158,8 +4158,8 @@
    "tab:7F6F78"
   ],
   "jp": "とってもいい<br>\nキモチだわ♪<br>\nおかげで<br>\nリフレッシュ<br>\nできたわ！<end>",
-  "en": "",
-  "status": "",
+  "en": "What a nice<br>\nfeeling♪<br>\nNow<br>\nI feel<br>\nrefreshed!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4170,8 +4170,8 @@
    "tab:7F6F7C"
   ],
   "jp": "イヤなカンジ…さきにすすみましょう！<end>",
-  "en": "",
-  "status": "",
+  "en": "Bad feeling... Let's move on!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4182,8 +4182,8 @@
    "tab:7F6F80"
   ],
   "jp": "しんこきゅうですこしキブンがスッキリした<br>\nみたいだわ♪<end>",
-  "en": "",
-  "status": "",
+  "en": "A deep breath seems to have<br>\ncleared my head♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4194,8 +4194,8 @@
    "tab:7F6F84"
   ],
   "jp": "あら…<br>\nなにかしら…<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh...<br>\nWhat's this...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4206,8 +4206,8 @@
    "tab:7F6F88"
   ],
   "jp": "フシギなキモチがするわね…<br>\nリフレッシュ<br>\nできたみたい！<end>",
-  "en": "",
-  "status": "",
+  "en": "What a strange feeling...<br>\nSeems I feel<br>\nrefreshed!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4218,8 +4218,8 @@
    "tab:7F6F8C"
   ],
   "jp": "イヤなカンジ…さきにすすみましょう！<end>",
-  "en": "",
-  "status": "",
+  "en": "Bad feeling... Let's move on!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4230,8 +4230,8 @@
    "tab:7F6F90"
   ],
   "jp": "あまりきょうみなかったけど<br>\nキブンてんかんできたかも♪<end>",
-  "en": "",
-  "status": "",
+  "en": "I wasn't very interested, but<br>\nit was a nice change♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4242,8 +4242,8 @@
    "tab:7F6F94"
   ],
   "jp": "あら…<br>\nなにかしら…<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh...<br>\nWhat's this...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4254,8 +4254,8 @@
    "tab:7F6F98"
   ],
   "jp": "フシギなキモチがするわね…<br>\nチカラがわいてきたみたい！<end>",
-  "en": "",
-  "status": "",
+  "en": "What a strange feeling...<br>\nPower seems to be welling up!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4266,8 +4266,8 @@
    "tab:7F6F9C"
   ],
   "jp": "イヤなカンジ…さきにすすみましょう！<end>",
-  "en": "",
-  "status": "",
+  "en": "Bad feeling... Let's move on!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4278,8 +4278,8 @@
    "tab:7F6FA0"
   ],
   "jp": "あまりきょうみなかったけど<br>\nキブンてんかんできたかも♪<end>",
-  "en": "",
-  "status": "",
+  "en": "I wasn't very interested, but<br>\nit was a nice change♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4290,8 +4290,8 @@
    "tab:7F6FA4"
   ],
   "jp": "あら…<br>\nなにかしら…<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh...<br>\nWhat's this...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4302,8 +4302,8 @@
    "tab:7F6FA8"
   ],
   "jp": "フシギなキモチだわぁ…<br>\nチカラがわいてきたみたい！<end>",
-  "en": "",
-  "status": "",
+  "en": "Such a strange feeling...<br>\nPower seems to be welling up!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4338,8 +4338,8 @@
    "tab:7F6FB4"
   ],
   "jp": "あら…<br>\nなにコレ？<br>\nこわれてるわ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh...<br>\nWhat's this?<br>\nIt's broken!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4362,8 +4362,8 @@
    "tab:7F6FBC"
   ],
   "jp": "イヤなカンジ…さきにすすみましょう！<end>",
-  "en": "",
-  "status": "",
+  "en": "Bad feeling... Let's move on!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4386,8 +4386,8 @@
    "tab:7F6FE4"
   ],
   "jp": "おほほほほほ！らくしょうで<br>\nものたりなかったわね♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Ohohohoho! What a breeze,<br>\nnot enough for me♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4398,8 +4398,8 @@
    "tab:7F6FE8"
   ],
   "jp": "おほほほほほ！あたしをただのカワイイこだとおもわれちゃ<br>\nこまるわね！<end>",
-  "en": "",
-  "status": "",
+  "en": "Ohohohoho! Don't take me for<br>\njust a cute girl!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4410,8 +4410,8 @@
    "tab:7F6FEC"
   ],
   "jp": "おほほほほほ！あたしをなめてもらっちゃ<br>\nこまるわね！<end>",
-  "en": "",
-  "status": "",
+  "en": "Ohohohoho! Don't you<br>\nunderestimate me!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4422,8 +4422,8 @@
    "tab:7F6FF0"
   ],
   "jp": "うふふ★<br>\nどうかしら？<br>\nなんなら<br>\nもういっかい<br>\nしてみるぅ？<end>",
-  "en": "",
-  "status": "",
+  "en": "Tee-hee★<br>\nHow's that?<br>\nIf you like,<br>\nshall we go<br>\nagain?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4434,8 +4434,8 @@
    "tab:7F6FF4"
   ],
   "jp": "うふふ★<br>\nどうかしら？<br>\nあたしにみとれちゃったなんていいわけは<br>\nダメよ♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Tee-hee★<br>\nHow's that?<br>\nYou can't say you were<br>\ndistracted by me♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4446,8 +4446,8 @@
    "tab:7F6FF8"
   ],
   "jp": "うふふ★<br>\nどうかしら？<br>\nひょっとして<br>\nてかげんしてくれたのかしら？<end>",
-  "en": "",
-  "status": "",
+  "en": "Tee-hee★<br>\nHow's that?<br>\nCould it be<br>\nyou went easy on me?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4458,8 +4458,8 @@
    "tab:7F6FFC"
   ],
   "jp": "ふぅ～<br>\nいまのちょっとヤバかったわ…ぞくせいって<br>\nあなどれないわね…<end>",
-  "en": "",
-  "status": "",
+  "en": "Phew~<br>\nThat was a bit dicey... Attributes<br>\naren't to be underestimated...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4470,8 +4470,8 @@
    "tab:7F7000"
   ],
   "jp": "ふぅ～<br>\nいまのマジで<br>\nヤバかったわ…こんなんじゃ<br>\nクリアしたきがしないわ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Phew~<br>\nThat was really<br>\ndicey... Doesn't feel<br>\nlike I cleared it at all...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4482,8 +4482,8 @@
    "tab:7F7004"
   ],
   "jp": "ふぅ～<br>\nいまのしぬほどヤバかったわ…さすがにもう<br>\nげんかいかも…<end>",
-  "en": "",
-  "status": "",
+  "en": "Phew~<br>\nThat was deadly dicey... I think that's<br>\nmy limit...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4494,8 +4494,8 @@
    "tab:7F7008"
   ],
   "jp": "うっそ～‼<br>\nしんじらんないまけるハズ<br>\nなかったのに‼<end>",
-  "en": "",
-  "status": "",
+  "en": "No waaay!!<br>\nUnbelievable! I couldn't<br>\nhave lost!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4506,8 +4506,8 @@
    "tab:7F700C"
   ],
   "jp": "うっそ～‼<br>\nしんじらんないインチキよ！<br>\nぜったいそう‼<end>",
-  "en": "",
-  "status": "",
+  "en": "No waaay!!<br>\nUnbelievable! It's a cheat!<br>\nDefinitely!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4518,8 +4518,8 @@
    "tab:7F7010"
   ],
   "jp": "うっそ～‼<br>\nしんじらんないあたしユメでもみてるの⁉<end>",
-  "en": "",
-  "status": "",
+  "en": "No waaay!!<br>\nUnbelievable! Am I dreaming!?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4530,8 +4530,8 @@
    "tab:7F7014"
   ],
   "jp": "あ～ん<br>\nまけちゃった～おんなのこ<br>\nなかすなんて<br>\nサイテーよ～<end>",
-  "en": "",
-  "status": "",
+  "en": "Aww~<br>\nI lost~ Making a<br>\ngirl cry is<br>\nthe lowest~<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4542,8 +4542,8 @@
    "tab:7F7018"
   ],
   "jp": "あ～ん<br>\nまけちゃった～このかりは<br>\n10バイにしてかえすからね‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Aww~<br>\nI lost~ I'll pay<br>\nthis back 10 times over!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4554,8 +4554,8 @@
    "tab:7F701C"
   ],
   "jp": "あ～ん<br>\nまけちゃった～コイツぜったいゆるせな～い‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Aww~<br>\nI lost~ I'll never forgive this one!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4566,8 +4566,8 @@
    "tab:7F7020"
   ],
   "jp": "サイアクだわ…たちなおるのにじかんがかかりそうだわ…<end>",
-  "en": "",
-  "status": "",
+  "en": "The worst... This'll take time to get over...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4578,8 +4578,8 @@
    "tab:7F7024"
   ],
   "jp": "サイアクだわ…もうにどと<br>\nぼうけんなんてするもんですか<end>",
-  "en": "",
-  "status": "",
+  "en": "The worst... I'll never go<br>\non a quest again.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4590,8 +4590,8 @@
    "tab:7F7028"
   ],
   "jp": "サイアクだわ…これはもう<br>\nイジメとしか<br>\nおもえないわ…<end>",
-  "en": "",
-  "status": "",
+  "en": "The worst... This has to<br>\nbe nothing but<br>\nbullying...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4602,8 +4602,8 @@
    "tab:7F702C"
   ],
   "jp": "あ～あ<br>\nアセかいちゃったじゃない…<br>\nはやくかえってシャワーをあびたいわ～♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Ahh~<br>\nI got all sweaty...<br>\nI want to go home and shower~♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4614,8 +4614,8 @@
    "tab:7F7030"
   ],
   "jp": "そ、そうだわ！にっきには<br>\nクリアしたってかいちゃえば<br>\nいいんだわ！<br>\nバレっこないわおほほほほ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Th-that's right! In the diary<br>\nI'll write that I cleared it!<br>\nThat's fine!<br>\nWho'd know, ohohoho!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4626,8 +4626,8 @@
    "tab:7F6FC4"
   ],
   "jp": "ちからUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Power Up!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4638,8 +4638,8 @@
    "tab:7F6FC8"
   ],
   "jp": "ぼうぎょUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Defense Up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4650,8 +4650,8 @@
    "tab:7F6FCC"
   ],
   "jp": "まりょくUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic Up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4674,8 +4674,8 @@
    "tab:7F6FD4"
   ],
   "jp": "すばやさUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Speed Up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4686,8 +4686,8 @@
    "tab:7F6FD8"
   ],
   "jp": "シフトEUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Shift E Up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4698,8 +4698,8 @@
    "tab:7F6FDC"
   ],
   "jp": "HPがUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "HP Up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4710,8 +4710,8 @@
    "tab:7F6FE0"
   ],
   "jp": "すべての<br>\nのうりょくが<br>\nUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "All<br>\nabilities<br>\nUp!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4722,8 +4722,8 @@
    "tab:7F7248"
   ],
   "jp": "うおおおーー‼ぼうけんに<br>\nしゅっぱつ<br>\nだぞーーー‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Rraaaah!! Off on<br>\na quest<br>\nwe goooo!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4734,8 +4734,8 @@
    "tab:7F724C"
   ],
   "jp": "ぞくせい？<br>\nレベル？<br>\nなんだそれ？<br>\nトクなのか？<br>\nそうかよかったぞーーー‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Attribute?<br>\nLevel?<br>\nWhat's that?<br>\nGood deal?<br>\nOh, greeeat!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4746,8 +4746,8 @@
    "tab:7F7250"
   ],
   "jp": "ぞくせい？<br>\nレベル？<br>\nなんだそれ？<br>\nオレがトクなのか？ホントか？<end>",
-  "en": "",
-  "status": "",
+  "en": "Attribute?<br>\nLevel?<br>\nWhat's that?<br>\nGood for me? Really?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4758,8 +4758,8 @@
    "tab:7F7254"
   ],
   "jp": "ぞくせい？<br>\nレベル？<br>\nなんだそれ？<br>\nそんなのかんけいないぞー‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Attribute?<br>\nLevel?<br>\nWhat's that?<br>\nMe not care!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4770,8 +4770,8 @@
    "tab:7F7258"
   ],
   "jp": "がんばるぞー‼クリアしてくるぞーーー‼<br>\nたぶんな‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Me do best!! Me go clear it!!<br>\nProbably!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4782,8 +4782,8 @@
    "tab:7F725C"
   ],
   "jp": "がんばるぞー‼でもクリアできるかわかんないぞ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Me do best!! But dunno if me can clear it!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4794,8 +4794,8 @@
    "tab:7F7260"
   ],
   "jp": "がんばるぞー‼でもクリアできなくてもおこるなよー‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Me do best!! But don't get mad if no clear!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4806,8 +4806,8 @@
    "tab:7F7264"
   ],
   "jp": "ココ、オレのキライなトコか？きのせいか？<end>",
-  "en": "",
-  "status": "",
+  "en": "This place me hate? Or just me?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4818,8 +4818,8 @@
    "tab:7F7268"
   ],
   "jp": "ココ、オレのキライなトコか？オレだって<br>\nそのくらい<br>\nわかるんだぞー<end>",
-  "en": "",
-  "status": "",
+  "en": "This place me hate? Even me<br>\ncan figure<br>\nthat much out.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4830,8 +4830,8 @@
    "tab:7F726C"
   ],
   "jp": "ココ、オレのキライなトコか？オレいじめられてるか？<end>",
-  "en": "",
-  "status": "",
+  "en": "This place me hate? You bullying me?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4842,8 +4842,8 @@
    "tab:7F7270"
   ],
   "jp": "ココ、<br>\nもうダレかが<br>\nクリアしてるのか？<br>\nダレだそいつ！でてこーい‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Here,<br>\nsomebody already<br>\ncleared it?<br>\nWho's that guy! Come out!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4854,8 +4854,8 @@
    "tab:7F7274"
   ],
   "jp": "ココ、<br>\nまだダレも<br>\nクリアしてないのか？<br>\nじゃあオレが<br>\nいちばんだ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Here,<br>\nnobody's<br>\ncleared it yet?<br>\nThen me is<br>\nfirst!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4866,8 +4866,8 @@
    "tab:7F7278"
   ],
   "jp": "ココ、くらくてせまい…<br>\nオレはやく<br>\nひろいトコに<br>\nいきたい…<end>",
-  "en": "",
-  "status": "",
+  "en": "Here is dark, cramped...<br>\nMe wanna go<br>\nsomewhere<br>\nwide soon...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4878,8 +4878,8 @@
    "tab:7F727C"
   ],
   "jp": "いきどまりか？でぐちどこだ？<end>",
-  "en": "",
-  "status": "",
+  "en": "Dead end? Where's the exit?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4890,8 +4890,8 @@
    "tab:7F7280"
   ],
   "jp": "おいおまえ！<br>\nでぐちどこだ？おしえないならこうだぞ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Hey you!<br>\nWhere's the exit? Don't tell, and take this!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4902,8 +4902,8 @@
    "tab:7F7284"
   ],
   "jp": "ココ、たぶん<br>\nもりだろう！<br>\nもしかしたら<br>\nはやしかもしれないな…<br>\nどっちでも<br>\nいいけど！<end>",
-  "en": "",
-  "status": "",
+  "en": "This, probably<br>\na forest!<br>\nOr maybe<br>\nit's a wood...<br>\nWho<br>\ncares!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4914,8 +4914,8 @@
    "tab:7F7288"
   ],
   "jp": "お！　あそこにダレかいるな！<end>",
-  "en": "",
-  "status": "",
+  "en": "Oh! Somebody's over there!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4926,8 +4926,8 @@
    "tab:7F728C"
   ],
   "jp": "おいおまえ！<br>\nココはもりか？おしえないならこうだぞ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Hey you!<br>\nThis a forest? Don't tell, and take this!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4938,8 +4938,8 @@
    "tab:7F7290"
   ],
   "jp": "ココ、たぶん<br>\nやまだろう！<br>\nじしんあるぞ！でもちがうかもしれない…<end>",
-  "en": "",
-  "status": "",
+  "en": "This, probably<br>\na mountain!<br>\nMe sure! But maybe not...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4950,8 +4950,8 @@
    "tab:7F7294"
   ],
   "jp": "ずいぶん<br>\nあるいたぞ～<br>\nハラへったぞ～<end>",
-  "en": "",
-  "status": "",
+  "en": "Walked lots~<br>\nMe hungry~<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4962,8 +4962,8 @@
    "tab:7F7298"
   ],
   "jp": "おいおまえ！<br>\nなにかくいもんないか？<br>\nおしえないならこうだぞ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Hey you!<br>\nGot anything to eat?<br>\nDon't tell, and take this!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4974,8 +4974,8 @@
    "tab:7F729C"
   ],
   "jp": "ココ、くらくてせまい…<br>\nオレはやく<br>\nひろいトコに<br>\nいきたい…<end>",
-  "en": "",
-  "status": "",
+  "en": "Here is dark, cramped...<br>\nMe wanna go<br>\nsomewhere<br>\nwide soon...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4986,8 +4986,8 @@
    "tab:7F72A0"
   ],
   "jp": "ココのボス<br>\nどんなヤツだ？たのしみだ♪<end>",
-  "en": "",
-  "status": "",
+  "en": "What kinda guy is the<br>\nboss here? Can't wait♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -4998,8 +4998,8 @@
    "tab:7F72A4"
   ],
   "jp": "おまえボスか？よわそうなヤツガッカリだ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "You the boss? Looks weak. Me disappointed!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5010,8 +5010,8 @@
    "tab:7F72A8"
   ],
   "jp": "おおー！<br>\nなんかココ<br>\nあかいぞ！<br>\nなんかオレ<br>\nこうふんする！ふんふん‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Whoa!<br>\nThis place<br>\nis red!<br>\nMe getting<br>\nexcited! Hmph hmph!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5022,8 +5022,8 @@
    "tab:7F72AC"
   ],
   "jp": "そろそろボスがでてくるころ！………か？<end>",
-  "en": "",
-  "status": "",
+  "en": "Time for boss to show up! .........Right?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5034,8 +5034,8 @@
    "tab:7F72B0"
   ],
   "jp": "おおー！<br>\nオレの<br>\nいったとおり！いいキブン♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Whoa!<br>\nJust like<br>\nme said! Feels good♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5046,8 +5046,8 @@
    "tab:7F72B4"
   ],
   "jp": "ココ、なんか<br>\nすなだらけ！<br>\nすこしあそんでいっていいか？そうかダメか…<end>",
-  "en": "",
-  "status": "",
+  "en": "This place,<br>\nall sand!<br>\nCan me play a bit? Oh, me can't...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5058,8 +5058,8 @@
    "tab:7F72B8"
   ],
   "jp": "オレつかれた…はやく<br>\nかえりたい…<end>",
-  "en": "",
-  "status": "",
+  "en": "Me tired... Me wanna<br>\ngo home soon...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5070,8 +5070,8 @@
    "tab:7F72BC"
   ],
   "jp": "おまえボスか？オレはやく<br>\nかえりたいからおまえたおす‼<end>",
-  "en": "",
-  "status": "",
+  "en": "You the boss? Me wanna go<br>\nhome soon, so me beat you!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5082,8 +5082,8 @@
    "tab:7F72C0"
   ],
   "jp": "ココ、くらくてせまい…<br>\nオレはやく<br>\nひろいトコに<br>\nいきたい…<end>",
-  "en": "",
-  "status": "",
+  "en": "Here is dark, cramped...<br>\nMe wanna go<br>\nsomewhere<br>\nwide soon...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5094,8 +5094,8 @@
    "tab:7F72C4"
   ],
   "jp": "うおおおーー‼ココ、こえが<br>\nひびいて<br>\nたのしいぞ♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Rraaaah!! Here, my voice<br>\nechoes!<br>\nFun♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5106,8 +5106,8 @@
    "tab:7F72C8"
   ],
   "jp": "なんだおまえ！あそんでるのにジャマするな！こうしてやる‼<end>",
-  "en": "",
-  "status": "",
+  "en": "What are you! Me playing, don't interrupt! Take this!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5118,8 +5118,8 @@
    "tab:7F72CC"
   ],
   "jp": "ココ、<br>\nすがすがしくていいキブン♪<br>\nオレにピッタリのばしょ♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Here,<br>\nso fresh, feels good♪<br>\nPerfect place for me♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5130,8 +5130,8 @@
    "tab:7F72D0"
   ],
   "jp": "…ん？<br>\nいまダレかの<br>\nこえがしたか？<end>",
-  "en": "",
-  "status": "",
+  "en": "...Huh?<br>\nDid somebody<br>\njust speak?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5142,8 +5142,8 @@
    "tab:7F72D4"
   ],
   "jp": "おいおまえ！<br>\nいまオレのことわらったろ！<br>\nゆるさないぞ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Hey you!<br>\nYou laughed at me just now!<br>\nNo forgive!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5154,8 +5154,8 @@
    "tab:7F72D8"
   ],
   "jp": "ココ、なんか<br>\nいいキブン♪<br>\nオレけっこう<br>\nなやみあるけどわすれそうだぞ<end>",
-  "en": "",
-  "status": "",
+  "en": "Here feels<br>\nkinda good♪<br>\nMe got lots of<br>\nworries, but me nearly forget.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5166,8 +5166,8 @@
    "tab:7F72DC"
   ],
   "jp": "ココ、<br>\nきにいった！<br>\nきょうから<br>\nオレのものに<br>\nするぞーーー‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Me like<br>\nthis place!<br>\nFrom today,<br>\nit's mine!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5178,8 +5178,8 @@
    "tab:7F72E0"
   ],
   "jp": "おいおまえ！<br>\nココ、<br>\nオレのばしょ！すぐにでてけ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Hey you!<br>\nThis,<br>\nmy place! Get out now!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5190,8 +5190,8 @@
    "tab:7F72E4"
   ],
   "jp": "ココ、くらくてせまい…<br>\nオレはやく<br>\nひろいトコに<br>\nいきたい…<end>",
-  "en": "",
-  "status": "",
+  "en": "Here is dark, cramped...<br>\nMe wanna go<br>\nsomewhere<br>\nwide soon...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5202,8 +5202,8 @@
    "tab:7F72E8"
   ],
   "jp": "なかなかボスがでてこないぞ～<end>",
-  "en": "",
-  "status": "",
+  "en": "Boss taking forever to show up~<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5214,8 +5214,8 @@
    "tab:7F72EC"
   ],
   "jp": "やっとでたな！オレまちくたびれた！チコクはゆるさないぞ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Finally! Me tired of waiting! No being late!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5226,8 +5226,8 @@
    "tab:7F72F0"
   ],
   "jp": "うおおおーー‼オレたかいトコだいスキ♪<br>\nはやくてっぺんいきたいぞ♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Rraaaah!! Me love high places♪<br>\nWanna go to the top soon♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5238,8 +5238,8 @@
    "tab:7F72F4"
   ],
   "jp": "…ん？<br>\nトビラがあるぞてっぺんか？<end>",
-  "en": "",
-  "status": "",
+  "en": "...Huh?<br>\nA door. The top?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5250,8 +5250,8 @@
    "tab:7F72F8"
   ],
   "jp": "おまえもたかいトコがスキか？おまえいいヤツでもたおす‼<end>",
-  "en": "",
-  "status": "",
+  "en": "You like high places too? You good guy, but me still beat you!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5262,8 +5262,8 @@
    "tab:7F72FC"
   ],
   "jp": "ココ、ひろくてキモチいいぞ♪ひるねしたい<br>\nキブン！<br>\nダレもみてないからねるか♪<end>",
-  "en": "",
-  "status": "",
+  "en": "Here's wide, feels good♪ Me feel<br>\nlike a nap!<br>\nNobody watching, so sleep♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5274,8 +5274,8 @@
    "tab:7F7300"
   ],
   "jp": "ずいぶん<br>\nおそくなった～ひるねしすぎたかも～<end>",
-  "en": "",
-  "status": "",
+  "en": "Me got here<br>\nso late~ Maybe napped too much~<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5286,8 +5286,8 @@
    "tab:7F7304"
   ],
   "jp": "おまえボスか？またせて<br>\nわるかった！<br>\nさあいくぞ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "You the boss? Sorry to keep<br>\nyou waiting!<br>\nHere me come!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5298,8 +5298,8 @@
    "tab:7F7308"
   ],
   "jp": "ココ、ヒカリのぞくせい…<br>\nソレって<br>\nすごいのか？<br>\nオレそういうのぜんぜん<br>\nわかんない…<end>",
-  "en": "",
-  "status": "",
+  "en": "Here, Light attribute...<br>\nIs that<br>\namazing?<br>\nMe don't get that<br>\nstuff at all...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5310,8 +5310,8 @@
    "tab:7F730C"
   ],
   "jp": "やっぱりココもボスいるのか？ほかとあんまりかわんないんだなあ…<end>",
-  "en": "",
-  "status": "",
+  "en": "So there's a boss here too? Not so different from others...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5322,8 +5322,8 @@
    "tab:7F7310"
   ],
   "jp": "おまえけっこうすごいのか？<br>\nおまえたおせばオレもっと<br>\nすごいな‼<end>",
-  "en": "",
-  "status": "",
+  "en": "You pretty amazing?<br>\nBeat you, and me more<br>\namazing!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5334,8 +5334,8 @@
    "tab:7F7314"
   ],
   "jp": "オレ、ホントはぼうけんキライドールのなかでねてるほうが<br>\nいい…<end>",
-  "en": "",
-  "status": "",
+  "en": "Me really hate quests. Sleeping in the doll<br>\nbetter...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5346,8 +5346,8 @@
    "tab:7F7318"
   ],
   "jp": "ふわぁ～…<br>\nはやくすませてはやくねたいぞ<end>",
-  "en": "",
-  "status": "",
+  "en": "Yawn~...<br>\nFinish fast, sleep fast.<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5358,8 +5358,8 @@
    "tab:7F731C"
   ],
   "jp": "おまえ<br>\nつよそうだな！すこし<br>\nたのしめそう♪<end>",
-  "en": "",
-  "status": "",
+  "en": "You<br>\nlook strong! Could<br>\nbe fun♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5370,8 +5370,8 @@
    "tab:7F7320"
   ],
   "jp": "ココ、<br>\nヤミぞくせい…ソレって<br>\nすごいのか？<br>\nオレそういうのぜんぜん<br>\nわかんない…<end>",
-  "en": "",
-  "status": "",
+  "en": "Here,<br>\nDark attribute... Is that<br>\namazing?<br>\nMe don't get that<br>\nstuff at all...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5382,8 +5382,8 @@
    "tab:7F7324"
   ],
   "jp": "やっぱりココもボスいるのか？ほかとかわんないんだな…<end>",
-  "en": "",
-  "status": "",
+  "en": "So there's a boss here too? Same as others...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5394,8 +5394,8 @@
    "tab:7F7328"
   ],
   "jp": "おまえ<br>\nすごいのか？<br>\nおまえたおせばオレもっと<br>\nすごいな‼<end>",
-  "en": "",
-  "status": "",
+  "en": "You<br>\namazing?<br>\nBeat you, and me more<br>\namazing!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5406,8 +5406,8 @@
    "tab:7F732C"
   ],
   "jp": "ココきたない…キレイズキの<br>\nオレにはにあわないんだな…<end>",
-  "en": "",
-  "status": "",
+  "en": "Here is dirty... Doesn't suit<br>\na neat guy like me...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5418,8 +5418,8 @@
    "tab:7F7330"
   ],
   "jp": "ボスはまだか？はやくこーい‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Where's boss? Hurry up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5430,8 +5430,8 @@
    "tab:7F7334"
   ],
   "jp": "おまえボスか？ホントか？<br>\nウソくさいな…<end>",
-  "en": "",
-  "status": "",
+  "en": "You the boss? Really?<br>\nSounds like a lie...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5442,8 +5442,8 @@
    "tab:7F7338"
   ],
   "jp": "ココ、ぞくせいないばしょ！<br>\nだからあんしんだぞ♪<br>\nなんであんしんなんだ？<br>\nオレわからん…<end>",
-  "en": "",
-  "status": "",
+  "en": "Here, no-attribute place!<br>\nSo me feel safe♪<br>\nWhy me feel safe?<br>\nMe don't know...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5454,8 +5454,8 @@
    "tab:7F733C"
   ],
   "jp": "ボスって<br>\nえらそうだからオレ、キライ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Bosses act<br>\nso bossy, me hate 'em...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5466,8 +5466,8 @@
    "tab:7F7340"
   ],
   "jp": "やっぱりおまええらそうに<br>\nしてるな！<br>\nオレのキライなタイプだ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "See, you acting all<br>\nbossy!<br>\nMe hate your type!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5478,8 +5478,8 @@
    "tab:7F7344"
   ],
   "jp": "ココ、くらくてせまい…<br>\nオレはやく<br>\nひろいトコに<br>\nいきたい…<end>",
-  "en": "",
-  "status": "",
+  "en": "Here is dark, cramped...<br>\nMe wanna go<br>\nsomewhere<br>\nwide soon...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5490,8 +5490,8 @@
    "tab:7F7348"
   ],
   "jp": "もうずいぶん<br>\nあるいたぞ…<br>\nあと3ぽでボスでなかったら<br>\nかえるぞーー！いっぽ…<br>\nにほ…<br>\nさんぽ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Walked so far...<br>\nIf no boss in 3 steps,<br>\nme go home! One...<br>\ntwo...<br>\nthree!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5502,8 +5502,8 @@
    "tab:7F734C"
   ],
   "jp": "おう！<br>\nピッタシだ‼<br>\nおまえ<br>\nピタリしょう‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Yeah!<br>\nJust right!!<br>\nYou win<br>\nPerfect Prize!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5514,8 +5514,8 @@
    "tab:7F7350"
   ],
   "jp": "キモチよく<br>\nあるいてたのにテキがおそってきたぞ！<br>\nムカついたからボコボコにしたぞーーー‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Me was walking nicely, then foe jumped me!<br>\nMade me mad, so me beat it up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5526,8 +5526,8 @@
    "tab:7F7354"
   ],
   "jp": "キモチよく<br>\nあるいてたのにテキがでたぞ！ヒマつぶしに<br>\nボコボコにしてやったぞ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Me was walking nicely, then foe showed up! To kill<br>\ntime, me beat it up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5538,8 +5538,8 @@
    "tab:7F7358"
   ],
   "jp": "キモチよく<br>\nあるいてたら<br>\nテキがいたぞ！オレに<br>\nきづいてない<br>\nみたいだから<br>\nボコボコにしてやったぞ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Me was walking<br>\nnicely, when<br>\na foe showed up! It<br>\ndidn't notice<br>\nme, so<br>\nme beat it up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5550,8 +5550,8 @@
    "tab:7F735C"
   ],
   "jp": "キモチよく<br>\nあるいてたら<br>\nテキがでたぞ！でもそのまま<br>\nかえったから<br>\nいいヤツかも！<end>",
-  "en": "",
-  "status": "",
+  "en": "Me was walking<br>\nnicely, when<br>\na foe showed up! It just<br>\nwent home, so<br>\nmaybe nice guy!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5562,8 +5562,8 @@
    "tab:7F7360"
   ],
   "jp": "キモチよく<br>\nあるいてたのにテキがおそってきたぞ！<br>\nムカついたからボコボコにしたぞーーー‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Me was walking nicely, then foe jumped me!<br>\nMade me mad, so me beat it up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5574,8 +5574,8 @@
    "tab:7F7364"
   ],
   "jp": "キモチよく<br>\nあるいてたら<br>\nテキがでたぞ！こわかったけどむこうが<br>\nにげてくれて<br>\nたすかったぞ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Me was walking<br>\nnicely, when<br>\na foe showed up! Scary, but it<br>\nran off, so<br>\nme saved!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5586,8 +5586,8 @@
    "tab:7F7368"
   ],
   "jp": "キモチよく<br>\nあるいてたら<br>\nテキがでたぞ！こわかったけどむこうが<br>\nにげてくれて<br>\nたすかったぞ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Me was walking<br>\nnicely, when<br>\na foe showed up! Scary, but it<br>\nran off, so<br>\nme saved!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5598,8 +5598,8 @@
    "tab:7F736C"
   ],
   "jp": "うおおおーー‼なんだコレ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Rraaaah!! What's this!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5610,8 +5610,8 @@
    "tab:7F7370"
   ],
   "jp": "なんだか<br>\nわかんないけどいいキブン♪<br>\nチカラが<br>\nでてきたぞ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Dunno why,<br>\nbut me feel good♪<br>\nPower<br>\ncoming out!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5622,8 +5622,8 @@
    "tab:7F7374"
   ],
   "jp": "なんだか<br>\nわかんないけどやなキブン！<br>\nさっさといく！<end>",
-  "en": "",
-  "status": "",
+  "en": "Dunno why,<br>\nbut me feel bad!<br>\nMoving on!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5634,8 +5634,8 @@
    "tab:7F7378"
   ],
   "jp": "なんだか<br>\nわかんないけどひとやすみ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Dunno why,<br>\nbut time for a break!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5646,8 +5646,8 @@
    "tab:7F737C"
   ],
   "jp": "うおおおーー‼なんだコレ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Rraaaah!! What's this!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5658,8 +5658,8 @@
    "tab:7F7380"
   ],
   "jp": "なんだか<br>\nわかんないけどいいキブン♪<br>\nチカラが<br>\nでてきたぞ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Dunno why,<br>\nbut me feel good♪<br>\nPower<br>\ncoming out!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5670,8 +5670,8 @@
    "tab:7F7384"
   ],
   "jp": "なんだか<br>\nわかんないけどやなキブン！<br>\nさっさといく！<end>",
-  "en": "",
-  "status": "",
+  "en": "Dunno why,<br>\nbut me feel bad!<br>\nMoving on!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5682,8 +5682,8 @@
    "tab:7F7388"
   ],
   "jp": "なんだか<br>\nわかんないけどひとやすみ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Dunno why,<br>\nbut time for a break!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5694,8 +5694,8 @@
    "tab:7F738C"
   ],
   "jp": "うおおおーー‼なんだコレ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Rraaaah!! What's this!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5706,8 +5706,8 @@
    "tab:7F7390"
   ],
   "jp": "なんだか<br>\nわかんないけどいいキブン♪<br>\nチカラが<br>\nでてきたぞ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Dunno why,<br>\nbut me feel good♪<br>\nPower<br>\ncoming out!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5718,8 +5718,8 @@
    "tab:7F7394"
   ],
   "jp": "なんだか<br>\nわかんないけどやなキブン！<br>\nさっさといく！<end>",
-  "en": "",
-  "status": "",
+  "en": "Dunno why,<br>\nbut me feel bad!<br>\nMoving on!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5730,8 +5730,8 @@
    "tab:7F7398"
   ],
   "jp": "なんだか<br>\nわかんないけどひとやすみ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Dunno why,<br>\nbut time for a break!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5742,8 +5742,8 @@
    "tab:7F739C"
   ],
   "jp": "うおおおーー‼なんだコレ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Rraaaah!! What's this!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5754,8 +5754,8 @@
    "tab:7F73A0"
   ],
   "jp": "なんだか<br>\nわかんないけどいいキブン♪<br>\nチカラが<br>\nでてきたぞ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Dunno why,<br>\nbut me feel good♪<br>\nPower<br>\ncoming out!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5766,8 +5766,8 @@
    "tab:7F73A4"
   ],
   "jp": "なんだか<br>\nわかんないけどやなキブン！<br>\nさっさといく！<end>",
-  "en": "",
-  "status": "",
+  "en": "Dunno why,<br>\nbut me feel bad!<br>\nMoving on!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5778,8 +5778,8 @@
    "tab:7F73A8"
   ],
   "jp": "なんだか<br>\nわかんないけどひとやすみ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Dunno why,<br>\nbut time for a break!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5790,8 +5790,8 @@
    "tab:7F73AC"
   ],
   "jp": "うおおおーー‼なんだコレ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Rraaaah!! What's this!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5802,8 +5802,8 @@
    "tab:7F73B0"
   ],
   "jp": "なんだか<br>\nわかんないけどいいキブン♪<br>\nチカラが<br>\nでてきたぞ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Dunno why,<br>\nbut me feel good♪<br>\nPower<br>\ncoming out!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5814,8 +5814,8 @@
    "tab:7F73B4"
   ],
   "jp": "なんだか<br>\nわかんないけどやなキブン！<br>\nさっさといく！<end>",
-  "en": "",
-  "status": "",
+  "en": "Dunno why,<br>\nbut me feel bad!<br>\nMoving on!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5826,8 +5826,8 @@
    "tab:7F73B8"
   ],
   "jp": "なんだか<br>\nわかんないけどひとやすみ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Dunno why,<br>\nbut time for a break!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5838,8 +5838,8 @@
    "tab:7F73BC"
   ],
   "jp": "うおおおーー‼なんだコレ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Rraaaah!! What's this!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5850,8 +5850,8 @@
    "tab:7F73C0"
   ],
   "jp": "なんだか<br>\nわかんないけどいいキブン♪<br>\nチカラが<br>\nでてきたぞ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Dunno why,<br>\nbut me feel good♪<br>\nPower<br>\ncoming out!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5862,8 +5862,8 @@
    "tab:7F73C4"
   ],
   "jp": "なんだか<br>\nわかんないけどやなキブン！<br>\nさっさといく！<end>",
-  "en": "",
-  "status": "",
+  "en": "Dunno why,<br>\nbut me feel bad!<br>\nMoving on!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5874,8 +5874,8 @@
    "tab:7F73C8"
   ],
   "jp": "なんだか<br>\nわかんないけどひとやすみ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Dunno why,<br>\nbut time for a break!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5886,8 +5886,8 @@
    "tab:7F73CC"
   ],
   "jp": "うおおおーー‼なんだコレ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Rraaaah!! What's this!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5898,8 +5898,8 @@
    "tab:7F73D0"
   ],
   "jp": "なんだか<br>\nわかんないけどいいキブン♪<br>\nチカラが<br>\nでてきたぞ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Dunno why,<br>\nbut me feel good♪<br>\nPower<br>\ncoming out!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5934,8 +5934,8 @@
    "tab:7F73DC"
   ],
   "jp": "うおおおーー‼なんだコレ！<end>",
-  "en": "",
-  "status": "",
+  "en": "Rraaaah!! What's this!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5958,8 +5958,8 @@
    "tab:7F73E4"
   ],
   "jp": "なんだか<br>\nわかんないけどやなキブン！<br>\nさっさといく！<end>",
-  "en": "",
-  "status": "",
+  "en": "Dunno why,<br>\nbut me feel bad!<br>\nMoving on!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5982,8 +5982,8 @@
    "tab:7F740C"
   ],
   "jp": "うおおおーー‼やっつけたぞ‼オレ、せかいでいちばん<br>\nつよいぞー‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Rraaaah!! Beat it!! Me strongest<br>\nin the world!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -5994,8 +5994,8 @@
    "tab:7F7410"
   ],
   "jp": "うおおおーー‼やっつけたぞ‼オレ、ダレよりつよいぞー‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Rraaaah!! Beat it!! Me stronger than anybody!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6006,8 +6006,8 @@
    "tab:7F7414"
   ],
   "jp": "うおおおーー‼やっつけたぞ‼オレおまえよりつよいぞー‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Rraaaah!! Beat it!! Me stronger than you!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6018,8 +6018,8 @@
    "tab:7F7418"
   ],
   "jp": "やっつけたぞ‼こんなの<br>\nあさメシまえ‼そういえば<br>\nあさメシまだ？<end>",
-  "en": "",
-  "status": "",
+  "en": "Beat it!! That was a<br>\npiece of cake!! By the way,<br>\nbreakfast yet?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6030,8 +6030,8 @@
    "tab:7F741C"
   ],
   "jp": "やっつけたぞ‼コイツよわくてものたりない！あさメシも<br>\nものたりなかったぞー‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Beat it!! This guy too weak, not enough! Breakfast<br>\nwasn't enough either!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6042,8 +6042,8 @@
    "tab:7F7420"
   ],
   "jp": "やっつけたぞ‼でもちょっと<br>\nなぐられて<br>\nいたかったぞ‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Beat it!! But me got<br>\npunched a bit,<br>\nand it hurt!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6054,8 +6054,8 @@
    "tab:7F7424"
   ],
   "jp": "なんとかオレのかち！<br>\nまけたほうが<br>\nよかったか？<br>\nすまん…<end>",
-  "en": "",
-  "status": "",
+  "en": "Somehow me won!<br>\nShould me have<br>\nlost?<br>\nSorry...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6066,8 +6066,8 @@
    "tab:7F7428"
   ],
   "jp": "なんとかオレのかち！<br>\nどうしてか<br>\nオレにも<br>\nわからない…<end>",
-  "en": "",
-  "status": "",
+  "en": "Somehow me won!<br>\nWhy?<br>\nMe don't<br>\nknow either...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6078,8 +6078,8 @@
    "tab:7F742C"
   ],
   "jp": "なんとかオレのかち！<br>\nでもオレも<br>\nボロボロ…<br>\nきがすんだか？<end>",
-  "en": "",
-  "status": "",
+  "en": "Somehow me won!<br>\nBut me is<br>\nbeat up too...<br>\nHappy now?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6090,8 +6090,8 @@
    "tab:7F7430"
   ],
   "jp": "うおおおーー‼まけたのかー⁉ハラペコだったからか⁉<end>",
-  "en": "",
-  "status": "",
+  "en": "Rraaaah!! Me lost!? Because me was hungry!?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6102,8 +6102,8 @@
    "tab:7F7434"
   ],
   "jp": "うおおおーー‼まけたのかー⁉いねむりしてたからか⁉<end>",
-  "en": "",
-  "status": "",
+  "en": "Rraaaah!! Me lost!? Because me dozed off!?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6114,8 +6114,8 @@
    "tab:7F7438"
   ],
   "jp": "うおおおーー‼まけたのかー⁉よそみをしてたからか⁉<end>",
-  "en": "",
-  "status": "",
+  "en": "Rraaaah!! Me lost!? Because me looked away!?<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6126,8 +6126,8 @@
    "tab:7F743C"
   ],
   "jp": "…すまん、オレまけたみたい…がんばったからまあいいか！<br>\nな！<end>",
-  "en": "",
-  "status": "",
+  "en": "...Sorry, me lost, it seems... Me tried hard, so who cares!<br>\nRight!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6138,8 +6138,8 @@
    "tab:7F7440"
   ],
   "jp": "…すまん、オレまけたみたい…こんどは<br>\nまけないぞ！<br>\nたぶんな！<end>",
-  "en": "",
-  "status": "",
+  "en": "...Sorry, me lost, it seems... Next time<br>\nme won't lose!<br>\nProbably!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6150,8 +6150,8 @@
    "tab:7F7444"
   ],
   "jp": "…すまん、オレまけたみたい…おわったことはクヨクヨしないんだぞ！<end>",
-  "en": "",
-  "status": "",
+  "en": "...Sorry, me lost, it seems... Me don't sweat what's over!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6162,8 +6162,8 @@
    "tab:7F7448"
   ],
   "jp": "……………はっまけたのか⁉<br>\nま、いいか<br>\nそんなこと！<end>",
-  "en": "",
-  "status": "",
+  "en": "...............Ah! Me lost!?<br>\nOh well,<br>\nwho cares!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6174,8 +6174,8 @@
    "tab:7F744C"
   ],
   "jp": "……………はっまけたのか⁉<br>\nう～んフシギ…かったきが<br>\nしないぞ…<end>",
-  "en": "",
-  "status": "",
+  "en": "...............Ah! Me lost!?<br>\nHmm, strange... Doesn't<br>\nfeel like me won...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6186,8 +6186,8 @@
    "tab:7F7450"
   ],
   "jp": "……………はっまけたのか⁉<br>\nきもちのいい<br>\nまけっぷり！<br>\nオレまんぞく♪<end>",
-  "en": "",
-  "status": "",
+  "en": "...............Ah! Me lost!?<br>\nWhat a nice<br>\nway to lose!<br>\nMe happy♪<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6198,8 +6198,8 @@
    "tab:7F7454"
   ],
   "jp": "うおおおーー‼クリアしたからばんメシは<br>\nたべほうだい<br>\nだぞーーー‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Rraaaah!! Me cleared it, so dinner is<br>\nall you can<br>\neat!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6210,8 +6210,8 @@
    "tab:7F7458"
   ],
   "jp": "う～～～<br>\nクリアできな<br>\nかったけど<br>\nばんメシくれるかな…<br>\nそれがしんぱいだぞ…<end>",
-  "en": "",
-  "status": "",
+  "en": "Ugh...<br>\nMe couldn't<br>\nclear it,<br>\nwill they feed me...<br>\nThat's what worries me...<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6222,8 +6222,8 @@
    "tab:7F73EC"
   ],
   "jp": "ちからUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Power Up!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6234,8 +6234,8 @@
    "tab:7F73F0"
   ],
   "jp": "ぼうぎょUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Defense Up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6246,8 +6246,8 @@
    "tab:7F73F4"
   ],
   "jp": "まりょくUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Magic Up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6270,8 +6270,8 @@
    "tab:7F73FC"
   ],
   "jp": "すばやさUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Speed Up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6282,8 +6282,8 @@
    "tab:7F7400"
   ],
   "jp": "シフトEUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "Shift E Up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6294,8 +6294,8 @@
    "tab:7F7404"
   ],
   "jp": "HPがUP‼<end>",
-  "en": "",
-  "status": "",
+  "en": "HP Up!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  },
@@ -6306,8 +6306,8 @@
    "tab:7F7408"
   ],
   "jp": "すべての<br>\nのうりょくが<br>\nUP‼‼<end>",
-  "en": "",
-  "status": "",
+  "en": "All<br>\nabilities<br>\nUp!!!<end>",
+  "status": "tl",
   "notes": "",
   "font": "sprite1"
  }
