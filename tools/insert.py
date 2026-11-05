@@ -268,7 +268,7 @@ def allowed():
     spans += [(PEN_RESET, PEN_RESET + 2), (FONT_TABLE, FONT_TABLE + 8), (SPRITE_TABLE, SPRITE_TABLE + 64), (G2_PTR, G2_PTR + 4)]
     spans += [(p, p + 4) for v in MAP_LABELS.values() for p in v[1]] + [(m[1], m[1] + 4) for v in MAP_LABELS.values() for m in v[2]]
     spans += [(v[0], v[0] + 4) for v in BANNERS.values()] + [(s, s + len(old) // 2) for s, old, _ in CODE_KANA]
-    spans += [(v[0], v[0] + 4) for v in BLANK_SHEETS.values()] + [(FIELD_BANNERS + n * 16 + 12, FIELD_BANNERS + n * 16 + 16) for n in range(FIELD_COUNT)]
+    spans += [(RIBBON[0], RIBBON[0] + 4)] + [(p, p + 4) for p in DATE_MARKS[1]] +[(v[0], v[0] + 4) for v in BLANK_SHEETS.values()] + [(FIELD_BANNERS + n * 16 + 12, FIELD_BANNERS + n * 16 + 16) for n in range(FIELD_COUNT)]
     spans += [(site, site + 2) for site, _ in BOX_WIDTH_SITES] + [(at + 4, at + 6) for at, _, _ in LAYOUT]
     entries = [e for _, es in strings() for e in es] + json.loads((ROOT / "script" / "credits.json").read_text(encoding="utf-8"))
     spans += [(int(o.split(":")[1], 16), int(o.split(":")[1], 16) + 4) for e in entries for o in e["owners"]]
@@ -400,6 +400,12 @@ def frame_tiles(rom, at):
     return set(struct.unpack_from("<%dH" % (size // 2), rom, at + 4 + end))
 
 
+# G5: the small number font's date marks 年 月 日 (tiles 30-32 of an LZ sheet, 5 loaders): 年 and 月 become `/`, 日 clear, so a
+# date reads 2004/5/3. Rows of 8 colour digits.
+SLASH = ["00000011", "00000121", "00001210", "00012100", "00121000", "01210000", "12100000", "11000000"]
+DATE_MARKS = (0x1617E8, [0x0BEB80, 0x0BEF6C, 0x0BF788, 0x0C001C, 0x0C096C], {30: SLASH, 31: SLASH, 32: ["0" * 8] * 8})
+
+
 # Kana the code puts in a string buffer itself: site, old, new Thumb. Code 0 is the game's blank number pad.
 CODE_KANA = [(0x0C1792, "5b20", "0020")]  # Soul Doll List's count `1コ`: `movs r0, #0x5b` (コ) before the buffer's <end>
 
@@ -409,6 +415,26 @@ CODE_KANA = [(0x0C1792, "5b20", "0020")]  # Soul Doll List's count `1コ`: `movs
 BANNERS = {
     "G14": (0x0CCC58, 0x43B678, 17, 2, 0xF, 2, (17, 124), "START: Confirm"),  # name entry footer スタートボタン：けっていへ
 }
+
+
+# G1: the title's subtitle scroll 甦る試練の島 (OBJ sheet, 14x4 tiles, 48 of them): the kanji are engraved dark strokes (colours
+# 1-7) on a light ramp (8 9 B C D), so in the text rect dark pixels take colour C, then the English goes on in the darkest brown (D11).
+RIBBON = (0x0CF118, 0x440688, 14, 4, (20, 5, 90, 15), 0xC, 1, "Trial Isle Reborn")
+
+
+def redraw_ribbon(tiles, cols, rows, rect, light, fill, text):
+    px = tile_px(tiles, cols, rows)
+    x0, y0, x1, y1 = rect
+    for y in range(y0, y1):
+        px[y][x0:x1] = [light if 0 < v < 8 else v for v in px[y][x0:x1]]
+    ink = [[0] * len(px[0]) for _ in px]
+    width = sum(font_en.art_width(c) + 1 if c != " " else 2 for c in text) - 1
+    draw_text(ink, (x0 + x1 - width) // 2, (y0 + y1 - 5) // 2, text, fill, 0xF, x0, x1)  # the scroll's middle sits low
+    for y, row in enumerate(ink):
+        for x, v in enumerate(row):
+            if v == fill:
+                px[y][x] = v
+    return px_tiles(px, cols, len(tiles))
 
 
 def tile_px(tiles, cols, rows):
@@ -463,6 +489,14 @@ def graphics(rom):
         for p in sheet_ptrs:
             expect(rom, p, struct.pack("<I", CPU + sheet).hex())
             rom.put(p, struct.pack("<I", CPU + new), "gfx ptr " + name)
+    sheet, ptrs, marks = DATE_MARKS
+    tiles = bytearray(lz77.decompress(rom.orig, sheet)[0])
+    for t, rows in marks.items():
+        tiles[t * 32:t * 32 + 32] = bytes(int(r[x], 16) | int(r[x + 1], 16) << 4 for r in rows for x in range(0, 8, 2))
+    new = rom.append(lz77.compress(bytes(tiles), 2), "gfx G5", 4)
+    for p in ptrs:
+        expect(rom, p, struct.pack("<I", CPU + sheet).hex())
+        rom.put(p, struct.pack("<I", CPU + new), "gfx ptr G5")
     for site, old, new in CODE_KANA:
         expect(rom, site, old)
         rom.put(site, bytes.fromhex(new), "code kana")
@@ -478,6 +512,11 @@ def graphics(rom):
         for t in kanji:
             data[2 + t * 32:2 + t * 32 + 32] = bytes(32)
         rom.put(FIELD_BANNERS + n * 16 + 12, struct.pack("<I", CPU + rom.append(bytes(data), "gfx G16 %d" % n, 4)), "gfx ptr G16")
+    ptr, at, cols, rows, rect, light, fill, text = RIBBON
+    size = struct.unpack_from("<H", rom.orig, at)[0]
+    expect(rom, ptr, struct.pack("<I", CPU + at).hex())
+    new = rom.orig[at:at + 2] + redraw_ribbon(rom.orig[at + 2:at + 2 + size], cols, rows, rect, light, fill, text)
+    rom.put(ptr, struct.pack("<I", CPU + rom.append(new, "gfx G1", 4)), "gfx ptr G1")
     for name, (ptr, at, cols, rows, fill, edge, span, text) in BANNERS.items():
         size = struct.unpack_from("<H", rom.orig, at)[0]
         expect(rom, ptr, struct.pack("<I", CPU + at).hex())
