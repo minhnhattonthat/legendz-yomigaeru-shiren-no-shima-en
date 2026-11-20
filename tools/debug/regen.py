@@ -143,8 +143,10 @@ def main():
         for name, v in table.items():  # save writers, then their readers: one at a time, never beside the runs above
             if v[2]:
                 results.append(run(a.rom, name, *v))
-                if battery.exists():
-                    shutil.move(battery, SAVE_FIXTURES / (name + ".sav"))
+                # newer emu.py keeps each run's battery in <out>/saves-*/, older ones in tools/mesen/Saves
+                own = sorted((QA / name).glob("saves-*/" + battery.name), key=lambda p: p.stat().st_mtime)
+                if own or battery.exists():
+                    shutil.move(own[-1] if own else battery, SAVE_FIXTURES / (name + ".sav"))
         results += [run(a.rom, name, *v) for name, v in table.items() if v[3]]
     finally:
         battery.unlink(missing_ok=True)

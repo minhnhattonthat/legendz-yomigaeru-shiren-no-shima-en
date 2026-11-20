@@ -28,7 +28,8 @@ SPRITE_BLOCKS = {"battle", "quips"}
 TYPEWRITER = {"dialogue", "system", "link", "rental"}  # mostly the 2-row dialogue box; marker lines fill it
 NAME_SLOTS = {"places", "legendz"}
 # Name entry grid: its cursor picks a cell by index. 45BD*: table 0x7F7F30 draws 3, 7, 7 words of each by length, not to a terminator (phase 6), so spaces pad them to that count.
-SINGLE_WORDS = {"441066", "4410A4", "4410E2", "441120", "44115E", "44119C", "45BDEA", "45BDF0", "45BDFE"}
+SINGLE_WORDS = {"441066", "4410A4", "4410E2", "441120", "44115E", "44119C", "45BDEA", "45BDF0", "45BDFE",
+                "44127A", "441282", "4412EA"}  # AM/PM on the clock screen, Done!!: the fixed-cell renderer 0x0A5CB0 draws a word a cell (issue #1)
 # Not 『』: 45AA78's bracket pair frames an 8-cell name box drawn over cells 1-8, so English pads it to put 』 in cell 9 (debug_battle_record).
 NON_TEXT = re.compile(r"(?:<end>|<page>\n?|<br>\n?|[　●¦：－％＇＂／\d]|\[FF[0-9A-F]{2}\])*")
 
@@ -78,7 +79,8 @@ def engine(rom, pairs):
     pairs_at = rom.append(font_en.pair_table(pairs) or b"\0\0", "pairs")
     tag_at = rom.append(font_en.tag_frames(), "tag frames")
     code_at = (len(rom.out) + 3) & ~3
-    code = assemble(ROOT / "asm" / "vwf.s", CPU + code_at, {"WIDTHS": CPU + w_at, "PAIRS": CPU + pairs_at - font_en.PAIR_BASE * 4, "TAGFRAMES": CPU + tag_at})
+    pairs_sym = CPU + pairs_at - font_en.PAIR_BASE * 4
+    code = assemble(ROOT / "asm" / "vwf.s", CPU + code_at, {"WIDTHS": CPU + w_at, "PAIRS": pairs_sym, "TAGFRAMES": CPU + tag_at})
     rom.put(code_at, code, "vwf code")
     for name, site, old, reg in HOOKS:
         expect(rom, site, old)
@@ -96,6 +98,7 @@ def engine(rom, pairs):
         at = SPRITE_TABLE + n * 16
         pal = struct.unpack_from("<I", rom.orig, at + 8)[0]
         rom.put(at, struct.pack("<4I", CPU + f_at, CPU + t_at, pal, CPU + w_at2), "sprite table")
+    return pairs_sym
 
 
 def repoint(rom, entry, new):
@@ -220,8 +223,7 @@ def insert_marker(rom, overrides=None):
         for e in entries:
             text = (overrides or {}).get(e["id"])
             if not text and non_text(e):
-                encoded.append((e, jpcodec.encode(e["jp"])))
-                continue
+                continue  # stays where it is (insert_en)
             text = text or marker_text(e, block, widths)
             encoded.append((e, font_en.encode(text, None if e["id"] in SINGLE_WORDS else pairs)))
     engine(rom, pairs)
@@ -249,14 +251,15 @@ def layout(rom):
         rom.put(at + 4, struct.pack("<H", new), "layout")
 
 
-DOLL_ENTRY = {"test": 0, "read": 2, "write": 4, "tick": 6}  # asm/doll.s, its first lines
-DOLL_HOOKS = [("test", 0x0BADA8, "00b50006054a0649"), ("read", 0x0E4948, "30b5104d2c88104b"), ("write", 0x0E488C, "30b5104d2c88104b"), ("tick", 0x0BADD4, "10b5041ce0883328")]
+DOLL_ENTRY = {"test": 0, "read": 2, "write": 4, "tick": 6, "pack": 8, "unpack": 10}  # asm/doll.s, its first lines
+DOLL_HOOKS = [("test", 0x0BADA8, "00b50006054a0649"), ("read", 0x0E4948, "30b5104d2c88104b"), ("write", 0x0E488C, "30b5104d2c88104b"), ("tick", 0x0BADD4, "10b5041ce0883328"),
+              ("pack", 0x0C3438, "30b50d1c1206140e"), ("unpack", 0x0C3400, "70b5051c1206140e")]  # the image's names: words <-> bytes
 
 
-def doll(rom):
+def doll(rom, pairs_sym):
     """The virtual Soul Doll (D8, docs/re/doll.md). The debug tool's Lua hook stands aside when it sees these jumps."""
     at = (len(rom.out) + 3) & ~3
-    rom.put(at, assemble(ROOT / "asm" / "doll.s", CPU + at), "doll code")
+    rom.put(at, assemble(ROOT / "asm" / "doll.s", CPU + at, {"PAIRS": pairs_sym}), "doll code")
     for name, site, old in DOLL_HOOKS:
         expect(rom, site, old)
         far_jump(rom, site, CPU + at + DOLL_ENTRY[name], 3, "hook doll " + name)
@@ -541,14 +544,14 @@ def insert_en(rom):
     for block, entries in strings():
         for e in entries:
             if non_text(e):
-                encoded.append((e, jpcodec.encode(e["jp"])))
+                continue  # stays where it is: some are data read past their "end", e.g. 45A602, the roulette's speed table (issue #1)
             elif e["en"]:
                 encoded.append((e, font_en.encode(e["en"], None if e["id"] in SINGLE_WORDS else pairs)))
             else:
                 raise ValueError("no English: %s %s" % (block, e["id"]))
-    engine(rom, pairs)
+    pairs_sym = engine(rom, pairs)
     layout(rom)
-    doll(rom)
+    doll(rom, pairs_sym)
     graphics(rom)
     for e, data in encoded:
         repoint(rom, e, rom.append(data, "text " + e["id"]))

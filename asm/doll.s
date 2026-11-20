@@ -7,6 +7,8 @@
 	b doll_read
 	b doll_write
 	b doll_tick
+	b doll_pack
+	b doll_unpack
 
 @ Replaces 0x0BADA8: is this status bit up? r0 = index into the mask table. Always present, never "no reply", whatever the link IRQ says.
 doll_test:
@@ -119,7 +121,102 @@ dk_done:
 	cmp r0, #0x33
 	bx r3
 
+@ The image keeps names a byte a letter (owner +0x18, nickname +0x31, others): the game kept a code's low byte, and 0xFF ends a name.
+@ English o is 0xFF and p-z, space and the rest are 0x100 up (font_en.CODES), so they need bytes of their own (issue #1).
+@ 0x101-0x115 keep their low byte, as v1.0 wrote them; o is 0x16, p 0x17. A pair (0x400 up) goes in as its two letters.
+@ Replaces 0x0C3438: r0 words, r1 bytes, r2 bytes to write.
+doll_pack:
+	push {r4, r5, r6, lr}
+	lsls r2, r2, #0x18
+	lsrs r2, r2, #0x18
+	mov r4, r0
+	mov r5, r1
+	adds r6, r5, r2
+dp_loop:
+	cmp r5, r6
+	bhs dp_done
+	ldrh r0, [r4]
+	adds r4, #2
+	ldr r1, L_ffc0
+	cmp r0, r1
+	bhs dp_single
+	lsrs r1, r0, #10
+	beq dp_single
+	ldr r2, L_pairs
+	lsls r0, r0, #2
+	adds r2, r2, r0
+	ldrh r0, [r2]
+	bl dp_byte
+	cmp r5, r6
+	bhs dp_done
+	ldrh r0, [r2, #2]
+dp_single:
+	bl dp_byte
+	b dp_loop
+dp_done:
+	pop {r4, r5, r6}
+	pop {r0}
+	bx r0
+
+@ r0 code -> its byte at r5, r5 + 1. Clobbers r0, r1.
+dp_byte:
+	cmp r0, #0xFF
+	bne db_p
+	movs r0, #0x16
+	b db_store
+db_p:
+	movs r1, #0x80
+	lsls r1, r1, #1
+	cmp r0, r1
+	bne db_store
+	movs r0, #0x17
+db_store:
+	strb r0, [r5]
+	adds r5, #1
+	bx lr
+
+@ Replaces 0x0C3400: r0 bytes, r1 words, r2 count. 0xFF is the end, 0xFFFF; the bytes above go back to their codes.
+doll_unpack:
+	lsls r2, r2, #0x18
+	lsrs r2, r2, #0x18
+	beq du_done
+du_loop:
+	ldrb r3, [r0]
+	adds r0, #1
+	cmp r3, #0xFF
+	bne du_o
+	ldr r3, L_ffff
+	b du_store
+du_o:
+	cmp r3, #0x16
+	bne du_p
+	movs r3, #0xFF
+	b du_store
+du_p:
+	cmp r3, #0x17
+	bne du_high
+	movs r3, #0x80
+	lsls r3, r3, #1
+	b du_store
+du_high:
+	cmp r3, #0x15
+	bhi du_store
+	cmp r3, #0
+	beq du_store
+	adds r3, #0xFF
+	adds r3, #1
+du_store:
+	strh r3, [r1]
+	adds r1, #2
+	subs r2, #1
+	bne du_loop
+du_done:
+	bx lr
+
 	.align 2
+L_ffc0:	.word 0x0000FFC0
+L_ffff:	.word 0x0000FFFF
+L_pairs:	.word @PAIRS@
 L_status:	.word 0x03006D48
 L_no_reply:	.word 0x00007FFF
 L_masks:	.word 0x08434E78

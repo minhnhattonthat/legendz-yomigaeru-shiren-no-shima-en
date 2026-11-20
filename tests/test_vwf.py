@@ -191,7 +191,11 @@ class MarkerBuild(unittest.TestCase):
                     parts = o.split(":")
                     nib = int(parts[2], 16) if len(parts) > 2 else 0
                     word = struct.unpack_from("<I", self.r.out, int(parts[1], 16))[0]
-                    self.assertEqual(word, nib << 28 | 0x08000000 + placed[e["id"]], o)
+                    if insert.non_text(e):  # stays put: 45A602 is the card roulette's speed table, read past its "end" (issue #1)
+                        self.assertNotIn(e["id"], placed)
+                        self.assertEqual(word, struct.unpack_from("<I", ROM, int(parts[1], 16))[0], o)
+                    else:
+                        self.assertEqual(word, nib << 28 | 0x08000000 + placed[e["id"]], o)
                     n += 1
         self.assertGreater(n, 8000)  # every table wrote all its entries, not just some
 

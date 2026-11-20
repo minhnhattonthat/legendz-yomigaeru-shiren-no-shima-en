@@ -22,6 +22,8 @@ PLAYING
 - No Soul Doll adapter needed. The original game needs a Soul Doll on the adapter to start the story; this patch
   includes a virtual doll, so the game passes that check on its own: it reads as a new doll, the game's own Reborn
   runs and you name your partner.
+- The virtual doll keeps its Legendz across saves, like a real doll. To start a new game after playing, pick
+  Reset Doll on the title screen first: the game won't Reborn a doll that already holds a Legendz on a new save.
 
 TRANSLATION STATUS
 - Story dialogue, NPCs, Soul Doll talk, Auto-Quest diary: English.
