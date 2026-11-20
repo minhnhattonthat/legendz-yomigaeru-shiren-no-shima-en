@@ -6,16 +6,19 @@ local MEM = emu.memType.gbaMemory
 local MODE, ENTRANCE = 0x0203BD98, 0x03006270
 local NEWGAME_SCENE = 0x0802483A
 local FLAGS = 0x02036A30
-local SCENES = dofile("../debug/scenes.lua")  -- Mesen runs from tools/mesen
+-- Older emu.py ran Mesen from tools/mesen; newer runs it from a private copy, so find the repo from OUT (<repo>/work/...).
+local ROOT = OUT and OUT:match("^(.*)/work/")
+local function debug_file(name) return dofile(ROOT and (ROOT .. "/tools/debug/" .. name) or ("../debug/" .. name)) end
+local SCENES = debug_file("scenes.lua")
 local scene = assert(SCENES[SCENE], "unknown SCENE " .. tostring(SCENE))
-if scene.doll then dofile("../debug/virtual_doll.lua") end
+if scene.doll then debug_file("virtual_doll.lua") end
 
 local function setflag(n) local a = FLAGS + (n >> 3); emu.write(a, emu.read(a, MEM) | (1 << (n & 7)), MEM) end
 local function clrflag(n) local a = FLAGS + (n >> 3); emu.write(a, emu.read(a, MEM) & ~(1 << (n & 7)) & 0xFF, MEM) end
 
 local function apply(entry)
   if entry.partner then
-    for _, run in ipairs(dofile("../debug/partner.lua")) do
+    for _, run in ipairs(debug_file("partner.lua")) do
       local hex = run[2]
       for i = 0, #hex // 2 - 1 do emu.write(run[1] + i, tonumber(hex:sub(i * 2 + 1, i * 2 + 2), 16), MEM) end
     end

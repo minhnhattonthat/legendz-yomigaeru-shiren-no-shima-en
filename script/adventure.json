@@ -691,7 +691,7 @@
    "lit:0CD9E0"
   ],
   "jp": "ごぜん<end>",
-  "en": "AM<end>",
+  "en": " AM<end>",
   "status": "tl",
   "notes": ""
  },
@@ -768,9 +768,9 @@
    "lit:0CF7B0"
   ],
   "jp": "しゅうりょう‼<end>",
-  "en": "Finished!!<end>",
+  "en": "Done!!<end>",
   "status": "tl",
-  "notes": ""
+  "notes": "fixed-cell renderer 0x0A5CB0, 7 cells, a letter a cell: SINGLE_WORDS (issue #1)"
  },
  {
   "id": "4412FA",

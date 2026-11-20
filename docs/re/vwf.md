@@ -12,7 +12,7 @@ Descriptor (`d`): `+1` BG, `+2` top pad rows, `+3` flags (bit 0 font), `+4` x, `
 |---|---|---|---|
 | Typewriter, one glyph a tick | `0x080A5614` opens the window, `0x080A54EC` ticks | 20 | hooked at the open's map fill `0x0A5786`, the glyph `0x0A5590`, the newline `0x0A5572` |
 | Instant | `0x080A58D4` | 105 | hooked at `0x0A594C` |
-| Fixed cells | `0x080A5CB0` | 10 | **not patched**: 2-digit numbers on a static map. Only draws digits |
+| Fixed cells | `0x080A5CB0` | 10 | **not patched**: 2-digit numbers on a static map, and three strings, a word a cell: the clock's AM/PM (`44127A`, `441282`) and `4412EA` (7 cells). Those are `SINGLE_WORDS`: a pair drew garbage (issue #1) |
 | Sprite (OBJ) | `0x080A2850`, glyph `0x080A2734` | 4 | already proportional (width table), so new frames, tiles and widths; see Sprite font |
 | Credits | `0x0D205C`'s literal | 1 | 8-bit codes: capitals only (below) |
 
@@ -58,7 +58,7 @@ The game's fixed limits count words: the name slots (6 for the player, 8 + termi
 
 Two reads of the dump's own text are left, neither a word: `0x433F90` (`●`, a list's bead, code `0x0A9731`) and `0x440C8A` (8 blanks, an empty item name, `0x0A7919`).
 
-**Non-text strings** (`insert.non_text`): a bead, blanks, a rule of colons, an empty slot, digits or variables alone. They keep their bytes in the marker and must stay out of translation: `188EA4` is the bead of the battle menu, and a marker there drew `4T` in place of it. Punctuation lines (`……`, `？？？`, `[FFEA]‼`) count as words.
+**Non-text strings** (`insert.non_text`): a bead, blanks, a rule of colons, an empty slot, digits or variables alone. They keep their bytes in the marker and must stay out of translation: `188EA4` is the bead of the battle menu, and a marker there drew `4T` in place of it. Punctuation lines (`……`, `？？？`, `[FFEA]‼`) count as words. **They stay where they are, pointers untouched** (issue #1): `45A602` (`　<end>`) is really the card roulette's halfword speed table (`0x080BE852` indexes it by step), and its relocated copy, followed by other strings, hung the roulette on a dark screen.
 
 **A label's leading `●` stays:** `●つづきから` and `●レンタル！` draw their own bead and the cursor sits on that cell, so English goes after it and the bead takes 8 px of the budget. Leading and trailing `　` pad a label to its box: English doesn't need them (`　　どうぐ　　` is a centred header, so centring it is the translator's call).
 

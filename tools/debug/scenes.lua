@@ -21,8 +21,13 @@ return {
   continue_save = { sav = "menu_save", stop_at_title = true, keys = { { 30, "up" }, { 110, "a" }, { 600, "a" }, { 1000, "a" } }, frames = 4000, every = 100, note = "title > つづきから, loading menu_save's save" },
   new_game_overwrite = { sav = "menu_save", stop_at_title = true, keys = { { 30, "a" } }, frames = 3000, every = 100, note = "title > さいしょから with a save: the confirmation" },
   card_mode_in = { stop_at_title = true, keys = { { 30, "up" }, { 70, "right" }, { 110, "a" }, { 800, "a" }, { 1200, "a" }, { 1600, "a" }, { 2000, "right" }, { 2400, "a" } }, frames = 5000, every = 100, note = "title > カードモード, on inside" },
+  card_mode_save = { sav = "menu_save", stop_at_title = true, keys = { { 30, "up" }, { 70, "right" }, { 110, "a" }, { 800, "a" }, { 1200, "a" }, { 1600, "a" }, { 2000, "right" }, { 2400, "a" } }, frames = 5000, every = 100, note = "card_mode_in with menu_save's save (issue #1: the roulette hung)" },
   doll_init_in = { stop_at_title = true, keys = { { 30, "right" }, { 70, "a" }, { 700, "a" }, { 1100, "a" }, { 1500, "a" } }, frames = 4000, every = 100, note = "title > ドールしょきか, on inside" },
+  doll_init_full = { stop_at_title = true, keys = { { 30, "right" }, { 70, "a" }, { 700, "a" }, { 1100, "a" }, { 1500, "a" }, { 1900, "a" }, { 2300, "a" }, { 2700, "a" }, { 3100, "a" }, { 3500, "a" }, { 3900, "a" }, { 4300, "a" }, { 4700, "a" }, { 5100, "a" }, { 5500, "a" }, { 5900, "a" }, { 6300, "a" }, { 6700, "a" }, { 7100, "a" }, { 7500, "a" } }, frames = 8500, every = 100, note = "title > ドールしょきか, confirmed to the end; with emu.py --sav of a used doll it shows the doll's names (issue #1)" },
   opening = { frames = 5000, target = 0x02483A, mash = 40, note = "new game's opening; stops before the player's name entry" },
+  -- op 0x107 (the ship's 0x025716, the hotel's 0x02A972) opens the clock screen; down on the hour from 0 goes to 23, so AM then PM
+  clock = { target = TOWN, partner = true, frames = 4000, every = 100, run = { 600, 0x0203FF00, "4000" .. "8d000000" .. "c300" .. "8a00" .. "07010100" .. "0700ff7f" .. "05000eff0302" },
+    keys = { { 1200, "a" }, { 1400, "a" }, { 1600, "a" }, { 1800, "down" } }, note = "the clock screen (op 0x107): AM, then PM (issue #1)" },
   player_name = { frames = 16000, every = 300, target = 0x02483A, mash = 40, note = "new game's opening, mashed on to the player's name entry" },
 
   -- The doll gate, with and without the virtual doll.

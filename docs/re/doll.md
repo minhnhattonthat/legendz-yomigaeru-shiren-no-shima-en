@@ -22,6 +22,12 @@ Small Cave (scene `0x023C4E`) is a hard gate without the adapter. Its exit check
 
 Result code from `0x080C326C`: the return values are read from code, what each means is a **guess** from the texts in table `0x467BD0` (same-doll limit, "only one Hexadragon", on-adventure and so on): 0 same doll again, 2/7 new doll, 3 unsupported, 4 roster full (count above `0x5F`), 6 a mode check.
 
+**Code 7 (verified, issue #1):** the image's checksum holds (a doll with data) and the roster is empty (`0x080DA708` = 0), i.e. a used doll on a new save. The story's first Reborn then loops on `いまセットした ソウルドールは ヘキサドラゴン じゃないわよ？` / `いまは ヘキサドラゴンを リボーンするのよ！` (`45C968`, `45C9A8`). The game's own rule: title > ドールしょきか writes a fresh image (0x80 bytes through `doll_write`), and the next new game's Reborn gets code 2. The patch's doll persists in flash, so a player restarting must reset it first (README says so). Repro: a save that is blank (0xFF) but for flash sector 15 holding a used image, then scene `reborn_crystal`'s Reborn (`emu.py --sav`).
+
+## Names in the image (verified, issue #1)
+
+The image keeps names a byte a letter: owner `+0x18` (5), nickname `+0x31` (8), four more 5-byte names at `+0x39`-`+0x48`, 16 bytes at `+0x41`. `0x080C3438` packs words to bytes (low byte), `0x080C3400` unpacks (0xFF ends a name, `FFFF`). English `o` is `0xFF` and `p`-`z`, space and the rest are `0x100`+, so v1.0 dolls showed `x` as く and `r` as り, and an `o` cut the name. `asm/doll.s` replaces both: `0x101`-`0x115` keep their low byte (v1.0 dolls read back right), `o` is `0x16`, `p` `0x17`, a pair word goes in as its two letters. Test: `tests/test_doll.py`; in game, scene `doll_init_full` with a used doll's save shows the names.
+
 ## What a blank doll does (verified)
 
 `tools/debug/virtual_doll.lua` answers the path above: present bit on, no-reply bit off, buffers filled, status cleared 8 frames after the start (the task at `0x080C8490` must see busy first). The image decrypts to zeros, the checksum fails and the game treats it as a new doll, so the game's own Reborn runs: the Legendz appears, its name entry opens, the story continues. Test: `work/qa/d1/sheet.png`, doll byte `0x2C`.
